@@ -1,7 +1,8 @@
 # If player not found in database / new player --> Add in both CSV + as a variable in both .py
 
 #TODO:
-# When all is done, need to host the streamlit somewhere + start creating variables for each player.
+# Need to check if there is a faster way then changing updated_points every time to True then to False while each time uploading on Github (and making sure no one refreshes the app)
+# Start putting variables for all players
 
 # Future idea: Do a dropdown or search on Streamlit to choose a player and show a line graph of his points every gw OR
 # Do a 3rd df which includes all the players and 38 cols for each gw pts they got.
