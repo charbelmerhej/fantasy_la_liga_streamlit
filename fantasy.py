@@ -1,11 +1,21 @@
-# If player not found in database / new player --> Add in both CSV + as a variable in both .py
+# If player not found in database / new player --> Add in fantasy main CSV + as a variable in both .py
 
 #TODO:
 # Need to check if there is a faster way then changing updated_points every time to True then to False while each time uploading on Github (and making sure no one refreshes the app)
-# Start putting variables for all players
 
 # Future idea: Do a dropdown or search on Streamlit to choose a player and show a line graph of his points every gw OR
 # Do a 3rd df which includes all the players and 38 cols for each gw pts they got.
+
+
+# Steps: - Add missing variable of player in both .py files.
+# - Change updating variable in fill_fantasy_table.py to True
+# - Add goals/assists/stats of all players then run code
+# - Change updating variable to False
+# - Change updated_points in this file to True
+# - Commit all fantasy files to github
+# - Refresh link for updates and check if all correct
+# - Change updated_points in this file to False
+# - Commit this file to github
 
 
 import streamlit as st
@@ -19,22 +29,8 @@ standings_df = pd.read_csv("standings.csv", index_col=0)
 #######################################################################################################################
 ############################################### ALL PLAYERS ###########################################################
 #######################################################################################################################
-a = "a"
-b = "b"
-c = "c"
-d = "d"
-e = "e"
-f = "f"
-g = "g"
-h = "h"
-i = "i"
-j = "j"
-k = "k"
-l = "l"
-m = "m"
-n = "n"
-o = "o"
 
+# Athletic Club
 inaki_williams = "Inaki Williams"
 nico_williams = "Nico Williams"
 raul_garcia = "Raul Garcia"
@@ -68,80 +64,178 @@ julen_agirrezabala = "Julen Agirrezabala"
 alex_padilla = "Alex Padilla"
 ander_iru = "Ander Iru"
 
+# Atletico Madrid
+antoine_griezmann = "Antoine Griezmann"
+joao_felix = "Joao Felix"
+alvaro_morata = "Alvaro Morata"
+angel_correa = "Angel Correa"
+matheus_cunha = "Matheus Cunha"
+marcos_paulo = "Marcos Paulo"
+carlos_martin = "Carlos Martin"
+rodrigo_de_paul = "Rodrigo De Paul"
+saul_niguez = "Saul Niguez"
+yannick_carrasco = "Yannick Carrasco"
+marcos_llorente = "Marcos Llorente"
+axel_witsel = "Axel Witsel"
+koke = "Koke"
+thomas_lemar = "Thomas Lemar"
+nahuel_molina = "Nahuel Molina"
+geoffrey_kondogbia = "Geoffrey Kondogbia"
+daniel_wass = "Daniel Wass"
+jose_maria_gimenez = "Jose Maria Gimenez"
+renan_lodi = "Renan Lodi"
+santiago_arias = "Santiago Arias"
+reinildo = "Reinildo"
+felipe = "Felipe"
+stefan_savic = "Stefan Savic"
+mario_hermoso = "Mario Hermoso"
+jan_oblak = "Jan Oblak"
+ivo_grbic = "Ivo Grbic"
+antonio_gomis = "Antonio Gomis"
+
+# Celta
+iago_aspas = "Iago Aspas"
+
+# Espanyol
+sergi_darder = "Sergi Darder"
+raul_de_tomas = "Raul De Tomas"
+
+# FC Barcelona
+marc_andre_ter_stegen = "Marc Andre Ter Stegen"
+jordi_alba = "Jordi Alba"
+ronald_araujo = "Ronald Araujo"
+jules_kounde = "Jules Kounde"
+raphinha = "Raphinha"
+pedri = "Pedri"
+robert_lewandowski = "Robert Lewandowski"
+ousmane_dembele = "Ousmane Dembele"
+ansu_fati = "Ansu Fati"
+
+# Getafe
+enes_unal = "Enes Unal"
+
+# Rayo Vallecano
+oscar_trejo = "Oscar Trejo"
+
+# Real Betis
+rui_silva = "Rui Silva"
+alex_moreno = "Alex Moreno"
+nabil_fekir = "Nabil Fekir"
+sergio_canales = "Sergio Canales"
+juanmi = "Juanmi"
+
+# Real Madrid
+thibaut_courtois = "Thibaut Courtois"
+eder_militao = "Eder Militao"
+antonio_rudiger = "Antonio Rudiger"
+david_alaba = "David Alaba"
+daniel_carvajal = "Daniel Carvajal"
+vinicius_junior = "Vinicius Junior"
+karim_benzema = "Karim Benzema"
+
+# Real Sociedad
+alex_remiro = "Alex Remiro"
+robin_le_normand = "Robin Le Normand"
+aritz_elustondo = "Aritz Elustondo"
+alexander_isak = "Alexander Isak"
+mikel_oyarzabal = "Mikel Oyarzabal"
+
+# Sevilla
+bono = "Bono"
+alex_telles = "Alex Telles"
+jesus_navas = "Jesus Navas"
+jesus_corona = "Jesus Corona"
+isco = "Isco"
+youssef_ennesyri = "Youssef En-Nesyri"
+lucas_ocampos = "Lucas Ocampos"
+
+# Valencia
+jose_luis_gaya = "Jose Luis Gaya"
+samu_castillejo = "Samu Castillejo"
+carlos_soler = "Carlos Soler"
+
+# Villareal
+geronimo_rulli = "Geronimo Rulli"
+pau_torres = "Pau Torres"
+dani_parejo = "Dani Parejo"
+manu_trigueros = "Manu Trigueros"
+arnaut_danjuma = "Arnaut Danjuma"
+gerard_moreno = "Gerard Moreno"
+
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": a,
-    "D1": a,
-    "D2": a,
-    "D3": a,
-    "D4": a,
-    "M1": a,
-    "M2": a,
-    "M3": a,
-    "F1": a,
-    "F2": a,
-    "F3": a,
-    "G2": a,
-    "D5": a,
-    "M5": a,
-    "F4": a,
+    "G1": unai_simon,
+    "D1": jules_kounde,
+    "D2": eder_militao,
+    "D3": alex_moreno,
+    "D4": pau_torres,
+    "M1": nabil_fekir,
+    "M2": jesus_corona,
+    "M3": yannick_carrasco,
+    "F1": robert_lewandowski,
+    "F2": arnaut_danjuma,
+    "F3": alexander_isak,
+    "G2": alex_remiro,
+    "D5": jose_maria_gimenez,
+    "M4": sergi_darder,
+    "F4": antoine_griezmann,
 }]
 
 ralph = [{
-    "G1": a,
-    "D1": a,
-    "D2": a,
-    "D3": a,
-    "D4": a,
-    "M1": a,
-    "M2": a,
-    "M3": a,
-    "F1": a,
-    "F2": a,
-    "F3": a,
-    "G2": a,
-    "D5": a,
-    "M5": a,
-    "F4": a,
+    "G1": jan_oblak,
+    "D1": david_alaba,
+    "D2": reinildo,
+    "D3": daniel_carvajal,
+    "D4": jose_luis_gaya,
+    "M1": raphinha,
+    "M2": isco,
+    "M3": sergio_canales,
+    "F1": gerard_moreno,
+    "F2": iago_aspas,
+    "F3": youssef_ennesyri,
+    "G2": bono,
+    "D5": yeray_alvarez,
+    "M4": samu_castillejo,
+    "F4": raul_de_tomas,
 }]
 
 george = [{
-    "G1": a,
-    "D1": a,
-    "D2": a,
-    "D3": a,
-    "D4": a,
-    "M1": a,
-    "M2": a,
-    "M3": a,
-    "F1": a,
-    "F2": a,
-    "F3": a,
-    "G2": a,
-    "D5": a,
-    "M5": a,
-    "F4": a,
+    "G1": marc_andre_ter_stegen,
+    "D1": ronald_araujo,
+    "D2": aritz_elustondo,
+    "D3": antonio_rudiger,
+    "D4": alex_telles,
+    "M1": juanmi,
+    "M2": iker_munian,
+    "M3": dani_parejo,
+    "F1": enes_unal,
+    "F2": ousmane_dembele,
+    "F3": vinicius_junior,
+    "G2": geronimo_rulli,
+    "D5": stefan_savic,
+    "M4": oscar_trejo,
+    "F4": ansu_fati,
 }]
 
 rene = [{
-    "G1": b,
-    "D1": a,
-    "D2": a,
-    "D3": a,
-    "D4": a,
-    "M1": a,
-    "M2": a,
-    "M3": a,
-    "F1": a,
-    "F2": a,
-    "F3": a,
-    "G2": a,
-    "D5": a,
-    "M5": a,
-    "F4": b,
+    "G1": thibaut_courtois,
+    "D1": jordi_alba,
+    "D2": jesus_navas,
+    "D3": inigo_martinez,
+    "D4": robin_le_normand,
+    "M1": pedri,
+    "M2": carlos_soler,
+    "M3": thomas_lemar,
+    "F1": karim_benzema,
+    "F2": alvaro_morata,
+    "F3": mikel_oyarzabal,
+    "G2": rui_silva,
+    "D5": renan_lodi,
+    "M4": manu_trigueros,
+    "F4": lucas_ocampos,
 }]
 
 
@@ -238,8 +332,8 @@ cols[0].write("_%s_" % charbel[0]["G2"])
 cols[0].write("%i" % weekly_df.loc[weekly_df["Name"] == charbel[0]["G2"], 'Pts'])
 cols[1].write("_%s_" % charbel[0]["D5"])
 cols[1].write("%i" % weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts'])
-cols[2].write("_%s_" % charbel[0]["M5"])
-cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == charbel[0]["M5"], 'Pts'])
+cols[2].write("_%s_" % charbel[0]["M4"])
+cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == charbel[0]["M4"], 'Pts'])
 cols[3].write("_%s_" % charbel[0]["F4"])
 cols[3].write("%i" % weekly_df.loc[weekly_df["Name"] == charbel[0]["F4"], 'Pts'])
 
@@ -343,8 +437,8 @@ cols[0].write("_%s_" % ralph[0]["G2"])
 cols[0].write("%i" % weekly_df.loc[weekly_df["Name"] == ralph[0]["G2"], 'Pts'])
 cols[1].write("_%s_" % ralph[0]["D5"])
 cols[1].write("%i" % weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts'])
-cols[2].write("_%s_" % ralph[0]["M5"])
-cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == ralph[0]["M5"], 'Pts'])
+cols[2].write("_%s_" % ralph[0]["M4"])
+cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == ralph[0]["M4"], 'Pts'])
 cols[3].write("_%s_" % ralph[0]["F4"])
 cols[3].write("%i" % weekly_df.loc[weekly_df["Name"] == ralph[0]["F4"], 'Pts'])
 
@@ -448,8 +542,8 @@ cols[0].write("_%s_" % george[0]["G2"])
 cols[0].write("%i" % weekly_df.loc[weekly_df["Name"] == george[0]["G2"], 'Pts'])
 cols[1].write("_%s_" % george[0]["D5"])
 cols[1].write("%i" % weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts'])
-cols[2].write("_%s_" % george[0]["M5"])
-cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == george[0]["M5"], 'Pts'])
+cols[2].write("_%s_" % george[0]["M4"])
+cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == george[0]["M4"], 'Pts'])
 cols[3].write("_%s_" % george[0]["F4"])
 cols[3].write("%i" % weekly_df.loc[weekly_df["Name"] == george[0]["F4"], 'Pts'])
 
@@ -553,8 +647,8 @@ cols[0].write("_%s_" % rene[0]["G2"])
 cols[0].write("%i" % weekly_df.loc[weekly_df["Name"] == rene[0]["G2"], 'Pts'])
 cols[1].write("_%s_" % rene[0]["D5"])
 cols[1].write("%i" % weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts'])
-cols[2].write("_%s_" % rene[0]["M5"])
-cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == rene[0]["M5"], 'Pts'])
+cols[2].write("_%s_" % rene[0]["M4"])
+cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == rene[0]["M4"], 'Pts'])
 cols[3].write("_%s_" % rene[0]["F4"])
 cols[3].write("%i" % weekly_df.loc[weekly_df["Name"] == rene[0]["F4"], 'Pts'])
 

@@ -6,22 +6,140 @@ updating = False
 #######################################################################################################################
 ############################################### ALL PLAYERS ###########################################################
 #######################################################################################################################
-a = "a"
-b = "b"
-c = "c"
-d = "d"
-e = "e"
-f = "f"
-g = "g"
-h = "h"
-i = "i"
-j = "j"
-k = "k"
-l = "l"
-m = "m"
-n = "n"
-o = "o"
 
+# Athletic Club
+inaki_williams = "Inaki Williams"
+nico_williams = "Nico Williams"
+raul_garcia = "Raul Garcia"
+oihan_sancet = "Oihan Sancet"
+asier_villalibre = "Asier Villalibre"
+gorka_guruzeta = "Gorka Guruzeta"
+luis_bilbao = "Luis Bilbao"
+malcom_ares = "Malcom Ares"
+iker_munian = "Iker Munian"
+alex_berenguer = "Alex Berenguer"
+unai_vencedor = "Unai Vencedor"
+dani_garcia = "Dani Garcia"
+mikel_vesga = "Mikel Vesga"
+nico_serrano = "Nico Serrano"
+oier_zarraga = "Oier Zarraga"
+jon_morcillo = "Jon Morcillo"
+inigo_martinez = "Inigo Martinez"
+yuri_berchiche = "Yuri Berchiche"
+yeray_alvarez = "Yeray Alvarez"
+daniel_vivian = "Daniel Vivian"
+ander_capa = "Ander Capa"
+oscar_de_marcos = "Oscar De Marcos"
+mikel_balenziaga = "Mikel Balenziaga"
+inigo_lekue = "Inigo Lekue"
+peru_esnal = "Peru Esnal"
+alex_petxa = "Alex Petxa"
+aitor_casamichana = "Aitor Casamichana"
+jon_sillero = "Jon Sillero"
+unai_simon = "Unai Simon"
+julen_agirrezabala = "Julen Agirrezabala"
+alex_padilla = "Alex Padilla"
+ander_iru = "Ander Iru"
+
+# Atletico Madrid
+antoine_griezmann = "Antoine Griezmann"
+joao_felix = "Joao Felix"
+alvaro_morata = "Alvaro Morata"
+angel_correa = "Angel Correa"
+matheus_cunha = "Matheus Cunha"
+marcos_paulo = "Marcos Paulo"
+carlos_martin = "Carlos Martin"
+rodrigo_de_paul = "Rodrigo De Paul"
+saul_niguez = "Saul Niguez"
+yannick_carrasco = "Yannick Carrasco"
+marcos_llorente = "Marcos Llorente"
+axel_witsel = "Axel Witsel"
+koke = "Koke"
+thomas_lemar = "Thomas Lemar"
+nahuel_molina = "Nahuel Molina"
+geoffrey_kondogbia = "Geoffrey Kondogbia"
+daniel_wass = "Daniel Wass"
+jose_maria_gimenez = "Jose Maria Gimenez"
+renan_lodi = "Renan Lodi"
+santiago_arias = "Santiago Arias"
+reinildo = "Reinildo"
+felipe = "Felipe"
+stefan_savic = "Stefan Savic"
+mario_hermoso = "Mario Hermoso"
+jan_oblak = "Jan Oblak"
+ivo_grbic = "Ivo Grbic"
+antonio_gomis = "Antonio Gomis"
+
+# Celta
+iago_aspas = "Iago Aspas"
+
+# Espanyol
+sergi_darder = "Sergi Darder"
+raul_de_tomas = "Raul De Tomas"
+
+# FC Barcelona
+marc_andre_ter_stegen = "Marc Andre Ter Stegen"
+jordi_alba = "Jordi Alba"
+ronald_araujo = "Ronald Araujo"
+jules_kounde = "Jules Kounde"
+raphinha = "Raphinha"
+pedri = "Pedri"
+robert_lewandowski = "Robert Lewandowski"
+ousmane_dembele = "Ousmane Dembele"
+ansu_fati = "Ansu Fati"
+
+# Getafe
+enes_unal = "Enes Unal"
+
+# Rayo Vallecano
+oscar_trejo = "Oscar Trejo"
+
+# Real Betis
+rui_silva = "Rui Silva"
+alex_moreno = "Alex Moreno"
+nabil_fekir = "Nabil Fekir"
+sergio_canales = "Sergio Canales"
+juanmi = "Juanmi"
+
+# Real Madrid
+thibaut_courtois = "Thibaut Courtois"
+eder_militao = "Eder Militao"
+antonio_rudiger = "Antonio Rudiger"
+david_alaba = "David Alaba"
+daniel_carvajal = "Daniel Carvajal"
+vinicius_junior = "Vinicius Junior"
+karim_benzema = "Karim Benzema"
+
+# Real Sociedad
+alex_remiro = "Alex Remiro"
+robin_le_normand = "Robin Le Normand"
+aritz_elustondo = "Aritz Elustondo"
+alexander_isak = "Alexander Isak"
+mikel_oyarzabal = "Mikel Oyarzabal"
+
+# Sevilla
+bono = "Bono"
+alex_telles = "Alex Telles"
+jesus_navas = "Jesus Navas"
+jesus_corona = "Jesus Corona"
+isco = "Isco"
+youssef_ennesyri = "Youssef En-Nesyri"
+lucas_ocampos = "Lucas Ocampos"
+
+# Valencia
+jose_luis_gaya = "Jose Luis Gaya"
+samu_castillejo = "Samu Castillejo"
+carlos_soler = "Carlos Soler"
+
+# Villareal
+geronimo_rulli = "Geronimo Rulli"
+pau_torres = "Pau Torres"
+dani_parejo = "Dani Parejo"
+manu_trigueros = "Manu Trigueros"
+arnaut_danjuma = "Arnaut Danjuma"
+gerard_moreno = "Gerard Moreno"
+
+#######################################################################################################################
 
 df = pd.read_csv("fantasy.csv", index_col=0)
 
@@ -34,7 +152,7 @@ for col in weekly_df.columns:
         weekly_df[col].values[:] = 0
 
 
-mins_pts_2 = [b]
+mins_pts_2 = []
 mins_pts_1 = []
 goals = []
 assists = []
@@ -50,7 +168,7 @@ saves_pts_4 = []
 pen_save = []
 bonus_1 = []
 bonus_2 = []
-bonus_3 = [b]
+bonus_3 = []
 
 if updating:
     if input("are you sure? (y/n)") != "y":
