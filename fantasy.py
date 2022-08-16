@@ -5,11 +5,17 @@
 
 # Future idea: Do a dropdown or search on Streamlit to choose a player and show a line graph of his points every gw OR
 # Do a 3rd df which includes all the players and 38 cols for each gw pts they got.
+# Add a way that if I see a player inj to add a flag in UI
+# Add a code to calculate bench score if player asese ma leeib
+# Ghayyir clean sheet b tari2a hot l fari2 w automatically yenzedo lal corresponding players
+# Formation change?
 
 
 # Steps: - Add missing variable of player in both .py files.
 # - Change updating variable in fill_fantasy_table.py to True
-# - Add goals/assists/stats of all players then run code
+# - Add goals/assists/stats of all players
+# - Check if starting players played or not for all users
+# - Run code
 # - Change updating variable to False
 # - Change updated_points in this file to True
 # - Commit all fantasy files to github
@@ -24,7 +30,6 @@ import pandas as pd
 hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly.csv", index_col=0)
 standings_df = pd.read_csv("standings.csv", index_col=0)
-
 
 #######################################################################################################################
 ############################################### ALL PLAYERS ###########################################################
@@ -93,73 +98,334 @@ jan_oblak = "Jan Oblak"
 ivo_grbic = "Ivo Grbic"
 antonio_gomis = "Antonio Gomis"
 
+# Cadiz
+jeremias_ledesma = "Jeremias Ledesma"
+joseba_zaldua = "Joseba Zaldua"
+luis_hernandez = "Luis Hernandez"
+victor_chust = "Victor Chust"
+alfonso_espino = "Alfonso Espino"
+alberto_perea = "Alberto Perea"
+fali = "Fali"
+jose_mari = "Jose Mari"
+santiago_arzamendia = "Santiago Arzamendia"
+lucas_perez = "Lucas Perez"
+anthony_lozano = "Anthony Lozano"
+awer_mabil = "Awer Mabil"
+ivan_alejo = "Ivan Alejo"
+tomas_alarcon = "Tomas Alarcon"
+alvaro_negredo = "Alvaro Negredo"
+mamady_diarra = "Mamady Diarra"
+
 # Celta
+agustin_marchesin = "Agustin Marchesin"
+javi_galan = "Javi Galan"
+unai_nunez = "Unai Nunez"
+joseph_aidoo = "Joseph Aidoo"
+hugo_mallo = "Hugo Mallo"
+fran_beltran = "Fran Beltran"
+franco_cervi = "Franco Cervi"
+oscar_rodriguez = "Oscar Rodriguez"
+augusto_solari = "Augusto Solari"
+goncalo_paciencia = "Goncalo Paciencia"
 iago_aspas = "Iago Aspas"
+oscar_mingueza = "Oscar Mingueza"
+renato_tapia = "Renato Tapia"
+gabriel_veiga = "Gabriel Veiga"
+carles_perez = "Carles Perez"
+
+# Elche
+edgar_badia = "Edgar Badia"
+john_donald = "John Donald"
+enzo_roco = "Enzo Roco"
+pedro_bigas = "Pedro Bigas"
+helibelton_palacios = "Helibelton Palacios"
+omar_mascarell = "Omar Mascarell"
+gerard_gumbau = "Gerard Gumbau"
+johan_mojica = "Johan Mojica"
+pere_milla = "Pere Milla"
+roger_marti = "Roger Marti"
+fidel = "Fidel"
+diego_gonzalez = "Diego Gonzalez"
+tete_morente = "Tete Morente"
+josan = "Josan"
+ezequiel_ponce = "Ezequiel Ponce"
+alejandro_alfaro = "Alejandro Alfaro"
 
 # Espanyol
+benjamin_lecomte = "Benjamin Lecomte"
+oscar_gil = "Oscar Gil"
+sergi_gomez = "Sergi Gomez"
+leandro_cabrera = "Leandro Cabrera"
+brian_olivan = "Brian Olivan"
+vinicius_souza = "Vinicius Souza"
+fernando_calero = "Fernando Calero"
 sergi_darder = "Sergi Darder"
+ruben_sanchez_saez = "Ruben Sanchez Saez"
+joselu = "Joselu"
+nicolas_melamed = "Nicolas Melamed"
+adrian_embarba = "Adrian Embarba"
+edu_exposito = "Edu Exposito"
+luca_koleosho = "Luca Koleosho"
+nabil_touaizi = "Nabil Touaizi"
 raul_de_tomas = "Raul De Tomas"
+
+# Osasuna
+sergio_herrera = "Sergio Herrera"
+juan_cruz = "Juan Cruz"
+david_garcia = "David Garcia"
+unai_garcia = "Unai Garcia"
+ruben_pena = "Ruben Pena"
+pablo_lumbreras = "Pablo Lumbreras"
+manuel_sanchez = "Manuel Sanchez"
+nacho_vidal = "Nacho Vidal"
+moi_gomez = "Moi Gomez"
+lucas_torro = "Lucas Torro"
+jon_moncayola = "Jon Moncayola"
+darko_brasanac = "Darko Brasanac"
+kike_barja = "Kike Barja"
+aimar_oroz = "Aimar Oroz"
+chimy = "Chimy"
+kike_garcia = "Kike Garcia"
+
 
 # FC Barcelona
 marc_andre_ter_stegen = "Ter Stegen"
 jordi_alba = "Jordi Alba"
+eric_garcia = "Eric Garcia"
+andreas_christensen = "Andreas Christensen"
 ronald_araujo = "Ronald Araujo"
+sergio_busquets = "Sergio Busquets"
+sergi_roberto = "Sergi Roberto"
+frenkie_de_jong = "Frenkie De Jong"
+franck_kessie = "Franck Kessie"
+gavi = "Gavi"
 jules_kounde = "Jules Kounde"
 raphinha = "Raphinha"
 pedri = "Pedri"
 robert_lewandowski = "Robert Lewandowski"
 ousmane_dembele = "Ousmane Dembele"
 ansu_fati = "Ansu Fati"
+pierre_emerick_aubameyang = "Pierre-Emerick Aubameyang"
 
 # Getafe
+david_soria = "David Soria"
+fabrizio_angileri = "Fabrizio Angileri"
+domingos_duarte = "Domingos Duarte"
+stefan_mitrovic = "Stefan Mitrovic"
+djene = "Djene"
+juan_iglesias = "Juan Iglesias"
+nemanja_maksimovic = "Nemanja Maksimovic"
+mauro_arambarri = "Mauro Arambarri"
+carles_alena = "Carles Alena"
 enes_unal = "Enes Unal"
+borja_mayoral = "Borja Mayoral"
+jaime_seoane = "Jaime Seoane"
+portu = "Portu"
+jaime_mata = "Jaime Mata"
+moi_parra = "Moi Parra"
+
+# Girona
+juan_carlos = "Juan Carlos"
+juanpe = "Juanpe"
+david_lopez = "David Lopez"
+santiago_bueno = "Santiago Bueno"
+valery_fernandez = "Valery Fernandez"
+aleix_garcia = "Aleix Garcia"
+ramon_terrats = "Ramon Terrats"
+yan_couto = "Yan Couto"
+samu_saiz = "Samu Saiz"
+rodrigo_riquelme = "Rodrigo Riquelme"
+valentin_castellanos = "Valentin Castellanos"
+arnau_martinez = "Arnau Martinez"
+miguel_gutierrez = "Miguel Gutierrez"
+yangel_herrera = "Yangel Herrera"
+christian_stuani = "Christhian Stuani"
+oscar_urena = "Oscar Urena"
 
 # Rayo Vallecano
 oscar_trejo = "Oscar Trejo"
+stole_dimitrievski = "Stole Dimitrievski"
+ivan_balliu = "Ivan Balliu"
+florian_lejeune = "Florian Lejeune"
+alejandro_catena = "Alejandro Catena"
+fran_garcia = "Fran Garcia"
+unai_lopez = "Unai Lopez"
+ismaila_ciss = "Ismaila Ciss"
+isi_palazon = "Isi Palazon"
+alvaro_garcia = "Alvaro Garcia"
+sergio_camello = "Sergio Camello"
+oscar_valentin = "Oscar Valentin"
+salvi = "Salvi"
+jose_pozo = "Jose Pozo"
+radamel_falcao = "Radamel Falcao"
 
 # Real Betis
 rui_silva = "Rui Silva"
 alex_moreno = "Alex Moreno"
+edgar_gonzalez = "Edgar Gonzalez"
+german_pezzella = "German Pezzella"
+juan_miranda = "Juan Miranda"
+fran_delgado = "Fran Delgado"
+paul_akouokou = "Paul Akouokou"
+aitor_ruibal = "Aitor Ruibal"
+william_carvalho = "William Carvalho"
+guido_rodriguez = "Guido Rodriguez"
+rodri_sanchez = "Rodri Sanchez"
 nabil_fekir = "Nabil Fekir"
 sergio_canales = "Sergio Canales"
 juanmi = "Juanmi"
+borja_iglesias = "Borja Iglesias"
+loren_moron = "Loren Moron"
+rober_gonzalez = "Rober Gonzalez"
 
 # Real Madrid
 thibaut_courtois = "Thibaut Courtois"
+lucas_vasquez = "Lucas Vasquez"
 eder_militao = "Eder Militao"
 antonio_rudiger = "Antonio Rudiger"
+nacho_fernandez = "Nacho Fernandez"
+ferland_mendy = "Ferland Mendy"
 david_alaba = "David Alaba"
 daniel_carvajal = "Daniel Carvajal"
+eduardo_camavinga = "Eduardo Camavinga"
+luka_modric = "Luka Modric"
+casemiro = "Casemiro"
+dani_ceballos = "Dani Ceballos"
+aurelien_tchouameni = "Aurelien Tchouameni"
+toni_kroos = "Toni Kroos"
+federico_valverde = "Federico Valverde"
 vinicius_junior = "Vinicius Junior"
+eden_hazard = "Eden Hazard"
 karim_benzema = "Karim Benzema"
+
+# Real Mallorca
+predrag_rajkovic = "Predrag Rajkovic"
+pablo_maffeo = "Pablo Maffeo"
+martin_valjent = "Martin Valjent"
+antonio_raillo = "Antonio Raillo"
+copete = "Copete"
+jaume_costa = "Jaume Costa"
+kang_in_lee = "Kang-in Lee"
+clement_grenier = "Clement Grenier"
+rodrigo_battaglia = "Rodrigo Battaglia"
+dani_rodriguez = "Dani Rodriguez"
+vedat_muriqi = "Vedat Muriqi"
+antonio_sanchez = "Antonio Sanchez"
+iddrisu_baba = "Iddrisu Baba"
+lago_junior = "Lago Junior"
+abdon_prats = "Abdon Prats"
+
 
 # Real Sociedad
 alex_remiro = "Alex Remiro"
+diego_rico = "Diego Rico"
 robin_le_normand = "Robin Le Normand"
+aihen_munoz = "Aihen Munoz"
+igor_zubeldia = "Igor Zubeldia"
+mikel_merino = "Mikel Merino"
+asier_illaramendi = "Asier Illarramendi"
 aritz_elustondo = "Aritz Elustondo"
+martin_zubimendi = "Martin Zubimendi"
+brais_mendez = "Brais Mendez"
+david_silva = "David Silva"
+takefusa_kubo = "Takefusa Kubo"
+ander_barrenetxea = "Ander Barrenetxea"
+jon_karrikaburu = "Jon Karrikaburu"
 alexander_isak = "Alexander Isak"
 mikel_oyarzabal = "Mikel Oyarzabal"
+mohamed_ali_cho = "Mohamed-Ali Cho"
+
+# Real Valladolid
+sergio_asenjo = "Sergio Asenjo"
+luis_perez = "Luis Perez"
+joaquin_fernandez = "Joaquin Fernandez"
+jawad_el_yamiq = "Jawad El Yamiq"
+sergio_escudero = "Sergio Escudero"
+monchu = "Monchu"
+gonzalo_plata = "Gonzalo Plata"
+roque_mesa = "Roque Mesa"
+alvaro_aguado = "Alvaro Aguado"
+toni_villa = "Toni Villa"
+sergio_leon = "Sergio Leon"
+lucas_olaza = "Lucas Olaza"
+ivan_sanchez = "Ivan Sanchez"
+oscar_plano = "Oscar Plano"
+kike_perez = "Kike Perez"
+sekou_gassama = "Sekou Gassama"
 
 # Sevilla
 bono = "Bono"
 alex_telles = "Alex Telles"
+nemanja_gudelj = "Nemanja Gudelj"
+karim_rekik = "Karim Rekik"
+marcos_acuna = "Marcos Acuna"
 jesus_navas = "Jesus Navas"
 jesus_corona = "Jesus Corona"
+fernando = "Fernando"
+thomas_delaney = "Thomas Delaney"
+papu_gomez = "Papu Gomez"
 isco = "Isco"
+erik_lamela = "Erik Lamela"
+ivan_rakitic = "Ivan Rakitic"
 youssef_ennesyri = "Youssef En-Nesyri"
 lucas_ocampos = "Lucas Ocampos"
+rafa_mir = "Rafa Mir"
+ivan_romero = "Ivan Romero"
+
+# Almeria
+fernando_martinez = "Fernando Martinez"
+chumi = "Chumi"
+kaiky = "Kaiky"
+rodrigo_ely = "Rodrigo Ely"
+srdan_babic = "Srdan Babic"
+sergio_akieme_rodriguez = "Sergio Akieme Rodriguez"
+lucas_robertone = "Lucas Robertone"
+inigo_eguaras = "Inigo Eguaras"
+samuel_costa = "Samuel Costa"
+largie_ramazani = "Largie Ramazani"
+umar_sadiq = "Umar Sadiq"
+dyego_sousa = "Dyego Sousa"
+arnau_puigmal = "Arnau Puigmal"
+jose_carlos_lazo = "Jose Carlos Lazo"
+curro = "Curro"
+francisco_portillo = "Francisco Portillo"
 
 # Valencia
+giorgi_mamardashvili = "Giorgi Mamardashvili"
+thierry_correia = "Thierry Correia"
 jose_luis_gaya = "Jose Luis Gaya"
+dimitri_foulquier = "Dimitri Foulquier"
+christian_mosquera = "Cristhian Mosquera"
+toni_lato = "Toni Lato"
+nico_gonzalez = "Nico Gonzalez"
+eray_comert = "Eray Comert"
+mouctar_diakhaby = "Mouctar Diakhaby"
+jesus_vasquez = "Jesus Vazquez"
+yunus_musah = "Yunus Musah"
+hugo_guillamon = "Hugo Guillamon"
 samu_castillejo = "Samu Castillejo"
 carlos_soler = "Carlos Soler"
+hugo_duro = "Hugo Duro"
+samuel_lino = "Samuel Lino"
+maximiliano_gomez = "Maximiliano Gomez"
 
 # Villareal
 geronimo_rulli = "Geronimo Rulli"
+juan_foyth = "Juan Foyth"
+raul_albiol = "Raul Albiol"
 pau_torres = "Pau Torres"
+aissa_mandi = "Aissa Mandi"
+alfonso_pedraza = "Alfonso Pedraza"
 dani_parejo = "Dani Parejo"
 manu_trigueros = "Manu Trigueros"
+yeremy_pino = "Yeremy Pino"
+etienne_capoue = "Etienne Capoue"
+samuel_chukwueze = "Samuel Chukwueze"
+alejandro_baena = "Alejandro Baena"
+francis_coquelin = "Francis Coquelin"
 arnaut_danjuma = "Arnaut Danjuma"
+nicolas_jackson = "Nicolas Jackson"
+jose_luis_morales = "Jose Luis Morales"
 gerard_moreno = "Gerard Moreno"
 
 
@@ -176,29 +442,29 @@ charbel = [{
     "M2": jesus_corona,
     "M3": yannick_carrasco,
     "F1": robert_lewandowski,
-    "F2": arnaut_danjuma,
+    "F2": antoine_griezmann,
     "F3": alexander_isak,
     "G2": alex_remiro,
     "D5": jose_maria_gimenez,
     "M4": sergi_darder,
-    "F4": antoine_griezmann,
+    "F4": arnaut_danjuma,
 }]
 
 ralph = [{
     "G1": jan_oblak,
     "D1": david_alaba,
     "D2": reinildo,
-    "D3": daniel_carvajal,
+    "D3": yeray_alvarez,
     "D4": jose_luis_gaya,
     "M1": raphinha,
-    "M2": isco,
+    "M2": samu_castillejo,
     "M3": sergio_canales,
     "F1": gerard_moreno,
     "F2": iago_aspas,
     "F3": youssef_ennesyri,
     "G2": bono,
-    "D5": yeray_alvarez,
-    "M4": samu_castillejo,
+    "D5": daniel_carvajal,
+    "M4": isco,
     "F4": raul_de_tomas,
 }]
 
@@ -231,17 +497,20 @@ rene = [{
     "M3": thomas_lemar,
     "F1": karim_benzema,
     "F2": alvaro_morata,
-    "F3": mikel_oyarzabal,
+    "F3": lucas_ocampos,
     "G2": rui_silva,
     "D5": renan_lodi,
     "M4": manu_trigueros,
-    "F4": lucas_ocampos,
+    "F4": mikel_oyarzabal,
 }]
 
 
 #######################################################################################################################
 ############################################### UNCHANGED UI ###########################################################
 #######################################################################################################################
+
+# TRY THIS
+# st.set_page_config(page_title="Fantasy La Liga", layout="wide")
 
 st.title("Fantasy La Liga")
 st.image("https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg", width=100)
@@ -695,7 +964,7 @@ st.header("Weekly Player Stats")
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
