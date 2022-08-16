@@ -3,12 +3,12 @@
 #TODO:
 # Need to check if there is a faster way then changing updated_points every time to True then to False while each time uploading on Github (and making sure no one refreshes the app)
 
-# Future idea: Do a dropdown or search on Streamlit to choose a player and show a line graph of his points every gw OR
-# Do a 3rd df which includes all the players and 38 cols for each gw pts they got.
+# Future ideas:
 # Add a way that if I see a player inj to add a flag in UI
 # Add a code to calculate bench score if player asese ma leeib
 # Ghayyir clean sheet b tari2a hot l fari2 w automatically yenzedo lal corresponding players
 # Formation change?
+# Do a 3rd df which includes all the players and 38 cols for each gw pts they got.
 
 
 # Steps: - Add missing variable of player in both .py files.
@@ -21,7 +21,8 @@
 # - Commit all fantasy files to github
 # - Refresh link for updates and check if all correct
 # - Change updated_points in this file to False
-# - Commit this file to github
+# - Manually change standings.csv
+# - Commit this file + standings.csv to github
 
 
 import streamlit as st
@@ -510,9 +511,8 @@ rene = [{
 #######################################################################################################################
 
 # TRY THIS
-# st.set_page_config(page_title="Fantasy La Liga", layout="wide")
-
-st.title("Fantasy La Liga")
+st.set_page_config(page_title="Fantasy La Liga", layout="wide")
+# st.title("Fantasy La Liga")
 st.image("https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg", width=100)
 
 st.header("Charbel")
