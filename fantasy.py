@@ -4,6 +4,7 @@
 # Need to check if there is a faster way then changing updated_points every time to True then to False while each time uploading on Github (and making sure no one refreshes the app)
 
 # Future ideas:
+# Teje l df directly sorted by PTS
 # Add a way that if I see a player inj to add a flag in UI
 # Add a code to calculate bench score if player asese ma leeib
 # Ghayyir clean sheet b tari2a hot l fari2 w automatically yenzedo lal corresponding players
@@ -957,10 +958,12 @@ standings_df.loc[3, "Total_pts"] = rene_weekly_pts + rene_total_pts
 st.header("Total Players Stats")
 
 df = pd.read_csv("fantasy.csv", index_col=0)
+df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
 st.dataframe(df)
 
 
 st.header("Weekly Player Stats")
+weekly_df = weekly_df.sort_values(by="Pts", ascending=False, ignore_index=True)
 st.dataframe(weekly_df)
 
 st.header("Standings")
