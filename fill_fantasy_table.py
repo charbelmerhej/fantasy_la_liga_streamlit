@@ -87,6 +87,7 @@ ivan_alejo = "Ivan Alejo"
 tomas_alarcon = "Tomas Alarcon"
 alvaro_negredo = "Alvaro Negredo"
 mamady_diarra = "Mamady Diarra"
+fede_san_emeterio = "Fede San Emeterio"
 
 # Celta
 agustin_marchesin = "Agustin Marchesin"
@@ -104,6 +105,7 @@ oscar_mingueza = "Oscar Mingueza"
 renato_tapia = "Renato Tapia"
 gabriel_veiga = "Gabriel Veiga"
 carles_perez = "Carles Perez"
+luca_de_la_torre = "Luca De La Torre"
 
 # Elche
 edgar_badia = "Edgar Badia"
@@ -122,6 +124,11 @@ tete_morente = "Tete Morente"
 josan = "Josan"
 ezequiel_ponce = "Ezequiel Ponce"
 alejandro_alfaro = "Alejandro Alfaro"
+pol_lirola = "Pol Lirola"
+alex_collado = "Alex Collado"
+domingos_quina = "Domingos Quina"
+javier_pastore = "Javier Pastore"
+lucas_boye = "Lucas Boye"
 
 # Espanyol
 benjamin_lecomte = "Benjamin Lecomte"
@@ -140,6 +147,8 @@ edu_exposito = "Edu Exposito"
 luca_koleosho = "Luca Koleosho"
 nabil_touaizi = "Nabil Touaizi"
 raul_de_tomas = "Raul De Tomas"
+javi_puado = "Javi Puado"
+keidi_bare = "Keidi Bare"
 
 # Osasuna
 sergio_herrera = "Sergio Herrera"
@@ -158,6 +167,9 @@ kike_barja = "Kike Barja"
 aimar_oroz = "Aimar Oroz"
 chimy = "Chimy"
 kike_garcia = "Kike Garcia"
+ruben_garcia = "Ruben Garcia"
+ante_budimir = "Ante Budimir"
+roberto_torres = "Roberto Torres"
 
 
 # FC Barcelona
@@ -165,6 +177,7 @@ marc_andre_ter_stegen = "Ter Stegen"
 jordi_alba = "Jordi Alba"
 eric_garcia = "Eric Garcia"
 andreas_christensen = "Andreas Christensen"
+alejandro_balde = "Alejandro Balde"
 ronald_araujo = "Ronald Araujo"
 sergio_busquets = "Sergio Busquets"
 sergi_roberto = "Sergi Roberto"
@@ -178,6 +191,7 @@ robert_lewandowski = "Robert Lewandowski"
 ousmane_dembele = "Ousmane Dembele"
 ansu_fati = "Ansu Fati"
 pierre_emerick_aubameyang = "Pierre-Emerick Aubameyang"
+ferran_torres = "Ferran Torres"
 
 # Getafe
 david_soria = "David Soria"
@@ -213,6 +227,8 @@ miguel_gutierrez = "Miguel Gutierrez"
 yangel_herrera = "Yangel Herrera"
 christian_stuani = "Christhian Stuani"
 oscar_urena = "Oscar Urena"
+reinier = "Reinier"
+javier_hernandez = "Javier Hernandez"
 
 # Rayo Vallecano
 oscar_trejo = "Oscar Trejo"
@@ -230,6 +246,8 @@ oscar_valentin = "Oscar Valentin"
 salvi = "Salvi"
 jose_pozo = "Jose Pozo"
 radamel_falcao = "Radamel Falcao"
+mario_suarez = "Mario Suarez"
+randy_nteka = "Randy Nteka"
 
 # Real Betis
 rui_silva = "Rui Silva"
@@ -269,6 +287,7 @@ federico_valverde = "Federico Valverde"
 vinicius_junior = "Vinicius Junior"
 eden_hazard = "Eden Hazard"
 karim_benzema = "Karim Benzema"
+marco_asensio = "Marco Asensio"
 
 # Real Mallorca
 predrag_rajkovic = "Predrag Rajkovic"
@@ -306,6 +325,9 @@ jon_karrikaburu = "Jon Karrikaburu"
 alexander_isak = "Alexander Isak"
 mikel_oyarzabal = "Mikel Oyarzabal"
 mohamed_ali_cho = "Mohamed-Ali Cho"
+andoni_gorosabel = "Andoni Gorosabel"
+benat_turrientes = "Benat Turrientes"
+robert_navarro = "Robert Navarro"
 
 # Real Valladolid
 sergio_asenjo = "Sergio Asenjo"
@@ -324,6 +346,9 @@ ivan_sanchez = "Ivan Sanchez"
 oscar_plano = "Oscar Plano"
 kike_perez = "Kike Perez"
 sekou_gassama = "Sekou Gassama"
+javi_sanchez = "Javi Sanchez"
+sergi_guardiola = "Sergi Guardiola"
+anuar = "Anuar"
 
 # Sevilla
 bono = "Bono"
@@ -343,6 +368,10 @@ youssef_ennesyri = "Youssef En-Nesyri"
 lucas_ocampos = "Lucas Ocampos"
 rafa_mir = "Rafa Mir"
 ivan_romero = "Ivan Romero"
+gonzalo_montiel = "Gonzalo Montiel"
+oliver_torres = "Oliver Torres"
+joan_jordan = "Joan Jordan"
+tanguy_nianzou = "Tanguy Nianzou"
 
 # Almeria
 fernando_martinez = "Fernando Martinez"
@@ -361,6 +390,8 @@ arnau_puigmal = "Arnau Puigmal"
 jose_carlos_lazo = "Jose Carlos Lazo"
 curro = "Curro"
 francisco_portillo = "Francisco Portillo"
+leo_baptistao = "Leo Baptistao"
+alex_centelles = "Alex Centelles"
 
 # Valencia
 giorgi_mamardashvili = "Giorgi Mamardashvili"
@@ -380,6 +411,8 @@ carlos_soler = "Carlos Soler"
 hugo_duro = "Hugo Duro"
 samuel_lino = "Samuel Lino"
 maximiliano_gomez = "Maximiliano Gomez"
+gabriel_paulista = "Gabriel Paulista"
+marcos_andre = "Marcos Andre"
 
 # Villareal
 geronimo_rulli = "Geronimo Rulli"
@@ -398,7 +431,9 @@ francis_coquelin = "Francis Coquelin"
 arnaut_danjuma = "Arnaut Danjuma"
 nicolas_jackson = "Nicolas Jackson"
 jose_luis_morales = "Jose Luis Morales"
+gio_lo_celso = "Giovani Lo Celso"
 gerard_moreno = "Gerard Moreno"
+
 
 #######################################################################################################################
 
@@ -413,89 +448,98 @@ for col in weekly_df.columns:
         weekly_df[col].values[:] = 0
 
 
-mins_pts_2 = [unai_simon, oscar_de_marcos, daniel_vivian, yeray_alvarez, yuri_berchiche, mikel_vesga, iker_munian, inaki_williams, alex_berenguer, # Athletic Club
-              jan_oblak, saul_niguez, reinildo, axel_witsel, stefan_savic, nahuel_molina, thomas_lemar, koke, marcos_llorente, joao_felix, alvaro_morata, # Atletico Madrid
-              agustin_marchesin, hugo_mallo, joseph_aidoo, unai_nunez, javi_galan, fran_beltran, franco_cervi, oscar_rodriguez, goncalo_paciencia, iago_aspas, # Celta
-              jeremias_ledesma, joseba_zaldua, luis_hernandez, victor_chust, alfonso_espino, fali, jose_mari, santiago_arzamendia, lucas_perez, anthony_lozano, # Cadiz
-              edgar_badia, pedro_bigas, helibelton_palacios, omar_mascarell, gerard_gumbau, johan_mojica, pere_milla, roger_marti, # Elche
-              benjamin_lecomte, oscar_gil, sergi_gomez, leandro_cabrera, brian_olivan, vinicius_souza, sergi_darder, ruben_sanchez_saez, joselu, # Espanyol
-              david_soria, juan_iglesias, djene, stefan_mitrovic, domingos_duarte, fabrizio_angileri, mauro_arambarri, nemanja_maksimovic, borja_mayoral, enes_unal, # Getafe
-              juan_carlos, juanpe, david_lopez, santiago_bueno, yan_couto, valery_fernandez, aleix_garcia, ramon_terrats, rodrigo_riquelme, samu_saiz, valentin_castellanos, # Girona
-              sergio_herrera, juan_cruz, david_garcia, unai_garcia, ruben_pena, moi_gomez, lucas_torro, jon_moncayola, aimar_oroz, chimy, # Osasuna
-              marc_andre_ter_stegen, ronald_araujo, andreas_christensen, eric_garcia, jordi_alba, pedri, sergio_busquets, gavi, ousmane_dembele, robert_lewandowski, raphinha, # FC Barcelona
+mins_pts_2 = [unai_simon, oscar_de_marcos, daniel_vivian, yeray_alvarez, yuri_berchiche, mikel_vesga, oihan_sancet, iker_munian, inaki_williams, alex_berenguer, nico_williams, # Athletic Club
+              jan_oblak, yannick_carrasco, reinildo, axel_witsel, stefan_savic, nahuel_molina, thomas_lemar, koke, marcos_llorente, joao_felix, alvaro_morata, # Atletico Madrid
+              agustin_marchesin, hugo_mallo, joseph_aidoo, unai_nunez, javi_galan, renato_tapia, fran_beltran, franco_cervi, oscar_rodriguez, goncalo_paciencia, iago_aspas, # Celta
+              jeremias_ledesma, joseba_zaldua, luis_hernandez, victor_chust, alfonso_espino, mamady_diarra, fali, awer_mabil, tomas_alarcon, lucas_perez, anthony_lozano, # Cadiz
+              edgar_badia, pol_lirola, enzo_roco, pedro_bigas, tete_morente, omar_mascarell, gerard_gumbau, johan_mojica, alex_collado, ezequiel_ponce, roger_marti, # Elche
+              benjamin_lecomte, oscar_gil, leandro_cabrera, brian_olivan, vinicius_souza, sergi_darder, edu_exposito, ruben_sanchez_saez, joselu, # Espanyol
+              david_soria, juan_iglesias, djene, stefan_mitrovic, domingos_duarte, fabrizio_angileri, mauro_arambarri, carles_alena, borja_mayoral, enes_unal, # Getafe
+              juan_carlos, juanpe, david_lopez, santiago_bueno, yan_couto, aleix_garcia, yangel_herrera, miguel_gutierrez, christian_stuani, valentin_castellanos, # Girona
+              sergio_herrera, juan_cruz, david_garcia, unai_garcia, ruben_pena, moi_gomez, lucas_torro, jon_moncayola, aimar_oroz, ante_budimir, chimy, # Osasuna
+              marc_andre_ter_stegen, ronald_araujo, andreas_christensen, eric_garcia, alejandro_balde, pedri, frenkie_de_jong, gavi, ousmane_dembele, robert_lewandowski, ferran_torres, # FC Barcelona
               predrag_rajkovic, jaume_costa, copete, antonio_raillo, martin_valjent, pablo_maffeo, dani_rodriguez, rodrigo_battaglia, clement_grenier, kang_in_lee, vedat_muriqi, # Mallorca
-              stole_dimitrievski, ivan_balliu, florian_lejeune, alejandro_catena, fran_garcia, unai_lopez, ismaila_ciss, isi_palazon, oscar_trejo, alvaro_garcia, sergio_camello, # Rayo Vallecano
+              stole_dimitrievski, ivan_balliu, alejandro_catena, fran_garcia, unai_lopez, ismaila_ciss, alvaro_garcia, sergio_camello, # Rayo Vallecano
               rui_silva, aitor_ruibal, german_pezzella, edgar_gonzalez, alex_moreno, guido_rodriguez, william_carvalho, rodri_sanchez, nabil_fekir, juanmi, borja_iglesias, # Real Betis
-              alex_remiro, diego_rico, robin_le_normand, igor_zubeldia, aritz_elustondo, martin_zubimendi, mikel_merino, brais_mendez, david_silva, takefusa_kubo, alexander_isak, # Real Sociedad
-              thibaut_courtois, lucas_vasquez, antonio_rudiger, nacho_fernandez, ferland_mendy, toni_kroos, federico_valverde, karim_benzema, vinicius_junior, # Real Madrid
-              sergio_asenjo, luis_perez, joaquin_fernandez, jawad_el_yamiq, sergio_escudero, monchu, alvaro_aguado, toni_villa, # Real Valladolid
-              bono, jesus_navas, nemanja_gudelj, karim_rekik, marcos_acuna, fernando, thomas_delaney, jesus_corona, papu_gomez, lucas_ocampos, rafa_mir, # Sevilla
-              fernando_martinez, chumi, kaiky, rodrigo_ely, srdan_babic, sergio_akieme_rodriguez, inigo_eguaras, samuel_costa, umar_sadiq, largie_ramazani, # Almeria
-              giorgi_mamardashvili, thierry_correia, mouctar_diakhaby, jesus_vasquez, yunus_musah, hugo_guillamon, carlos_soler, samu_castillejo, samuel_lino, # Valencia
-              geronimo_rulli, juan_foyth, raul_albiol, pau_torres, alfonso_pedraza, yeremy_pino, etienne_capoue, dani_parejo, francis_coquelin, gerard_moreno, nicolas_jackson] # Villareal
+              alex_remiro, aihen_munoz, robin_le_normand, igor_zubeldia, aritz_elustondo, martin_zubimendi, mikel_merino, brais_mendez, david_silva, takefusa_kubo, alexander_isak, # Real Sociedad
+              thibaut_courtois, daniel_carvajal, eder_militao, david_alaba, ferland_mendy, luka_modric, aurelien_tchouameni, eduardo_camavinga, federico_valverde, karim_benzema, vinicius_junior, # Real Madrid
+              sergio_asenjo, luis_perez, javi_sanchez, alvaro_aguado, roque_mesa, kike_perez, ivan_sanchez, sergi_guardiola, anuar, # Real Valladolid
+              bono, gonzalo_montiel, tanguy_nianzou, karim_rekik, marcos_acuna, fernando, joan_jordan, oliver_torres, erik_lamela, papu_gomez, rafa_mir, # Sevilla
+              fernando_martinez, kaiky, rodrigo_ely, srdan_babic, sergio_akieme_rodriguez, inigo_eguaras, samuel_costa, arnau_puigmal, lucas_robertone, umar_sadiq, largie_ramazani, # Almeria
+              giorgi_mamardashvili, thierry_correia, gabriel_paulista, mouctar_diakhaby, jesus_vasquez, yunus_musah, hugo_guillamon, carlos_soler, samu_castillejo, samuel_lino, # Valencia
+              geronimo_rulli, juan_foyth, raul_albiol, pau_torres, alfonso_pedraza, yeremy_pino, etienne_capoue, dani_parejo, gio_lo_celso, gerard_moreno, nicolas_jackson] # Villareal
 
-mins_pts_1 = [oihan_sancet, asier_villalibre, raul_garcia, oier_zarraga, gorka_guruzeta, nico_williams, malcom_ares, # Athletic Club
-              yannick_carrasco, rodrigo_de_paul, angel_correa, antoine_griezmann, matheus_cunha, # Atletico Madrid
-              augusto_solari, oscar_mingueza, renato_tapia, gabriel_veiga, carles_perez, # Celta
-              awer_mabil, ivan_alejo, alberto_perea, tomas_alarcon, alvaro_negredo, mamady_diarra, # Cadiz
-              john_donald, enzo_roco, fidel, diego_gonzalez, tete_morente, josan, alejandro_alfaro, ezequiel_ponce, # Elche
-              fernando_calero, nicolas_melamed, adrian_embarba, edu_exposito, luca_koleosho, nabil_touaizi, # Espanyol
-              carles_alena, portu, jaime_seoane, moi_parra, jaime_mata, # Getafe
-              arnau_martinez, miguel_gutierrez, yangel_herrera, christian_stuani, oscar_urena, # Girona
-              kike_barja, pablo_lumbreras, nacho_vidal, manuel_sanchez, darko_brasanac, kike_garcia, # Osasuna
-              sergi_roberto, frenkie_de_jong, franck_kessie, ansu_fati, pierre_emerick_aubameyang, # FC Barcelona
+mins_pts_1 = [ander_capa, unai_vencedor, raul_garcia, oier_zarraga, jon_morcillo, # Athletic Club
+              jose_maria_gimenez, rodrigo_de_paul, angel_correa, antoine_griezmann, matheus_cunha, # Atletico Madrid
+              gabriel_veiga, carles_perez, luca_de_la_torre, # Celta
+              santiago_arzamendia, ivan_alejo, jose_mari, alvaro_negredo, fede_san_emeterio, # Cadiz
+              josan, domingos_quina, josan, javier_pastore, pere_milla, lucas_boye,  # Elche
+              fernando_calero, nicolas_melamed, sergi_gomez, luca_koleosho, keidi_bare, javi_puado, # Espanyol
+              nemanja_maksimovic, portu, jaime_seoane, # Getafe
+              rodrigo_riquelme, samu_saiz, ramon_terrats, javier_hernandez, reinier, # Girona
+              nacho_vidal, darko_brasanac, kike_garcia, roberto_torres, ruben_garcia, # Osasuna
+              jordi_alba, sergi_roberto, franck_kessie, ansu_fati, raphinha, # FC Barcelona
               antonio_sanchez, iddrisu_baba, lago_junior, abdon_prats, # Mallorca
-              oscar_valentin, salvi, jose_pozo, radamel_falcao, # Rayo Vallecano
-              juan_miranda, fran_delgado, paul_akouokou, loren_moron, rober_gonzalez, # Real Betis
-              asier_illaramendi, mohamed_ali_cho,ander_barrenetxea, aihen_munoz, jon_karrikaburu, # Real Sociedad
-              eduardo_camavinga, aurelien_tchouameni, david_alaba, luka_modric, casemiro, dani_ceballos, eden_hazard, # Real Madrid
-              sergio_leon, roque_mesa, gonzalo_plata, lucas_olaza, ivan_sanchez, oscar_plano, kike_perez, sekou_gassama, # Real Valladolid
-              alex_telles, erik_lamela, ivan_rakitic, ivan_romero, youssef_ennesyri, # Sevilla
-              lucas_robertone, curro, dyego_sousa, jose_carlos_lazo, francisco_portillo, arnau_puigmal, # Almeria
-              hugo_duro, eray_comert, dimitri_foulquier, christian_mosquera, toni_lato, nico_gonzalez, maximiliano_gomez, # Valencia
-              aissa_mandi, samuel_chukwueze, alejandro_baena, jose_luis_morales] # Villareal
+              florian_lejeune, isi_palazon, oscar_trejo, oscar_valentin, salvi, radamel_falcao, mario_suarez, randy_nteka, # Rayo Vallecano
+              paul_akouokou, loren_moron, rober_gonzalez, # Real Betis
+              andoni_gorosabel, benat_turrientes, mohamed_ali_cho, jon_karrikaburu, robert_navarro, # Real Sociedad
+              antonio_rudiger, lucas_vasquez, dani_ceballos, eden_hazard, marco_asensio, # Real Madrid
+              sergio_leon, joaquin_fernandez, jawad_el_yamiq, lucas_olaza, sergio_escudero, monchu, oscar_plano, # Real Valladolid
+              alex_telles, ivan_rakitic, lucas_ocampos, youssef_ennesyri, isco, # Sevilla
+              chumi, dyego_sousa, francisco_portillo, leo_baptistao, # Almeria
+              hugo_duro, dimitri_foulquier, toni_lato, nico_gonzalez, marcos_andre, maximiliano_gomez, # Valencia
+              francis_coquelin, samuel_chukwueze, alejandro_baena, jose_luis_morales] # Villareal
 
-goals = [chimy, aimar_oroz, rafa_mir, iago_aspas, goncalo_paciencia, edu_exposito, joselu, nicolas_jackson, alejandro_baena,
-         alejandro_baena, takefusa_kubo, carlos_soler, largie_ramazani, lucas_vasquez, david_alaba, alvaro_morata, alvaro_morata,
-         antoine_griezmann, borja_iglesias, juanmi, juanmi]
-assists = [ruben_pena, papu_gomez, augusto_solari, javi_galan, samuel_chukwueze, mikel_merino, inigo_eguaras, karim_benzema,
-           joao_felix, joao_felix, joao_felix, nabil_fekir]
-clean_sheets = [geronimo_rulli, alfonso_pedraza, pau_torres, raul_albiol, juan_foyth, yeremy_pino, etienne_capoue, dani_parejo, francis_coquelin,
-                jan_oblak, saul_niguez, reinildo, axel_witsel, stefan_savic, nahuel_molina, thomas_lemar, koke, marcos_llorente,
-                alex_remiro, diego_rico, robin_le_normand, igor_zubeldia, aritz_elustondo, martin_zubimendi, mikel_merino, brais_mendez, david_silva, takefusa_kubo,
-                rui_silva, aitor_ruibal, german_pezzella, edgar_gonzalez, alex_moreno, guido_rodriguez, william_carvalho, nabil_fekir, juanmi, rodri_sanchez,
-                marc_andre_ter_stegen, ronald_araujo, andreas_christensen, eric_garcia, jordi_alba, pedri, gavi, sergio_busquets, raphinha,
-                stole_dimitrievski, ivan_balliu, florian_lejeune, alejandro_catena, fran_garcia, ismaila_ciss, unai_lopez, isi_palazon, oscar_trejo, alvaro_garcia,
-                giorgi_mamardashvili, thierry_correia, mouctar_diakhaby, jesus_vasquez, yunus_musah, hugo_guillamon, carlos_soler, samu_castillejo,
-                predrag_rajkovic, jaume_costa, copete, antonio_raillo, martin_valjent, pablo_maffeo, dani_rodriguez, rodrigo_battaglia, clement_grenier, kang_in_lee,
-                unai_simon, oscar_de_marcos, daniel_vivian, yeray_alvarez, yuri_berchiche, mikel_vesga, iker_munian, alex_berenguer]
-two_GC = [agustin_marchesin, hugo_mallo, joseph_aidoo, unai_nunez, javi_galan,
-          david_soria, juan_iglesias, djene, stefan_mitrovic, domingos_duarte, fabrizio_angileri,
-          john_donald, enzo_roco, pedro_bigas, helibelton_palacios, johan_mojica,
-          benjamin_lecomte, brian_olivan, leandro_cabrera, sergi_gomez, oscar_gil,
-          sergio_asenjo, luis_perez, joaquin_fernandez, jawad_el_yamiq, lucas_olaza,
-          fernando_martinez, chumi, kaiky, rodrigo_ely, srdan_babic, sergio_akieme_rodriguez,
-          bono, marcos_acuna, karim_rekik, nemanja_gudelj, jesus_navas]
-yellow = [david_garcia, unai_garcia, chimy, sergio_herrera, moi_gomez, papu_gomez, fernando, ivan_romero, hugo_mallo, joseph_aidoo,
-          vinicius_souza, iago_aspas, oscar_gil, javi_galan, agustin_marchesin, roque_mesa, ousmane_dembele, oscar_trejo,
-          alejandro_catena, florian_lejeune, radamel_falcao, ismaila_ciss, stole_dimitrievski, joseba_zaldua, lucas_perez, ivan_alejo, brais_mendez,
-          fali, asier_illaramendi, yan_couto, samu_saiz, valery_fernandez, thierry_correia, jesus_vasquez, eduardo_camavinga, umar_sadiq,
-          copete, rodrigo_battaglia, dani_rodriguez, antonio_sanchez, kang_in_lee, clement_grenier,
-          curro, arnau_puigmal, enes_unal, carles_alena, yannick_carrasco, nabil_fekir, pere_milla, aitor_ruibal, gerard_gumbau,
-          fidel, roger_marti, juanmi, josan, johan_mojica]
-red = [sergio_busquets, eray_comert, john_donald]
-own_goals = []
-missed_pen = []
-saves_pts_1 = [bono, stole_dimitrievski, thibaut_courtois, edgar_badia]
-saves_pts_2 = [geronimo_rulli, jeremias_ledesma, predrag_rajkovic]
+goals = [isi_palazon, ismaila_ciss, anuar, karim_rekik, chimy, kike_garcia, borja_iglesias, borja_iglesias, vedat_muriqi,
+         karim_benzema, luka_modric, vinicius_junior, iago_aspas, federico_valverde, alex_berenguer, yeremy_pino, gerard_moreno,
+         robert_lewandowski, alexander_isak, ousmane_dembele, robert_lewandowski, ansu_fati,  umar_sadiq, alex_collado,
+         christian_stuani, valentin_castellanos, enes_unal]
+
+assists = [unai_lopez, alvaro_garcia, sergio_leon, kang_in_lee, david_alaba, luka_modric, vinicius_junior, mikel_vesga,
+           alfonso_pedraza, alejandro_balde, ansu_fati, ansu_fati, lucas_robertone, roger_marti, yangel_herrera]
+
+clean_sheets = [stole_dimitrievski, ivan_balliu, alejandro_catena, fran_garcia, ismaila_ciss, unai_lopez, alvaro_garcia, # Rayo Vallecano
+                sergio_herrera, ruben_pena, unai_garcia, david_garcia, juan_cruz, jon_moncayola, lucas_torro, moi_gomez, aimar_oroz, # Osasuna
+                geronimo_rulli, alfonso_pedraza, pau_torres, raul_albiol, juan_foyth, yeremy_pino, etienne_capoue, dani_parejo, gio_lo_celso, # Villareal
+                # jan_oblak, saul_niguez, reinildo, axel_witsel, stefan_savic, nahuel_molina, thomas_lemar, koke, marcos_llorente, # Atletico Madrid
+                # alex_remiro, diego_rico, robin_le_normand, igor_zubeldia, aritz_elustondo, martin_zubimendi, mikel_merino, brais_mendez, david_silva, takefusa_kubo, # Real Sociedad
+                # rui_silva, aitor_ruibal, german_pezzella, edgar_gonzalez, alex_moreno, guido_rodriguez, william_carvalho, nabil_fekir, juanmi, rodri_sanchez, # Real Betis
+                # marc_andre_ter_stegen, ronald_araujo, andreas_christensen, eric_garcia, jordi_alba, pedri, gavi, sergio_busquets, raphinha, # FC Barcelona
+                # giorgi_mamardashvili, thierry_correia, mouctar_diakhaby, jesus_vasquez, yunus_musah, hugo_guillamon, carlos_soler, samu_castillejo, # Valencia
+                # predrag_rajkovic, jaume_costa, copete, antonio_raillo, martin_valjent, pablo_maffeo, dani_rodriguez, rodrigo_battaglia, clement_grenier, kang_in_lee, # Real Mallorca
+                unai_simon, oscar_de_marcos, daniel_vivian, yeray_alvarez, yuri_berchiche, mikel_vesga, iker_munian, alex_berenguer] # Athletic Club
+
+two_GC = [benjamin_lecomte, brian_olivan, leandro_cabrera, sergi_gomez, oscar_gil, #Espanyol
+          jeremias_ledesma, joseba_zaldua, luis_hernandez, victor_chust, alfonso_espino, fali, #Cadiz
+          predrag_rajkovic, jaume_costa, copete, antonio_raillo, martin_valjent, pablo_maffeo, # Real Mallorca
+          agustin_marchesin, hugo_mallo, joseph_aidoo, unai_nunez, javi_galan, agustin_marchesin, hugo_mallo, joseph_aidoo, unai_nunez, javi_galan, # Celta
+          jan_oblak, reinildo, nahuel_molina, # Atletico Madrid
+          alex_remiro, aihen_munoz, robin_le_normand, igor_zubeldia, aritz_elustondo, alex_remiro, aihen_munoz, robin_le_normand, igor_zubeldia, # Real Sociedad
+          david_soria, juan_iglesias, djene, stefan_mitrovic, domingos_duarte, fabrizio_angileri, # Getafe
+          # fernando_martinez, chumi, kaiky, rodrigo_ely, srdan_babic, sergio_akieme_rodriguez # Almeria
+          # edgar_badia, enzo_roco, pedro_bigas, helibelton_palacios, johan_mojica, # Elche
+]
+yellow = [oscar_gil, stole_dimitrievski, oscar_trejo, brian_olivan, oscar_valentin, gonzalo_montiel, luis_perez, lucas_ocampos,
+          lucas_olaza, isco, ivan_alejo, lucas_torro, chimy, victor_chust, anthony_lozano, william_carvalho, juanmi, clement_grenier,
+          nabil_fekir, dani_rodriguez, martin_valjent, antonio_raillo, german_pezzella, rodrigo_battaglia, rober_gonzalez,
+          pablo_maffeo, guido_rodriguez, rui_silva, loren_moron, jaume_costa, daniel_vivian, yunus_musah, iker_munian,
+          mouctar_diakhaby, unai_simon, yuri_berchiche, yeray_alvarez, joao_felix, jose_maria_gimenez, dani_parejo, alejandro_baena,
+          gerard_moreno, aritz_elustondo, robin_le_normand, ronald_araujo, gerard_gumbau, inigo_eguaras, sergio_akieme_rodriguez,
+          leo_baptistao, kaiky, valentin_castellanos, stefan_mitrovic, borja_mayoral, fabrizio_angileri, carles_alena, djene, juanpe, enes_unal,
+          daniel_carvajal, david_alaba, renato_tapia, hugo_mallo]
+
+red = [florian_lejeune, sergi_gomez, marcos_acuna, jawad_el_yamiq, tomas_alarcon, nahuel_molina, alex_centelles, fabrizio_angileri]
+
+own_goals = [domingos_duarte]
+missed_pen = [eden_hazard]
+saves_pts_1 = [agustin_marchesin, jan_oblak, geronimo_rulli, alex_remiro, marc_andre_ter_stegen, david_soria]
+saves_pts_2 = [rui_silva, edgar_badia]
 saves_pts_3 = []
-saves_pts_4 = [fernando_martinez]
-pen_save = []
-bonus_1 = [dani_parejo, luis_hernandez, aleix_garcia, antoine_griezmann, borja_iglesias]
-bonus_2 = [joselu, iago_aspas, alejandro_baena, ousmane_dembele, ismaila_ciss, santiago_bueno, lucas_vasquez, toni_kroos,
-           david_alaba, martin_valjent, yuri_berchiche, joao_felix, german_pezzella]
-bonus_3 = [chimy, rafa_mir, papu_gomez, edu_exposito, geronimo_rulli, stole_dimitrievski, jeremias_ledesma, mikel_merino,
-           carlos_soler, fernando_martinez, predrag_rajkovic, alvaro_morata, juanmi]
+saves_pts_4 = []
+pen_save = [agustin_marchesin]
+bonus_1 = [erik_lamela, vinicius_souza, david_garcia, rui_silva, aurelien_tchouameni, oscar_de_marcos, alex_berenguer, thierry_correia, dani_parejo, pedri, yangel_herrera]
+bonus_2 = [sergi_darder, borja_iglesias, vinicius_junior, iker_munian, juan_foyth, ansu_fati, edgar_badia, lucas_robertone, johan_mojica]
+bonus_3 = [ismaila_ciss, marcos_acuna, anuar, kike_garcia, unai_garcia, kang_in_lee, luka_modric, yeray_alvarez, geronimo_rulli, robert_lewandowski, largie_ramazani, aleix_garcia, enes_unal]
 
 if updating:
     if input("are you sure? (y/n)") != "y":
