@@ -1055,8 +1055,8 @@ option = st.selectbox('Filter by Team', values, index=0)
 
 if option != "None":
     df = df.loc[df["Team"] == option]
-else:
-    st.dataframe(df)
+
+st.dataframe(df)
 
 
 st.header("Weekly Player Stats")
