@@ -69,6 +69,7 @@ unai_simon = "Unai Simon"
 julen_agirrezabala = "Julen Agirrezabala"
 alex_padilla = "Alex Padilla"
 ander_iru = "Ander Iru"
+ander_herrera = "Ander Herrera"
 
 # Atletico Madrid
 antoine_griezmann = "Antoine Griezmann"
@@ -98,6 +99,7 @@ mario_hermoso = "Mario Hermoso"
 jan_oblak = "Jan Oblak"
 ivo_grbic = "Ivo Grbic"
 antonio_gomis = "Antonio Gomis"
+sergio_reguilon = "Sergio Reguilon"
 
 # Cadiz
 jeremias_ledesma = "Jeremias Ledesma"
@@ -119,6 +121,10 @@ mamady_diarra = "Mamady Diarra"
 fede_san_emeterio = "Fede San Emeterio"
 antonio_blanco = "Antonio Blanco"
 alex_fernandez = "Alex Fernandez"
+brian_ocampo = "Brian Ocampo"
+alvaro_gimenez = "Alvaro Gimenez"
+ruben_sobrino = "Ruben Sobrino"
+theo_bongonda = "Theo Bongonda"
 
 # Celta
 agustin_marchesin = "Agustin Marchesin"
@@ -138,6 +144,7 @@ gabriel_veiga = "Gabriel Veiga"
 carles_perez = "Carles Perez"
 luca_de_la_torre = "Luca De La Torre"
 carlos_dominguez = "Carlos Dominguez"
+jorgen_larsen = "Jorgen Larsen"
 
 # Elche
 edgar_badia = "Edgar Badia"
@@ -162,9 +169,11 @@ domingos_quina = "Domingos Quina"
 lucas_boye = "Lucas Boye"
 javier_pastore = "Javier Pastore"
 raul_guti = "Raul Guti"
+carlos_clerc = "Carlos Clerc"
 
 # Espanyol
 benjamin_lecomte = "Benjamin Lecomte"
+alvaro_fernandez = "Alvaro Fernandez"
 oscar_gil = "Oscar Gil"
 sergi_gomez = "Sergi Gomez"
 leandro_cabrera = "Leandro Cabrera"
@@ -183,6 +192,9 @@ raul_de_tomas = "Raul De Tomas"
 javi_puado = "Javi Puado"
 keidi_bare = "Keidi Bare"
 dani_gomez = "Dani Gomez"
+martin_braithwaite = "Martin Braithwaite"
+omar_el_hilali = "Omar El Hilali"
+simo = "Simo"
 
 # Osasuna
 sergio_herrera = "Sergio Herrera"
@@ -204,6 +216,7 @@ kike_garcia = "Kike Garcia"
 ruben_garcia = "Ruben Garcia"
 ante_budimir = "Ante Budimir"
 roberto_torres = "Roberto Torres"
+abdessamad_ezzalzouli = "Abdessamad Ezzalzouli"
 
 
 # FC Barcelona
@@ -226,6 +239,8 @@ ousmane_dembele = "Ousmane Dembele"
 ansu_fati = "Ansu Fati"
 pierre_emerick_aubameyang = "Pierre-Emerick Aubameyang"
 ferran_torres = "Ferran Torres"
+marcos_alonso = "Marcos Alonso"
+hector_bellerin = "Hector Bellerin"
 
 # Getafe
 david_soria = "David Soria"
@@ -245,6 +260,7 @@ jaime_mata = "Jaime Mata"
 moi_parra = "Moi Parra"
 gaston_alvarez = "Gaston Alvarez"
 juanmi_latasa = "Juanmi Latasa"
+munir_el_haddadi = "Munir El Haddadi"
 
 # Girona
 juan_carlos = "Juan Carlos"
@@ -266,6 +282,10 @@ oscar_urena = "Oscar Urena"
 reinier = "Reinier"
 javier_hernandez = "Javier Hernandez"
 joel_roca = "Joel Roca"
+paulo_gazzaniga = "Paulo Gazzaniga"
+oriol_romeu = "Oriol Romeu"
+bernardo_espinos = "Bernardo Espinos"
+manu_vallejo = "Manu Vallejo"
 
 # Rayo Vallecano
 oscar_trejo = "Oscar Trejo"
@@ -309,6 +329,9 @@ rober_gonzalez = "Rober Gonzalez"
 luiz_felipe = "Luiz Felipe"
 andres_guardado = "Andres Guardado"
 luiz_henrique = "Luiz Henrique"
+youssouf_sabaly = "Youssouf Sabaly"
+joaquin = "Joaquin"
+willian_jose = "Willian Jose"
 
 # Real Madrid
 thibaut_courtois = "Thibaut Courtois"
@@ -374,6 +397,8 @@ andoni_gorosabel = "Andoni Gorosabel"
 benat_turrientes = "Benat Turrientes"
 robert_navarro = "Robert Navarro"
 jon_pacheco = "Jon Pacheco"
+alex_sola = "Alex Sola"
+alexander_sorloth = "Alexander Sorloth"
 
 # Real Valladolid
 sergio_asenjo = "Sergio Asenjo"
@@ -396,6 +421,7 @@ sekou_gassama = "Sekou Gassama"
 javi_sanchez = "Javi Sanchez"
 sergi_guardiola = "Sergi Guardiola"
 anuar = "Anuar"
+shon_weissman = "Shon Weissman"
 
 # Sevilla
 bono = "Bono"
@@ -420,6 +446,8 @@ oliver_torres = "Oliver Torres"
 joan_jordan = "Joan Jordan"
 tanguy_nianzou = "Tanguy Nianzou"
 jose_angel_carmona = "Jose Angel Carmona"
+suso = "Suso"
+kasper_dolberg = "Kasper Dolberg"
 
 # Almeria
 fernando_martinez = "Fernando Martinez"
@@ -443,6 +471,8 @@ alex_centelles = "Alex Centelles"
 alejandro_pozo = "Alejandro Pozo"
 cesar_de_la_hoz = "Cesar de la Hoz"
 houboulang_mendes = "Houboulang Mendes"
+el_bilal_toure = "El Bilal Toure"
+marko_milovanovic = "Marko Milovanovic"
 
 # Valencia
 giorgi_mamardashvili = "Giorgi Mamardashvili"
@@ -464,6 +494,9 @@ samuel_lino = "Samuel Lino"
 maximiliano_gomez = "Maximiliano Gomez"
 gabriel_paulista = "Gabriel Paulista"
 marcos_andre = "Marcos Andre"
+edinson_cavani = "Edinson Cavani"
+andre_almeida = "Andre Almeida"
+ilaix_moriba = "Ilaix Moriba"
 
 # Villareal
 geronimo_rulli = "Geronimo Rulli"
@@ -493,34 +526,34 @@ charbel = [{
     "G1": unai_simon,
     "D1": pau_torres,
     "D2": eder_militao,
-    "D3": ivan_balliu,
+    "D3": alex_moreno,
     "D4": jules_kounde,
     "M1": nabil_fekir,
-    "M2": papu_gomez,
-    "M3": yannick_carrasco,
+    "M2": samu_castillejo,
+    "M3": aimar_oroz,
     "F1": robert_lewandowski,
-    "F2": christian_stuani,
+    "F2": borja_iglesias,
     "F3": joao_felix,
     "G2": sergio_herrera,
-    "D5": alex_moreno,
-    "M4": isi_palazon,
-    "F4": borja_iglesias,
+    "D5": sergio_reguilon,
+    "M4": brais_mendez,
+    "F4": christian_stuani,
 }]
 
 ralph = [{
-    "G1": bono,
+    "G1": jan_oblak,
     "D1": david_alaba,
-    "D2": daniel_carvajal,
-    "D3": tanguy_nianzou,
-    "D4": eric_garcia,
+    "D2": raul_albiol,
+    "D3": joseph_aidoo,
+    "D4": reinildo,
     "M1": raphinha,
     "M2": federico_valverde,
-    "M3": isco,
+    "M3": alvaro_garcia,
     "F1": gerard_moreno,
     "F2": iago_aspas,
     "F3": youssef_ennesyri,
-    "G2": jan_oblak,
-    "D5": reinildo,
+    "G2": bono,
+    "D5": eric_garcia,
     "M4": sergio_canales,
     "F4": raul_de_tomas,
 }]
@@ -531,34 +564,34 @@ george = [{
     "D2": aritz_elustondo,
     "D3": antonio_rudiger,
     "D4": yeray_alvarez,
-    "M1": juanmi,
-    "M2": alejandro_baena,
+    "M1": iker_munian,
+    "M2": alex_collado,
     "M3": luka_modric,
     "F1": ansu_fati,
     "F2": ousmane_dembele,
     "F3": vinicius_junior,
     "G2": geronimo_rulli,
     "D5": stefan_savic,
-    "M4": iker_munian,
+    "M4": juanmi,
     "F4": enes_unal,
 }]
 
 rene = [{
     "G1": thibaut_courtois,
-    "D1": karim_rekik,
+    "D1": jordi_alba,
     "D2": alfonso_pedraza,
-    "D3": yuri_berchiche,
+    "D3": oscar_de_marcos,
     "D4": robin_le_normand,
     "M1": alex_berenguer,
     "M2": yeremy_pino,
-    "M3": takefusa_kubo,
+    "M3": pedri,
     "F1": karim_benzema,
     "F2": alvaro_morata,
     "F3": chimy,
     "G2": rui_silva,
-    "D5": jordi_alba,
-    "M4": carlos_soler,
-    "F4": mikel_oyarzabal,
+    "D5": ferland_mendy,
+    "M4": takefusa_kubo,
+    "F4": umar_sadiq,
 }]
 
 
@@ -1022,7 +1055,7 @@ weekly_df = weekly_df.sort_values(by="Pts", ascending=False, ignore_index=True)
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
