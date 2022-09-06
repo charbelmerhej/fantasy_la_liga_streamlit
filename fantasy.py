@@ -1047,20 +1047,41 @@ st.header("Total Players Stats")
 df = pd.read_csv("fantasy.csv", index_col=0)
 df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
 
-# option = st.selectbox('Filter by Team', df["Team"].unique())
 values = ("None", "Athletic Club", "Atletico Madrid", "Osasuna", "Cadiz", "Elche", "Espanyol", "FC Barcelona", "Getafe",
           "Girona", "Rayo Vallecano", "Celta Vigo", "Mallorca", "Real Betis", "Real Madrid", "Real Sociedad", "Real Valladolid",
           "Sevilla", "Almeria", "Valencia", "Villareal")
 option = st.selectbox('Filter by Team', values, index=0)
 
-if option != "None":
+values_pos = ("None", "GK", "DEF", "MID", "FWD")
+option_pos = st.selectbox('Filter by Position', values_pos, index=0)
+
+if option != "None" and option_pos == "None":
     df = df.loc[df["Team"] == option]
+elif option == "None" and option_pos != "None":
+    df = df.loc[df["Position"] == option_pos]
+elif option != "None" and option_pos != "None":
+    df = df.loc[(df["Position"] == option_pos) & (df["Team"] == option)]
+else:
+    pass
 
 st.dataframe(df)
 
 
 st.header("Weekly Player Stats")
 weekly_df = weekly_df.sort_values(by="Pts", ascending=False, ignore_index=True)
+
+option_weekly = st.selectbox('Filter by Team', values, index=0)
+option_pos_weekly = st.selectbox('Filter by Position', values_pos, index=0)
+
+if option_weekly != "None" and option_pos_weekly == "None":
+    weekly_df = weekly_df.loc[weekly_df["Team"] == option_weekly]
+elif option_weekly == "None" and option_pos_weekly != "None":
+    weekly_df = weekly_df.loc[weekly_df["Position"] == option_pos_weekly]
+elif option_weekly != "None" and option_pos_weekly != "None":
+    weekly_df = weekly_df.loc[(weekly_df["Position"] == option_pos_weekly) & (weekly_df["Team"] == option_weekly)]
+else:
+    pass
+
 st.dataframe(weekly_df)
 
 st.header("Standings")
