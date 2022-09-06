@@ -1048,10 +1048,15 @@ df = pd.read_csv("fantasy.csv", index_col=0)
 df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
 
 # option = st.selectbox('Filter by Team', df["Team"].unique())
-values = ("None", "Athletic Club", "Atletico Madrid")
+values = ("None", "Athletic Club", "Atletico Madrid", "Osasuna", "Cadiz", "Elche", "Espanyol", "FC Barcelona", "Getafe",
+          "Girona", "Rayo Vallecano", "Celta Vigo", "Mallorca", "Real Betis", "Real Madrid", "Real Sociedad", "Real Valladolid",
+          "Sevilla", "Almeria", "Valencia", "Villareal")
 option = st.selectbox('Filter by Team', values, index=0)
-df = df.loc[df["Team"] == option]
-st.dataframe(df)
+
+if option != "None":
+    df = df.loc[df["Team"] == option]
+else:
+    st.dataframe(df)
 
 
 st.header("Weekly Player Stats")
