@@ -1047,7 +1047,9 @@ st.header("Total Players Stats")
 df = pd.read_csv("fantasy.csv", index_col=0)
 df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
 
-option = st.selectbox('Filter by Team', df["Team"])
+# option = st.selectbox('Filter by Team', df["Team"].unique())
+values = ("None", "Athletic Club", "Atletico Madrid")
+option = st.selectbox('Filter by Team', values, index=0)
 df = df.loc[df["Team"] == option]
 st.dataframe(df)
 
