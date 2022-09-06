@@ -1050,10 +1050,10 @@ df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
 values = ("None", "Athletic Club", "Atletico Madrid", "Osasuna", "Cadiz", "Elche", "Espanyol", "FC Barcelona", "Getafe",
           "Girona", "Rayo Vallecano", "Celta Vigo", "Mallorca", "Real Betis", "Real Madrid", "Real Sociedad", "Real Valladolid",
           "Sevilla", "Almeria", "Valencia", "Villareal")
-option = st.selectbox('Filter by Team', values, index=0)
+option = st.selectbox('Filter by Team', values, index=0, key="total")
 
 values_pos = ("None", "GK", "DEF", "MID", "FWD")
-option_pos = st.selectbox('Filter by Position', values_pos, index=0)
+option_pos = st.selectbox('Filter by Position', values_pos, index=0, key="weekly")
 
 if option != "None" and option_pos == "None":
     df = df.loc[df["Team"] == option]
