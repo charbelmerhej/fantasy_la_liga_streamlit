@@ -1047,6 +1047,26 @@ st.header("Total Players Stats")
 df = pd.read_csv("fantasy.csv", index_col=0)
 df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
 
+players_taken = [charbel[0]["G1"], charbel[0]["D1"], charbel[0]["D2"], charbel[0]["D3"], charbel[0]["D4"], charbel[0]["D5"],
+                 charbel[0]["M1"], charbel[0]["M2"], charbel[0]["M3"], charbel[0]["M4"], charbel[0]["F1"], charbel[0]["F2"],
+                 charbel[0]["F3"], charbel[0]["F4"], charbel[0]["G2"],
+                 ralph[0]["G1"], ralph[0]["D1"], ralph[0]["D2"], ralph[0]["D3"], ralph[0]["D4"],
+                 ralph[0]["D5"], ralph[0]["M1"], ralph[0]["M2"], ralph[0]["M3"], ralph[0]["M4"], ralph[0]["F1"],
+                 ralph[0]["F2"], ralph[0]["F3"], ralph[0]["F4"], ralph[0]["G2"],
+                 george[0]["G1"], george[0]["D1"], george[0]["D2"], george[0]["D3"], george[0]["D4"],
+                 george[0]["D5"], george[0]["M1"], george[0]["M2"], george[0]["M3"], george[0]["M4"], george[0]["F1"],
+                 george[0]["F2"], george[0]["F3"], george[0]["F4"], george[0]["G2"],
+                 rene[0]["G1"], rene[0]["D1"], rene[0]["D2"], rene[0]["D3"], rene[0]["D4"],
+                 rene[0]["D5"], rene[0]["M1"], rene[0]["M2"], rene[0]["M3"], rene[0]["M4"], rene[0]["F1"],
+                 rene[0]["F2"], rene[0]["F3"], rene[0]["F4"], rene[0]["G2"]
+                 ]
+
+
+def color_survived(val):
+    color = 'lightred' if val in players_taken else ''
+    return f'background-color: {color}'
+
+
 values = ("None", "Athletic Club", "Atletico Madrid", "Osasuna", "Cadiz", "Elche", "Espanyol", "FC Barcelona", "Getafe",
           "Girona", "Rayo Vallecano", "Celta Vigo", "Mallorca", "Real Betis", "Real Madrid", "Real Sociedad", "Real Valladolid",
           "Sevilla", "Almeria", "Valencia", "Villareal")
@@ -1064,7 +1084,7 @@ elif option != "None" and option_pos != "None":
 else:
     pass
 
-st.dataframe(df)
+st.dataframe(df.style.applymap(color_survived, subset=["Name"]))
 
 
 st.header("Weekly Player Stats")
