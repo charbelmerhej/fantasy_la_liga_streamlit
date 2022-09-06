@@ -8,7 +8,7 @@
 # Ghayyir clean sheet b tari2a hot l fari2 w automatically yenzedo lal corresponding players
 # Color the players in df which are taken by users
 # Formation change?
-# Do a 3rd df which includes all the players and 38 cols for each gw pts they got.
+# Connect directly to Github instead of adding and removing files
 
 
 # Steps: - Add missing variable of player in both .py files (if any missing)
@@ -599,7 +599,6 @@ rene = [{
 ############################################### UNCHANGED UI ###########################################################
 #######################################################################################################################
 
-# TRY THIS
 st.set_page_config(page_title="Fantasy La Liga", layout="wide")
 st.title("Fantasy La Liga")
 st.image("https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg", width=100)
@@ -1047,6 +1046,9 @@ st.header("Total Players Stats")
 
 df = pd.read_csv("fantasy.csv", index_col=0)
 df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
+
+option = st.selectbox(df["Team"])
+df = df.loc[df["Team"] == option]
 st.dataframe(df)
 
 
