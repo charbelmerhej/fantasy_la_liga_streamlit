@@ -1063,7 +1063,7 @@ players_taken = [charbel[0]["G1"], charbel[0]["D1"], charbel[0]["D2"], charbel[0
 
 
 def color_survived(val):
-    color = 'red' if val in players_taken else 'lightred'
+    color = 'red' if val in players_taken else 'black'
     return f'background-color: {color}'
 
 
