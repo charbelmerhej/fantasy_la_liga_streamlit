@@ -1075,12 +1075,22 @@ option = st.selectbox('Filter by Team', values, index=0, key="total")
 values_pos = ("None", "GK", "DEF", "MID", "FWD")
 option_pos = st.selectbox('Filter by Position', values_pos, index=0, key="weekly")
 
-if option != "None" and option_pos == "None":
-    df = df.loc[df["Team"] == option]
-elif option == "None" and option_pos != "None":
+show_available = st.checkbox("Show available")
+
+if option != "None" and option_pos == "None" and show_available:
+    df = df.loc[(df["Team"] == option) & (df["Name"] not in players_taken)]
+elif option != "None" and option_pos == "None" and not show_available:
+    df = df.loc[(df["Team"] == option)]
+elif option == "None" and option_pos != "None" and not show_available:
     df = df.loc[df["Position"] == option_pos]
-elif option != "None" and option_pos != "None":
+elif option == "None" and option_pos != "None" and show_available:
+    df = df.loc[(df["Position"] == option_pos) & (df["Name"] not in players_taken)]
+elif option != "None" and option_pos != "None" and not show_available:
     df = df.loc[(df["Position"] == option_pos) & (df["Team"] == option)]
+elif option != "None" and option_pos != "None" and show_available:
+    df = df.loc[(df["Position"] == option_pos) & (df["Team"] == option) & (df["Name"] not in players_taken)]
+elif option == "None" and option_pos == "None" and show_available:
+    df = df.loc[df["Name"] not in players_taken]
 else:
     pass
 
