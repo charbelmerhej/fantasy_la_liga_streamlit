@@ -108,6 +108,7 @@ luis_hernandez = "Luis Hernandez"
 victor_chust = "Victor Chust"
 alfonso_espino = "Alfonso Espino"
 mamadou_mbaye = "Mamadou Mbaye"
+isaac_carcelen = "Isaac Carcelen"
 ruben_alcaraz = "Ruben Alcaraz"
 alberto_perea = "Alberto Perea"
 fali = "Fali"
@@ -156,6 +157,7 @@ pedro_bigas = "Pedro Bigas"
 helibelton_palacios = "Helibelton Palacios"
 omar_mascarell = "Omar Mascarell"
 gerard_gumbau = "Gerard Gumbau"
+gonzalo_verdu = "Gonzalo Verdu"
 johan_mojica = "Johan Mojica"
 pere_milla = "Pere Milla"
 roger_marti = "Roger Marti"
@@ -181,6 +183,7 @@ oscar_gil = "Oscar Gil"
 sergi_gomez = "Sergi Gomez"
 leandro_cabrera = "Leandro Cabrera"
 brian_olivan = "Brian Olivan"
+aleix_vidal = "Aleix Vidal"
 vinicius_souza = "Vinicius Souza"
 fernando_calero = "Fernando Calero"
 sergi_darder = "Sergi Darder"
@@ -264,6 +267,7 @@ borja_mayoral = "Borja Mayoral"
 jaime_seoane = "Jaime Seoane"
 portu = "Portu"
 jaime_mata = "Jaime Mata"
+luis_milla = "Luis Milla"
 moi_parra = "Moi Parra"
 gaston_alvarez = "Gaston Alvarez"
 juanmi_latasa = "Juanmi Latasa"
@@ -321,6 +325,7 @@ ivan_fresneda = "Ivan Fresneda"
 rui_silva = "Rui Silva"
 alex_moreno = "Alex Moreno"
 edgar_gonzalez = "Edgar Gonzalez"
+martin_montoya = "Martin Montoya"
 german_pezzella = "German Pezzella"
 juan_miranda = "Juan Miranda"
 fran_delgado = "Fran Delgado"
@@ -383,6 +388,7 @@ lago_junior = "Lago Junior"
 abdon_prats = "Abdon Prats"
 inigo_ruiz_de_galarreta = "Inigo Ruiz de Galarreta"
 javi_llabres = "Javi Llabres"
+angel_rodriguez = "Angel Rodriguez"
 
 
 # Real Sociedad
@@ -435,6 +441,7 @@ shon_weissman = "Shon Weissman"
 
 # Sevilla
 bono = "Bono"
+marko_dmitrovic = "Marko Dmitrovic"
 alex_telles = "Alex Telles"
 nemanja_gudelj = "Nemanja Gudelj"
 karim_rekik = "Karim Rekik"
@@ -484,6 +491,7 @@ cesar_de_la_hoz = "Cesar de la Hoz"
 houboulang_mendes = "Houboulang Mendes"
 el_bilal_toure = "El Bilal Toure"
 marko_milovanovic = "Marko Milovanovic"
+lazaro = "Lazaro"
 
 # Valencia
 giorgi_mamardashvili = "Giorgi Mamardashvili"
@@ -538,36 +546,36 @@ charbel = [{
     "G1": unai_simon,
     "D1": pau_torres,
     "D2": alex_moreno,
-    "D3": jose_maria_gimenez,
+    "D3": hector_bellerin,
     "D4": jules_kounde,
     "M1": brais_mendez,
     "M2": samu_castillejo,
     "M3": aimar_oroz,
     "F1": robert_lewandowski,
-    "F2": eden_hazard,
-    "F3": joao_felix,
+    "F2": borja_iglesias,
+    "F3": vedat_muriqi,
     "G2": sergio_herrera,
-    "D5": eder_militao,
+    "D5": juan_cruz,
     "M4": nabil_fekir,
-    "F4": borja_iglesias,
+    "F4": joao_felix,
 }]
 
 ralph = [{
     "G1": bono,
     "D1": david_alaba,
-    "D2": raul_albiol,
-    "D3": lucas_vasquez,
-    "D4": reinildo,
+    "D2": pablo_maffeo,
+    "D3": eric_garcia,
+    "D4": luiz_felipe,
     "M1": raphinha,
     "M2": federico_valverde,
     "M3": sergio_canales,
-    "F1": gerard_moreno,
+    "F1": enes_unal,
     "F2": iago_aspas,
     "F3": youssef_ennesyri,
     "G2": jan_oblak,
-    "D5": eric_garcia,
+    "D5": reinildo,
     "M4": alvaro_garcia,
-    "F4": raul_de_tomas,
+    "F4": gerard_moreno,
 }]
 
 george = [{
@@ -575,34 +583,34 @@ george = [{
     "D1": ronald_araujo,
     "D2": alejandro_balde,
     "D3": antonio_rudiger,
-    "D4": stefan_savic,
+    "D4": yeray_alvarez,
     "M1": iker_munian,
-    "M2": nico_gonzalez,
-    "M3": luka_modric,
+    "M2": takefusa_kubo,
+    "M3": rodri_sanchez,
     "F1": martin_braithwaite,
     "F2": ousmane_dembele,
     "F3": vinicius_junior,
     "G2": geronimo_rulli,
-    "D5": yeray_alvarez,
+    "D5": stefan_savic,
     "M4": alex_collado,
     "F4": ansu_fati,
 }]
 
 rene = [{
-    "G1": thibaut_courtois,
+    "G1": rui_silva,
     "D1": alfonso_pedraza,
     "D2": ferland_mendy,
     "D3": oscar_de_marcos,
-    "D4": robin_le_normand,
+    "D4": jordi_alba,
     "M1": alex_berenguer,
     "M2": yeremy_pino,
-    "M3": pedri,
-    "F1": umar_sadiq,
+    "M3": kang_in_lee,
+    "F1": rodrygo,
     "F2": alvaro_morata,
     "F3": chimy,
-    "G2": rui_silva,
-    "D5": jordi_alba,
-    "M4": takefusa_kubo,
+    "G2": thibaut_courtois,
+    "D5": robin_le_normand,
+    "M4": pedri,
     "F4": karim_benzema,
 }]
 
@@ -1127,7 +1135,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
