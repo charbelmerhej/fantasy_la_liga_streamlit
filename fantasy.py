@@ -6,9 +6,7 @@
 # Add a way that if I see a player inj to add a flag in UI
 # Add a code to calculate bench score if player asese ma leeib
 # Ghayyir clean sheet b tari2a hot l fari2 w automatically yenzedo lal corresponding players
-# Color the players in df which are taken by users
 # Formation change?
-# Connect directly to Github instead of adding and removing files
 
 
 # Steps: - Add missing variable of player in both .py files (if any missing)
@@ -155,6 +153,7 @@ john_donald = "John Donald"
 enzo_roco = "Enzo Roco"
 pedro_bigas = "Pedro Bigas"
 helibelton_palacios = "Helibelton Palacios"
+federico_fernandez = "Federico Fernandez"
 omar_mascarell = "Omar Mascarell"
 gerard_gumbau = "Gerard Gumbau"
 gonzalo_verdu = "Gonzalo Verdu"
@@ -349,6 +348,7 @@ willian_jose = "Willian Jose"
 
 # Real Madrid
 thibaut_courtois = "Thibaut Courtois"
+andriy_lunin = "Andriy Lunin"
 lucas_vasquez = "Lucas Vasquez"
 eder_militao = "Eder Militao"
 antonio_rudiger = "Antonio Rudiger"
@@ -546,41 +546,41 @@ charbel = [{
     "G1": unai_simon,
     "D1": pau_torres,
     "D2": alex_moreno,
-    "D3": hector_bellerin,
-    "D4": jules_kounde,
+    "D3": ivan_balliu,
+    "D4": andreas_christensen,
     "M1": brais_mendez,
     "M2": samu_castillejo,
-    "M3": aimar_oroz,
+    "M3": nabil_fekir,
     "F1": robert_lewandowski,
     "F2": borja_iglesias,
-    "F3": vedat_muriqi,
-    "G2": sergio_herrera,
-    "D5": juan_cruz,
-    "M4": nabil_fekir,
-    "F4": joao_felix,
+    "F3": joao_felix,
+    "G2": alex_remiro,
+    "D5": jules_kounde,
+    "M4": aimar_oroz,
+    "F4": joselu,
 }]
 
 ralph = [{
-    "G1": bono,
+    "G1": jan_oblak,
     "D1": david_alaba,
-    "D2": pablo_maffeo,
-    "D3": eric_garcia,
-    "D4": luiz_felipe,
+    "D2": raul_albiol,
+    "D3": reinildo,
+    "D4": lucas_vasquez,
     "M1": raphinha,
     "M2": federico_valverde,
     "M3": sergio_canales,
     "F1": enes_unal,
     "F2": iago_aspas,
-    "F3": youssef_ennesyri,
-    "G2": jan_oblak,
-    "D5": reinildo,
+    "F3": gerard_moreno,
+    "G2": bono,
+    "D5": eric_garcia,
     "M4": alvaro_garcia,
-    "F4": gerard_moreno,
+    "F4": youssef_ennesyri,
 }]
 
 george = [{
     "G1": marc_andre_ter_stegen,
-    "D1": ronald_araujo,
+    "D1": stefan_savic,
     "D2": alejandro_balde,
     "D3": antonio_rudiger,
     "D4": yeray_alvarez,
@@ -591,8 +591,8 @@ george = [{
     "F2": ousmane_dembele,
     "F3": vinicius_junior,
     "G2": geronimo_rulli,
-    "D5": stefan_savic,
-    "M4": alex_collado,
+    "D5": ronald_araujo,
+    "M4": hugo_guillamon,
     "F4": ansu_fati,
 }]
 
@@ -603,15 +603,15 @@ rene = [{
     "D3": oscar_de_marcos,
     "D4": jordi_alba,
     "M1": alex_berenguer,
-    "M2": yeremy_pino,
-    "M3": kang_in_lee,
-    "F1": rodrygo,
+    "M2": kang_in_lee,
+    "M3": isi_palazon,
+    "F1": karim_benzema,
     "F2": alvaro_morata,
-    "F3": chimy,
+    "F3": nico_williams,
     "G2": thibaut_courtois,
     "D5": robin_le_normand,
-    "M4": pedri,
-    "F4": karim_benzema,
+    "M4": yeremy_pino,
+    "F4": rodrygo,
 }]
 
 
@@ -1135,7 +1135,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
