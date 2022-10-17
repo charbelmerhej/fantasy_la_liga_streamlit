@@ -548,38 +548,38 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": andriy_lunin,
+    "G1": jeremias_ledesma,
     "D1": pau_torres,
     "D2": alex_moreno,
-    "D3": jose_maria_gimenez,
-    "D4": gerard_pique,
+    "D3": jules_kounde,
+    "D4": eray_comert,
     "M1": brais_mendez,
-    "M2": aimar_oroz,
-    "M3": alejandro_baena,
+    "M2": justin_kluivert,
+    "M3": aimar_oroz,
     "F1": robert_lewandowski,
     "F2": borja_iglesias,
     "F3": joselu,
     "G2": unai_simon,
-    "D5": jules_kounde,
-    "M4": samu_castillejo,
-    "F4": joao_felix,
+    "D5": jose_maria_gimenez,
+    "M4": gio_lo_celso,
+    "F4": antoine_griezmann,
 }]
 
 ralph = [{
-    "G1": jan_oblak,
+    "G1": bono,
     "D1": david_alaba,
     "D2": jose_luis_gaya,
-    "D3": reinildo,
-    "D4": eric_garcia,
-    "M1": yannick_carrasco,
+    "D3": ivan_balliu,
+    "D4": raul_albiol,
+    "M1": raphinha,
     "M2": federico_valverde,
     "M3": sergio_canales,
     "F1": edinson_cavani,
-    "F2": youssef_ennesyri,
-    "F3": iago_aspas,
-    "G2": bono,
-    "D5": raul_albiol,
-    "M4": raphinha,
+    "F2": iago_aspas,
+    "F3": youssef_ennesyri,
+    "G2": jan_oblak,
+    "D5": reinildo,
+    "M4": yannick_carrasco,
     "F4": gerard_moreno,
 }]
 
@@ -587,17 +587,17 @@ george = [{
     "G1": marc_andre_ter_stegen,
     "D1": stefan_savic,
     "D2": alejandro_balde,
-    "D3": antonio_rudiger,
+    "D3": victor_ruiz,
     "D4": yeray_alvarez,
     "M1": iker_munian,
     "M2": takefusa_kubo,
-    "M3": hugo_guillamon,
+    "M3": rodri_sanchez,
     "F1": ansu_fati,
     "F2": ousmane_dembele,
     "F3": vinicius_junior,
     "G2": geronimo_rulli,
     "D5": ronald_araujo,
-    "M4": rodri_sanchez,
+    "M4": hugo_guillamon,
     "F4": martin_braithwaite,
 }]
 
@@ -606,17 +606,17 @@ rene = [{
     "D1": alfonso_pedraza,
     "D2": robin_le_normand,
     "D3": oscar_de_marcos,
-    "D4": jordi_alba,
+    "D4": ferland_mendy,
     "M1": alex_berenguer,
-    "M2": kang_in_lee,
+    "M2": mikel_merino,
     "M3": isi_palazon,
-    "F1": rodrygo,
+    "F1": karim_benzema,
     "F2": alvaro_morata,
     "F3": nico_williams,
     "G2": thibaut_courtois,
-    "D5": ferland_mendy,
-    "M4": sergi_darder,
-    "F4": karim_benzema,
+    "D5": jordi_alba,
+    "M4": kang_in_lee,
+    "F4": rodrygo,
 }]
 
 
@@ -1140,7 +1140,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
