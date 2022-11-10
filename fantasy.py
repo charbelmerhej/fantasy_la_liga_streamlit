@@ -1157,7 +1157,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = True
+updated_points = False
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
