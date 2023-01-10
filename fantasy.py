@@ -1100,6 +1100,8 @@ st.header("Total Players Stats")
 
 df = pd.read_csv("fantasy.csv", index_col=0)
 df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
+df["Pts"] = df["Pts"].astype(int)
+df["2GC"] = df["2GC"].astype(int)
 
 players_taken = [charbel[0]["G1"], charbel[0]["D1"], charbel[0]["D2"], charbel[0]["D3"], charbel[0]["D4"], charbel[0]["D5"],
                  charbel[0]["M1"], charbel[0]["M2"], charbel[0]["M3"], charbel[0]["M4"], charbel[0]["F1"], charbel[0]["F2"],
