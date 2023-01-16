@@ -580,7 +580,7 @@ gerard_moreno = "Gerard Moreno"
 charbel = [{
     "G1": aitor_fernandez,
     "D1": alfonso_espino,
-    "D2": alvaro_gimenez,
+    "D2": jose_maria_gimenez,
     "D3": pau_torres,
     "D4": jesus_navas,
     "M1": sergi_darder,
@@ -1170,7 +1170,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = True
+updated_points = False
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
