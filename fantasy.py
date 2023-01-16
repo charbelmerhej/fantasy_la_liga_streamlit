@@ -184,6 +184,7 @@ alvaro_fernandez = "Alvaro Fernandez"
 oscar_gil = "Oscar Gil"
 sergi_gomez = "Sergi Gomez"
 leandro_cabrera = "Leandro Cabrera"
+cesar_montes = "Cesar Montes"
 brian_olivan = "Brian Olivan"
 aleix_vidal = "Aleix Vidal"
 vinicius_souza = "Vinicius Souza"
@@ -577,75 +578,75 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": unai_simon,
-    "D1": alex_moreno,
-    "D2": jules_kounde,
+    "G1": aitor_fernandez,
+    "D1": alfonso_espino,
+    "D2": alvaro_gimenez,
     "D3": pau_torres,
     "D4": jesus_navas,
-    "M1": iker_munian,
-    "M2": samuel_lino,
+    "M1": sergi_darder,
+    "M2": brais_mendez,
     "M3": isi_palazon,
     "F1": borja_iglesias,
     "F2": antoine_griezmann,
     "F3": gerard_moreno,
-    "G2": alex_remiro,
-    "D5": jose_maria_gimenez,
-    "M4": brais_mendez,
+    "G2": unai_simon,
+    "D5": jules_kounde,
+    "M4": samuel_lino,
     "F4": robert_lewandowski,
 }]
 
 ralph = [{
-    "G1": bono,
-    "D1": aritz_elustondo,
+    "G1": jan_oblak,
+    "D1": luis_hernandez,
     "D2": reinildo,
-    "D3": david_alaba,
+    "D3": djene,
     "D4": raul_albiol,
-    "M1": sergio_canales,
-    "M2": federico_valverde,
+    "M1": moi_gomez,
+    "M2": alejandro_baena,
     "M3": kang_in_lee,
-    "F1": edinson_cavani,
+    "F1": mikel_oyarzabal,
     "F2": iago_aspas,
-    "F3": joao_felix,
-    "G2": jan_oblak,
-    "D5": daniel_carvajal,
-    "M4": alejandro_baena,
-    "F4": mikel_oyarzabal,
+    "F3": borja_mayoral,
+    "G2": bono,
+    "D5": david_alaba,
+    "M4": federico_valverde,
+    "F4": edinson_cavani,
 }]
 
 george = [{
-    "G1": marc_andre_ter_stegen,
-    "D1": stefan_savic,
+    "G1": stole_dimitrievski,
+    "D1": mario_hermoso,
     "D2": yuri_berchiche,
-    "D3": ronald_araujo,
+    "D3": gonzalo_montiel,
     "D4": yeray_alvarez,
     "M1": erik_lamela,
-    "M2": pedri,
+    "M2": samuel_chukwueze,
     "M3": takefusa_kubo,
     "F1": youssef_ennesyri,
     "F2": ousmane_dembele,
-    "F3": vinicius_junior,
-    "G2": geronimo_rulli,
-    "D5": gonzalo_montiel,
-    "M4": thomas_lemar,
-    "F4": vedat_muriqi,
+    "F3": vedat_muriqi,
+    "G2": marc_andre_ter_stegen,
+    "D5": ronald_araujo,
+    "M4": pedri,
+    "F4": vinicius_junior,
 }]
 
 rene = [{
-    "G1": rui_silva,
+    "G1": thibaut_courtois,
     "D1": nahuel_molina,
     "D2": oscar_de_marcos,
     "D3": robin_le_normand,
     "D4": ferland_mendy,
-    "M1": raphinha,
+    "M1": alvaro_garcia,
     "M2": mikel_merino,
-    "M3": nabil_fekir,
+    "M3": raphinha,
     "F1": alexander_sorloth,
     "F2": alvaro_morata,
-    "F3": karim_benzema,
-    "G2": thibaut_courtois,
+    "F3": joselu,
+    "G2": rui_silva,
     "D5": jordi_alba,
-    "M4": alex_berenguer,
-    "F4": rodrygo,
+    "M4": nabil_fekir,
+    "F4": karim_benzema,
 }]
 
 
@@ -1100,8 +1101,6 @@ st.header("Total Players Stats")
 
 df = pd.read_csv("fantasy.csv", index_col=0)
 df = df.sort_values(by="Pts", ascending=False, ignore_index=True)
-df["Pts"] = df["Pts"].astype(int)
-df["2GC"] = df["2GC"].astype(int)
 
 players_taken = [charbel[0]["G1"], charbel[0]["D1"], charbel[0]["D2"], charbel[0]["D3"], charbel[0]["D4"], charbel[0]["D5"],
                  charbel[0]["M1"], charbel[0]["M2"], charbel[0]["M3"], charbel[0]["M4"], charbel[0]["F1"], charbel[0]["F2"],
@@ -1171,7 +1170,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
