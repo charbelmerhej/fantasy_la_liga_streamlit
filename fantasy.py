@@ -463,6 +463,8 @@ oscar_plano = "Oscar Plano"
 kike_perez = "Kike Perez"
 sekou_gassama = "Sekou Gassama"
 javi_sanchez = "Javi Sanchez"
+darwin_machis = "Darwin Machis"
+cyle_larin = "Cyle Larin"
 sergi_guardiola = "Sergi Guardiola"
 anuar = "Anuar"
 shon_weissman = "Shon Weissman"
@@ -582,28 +584,28 @@ gerard_moreno = "Gerard Moreno"
 charbel = [{
     "G1": pepe_reina,
     "D1": alfonso_espino,
-    "D2": jose_maria_gimenez,
+    "D2": eder_militao,
     "D3": pau_torres,
     "D4": jules_kounde,
     "M1": samuel_lino,
     "M2": brais_mendez,
-    "M3": isi_palazon,
+    "M3": luiz_henrique,
     "F1": borja_iglesias,
-    "F2": antoine_griezmann,
+    "F2": robert_lewandowski,
     "F3": gerard_moreno,
     "G2": unai_simon,
     "D5": tanguy_nianzou,
-    "M4": sergi_darder,
-    "F4": robert_lewandowski,
+    "M4": isi_palazon,
+    "F4": antoine_griezmann,
 }]
 
 ralph = [{
     "G1": jan_oblak,
-    "D1": marcos_alonso,
+    "D1": nacho_fernandez,
     "D2": reinildo,
-    "D3": jose_luis_gaya,
+    "D3": antonio_rudiger,
     "D4": raul_albiol,
-    "M1": oliver_torres,
+    "M1": sergio_canales,
     "M2": alejandro_baena,
     "M3": federico_valverde,
     "F1": mikel_oyarzabal,
@@ -618,37 +620,37 @@ ralph = [{
 george = [{
     "G1": marc_andre_ter_stegen,
     "D1": alejandro_balde,
-    "D2": yuri_berchiche,
-    "D3": marcos_acuna,
+    "D2": ronald_araujo,
+    "D3": mouctar_diakhaby,
     "D4": yeray_alvarez,
-    "M1": gabriel_veiga,
+    "M1": takefusa_kubo,
     "M2": samuel_chukwueze,
     "M3": pedri,
-    "F1": youssef_ennesyri,
+    "F1": vedat_muriqi,
     "F2": ousmane_dembele,
     "F3": vinicius_junior,
     "G2": stole_dimitrievski,
-    "D5": ronald_araujo,
-    "M4": takefusa_kubo,
-    "F4": vedat_muriqi,
+    "D5": yuri_berchiche,
+    "M4": gabriel_veiga,
+    "F4": youssef_ennesyri,
 }]
 
 rene = [{
     "G1": thibaut_courtois,
     "D1": nahuel_molina,
     "D2": jordi_alba,
-    "D3": robin_le_normand,
-    "D4": ferland_mendy,
-    "M1": alvaro_garcia,
+    "D3": oscar_de_marcos,
+    "D4": robin_le_normand,
+    "M1": nabil_fekir,
     "M2": mikel_merino,
     "M3": raphinha,
-    "F1": alexander_sorloth,
+    "F1": joselu,
     "F2": alvaro_morata,
     "F3": karim_benzema,
     "G2": rui_silva,
-    "D5": oscar_de_marcos,
-    "M4": nabil_fekir,
-    "F4": joselu,
+    "D5": ferland_mendy,
+    "M4": alvaro_garcia,
+    "F4": alexander_sorloth,
 }]
 
 
@@ -1172,7 +1174,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)

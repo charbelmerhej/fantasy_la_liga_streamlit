@@ -1,611 +1,613 @@
 ,Name,Position,Team,Pts,GWs,Mins Pts,G,A,CS,YC,RC,OG,PenMiss,Saves Pts,PenSave,Bonus,2GC
-0,Ander Iru,GK,Athletic Club,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-1,Alex Padilla,GK,Athletic Club,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-2,Julen Agirrezabala,GK,Athletic Club,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-3,Unai Simon,GK,Athletic Club,71,18,36,0,0,8,1,0,0,0,6,0,5,7
-4,Jon Sillero,DEF,Athletic Club,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-5,Aitor Casamichana,DEF,Athletic Club,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-6,Alex Petxa,DEF,Athletic Club,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-7,Peru Esnal,DEF,Athletic Club,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-8,Inigo Lekue,DEF,Athletic Club,37,18,23,0,1,3,1,0,0,0,0,0,2,2
-9,Mikel Balenziaga,DEF,Athletic Club,0,18,1,0,0,0,0,0,0,0,0,0,0,1
-10,Oscar De Marcos,DEF,Athletic Club,67,18,33,0,3,7,2,0,0,0,0,0,3,4
-11,Ander Capa,DEF,Athletic Club,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-12,Daniel Vivian,DEF,Athletic Club,49,18,23,1,0,6,4,0,0,0,0,0,3,3
-13,Yeray Alvarez,DEF,Athletic Club,65,18,30,0,1,8,2,1,0,0,0,0,10,5
-14,Yuri Berchiche,DEF,Athletic Club,35,18,18,0,0,5,4,0,0,0,0,0,5,4
-15,Inigo Martinez,DEF,Athletic Club,20,18,18,0,0,2,1,0,0,0,0,0,0,5
-16,Jon Morcillo,MID,Athletic Club,11,18,8,0,1,0,0,0,0,0,0,0,0,0
-17,Oier Zarraga,MID,Athletic Club,15,18,16,0,0,1,2,0,0,0,0,0,0,0
-18,Nico Serrano,MID,Athletic Club,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-19,Mikel Vesga,MID,Athletic Club,52,18,30,2,2,7,3,0,0,0,0,0,2,0
-20,Dani Garcia,MID,Athletic Club,18,18,15,0,1,2,2,0,0,0,0,0,0,0
-21,Unai Vencedor,MID,Athletic Club,4,18,6,0,0,0,2,0,0,0,0,0,0,0
-22,Alex Berenguer,MID,Athletic Club,59,18,30,3,1,5,0,0,0,0,0,0,6,0
-23,Iker Munian,MID,Athletic Club,35,18,24,0,1,4,1,0,0,0,0,0,5,0
-24,Malcom Ares,FWD,Athletic Club,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-25,Luis Bilbao,FWD,Athletic Club,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-26,Gorka Guruzeta,FWD,Athletic Club,39,18,14,5,0,0,1,0,0,0,0,0,6,0
-27,Asier Villalibre,FWD,Athletic Club,5,18,5,0,0,0,0,0,0,0,0,0,0,0
-28,Oihan Sancet,FWD,Athletic Club,42,18,32,3,0,4,2,0,0,0,0,0,0,0
-29,Raul Garcia,FWD,Athletic Club,25,18,19,1,1,1,1,0,0,0,0,0,0,0
-30,Nico Williams,FWD,Athletic Club,62,18,34,3,3,0,0,0,0,0,0,0,7,0
-31,Inaki Williams,FWD,Athletic Club,65,18,35,5,1,0,0,0,0,1,0,0,9,0
-32,Jan Oblak,GK,Atletico Madrid,58,18,32,0,0,6,1,0,0,0,6,0,0,3
-33,Antonio Gomis,GK,Atletico Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-34,Ivo Grbic,GK,Atletico Madrid,6,18,6,0,0,0,1,0,0,0,1,0,0,0
-35,Mario Hermoso,DEF,Atletico Madrid,19,18,9,2,0,1,1,2,0,0,0,0,1,0
-36,Stefan Savic,DEF,Atletico Madrid,33,18,24,0,0,4,3,1,0,0,0,0,0,1
-37,Felipe,DEF,Atletico Madrid,4,18,5,0,0,0,0,0,0,0,0,0,0,1
-38,Reinildo,DEF,Atletico Madrid,51,18,34,0,0,5,3,0,0,0,0,0,3,3
-39,Santiago Arias,DEF,Atletico Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-40,Renan Lodi,DEF,Atletico Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-41,Jose Gimenez,DEF,Atletico Madrid,34,18,21,0,0,4,5,0,0,0,0,0,2,0
-42,Daniel Wass,MID,Atletico Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-43,Geoffrey Kondogbia,MID,Atletico Madrid,37,18,25,0,2,3,4,0,0,0,0,0,7,0
-44,Nahuel Molina,MID,Atletico Madrid,30,18,27,0,1,4,3,1,0,0,0,0,2,2
-45,Thomas Lemar,MID,Atletico Madrid,28,18,17,0,2,2,0,0,0,0,0,0,3,0
-46,Koke,MID,Atletico Madrid,33,18,24,0,2,5,2,0,0,0,0,0,0,0
-47,Axel Witsel,MID,Atletico Madrid,32,18,30,0,0,4,2,0,0,0,0,0,0,1
-48,Marcos Llorente,MID,Atletico Madrid,35,18,23,1,0,4,1,0,0,0,0,0,4,0
-49,Yannick Carrasco,MID,Atletico Madrid,31,18,24,1,0,1,1,0,0,0,0,0,2,0
-50,Saul Niguez,MID,Atletico Madrid,19,18,18,0,1,2,6,0,0,0,0,0,2,0
-51,Rodrigo De Paul,MID,Atletico Madrid,35,18,21,1,1,2,2,0,0,0,0,0,6,0
-52,Carlos Martin,FWD,Atletico Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-53,Marcos Paulo,FWD,Atletico Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-54,Matheus Cunha,FWD,Atletico Madrid,18,18,14,0,2,0,2,0,0,0,0,0,0,0
-55,Angel Correa,FWD,Atletico Madrid,42,18,24,4,0,0,1,0,0,0,0,0,3,0
-56,Alvaro Morata,FWD,Atletico Madrid,69,18,30,7,1,0,3,0,0,0,0,0,11,0
-57,Joao Felix,FWD,Atletico Madrid,47,18,21,4,3,0,5,0,0,0,0,0,6,0
-58,Antoine Griezmann,FWD,Atletico Madrid,90,18,28,6,6,0,0,0,0,0,0,0,20,0
-59,Aitor Fernandez,GK,Osasuna,36,18,16,0,0,4,1,0,0,0,4,0,3,2
-60,Sergio Herrera,GK,Osasuna,27,18,20,0,0,2,3,0,0,0,4,0,1,3
-61,Jorge Herrando,DEF,Osasuna,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-62,Jesus Areso,DEF,Osasuna,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-63,Juan Cruz,DEF,Osasuna,34,18,29,0,0,3,4,0,0,0,0,0,2,5
-64,Unai Garcia,DEF,Osasuna,39,18,29,0,1,4,5,1,0,0,0,0,3,4
-65,Ruben Pena,DEF,Osasuna,24,18,18,0,1,2,1,1,0,0,0,0,0,1
-66,Aridane Hernandez,DEF,Osasuna,14,18,6,0,0,2,0,0,0,0,0,0,0,0
-67,Nacho Vidal,DEF,Osasuna,26,18,21,0,0,2,2,0,0,0,0,0,1,2
-68,Manuel Sanchez,DEF,Osasuna,35,18,21,0,1,3,0,0,0,0,0,0,0,1
-69,David Garcia,DEF,Osasuna,54,18,32,1,0,6,6,1,0,0,0,0,5,4
-70,Iker Benito,MID,Osasuna,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-71,Aimar Oroz,MID,Osasuna,46,18,26,3,1,4,3,0,0,0,0,0,1,0
-72,Robert Ibanez,MID,Osasuna,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-73,Javi Martinez,MID,Osasuna,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-74,Darko Brasanac,MID,Osasuna,29,18,22,1,1,2,3,0,0,0,0,0,0,0
-75,Roberto Torres,MID,Osasuna,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-76,Kike Saverio,MID,Osasuna,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-77,Lucas Torro,MID,Osasuna,33,18,32,0,0,6,6,0,0,0,0,0,1,0
-78,Jon Moncayola,MID,Osasuna,29,18,29,0,0,2,2,0,0,0,0,0,0,0
-79,Moi Gomez,MID,Osasuna,67,18,34,1,2,6,2,0,0,0,0,0,18,0
-80,Ruben Garcia,MID,Osasuna,33,18,18,1,2,2,2,0,0,0,0,0,4,0
-81,Barbero,FWD,Osasuna,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-82,Kike Barja,FWD,Osasuna,19,18,12,1,1,1,0,0,0,0,0,0,0,0
-83,Kike Garcia,FWD,Osasuna,30,18,21,2,0,0,3,0,0,0,0,0,4,0
-84,Chimy,FWD,Osasuna,60,18,29,7,1,0,5,1,0,1,0,0,10,0
-85,Ante Budimir,FWD,Osasuna,26,18,24,1,0,0,2,0,0,0,0,0,0,0
-86,David Gil,GK,Cadiz,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-87,Jeremias Ledesma,GK,Cadiz,91,18,36,0,0,5,0,0,0,0,22,1,19,11
-88,Mamadou Mbaye,DEF,Cadiz,10,18,8,0,0,1,0,0,0,0,0,0,0,2
-89,Karl Eyong,DEF,Cadiz,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-90,Juan Cala,DEF,Cadiz,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-91,Isaac Carcelen,DEF,Cadiz,24,18,19,0,0,3,1,2,0,0,0,0,3,3
-92,Luis Hernandez,DEF,Cadiz,38,18,32,0,0,4,1,1,0,0,0,0,4,10
-93,Joseba Zaldua,DEF,Cadiz,8,18,16,0,1,0,4,0,0,0,0,0,0,7
-94,Fali,DEF,Cadiz,20,18,18,0,0,2,4,0,0,0,0,0,2,4
-95,Santiago Arzamendia,DEF,Cadiz,14,18,10,0,0,1,0,0,0,0,0,0,0,0
-96,Alfonso Espino,DEF,Cadiz,46,18,35,0,3,4,4,0,0,0,0,0,0,10
-97,Victor Chust,DEF,Cadiz,25,18,20,1,0,2,3,0,0,0,0,0,1,7
-98,Jon Garrido,MID,Cadiz,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-99,Martin Calderon,MID,Cadiz,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-100,Jorge Pombo,MID,Cadiz,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-101,Jose Mari,MID,Cadiz,11,18,13,0,0,0,2,0,0,0,0,0,0,0
-102,Alberto Perea,MID,Cadiz,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-103,Ivan Alejo,MID,Cadiz,17,18,22,0,1,2,7,1,0,0,0,0,0,0
-104,Alex Fernandez,MID,Cadiz,45,18,26,2,0,5,0,0,0,0,0,0,4,0
-105,Ruben Alcaraz,MID,Cadiz,26,18,22,1,0,2,3,1,0,0,0,0,3,0
-106,Awer Mabil,MID,Cadiz,6,18,6,0,0,0,0,0,0,0,0,0,0,0
-107,Tomas Alarcon,MID,Cadiz,3,18,6,0,0,0,0,1,0,0,0,0,0,0
-108,Ivan Chapela,FWD,Cadiz,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-109,Mamady Diarra,FWD,Cadiz,3,18,3,0,0,0,0,0,0,0,0,0,0,0
-110,Milutin Osmajic,FWD,Cadiz,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-111,Alvaro Gimenez,FWD,Cadiz,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-112,Ruben Sobrino,FWD,Cadiz,30,18,28,1,1,3,5,0,0,0,0,0,0,0
-113,Anthony Lozano,FWD,Cadiz,25,18,27,0,0,0,2,0,0,0,0,0,0,0
-114,Alvaro Negredo,FWD,Cadiz,22,18,15,1,1,0,0,0,0,0,0,0,0,0
-115,Lucas Perez,FWD,Cadiz,32,18,19,3,0,0,2,0,0,0,0,0,3,0
-116,Axel Werner,GK,Elche,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-117,Edgar Badia,GK,Elche,59,18,36,0,0,0,2,0,0,0,20,2,8,13
-118,Josema,DEF,Elche,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-119,Diego Gonzalez,DEF,Elche,6,18,13,0,0,0,4,0,0,0,0,0,0,3
-120,Pedro Bigas,DEF,Elche,15,18,29,0,0,0,2,1,0,0,0,0,0,9
-121,Gonzalo Verdu,DEF,Elche,9,18,11,1,0,0,1,2,0,0,0,0,3,4
-122,Carlos Clerc,DEF,Elche,22,18,26,0,1,1,1,0,0,0,0,0,0,10
-123,Helibelton Palacios,DEF,Elche,13,18,24,0,0,0,3,0,0,0,0,0,0,8
-124,Enzo Roco,DEF,Elche,12,18,23,0,0,0,2,0,0,0,0,0,0,9
-125,Johan Mojica,DEF,Villareal,19,18,16,0,0,1,2,0,0,0,0,0,2,1
-126,Victor Rodriguez,MID,Elche,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-127,Branislav Knezevic,MID,Elche,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-128,Josan,MID,Elche,17,18,13,1,0,0,2,0,0,0,0,0,1,1
-129,Tete Morente,MID,Elche,21,18,24,0,0,0,3,0,0,0,0,0,0,0
-130,Gerard Gumbau,MID,Elche,33,18,27,0,3,0,5,0,0,0,0,0,2,0
-131,Raul Guti,MID,Elche,18,18,19,0,0,0,1,0,0,0,0,0,0,0
-132,Omar Mascarell,MID,Elche,28,18,31,0,0,0,3,0,0,0,0,0,0,0
-133,Fidel,MID,Elche,11,18,9,0,1,0,2,0,0,0,0,0,1,0
-134,Javier Pastore,MID,Elche,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-135,Mourad El Ghezouani,FWD,Elche,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-136,Pere Milla,FWD,Elche,43,18,28,3,1,0,4,0,0,0,0,0,4,0
-137,Ezequiel Ponce,FWD,Elche,32,18,19,3,0,0,2,0,0,0,0,0,3,0
-138,Roger Marti,FWD,Elche,21,18,20,0,1,0,2,0,0,0,0,0,0,0
-139,Lucas Boye,FWD,Elche,33,18,28,1,2,0,3,1,0,1,0,0,3,0
-140,Joan Garcia,GK,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-141,Benjamin Lecomte,GK,Espanyol,25,18,20,0,0,1,1,1,1,0,6,0,6,5
-142,Wassim Keddari,DEF,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-143,Fernando Calero,DEF,Espanyol,30,18,27,0,0,2,2,0,0,0,0,0,0,3
-144,Brian Olivan,DEF,Espanyol,54,18,33,0,5,3,5,0,0,0,0,0,7,8
-145,Oscar Gil,DEF,Espanyol,41,18,29,0,1,3,4,0,0,0,0,0,5,4
-146,Sergi Gomez,DEF,Espanyol,14,18,24,0,0,0,0,1,0,0,0,0,1,8
-147,Tonny Vilhena,DEF,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-148,Leandro Cabrera,DEF,Espanyol,33,18,33,0,0,3,3,1,0,0,0,0,3,9
-149,Adria Pedrosa,DEF,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-150,Aleix Vidal,DEF,Espanyol,20,18,19,0,0,1,3,0,0,0,0,0,0,0
-151,Daniel Villahermosa,MID,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-152,Pol Lozano,MID,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-153,Nicolas Melamed,MID,Espanyol,10,18,12,0,0,0,2,0,0,0,0,0,0,0
-154,Adrian Embarba,MID,Espanyol,33,18,18,1,3,1,3,1,0,0,0,0,6,0
-155,Vinicius Souza,MID,Espanyol,33,18,34,0,0,2,5,1,0,0,0,0,5,0
-156,Keidi Bare,MID,Espanyol,12,18,12,0,0,0,0,0,0,0,0,0,0,0
-157,Sergi Darder,MID,Espanyol,66,18,36,2,1,2,2,0,0,0,0,0,17,0
-158,Matias Vargas,MID,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-159,Javi Puado,MID,Espanyol,40,18,25,3,0,2,2,0,0,0,0,0,0,0
-160,Jofre,FWD,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-161,Kenneth Soler,FWD,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-162,Luca Koleosho,FWD,Espanyol,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-163,Juan Camilo Becerra,FWD,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-164,Nabil Touaizi,FWD,Espanyol,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-165,Landry Dimata,FWD,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-166,Joselu,FWD,Espanyol,97,18,36,10,2,0,2,0,0,0,0,0,17,0
-167,Wu Lei,FWD,Espanyol,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-168,Raul De Tomas,FWD,Rayo Vallecano,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-169,Inaki Pena,GK,FC Barcelona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-170,Ter Stegen,GK,FC Barcelona,98,18,34,0,0,13,0,0,0,0,6,0,7,1
-171,Alejandro Balde,DEF,FC Barcelona,74,18,28,0,3,10,2,0,0,0,0,0,0,1
-172,Sergi Roberto,DEF,FC Barcelona,41,18,17,2,0,3,1,0,0,0,0,0,2,1
-173,Andreas Christensen,DEF,FC Barcelona,33,18,14,0,1,3,2,0,0,0,0,0,6,0
-174,Samuel Umtiti,DEF,FC Barcelona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-175,Eric Garcia,DEF,FC Barcelona,30,18,15,1,0,3,2,0,0,0,0,0,0,1
-176,Jules Kounde,DEF,FC Barcelona,64,18,19,0,2,8,0,0,0,0,0,0,8,1
-177,Sergino Dest,DEF,FC Barcelona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-178,Ronald Araujo,DEF,FC Barcelona,36,18,14,0,0,6,4,0,0,0,0,0,2,0
-179,Jordi Alba,DEF,FC Barcelona,48,18,20,0,1,6,2,1,0,0,0,0,6,0
-180,Gerard Pique,DEF,FC Barcelona,25,18,10,0,0,4,3,0,0,0,0,0,2,0
-181,Pablo Torre,MID,FC Barcelona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-182,Miralem Pjanic,MID,FC Barcelona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-183,Franck Kessie,MID,FC Barcelona,9,18,11,0,0,1,3,0,0,0,0,0,0,0
-184,Sergio Busquets,MID,FC Barcelona,33,18,26,0,1,10,4,1,0,0,0,0,1,0
-185,Gavi,MID,FC Barcelona,38,18,26,0,2,8,3,0,0,0,0,0,1,0
-186,Raphinha,MID,FC Barcelona,61,18,24,2,3,7,2,0,0,0,0,0,13,0
-187,Pedri,MID,FC Barcelona,77,18,32,4,0,11,1,0,0,0,0,0,15,0
-188,Frenkie De Jong,MID,FC Barcelona,52,18,25,2,1,6,0,0,0,0,0,0,8,0
-189,Martin Braithwaite,FWD,Espanyol,42,18,25,4,1,0,2,1,0,0,0,0,3,0
-190,Ferran Torres,FWD,FC Barcelona,21,18,20,2,0,0,4,1,0,0,0,0,0,0
-191,Memphis Depay,FWD,Atletico Madrid,7,18,3,1,0,0,0,0,0,0,0,0,0,0
-192,Pierre-Emerick Aubameyang,FWD,FC Barcelona,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-193,Ousmane Dembele,FWD,FC Barcelona,67,18,29,5,5,1,4,0,0,0,0,0,7,0
-194,Ansu Fati,FWD,FC Barcelona,43,18,21,3,3,0,1,0,0,0,0,0,2,0
-195,Robert Lewandowski,FWD,FC Barcelona,105,18,28,13,4,1,0,1,0,1,0,0,18,0
-196,Diego Conde,GK,Getafe,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-197,David Soria,GK,Getafe,88,18,36,0,0,6,1,0,0,0,14,2,13,8
-198,Gaston Alvarez,DEF,Getafe,29,18,13,2,0,2,1,1,0,0,0,0,1,1
-199,Juan Iglesias,DEF,Getafe,43,18,30,1,0,4,4,0,0,0,0,0,2,7
-200,Amankwaa Akurugu,DEF,Getafe,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-201,Fabrizio Angileri,DEF,Getafe,3,18,12,0,0,0,2,1,0,0,0,0,0,4
-202,Stefan Mitrovic,DEF,Getafe,35,18,25,0,0,4,3,0,0,0,0,0,0,3
-203,Damian Suarez,DEF,Getafe,34,18,20,1,0,3,2,0,0,0,0,0,1,3
-204,Domingos Duarte,DEF,Getafe,48,18,33,0,2,5,6,0,1,0,0,0,5,8
-205,Djene,DEF,Getafe,44,18,31,0,0,5,4,0,0,0,0,0,4,7
-206,Angel Algobia,MID,Getafe,18,18,19,0,0,1,2,0,0,0,0,0,0,0
-207,Jaime Seoane,MID,Getafe,13,18,12,0,0,1,0,0,0,0,0,0,0,0
-208,Jakub Jankto,MID,Getafe,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-209,Luis Milla,MID,Getafe,31,18,23,0,0,4,0,1,0,0,0,0,7,0
-210,Portu,MID,Getafe,24,18,19,0,2,3,1,1,0,0,0,0,0,0
-211,Mauro Arambarri,MID,Getafe,14,18,12,0,1,2,0,1,0,0,0,0,0,0
-212,Nemanja Maksimovic,MID,Getafe,20,18,18,0,0,2,0,0,0,0,0,0,0,0
-213,Carles Alena,MID,Getafe,50,18,31,2,2,6,6,0,0,0,0,0,3,0
-214,John Joe Patrick Finn,FWD,Getafe,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-215,Jaime Mata,FWD,Getafe,4,18,6,0,0,0,2,0,0,0,0,0,0,0
-216,Borja Mayoral,FWD,Getafe,50,18,36,4,0,0,3,0,0,1,0,0,3,0
-217,Enes Unal,FWD,Getafe,69,18,36,5,3,0,4,0,0,1,0,0,10,0
-218,Juan Carlos,GK,Girona,22,18,20,0,0,0,0,0,0,0,5,0,2,5
-219,Biel Farres,DEF,Girona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-220,Eric Monjonell,DEF,Girona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-221,Juanpe,DEF,Girona,9,18,15,0,0,0,3,0,0,0,0,0,0,3
-222,Santiago Bueno,DEF,Girona,29,18,36,0,1,0,2,1,0,0,0,0,2,7
-223,Arnau Martinez,DEF,Girona,34,18,28,2,1,0,4,0,0,0,0,0,1,6
-224,Bernardo Espinos,DEF,Girona,12,18,16,0,1,0,2,0,0,0,0,0,0,5
-225,Miguel Gutierrez,DEF,Girona,32,18,31,0,2,1,4,0,0,0,0,0,1,6
-226,Ramon Terrats,MID,Girona,10,18,10,0,0,0,0,0,0,0,0,0,0,0
-227,Ibrahim Kebe,MID,Girona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-228,Ivan Martin,MID,Girona,21,18,10,2,0,0,0,0,0,0,0,0,1,0
-229,Valery Fernandez,MID,Girona,25,18,17,0,2,1,1,0,0,0,0,0,2,0
-230,Borja Garcia,MID,Girona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-231,David Lopez,MID,Girona,42,18,22,2,1,0,3,0,0,0,0,0,10,2
-232,Aleix Garcia,MID,Girona,73,18,36,0,4,0,1,0,0,0,0,0,26,0
-233,Rodrigo Riquelme,MID,Girona,41,18,26,3,0,0,0,0,0,0,0,0,0,0
-234,Yan Couto,MID,Girona,22,18,18,0,1,0,1,0,0,0,0,0,2,0
-235,Yangel Herrera,MID,Girona,36,18,21,2,2,0,2,0,0,0,0,0,1,0
-236,Joel Roca,FWD,Girona,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-237,Pau Victor,FWD,Girona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-238,Oscar Urena,FWD,Girona,3,18,3,0,0,0,0,0,0,0,0,0,0,0
-239,Samu Saiz,FWD,Girona,17,18,9,2,0,0,1,0,0,0,0,0,1,0
-240,Christhian Stuani,FWD,Girona,37,18,21,5,0,0,4,0,0,1,0,0,2,0
-241,Valentin Castellanos,FWD,Girona,46,18,33,4,0,1,5,0,0,0,0,0,2,0
-242,Stole Dimitrievski,GK,Rayo Vallecano,68,18,34,0,0,6,3,0,0,0,10,0,10,7
-243,Diego Lopez,GK,Rayo Vallecano,1,18,2,0,0,0,0,0,0,0,0,0,0,1
-244,Mario Hernandez,DEF,Rayo Vallecano,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-245,Esteban Saveljich,DEF,Rayo Vallecano,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-246,Mario Suarez,DEF,Rayo Vallecano,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-247,Ivan Balliu,DEF,Rayo Vallecano,47,18,36,0,0,6,2,0,2,0,0,0,1,8
-248,Florian Lejeune,DEF,Rayo Vallecano,64,18,30,3,0,5,2,1,0,0,0,0,8,7
-249,Alejandro Catena,DEF,Rayo Vallecano,57,18,34,1,1,6,5,0,0,0,0,0,2,7
-250,Fran Garcia,DEF,Rayo Vallecano,58,18,36,0,2,6,0,0,0,0,0,0,0,8
-251,Ruben de Tomas,MID,Rayo Vallecano,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-252,Jose Pozo,MID,Rayo Vallecano,6,18,6,0,0,0,0,0,0,0,0,0,0,0
-253,Salvi,MID,Rayo Vallecano,9,18,11,0,0,0,2,0,0,0,0,0,0,0
-254,Oscar Valentin,MID,Rayo Vallecano,32,18,28,0,0,6,6,0,0,0,0,0,4,0
-255,Unai Lopez,MID,Rayo Vallecano,41,18,23,1,2,4,0,0,0,0,0,0,3,0
-256,Isi Palazon,MID,Rayo Vallecano,71,18,31,5,3,6,3,0,0,1,0,0,5,0
-257,Bebe,MID,Rayo Vallecano,3,18,4,0,0,0,1,0,0,0,0,0,0,0
-258,Santi Comesana,MID,Rayo Vallecano,37,18,26,1,0,6,2,0,0,0,0,0,2,0
-259,Randy Nteka,MID,Rayo Vallecano,6,18,9,0,0,0,0,1,0,0,0,0,0,0
-260,Ismaila Ciss,MID,Rayo Vallecano,32,18,23,1,0,2,3,0,0,0,0,0,5,0
-261,Alvaro Garcia,MID,Rayo Vallecano,64,18,34,3,2,7,3,0,0,0,0,0,5,0
-262,Oscar Trejo,MID,Rayo Vallecano,41,18,28,2,2,4,7,0,0,1,0,0,2,0
-263,Sergio Moreno,FWD,Rayo Vallecano,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-264,Andres Martin,FWD,Rayo Vallecano,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-265,Lass Bangoura,FWD,Rayo Vallecano,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-266,Sergio Camello,FWD,Rayo Vallecano,65,18,33,4,3,0,1,0,0,0,0,0,8,0
-267,Radamel Falcao,FWD,Rayo Vallecano,24,18,18,2,0,0,3,0,0,0,0,0,1,0
-268,Ivan Villar,GK,Celta Vigo,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-269,Agustin Marchesin,GK,Celta Vigo,69,18,36,0,0,5,3,0,0,0,10,2,7,11
-270,Carlos Dominguez,DEF,Celta Vigo,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-271,Kevin Vasquez,DEF,Celta Vigo,7,18,3,0,0,1,0,0,0,0,0,0,0,0
-272,Hugo Mallo,DEF,Celta Vigo,32,18,29,0,0,4,4,0,0,0,0,0,0,9
-273,Unai Nunez,DEF,Celta Vigo,42,18,34,0,0,5,3,0,1,0,0,0,2,9
-274,Javi Galan,DEF,Celta Vigo,48,18,35,0,1,5,2,0,0,0,0,0,3,11
-275,Joseph Aidoo,DEF,Celta Vigo,53,18,36,1,0,5,3,0,0,0,0,0,5,11
-276,Oscar Mingueza,DEF,Celta Vigo,23,18,21,0,0,2,2,0,0,0,0,0,0,4
-277,Gabriel Veiga,MID,Celta Vigo,51,18,26,4,2,3,3,1,0,0,0,0,2,0
-278,Augusto Solari,MID,Celta Vigo,9,18,6,0,1,0,0,0,0,0,0,0,0,0
-279,Miguel Baeza,MID,Celta Vigo,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-280,Luca De La Torre,MID,Celta Vigo,10,18,10,0,0,0,0,0,0,0,0,0,0,0
-281,Williot Swedberg,MID,Celta Vigo,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-282,Fran Beltran,MID,Celta Vigo,38,18,34,0,1,4,3,0,0,0,0,0,0,0
-283,Franco Cervi,MID,Celta Vigo,38,18,31,0,2,4,0,1,0,0,0,0,0,0
-284,Oscar Rodriguez,MID,Celta Vigo,42,18,29,2,0,3,3,0,0,0,0,0,3,0
-285,Denis Suarez,MID,Celta Vigo,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-286,Renato Tapia,MID,Celta Vigo,20,18,20,0,0,2,2,0,0,0,0,0,0,0
-287,Goncalo Paciencia,FWD,Celta Vigo,14,18,15,1,0,0,2,1,0,0,0,0,0,0
-288,Santi Mina,FWD,Celta Vigo,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-289,Carles Perez,FWD,Celta Vigo,25,18,20,0,2,0,1,0,0,0,0,0,0,0
-290,Iago Aspas,FWD,Celta Vigo,87,18,34,8,3,0,2,0,0,1,0,0,16,0
-291,Predrag Rajkovic,GK,Mallorca,78,18,36,0,0,7,2,0,0,0,10,0,10,4
-292,Dominik Greif,GK,Mallorca,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-293,Toni Frau,DEF,Mallorca,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-294,Josep Gaya,DEF,Mallorca,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-295,Copete,DEF,Mallorca,55,18,30,0,0,6,4,0,0,0,0,0,6,1
-296,Antonio Raillo,DEF,Mallorca,68,18,34,1,0,6,5,0,0,0,0,0,13,4
-297,Brian Cufre,DEF,Mallorca,6,18,6,0,0,0,0,0,0,0,0,0,0,0
-298,Jaume Costa,DEF,Mallorca,54,18,30,0,1,7,4,0,0,0,0,0,1,4
-299,Franco Russo,DEF,Mallorca,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-300,Giovanni Gonzalez,DEF,Mallorca,21,18,6,0,1,3,1,0,0,0,0,0,1,0
-301,Martin Valjent,DEF,Mallorca,54,18,32,0,0,7,7,0,0,0,0,0,4,3
-302,Pablo Maffeo,DEF,Mallorca,53,18,30,1,2,4,3,1,0,0,0,0,5,4
-303,Antonio Sanchez,MID,Mallorca,18,18,21,0,0,1,4,0,0,0,0,0,0,0
-304,Inigo Ruiz de Galarreta,MID,Mallorca,26,18,25,0,0,5,5,0,0,0,0,0,1,0
-305,Clement Grenier,MID,Mallorca,12,18,16,0,0,3,7,0,0,0,0,0,0,0
-306,Dani Rodriguez,MID,Mallorca,40,18,28,1,2,6,5,0,0,0,0,0,0,0
-307,Rodrigo Battaglia,MID,Mallorca,14,18,17,0,0,2,5,0,0,0,0,0,0,0
-308,Jordi Mboula,MID,Mallorca,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-309,Iddrisu Baba,MID,Mallorca,21,18,22,0,0,2,3,0,0,0,0,0,0,0
-310,Kang-in Lee,MID,Mallorca,65,18,32,2,3,5,5,0,0,0,0,0,14,0
-311,Javi Llabres,FWD,Mallorca,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-312,Alex Alegria,FWD,Mallorca,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-313,Abdon Prats,FWD,Mallorca,18,18,13,1,0,0,0,0,0,0,0,0,1,0
-314,Lago Junior,FWD,Mallorca,5,18,5,0,0,0,0,0,0,0,0,0,0,0
-315,Amath Ndiaye,FWD,Mallorca,11,18,7,1,0,0,0,0,0,0,0,0,0,0
-316,Angel Rodriguez,FWD,Mallorca,8,18,8,0,0,0,0,0,0,0,0,0,0,0
-317,Matthew Hoppe,FWD,Mallorca,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-318,Vedat Muriqi,FWD,Mallorca,67,18,32,8,1,0,4,1,0,1,0,0,9,0
-319,Rui Silva,GK,Real Betis,60,18,28,0,0,6,2,0,0,0,8,0,5,3
-320,Claudio Bravo,GK,Real Betis,14,18,6,0,0,1,1,0,0,0,2,0,3,0
-321,Felix Marti,DEF,Real Betis,6,18,2,0,0,1,0,0,0,0,0,0,0,0
-322,Edgar Gonzalez,DEF,Real Betis,40,18,24,0,0,4,2,1,0,0,0,0,7,2
-323,Martin Montoya,DEF,Real Betis,4,18,4,0,0,0,0,0,0,0,0,0,0,0
-324,Victor Ruiz,DEF,Real Betis,11,18,9,0,0,1,0,0,0,0,0,0,0,2
-325,Alex Moreno,DEF,Real Betis,60,18,30,0,3,6,1,0,0,0,0,0,1,3
-326,Marc Bartra,DEF,Real Betis,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-327,Luiz Felipe,DEF,Real Betis,19,18,13,0,0,2,0,2,0,0,0,0,5,1
-328,Juan Miranda,DEF,Real Betis,8,18,4,0,0,1,0,0,0,0,0,0,0,0
-329,German Pezzella,DEF,Real Betis,40,18,25,0,0,5,2,2,0,0,0,0,4,1
-330,Youssouf Sabaly,DEF,Real Betis,30,18,18,0,0,3,0,0,0,0,0,0,3,3
-331,Aitor Ruibal,MID,Real Betis,24,18,22,0,0,3,2,0,0,0,0,0,1,0
-332,Victor Camarasa,MID,Real Betis,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-333,Paul Akouokou,MID,Real Betis,7,18,8,0,0,1,2,0,0,0,0,0,0,0
-334,Rodri Sanchez,MID,Real Betis,29,18,21,1,0,3,0,0,0,0,0,0,0,0
-335,Juanmi,MID,Real Betis,23,18,10,2,0,2,2,0,0,0,0,0,3,0
-336,Joaquin,MID,Real Betis,11,18,8,0,1,1,1,0,0,0,0,0,0,0
-337,Luiz Henrique,MID,Real Betis,35,18,24,1,1,2,2,0,0,0,0,0,3,0
-338,Sergio Canales,MID,Real Betis,33,18,26,1,0,4,2,1,0,0,0,0,3,0
-339,Andres Guardado,MID,Real Betis,16,18,16,0,0,2,2,0,0,0,0,0,0,0
-340,William Carvalho,MID,Real Betis,49,18,28,2,0,6,4,0,0,0,0,0,9,0
-341,Guido Rodriguez,MID,Real Betis,29,18,26,0,0,5,3,0,0,0,0,0,1,0
-342,Nabil Fekir,MID,Real Betis,25,18,16,1,2,4,4,1,0,0,0,0,1,0
-343,Loren Moron,FWD,Real Betis,1,18,2,0,0,0,1,0,0,0,0,0,0,0
-344,Borja Iglesias,FWD,Real Betis,72,18,29,8,2,0,0,1,0,0,0,0,8,0
-345,Willian Jose,FWD,Real Betis,15,18,15,0,0,0,0,0,0,0,0,0,0,0
-346,Andriy Lunin,GK,Real Madrid,21,18,8,0,0,2,0,0,0,0,2,0,3,0
-347,Thibaut Courtois,GK,Real Madrid,45,18,26,0,0,2,0,0,0,0,9,0,4,2
-348,Vinicius Tobias,DEF,Real Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-349,Jesus Vallejo,DEF,Real Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-350,Alvaro Odriozola,DEF,Real Madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-351,Nacho Fernandez,DEF,Real Madrid,14,18,10,0,0,1,0,0,0,0,0,0,0,0
-352,Lucas Vasquez,DEF,Real Madrid,27,18,14,2,0,0,1,0,0,0,0,0,2,0
-353,Ferland Mendy,DEF,Real Madrid,34,18,27,0,1,2,2,0,0,0,0,0,0,2
-354,Daniel Carvajal,DEF,Real Madrid,33,18,23,0,1,2,3,0,0,0,0,0,3,1
-355,Antonio Rudiger,DEF,Real Madrid,47,18,27,1,0,4,1,0,0,0,0,0,0,1
-356,Eder Militao,DEF,Real Madrid,57,18,24,3,0,3,1,0,0,0,0,0,6,2
-357,David Alaba,DEF,Real Madrid,55,18,31,1,3,3,3,0,0,0,0,0,2,2
-358,Dani Ceballos,MID,Real Madrid,17,18,13,0,1,2,1,0,0,0,0,0,0,0
-359,Reinier,MID,Girona,14,18,10,1,0,0,1,0,0,0,0,0,0,0
-360,Aurelien Tchouameni,MID,Real Madrid,35,18,24,0,2,1,1,0,0,0,0,0,5,0
-361,Federico Valverde,MID,Real Madrid,82,18,31,6,2,4,1,0,0,0,0,0,12,0
-362,Eduardo Camavinga,MID,Real Madrid,25,18,22,0,1,3,3,0,0,0,0,0,0,0
-363,Casemiro,MID,Real Madrid,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-364,Toni Kroos,MID,Real Madrid,57,18,26,2,2,2,0,1,0,0,0,0,16,0
-365,Luka Modric,MID,Real Madrid,52,18,27,3,2,2,3,0,0,0,0,0,5,0
-366,Mariano Diaz,FWD,Real Madrid,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-367,Marco Asensio,FWD,Real Madrid,31,18,15,1,3,2,0,0,0,0,0,0,3,0
-368,Rodrygo,FWD,Real Madrid,65,18,25,4,5,0,1,0,0,0,0,0,10,0
-369,Vinicius Junior,FWD,Real Madrid,75,18,34,6,3,0,4,0,0,0,0,0,12,0
-370,Eden Hazard,FWD,Real Madrid,1,18,3,0,0,0,0,0,0,1,0,0,0,0
-371,Karim Benzema,FWD,Real Madrid,70,18,20,9,1,0,0,0,0,1,0,0,13,0
-372,Andoni Zubiaurre,GK,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-373,Alex Remiro,GK,Real Sociedad,78,18,36,0,0,7,0,0,0,0,8,1,6,5
-374,Aritz Arambarri,DEF,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-375,Alex Sola,DEF,Real Sociedad,13,18,8,0,0,1,1,0,0,0,0,0,3,1
-376,Urko Gonzalez,DEF,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-377,Jon Pacheco,DEF,Real Sociedad,19,18,16,0,0,2,2,0,0,0,0,0,0,3
-378,Aihen Munoz,DEF,Real Sociedad,19,18,15,0,0,2,0,0,0,0,0,0,0,4
-379,Andoni Gorosabel,DEF,Real Sociedad,25,18,20,0,0,2,2,0,0,0,0,0,0,1
-380,Jonathan Gomez,DEF,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-381,Diego Rico,DEF,Real Sociedad,40,18,21,0,0,5,1,0,0,0,0,0,1,1
-382,Igor Zubeldia,DEF,Real Sociedad,48,18,26,1,0,5,4,0,0,0,0,0,3,3
-383,Aritz Elustondo,DEF,Real Sociedad,48,18,25,0,1,6,3,1,0,0,0,0,4,2
-384,Robin Le Normand,DEF,Real Sociedad,50,18,28,0,0,6,4,0,0,0,0,0,4,2
-385,Ander Martin,MID,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-386,Jon Ander Olasagasti,MID,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-387,Peter Pokorny,MID,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-388,Benat Turrientes,MID,Real Sociedad,6,18,6,0,0,0,0,0,0,0,0,0,0,0
-389,Ander Guevara,MID,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-390,Asier Illarramendi,MID,Real Sociedad,18,18,11,1,0,2,2,0,0,0,0,0,2,0
-391,Martin Zubimendi,MID,Real Sociedad,49,18,32,1,2,5,5,0,0,0,0,0,6,0
-392,Brais Mendez,MID,Real Sociedad,91,18,32,7,3,6,5,0,0,0,0,0,14,0
-393,Mikel Merino,MID,Real Sociedad,70,18,30,1,7,5,5,0,0,1,0,0,16,0
-394,David Silva,MID,Real Sociedad,43,18,29,1,1,7,2,0,0,0,0,0,1,0
-395,Takefusa Kubo,MID,Real Sociedad,54,18,27,2,2,6,1,0,0,0,0,0,6,0
-396,Jon Karrikaburu,FWD,Real Sociedad,5,18,6,0,0,0,1,0,0,0,0,0,0,0
-397,Martin Merquelanz,FWD,Real Sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-398,Carlos Fernandez,FWD,Real Sociedad,7,18,7,0,0,0,0,0,0,0,0,0,0,0
-399,Robert Navarro,FWD,Real Sociedad,10,18,12,0,0,0,2,0,0,0,0,0,0,0
-400,Ander Barrenetxea,FWD,Real Sociedad,10,18,7,1,0,0,1,0,0,0,0,0,0,0
-401,Mohamed-Ali Cho,FWD,Real Sociedad,19,18,11,0,2,0,1,0,0,0,0,0,3,0
-402,Mikel Oyarzabal,FWD,Real Sociedad,4,18,4,0,0,0,0,0,0,0,0,0,0,0
-403,Alexander Isak,FWD,Real Sociedad,8,18,4,1,0,0,0,0,0,0,0,0,0,0
-404,Roberto Jimenez,GK,Real Valladolid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-405,Jordi Masip,GK,Real Valladolid,58,18,26,0,0,2,2,0,0,0,10,3,8,7
-406,Sergio Asenjo,GK,Real Valladolid,13,18,10,0,0,1,0,0,0,0,1,0,0,2
-407,Adrian Gomez,DEF,Real Valladolid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-408,Luis Perez,DEF,Real Valladolid,12,18,12,0,0,1,1,0,0,0,0,0,1,4
-409,Joaquin Fernandez,DEF,Real Valladolid,42,18,27,1,0,3,3,0,0,0,0,0,6,6
-410,Sergio Escudero,DEF,Real Valladolid,28,18,17,0,0,3,2,0,0,0,0,0,4,3
-411,Javi Sanchez,DEF,Real Valladolid,39,18,30,1,0,3,5,0,0,0,0,0,3,7
-412,Lucas Olaza,DEF,Real Valladolid,10,18,17,0,0,0,2,0,0,0,0,0,0,5
-413,Jawad El Yamiq,DEF,Real Valladolid,14,18,17,0,0,1,0,1,0,0,0,0,0,4
-414,Victor Garcia,MID,Real Valladolid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-415,Kike Perez,MID,Real Valladolid,35,18,30,0,1,2,4,0,0,0,0,0,4,0
-416,Alvaro Aguado,MID,Real Valladolid,34,18,26,0,2,1,1,0,0,0,0,0,2,0
-417,Ivan Sanchez,MID,Real Valladolid,24,18,21,0,0,3,0,0,0,0,0,0,0,0
-418,Moha Moukhliss,MID,Real Valladolid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-419,Toni Villa,MID,Real Valladolid,29,18,22,1,1,1,2,0,0,0,0,0,0,0
-420,Oscar Plano,MID,Real Valladolid,37,18,28,1,1,2,1,0,0,0,0,0,0,0
-421,Roque Mesa,MID,Real Valladolid,41,18,25,2,1,3,4,0,0,0,0,0,4,0
-422,Anuar,MID,Real Valladolid,12,18,5,1,0,0,1,0,0,0,0,0,3,0
-423,Monchu,MID,Real Valladolid,36,18,24,1,1,3,4,0,0,0,0,0,5,0
-424,Gonzalo Plata,MID,Real Valladolid,29,18,20,0,2,1,0,0,0,0,0,0,2,0
-425,Waldo Marin,FWD,Real Valladolid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-426,Sekou Gassama,FWD,Real Valladolid,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-427,Hugo Vallejo,FWD,Real Valladolid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-428,Sergio Leon,FWD,Real Valladolid,48,18,22,5,1,0,0,1,0,1,0,0,8,0
-429,Stiven Plaza,FWD,Real Valladolid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-430,Sergi Guardiola,FWD,Real Valladolid,19,18,20,0,0,0,1,0,0,0,0,0,0,0
-431,Shon Weissman,FWD,Real Valladolid,23,18,20,1,0,0,1,0,0,0,0,0,0,0
-432,Marko Dmitrovic,GK,Sevilla,8,18,5,0,0,0,1,0,0,0,3,0,1,0
-433,Bono,GK,Sevilla,52,18,31,0,0,2,2,0,0,0,12,1,6,8
-434,Karim Rekik,DEF,Sevilla,21,18,12,1,1,1,1,0,0,0,0,0,0,3
-435,Marcao,DEF,Sevilla,10,18,8,0,0,1,2,0,0,0,0,0,1,1
-436,Jesus Navas,DEF,Sevilla,20,18,24,0,0,1,3,0,1,0,0,0,0,3
-437,Gonzalo Montiel,DEF,Sevilla,16,18,16,0,1,1,3,1,0,0,0,0,1,2
-438,Marcos Acuna,DEF,Sevilla,19,18,20,1,0,0,4,1,0,0,0,0,3,3
-439,Alex Telles,DEF,Sevilla,26,18,20,0,2,2,4,0,0,0,0,0,0,4
-440,Nemanja Gudelj,MID,Sevilla,49,18,31,2,0,2,4,0,0,0,0,0,10,3
-441,Oliver Torres,MID,Sevilla,54,18,29,3,1,3,1,0,0,0,0,0,5,0
-442,Rony Lopes,MID,Sevilla,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-443,Joan Jordan,MID,Sevilla,26,18,24,0,1,1,3,0,0,0,0,0,1,0
-444,Fernando,MID,Sevilla,18,18,19,0,0,1,2,0,0,0,0,0,0,0
-445,Thomas Delaney,MID,Sevilla,6,18,9,0,0,0,3,0,0,0,0,0,0,0
-446,Jesus Corona,MID,Sevilla,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-447,Erik Lamela,MID,Sevilla,41,18,29,3,0,3,5,1,0,0,0,0,2,0
-448,Papu Gomez,MID,Sevilla,20,18,18,0,1,0,4,0,0,0,0,0,3,0
-449,Ivan Rakitic,MID,Sevilla,35,18,21,1,2,3,2,1,0,0,0,0,5,0
-450,Isco,MID,Sevilla,24,18,21,0,2,2,5,0,0,0,0,0,0,0
-451,Rafa Mir,FWD,Sevilla,36,18,22,3,0,0,1,0,0,0,0,0,3,0
-452,Suso,FWD,Sevilla,7,18,8,0,0,0,1,0,0,0,0,0,0,0
-453,Lucas Ocampos,FWD,Sevilla,4,18,5,0,0,0,1,0,0,0,0,0,0,0
-454,Munir El Haddadi,FWD,Getafe,15,18,11,1,0,0,2,0,0,0,0,0,2,0
-455,Youssef En-Nesyri,FWD,Sevilla,16,18,17,0,0,0,1,0,0,0,0,0,0,0
-456,Dragan Rosic,GK,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-457,Fernando Martinez,GK,Almeria,59,18,34,0,0,1,1,0,0,0,17,1,8,8
-458,Ivan Martos,DEF,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-459,Juanjo Nieto,DEF,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-460,Jonathan Silva,DEF,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-461,Alex Centelles,DEF,Almeria,0,18,0,0,0,0,0,1,0,0,0,0,0,0
-462,Houboulang Mendes,DEF,Almeria,12,18,17,0,1,0,1,0,0,0,0,0,0,7
-463,Arnau Sola,DEF,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-464,Nikola Maras,DEF,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-465,Srdan Babic,DEF,Almeria,35,18,29,1,0,1,2,0,0,0,0,0,4,6
-466,Alejandro Pozo,DEF,Almeria,33,18,21,0,1,1,0,0,0,0,0,0,6,1
-467,Rodrigo Ely,DEF,Almeria,24,18,35,0,0,1,3,1,0,0,0,0,0,9
-468,Chumi,DEF,Almeria,19,18,17,1,0,0,1,0,0,0,0,0,1,4
-469,Sergio Akieme Rodriguez,DEF,Almeria,31,18,36,0,0,1,3,0,0,0,0,0,3,9
-470,Kaiky,DEF,Almeria,4,18,12,0,0,0,5,0,0,0,0,0,0,4
-471,Cesar de la Hoz,MID,Almeria,23,18,18,1,0,1,4,0,0,0,0,0,3,0
-472,Curro,MID,Almeria,1,18,2,0,0,0,1,0,0,0,0,0,0,0
-473,Gui,MID,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-474,Inigo Eguaras,MID,Almeria,24,18,18,1,1,0,2,0,0,0,0,0,0,0
-475,Jose Carlos Lazo,MID,Almeria,16,18,8,1,0,0,0,0,0,0,0,0,3,0
-476,Francisco Portillo,MID,Almeria,18,18,12,1,0,0,0,0,0,0,0,0,1,0
-477,Samuel Costa,MID,Almeria,24,18,24,0,0,0,3,0,0,0,0,0,3,0
-478,Martin Svidersky,MID,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-479,Arnau Puigmal,MID,Almeria,7,18,10,0,0,0,3,0,0,0,0,0,0,0
-480,Lucas Robertone,MID,Almeria,57,18,34,1,3,3,3,0,0,0,0,0,9,0
-481,Arvin Appiah,FWD,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-482,Marko Milovanovic,FWD,Almeria,1,18,2,0,0,0,1,0,0,0,0,0,0,0
-483,Dyego Sousa,FWD,Almeria,15,18,13,0,1,0,1,0,0,0,0,0,0,0
-484,Jordi Escobar,FWD,Almeria,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-485,Largie Ramazani,FWD,Almeria,34,18,29,2,0,0,4,0,0,1,0,0,3,0
-486,Umar Sadiq,FWD,Real Sociedad,19,18,8,3,0,0,1,0,0,0,0,0,0,0
-487,Cristian Rivero,GK,Valencia,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-488,Jaume Domenech,GK,Valencia,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-489,Giorgi Mamardashvili,GK,Valencia,55,18,34,0,0,3,1,0,0,0,11,0,5,6
-490,Cristhian Mosquera,DEF,Valencia,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-491,Jesus Vazquez,DEF,Valencia,9,18,6,0,0,1,1,0,0,0,0,0,0,0
-492,Dimitri Foulquier,DEF,Valencia,14,18,14,0,1,0,2,0,0,0,0,0,0,1
-493,Toni Lato,DEF,Valencia,21,18,13,1,0,0,0,0,0,0,0,0,2,0
-494,Eray Comert,DEF,Valencia,32,18,24,1,0,2,4,1,0,0,0,0,3,2
-495,Thierry Correia,DEF,Valencia,39,18,32,0,0,3,3,0,0,0,0,0,3,5
-496,Mouctar Diakhaby,DEF,Valencia,40,18,23,2,0,3,4,1,0,0,0,0,3,3
-497,Gabriel Paulista,DEF,Valencia,20,18,18,1,0,0,1,0,0,0,0,0,1,4
-498,Jose Luis Gaya,DEF,Valencia,53,18,26,1,2,2,2,0,0,1,0,0,17,6
-499,Yellu Santiago,MID,Valencia,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-500,Koba Koindredi,MID,Valencia,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-501,Hugo Guillamon,MID,Valencia,44,18,26,1,4,3,4,0,1,0,0,0,4,0
-502,Uros Racic,MID,Valencia,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-503,Samu Castillejo,MID,Valencia,30,18,21,2,0,3,4,0,0,0,0,0,0,0
-504,Yunus Musah,MID,Valencia,30,18,26,0,2,2,7,0,0,0,0,0,3,0
-505,Carlos Soler,MID,Valencia,15,18,6,1,0,1,0,0,0,0,0,0,3,0
-506,Manu Vallejo,FWD,Girona,10,18,7,0,1,0,0,0,0,0,0,0,0,0
-507,Marcos Andre,FWD,Valencia,15,18,15,1,0,0,2,1,0,0,0,0,1,0
-508,Samuel Lino,FWD,Valencia,42,18,34,2,0,1,3,0,0,0,0,0,3,0
-509,Hugo Duro,FWD,Valencia,18,18,15,1,0,0,1,0,0,0,0,0,0,0
-510,Maximiliano Gomez,FWD,Valencia,3,18,3,0,0,0,0,0,0,0,0,0,0,0
-511,Pepe Reina,GK,Villareal,17,18,8,0,0,1,1,0,0,0,3,0,3,0
-512,Geronimo Rulli,GK,Villareal,80,18,28,0,0,7,1,0,0,0,12,0,15,2
-513,Sergio Carreira,DEF,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-514,Adrian de la Fuente,DEF,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-515,Kiko Femenia,DEF,Villareal,32,18,22,0,0,3,0,0,0,0,0,0,0,2
-516,Alfonso Pedraza,DEF,Villareal,49,18,21,0,1,6,1,0,0,0,0,0,2,0
-517,Jorge Cuenca,DEF,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-518,Alberto Moreno,DEF,Villareal,11,18,12,0,0,1,4,0,0,0,0,0,0,1
-519,Raul Albiol,DEF,Villareal,56,18,30,0,0,7,5,0,0,0,0,0,5,2
-520,Pervis Estupinan,DEF,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-521,Juan Foyth,DEF,Villareal,30,18,11,1,0,3,1,0,0,0,0,0,2,0
-522,Pau Torres,DEF,Villareal,60,18,34,0,0,7,7,0,0,0,0,0,7,2
-523,Aissa Mandi,DEF,Villareal,21,18,13,0,0,2,0,0,0,0,0,0,0,0
-524,Alejandro Baena,MID,Villareal,43,18,23,4,0,3,6,1,0,0,0,0,6,0
-525,Manuel Morlanes,MID,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-526,Javier Ontiveros,MID,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-527,Nicolas Jackson,FWD,Villareal,35,18,20,2,2,1,1,0,0,0,0,0,2,0
-528,Nikita Iosifov,MID,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-529,Manu Trigueros,MID,Villareal,11,18,12,0,0,1,2,0,0,0,0,0,0,0
-530,Francis Coquelin,MID,Villareal,29,18,20,1,0,3,2,0,0,0,0,0,3,0
-531,Etienne Capoue,MID,Villareal,31,18,25,0,0,7,1,0,0,0,0,0,0,0
-532,Yeremy Pino,MID,Villareal,39,18,26,2,0,5,3,0,0,0,0,0,1,0
-533,Dani Parejo,MID,Villareal,73,18,36,1,3,8,2,0,0,0,0,0,17,0
-534,Samuel Chukwueze,MID,Villareal,38,18,24,1,2,2,1,0,0,0,0,0,2,0
-535,Fernando Nino,FWD,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-536,Jose Luis Morales,FWD,Villareal,23,18,20,1,0,0,1,0,0,0,0,0,0,0
-537,Paco Alcacer,FWD,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-538,Arnaut Danjuma,FWD,Villareal,24,18,14,2,0,0,0,0,0,0,0,0,2,0
-539,Boulaye Dia,FWD,Villareal,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-540,Gerard Moreno,FWD,Villareal,41,18,18,4,2,0,2,0,0,1,0,0,5,0
-541,Pablo Lumbreras,DEF,Osasuna,11,18,7,0,0,1,0,0,0,0,0,0,0,0
-542,Ivan Romero,FWD,Sevilla,0,18,1,0,0,0,1,0,0,0,0,0,0,0
-543,Ruben Sanchez Saez,MID,Espanyol,9,18,10,0,0,0,1,0,0,0,0,0,0,0
-544,Edu Exposito,MID,Espanyol,41,18,23,2,2,0,2,0,0,0,0,0,4,0
-545,Nico Gonzalez,MID,Valencia,22,18,18,1,0,1,0,0,1,0,0,0,0,0
-546,Moi Parra,FWD,Getafe,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-547,Fran Delgado,DEF,Real Betis,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-548,Rober Gonzalez,FWD,Real Betis,1,18,2,0,0,0,1,0,0,0,0,0,0,0
-549,John Donald,MID,Elche,1,18,4,0,0,0,0,1,0,0,0,0,0,2
-550,Alejandro Alfaro,MID,Elche,1,18,1,0,0,0,0,0,0,0,0,0,0,0
-551,Tanguy Nianzou,DEF,Sevilla,20,18,19,1,0,1,1,1,0,0,0,0,0,5
-552,Fede San Emeterio,MID,Cadiz,23,18,24,0,0,4,5,0,0,0,0,0,0,0
-553,Giovani Lo Celso,MID,Villareal,22,18,14,1,0,4,1,0,0,0,0,0,0,0
-554,Pol Lirola,DEF,Elche,13,18,13,1,0,0,1,0,0,0,0,0,0,5
-555,Alex Collado,MID,Elche,24,18,13,1,1,0,1,0,0,0,0,0,4,0
-556,Domingos Quina,MID,Elche,7,18,11,0,0,0,1,1,0,0,0,0,0,0
-557,Leo Baptistao,FWD,Almeria,37,18,23,2,2,1,4,0,0,0,0,0,4,0
-558,Javier Hernandez,DEF,Girona,15,18,13,0,1,0,1,0,0,0,0,0,1,1
-559,Jose Angel Carmona,DEF,Elche,34,18,18,3,1,0,5,1,0,0,0,0,6,3
-560,Juanmi Latasa,FWD,Getafe,10,18,10,0,0,0,0,0,0,0,0,0,0,0
-561,Dani Gomez,FWD,Espanyol,5,18,6,0,0,0,1,0,0,0,0,0,0,0
-562,Antonio Blanco,MID,Cadiz,5,18,5,0,0,0,0,0,0,0,0,0,0,0
-563,Jorgen Larsen,FWD,Celta Vigo,29,18,22,1,2,0,3,0,0,0,0,0,0,0
-564,Brian Ocampo,MID,Cadiz,35,18,23,1,0,6,2,0,0,0,0,0,3,0
-565,Theo Bongonda,FWD,Cadiz,20,18,15,1,0,4,0,0,0,0,0,0,1,0
-566,Edinson Cavani,FWD,Valencia,43,18,18,5,1,0,3,0,0,1,0,0,7,0
-567,Marcos Alonso,DEF,FC Barcelona,32,18,15,1,0,3,1,0,0,0,0,0,0,0
-568,Hector Bellerin,DEF,FC Barcelona,8,18,4,0,0,1,0,0,0,0,0,0,0,0
-569,Ander Herrera,MID,Athletic Club,7,18,9,0,1,1,3,1,0,0,0,0,0,0
-570,Sergio Reguilon,DEF,Atletico Madrid,1,18,4,0,0,0,0,1,0,0,0,0,0,0
-571,Abdessamad Ezzalzouli,FWD,Osasuna,21,18,16,0,2,1,1,0,0,0,0,0,0,0
-572,El Bilal Toure,FWD,Almeria,47,18,23,4,2,0,0,0,0,0,0,0,2,0
-573,Paulo Gazzaniga,GK,Girona,29,18,16,0,0,0,1,0,0,0,6,1,5,2
-574,Oriol Romeu,MID,Girona,33,18,28,1,0,0,5,0,0,0,0,0,5,0
-575,Alexander Sorloth,FWD,Real Sociedad,59,18,26,7,1,0,2,0,0,0,0,0,4,0
-576,Kasper Dolberg,FWD,Sevilla,9,18,6,0,1,0,0,0,0,0,0,0,0,0
-577,Alvaro Fernandez,GK,Espanyol,28,18,16,0,0,2,0,0,0,0,7,0,1,4
-578,Omar El Hilali,DEF,Espanyol,3,18,5,0,0,0,1,0,0,0,0,0,0,1
-579,Simo,MID,Espanyol,3,18,3,0,0,0,0,0,0,0,0,0,0,0
-580,Andre Almeida,MID,Valencia,46,18,24,2,3,2,1,0,0,0,0,0,2,0
-581,Ilaix Moriba,MID,Valencia,11,18,14,0,0,2,2,1,0,0,0,0,0,0
-582,Kenedy,MID,Real Valladolid,3,18,4,0,0,0,1,0,0,0,0,0,0,0
-583,Ivan Fresneda,DEF,Real Valladolid,18,18,17,0,0,1,1,0,0,0,0,0,0,2
-584,Justin Kluivert,MID,Valencia,39,18,19,3,0,1,2,0,0,0,0,0,6,0
-585,Kike Salas,DEF,Sevilla,16,18,9,1,1,0,1,1,0,0,0,0,3,1
-586,Matija Nastasic,DEF,Mallorca,16,18,11,0,0,2,1,0,0,0,0,0,0,2
-587,Nicolas Fernandez,MID,Elche,6,18,10,0,0,0,2,0,1,0,0,0,0,0
-588,Lazaro,FWD,Almeria,11,18,7,1,0,0,0,0,0,0,0,0,0,0
-589,Federico Fernandez,DEF,Elche,1,18,2,0,0,0,0,0,0,0,0,0,0,1
-590,Gonzalo Melero,MID,Almeria,43,18,22,2,2,3,3,0,0,0,0,0,5,0
-591,Zouhair Feddal,DEF,Real Valladolid,5,18,7,0,0,0,0,0,0,0,0,0,0,2
-592,Lucas Rosa,DEF,Real Valladolid,15,18,13,0,0,1,1,0,0,0,0,0,0,1
-593,Fernando Pacheco,GK,Almeria,2,18,2,0,0,0,0,0,0,0,1,0,0,1
-594,Jordan Amavi,DEF,Celta Vigo,5,18,4,0,0,1,0,1,0,0,0,0,0,0
-595,Adnan Januzaj,MID,Sevilla,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-596,Pablo Marin,MID,Real Sociedad,7,18,6,0,0,2,1,0,0,0,0,0,0,0
-597,Juan Cruz Betis,MID,Real Betis,8,18,3,1,0,0,0,0,0,0,0,0,0,0
-598,Cenk Ozkacar,DEF,Valencia,7,18,4,0,0,1,0,0,0,0,0,0,0,1
-599,Abdul Mumin,DEF,Rayo Vallecano,2,18,3,0,0,0,0,0,0,0,0,0,0,1
-600,Pablo Barrios,MID,Atletico Madrid,5,18,5,0,0,1,1,0,0,0,0,0,0,0
-601,Omar Alderete,DEF,Getafe,8,18,7,0,0,1,2,0,0,0,0,0,0,1
-602,Tino Kadewere,FWD,Real Mallorca,3,18,3,0,0,0,0,0,0,0,0,0,0,0
-603,Lautaro Blanco,DEF,Elche,6,18,4,0,1,0,1,0,0,0,0,0,0,0
-604,Luis Suarez,FWD,Almeria,3,18,3,0,0,0,0,0,0,0,0,0,0,0
-605,Loic Bade,DEF,Sevilla,9,18,5,0,0,1,0,0,0,0,0,0,0,0
-606,Diego Moreno,DEF,Osasuna,14,18,6,0,0,2,0,0,0,0,0,0,0,0
-607,Cesar Montes,DEF,Espanyol,7,18,4,0,0,1,2,0,0,0,0,0,1,0
-608,Abner Vinicius,DEF,Real Betis,2,18,2,0,0,0,0,0,0,0,0,0,0,0
-609,David Torres,DEF,Real Valladolid,1,18,2,0,0,0,0,0,0,0,0,0,0,1
+0,Ander Iru,GK,Athletic Club,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+1,Alex Padilla,GK,Athletic Club,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+2,Julen Agirrezabala,GK,Athletic Club,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+3,Unai Simon,GK,Athletic Club,73,19,38,0,0,8,1,0,0,0,6,0,5,7
+4,Jon Sillero,DEF,Athletic Club,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+5,Aitor Casamichana,DEF,Athletic Club,2,19,2,0,0,0,0,0,0,0,0,0,0,0
+6,Alex Petxa,DEF,Athletic Club,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+7,Peru Esnal,DEF,Athletic Club,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+8,Inigo Lekue,DEF,Athletic Club,39,19,25,0,1,3,1,0,0,0,0,0,2,2
+9,Mikel Balenziaga,DEF,Athletic Club,0,19,1,0,0,0,0,0,0,0,0,0,0,1
+10,Oscar De Marcos,DEF,Athletic Club,68,19,34,0,3,7,2,0,0,0,0,0,3,4
+11,Ander Capa,DEF,Athletic Club,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+12,Daniel Vivian,DEF,Athletic Club,51,19,25,1,0,6,4,0,0,0,0,0,3,3
+13,Yeray Alvarez,DEF,Athletic Club,66,19,32,0,1,8,3,1,0,0,0,0,10,5
+14,Yuri Berchiche,DEF,Athletic Club,37,19,20,0,0,5,4,0,0,0,0,0,5,4
+15,Inigo Martinez,DEF,Athletic Club,20,19,18,0,0,2,1,0,0,0,0,0,0,5
+16,Jon Morcillo,MID,Athletic Club,11,19,8,0,1,0,0,0,0,0,0,0,0,0
+17,Oier Zarraga,MID,Athletic Club,15,19,17,0,0,1,3,0,0,0,0,0,0,0
+18,Nico Serrano,MID,Athletic Club,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+19,Mikel Vesga,MID,Athletic Club,53,19,31,2,2,7,3,0,0,0,0,0,2,0
+20,Dani Garcia,MID,Athletic Club,20,19,17,0,1,2,2,0,0,0,0,0,0,0
+21,Unai Vencedor,MID,Athletic Club,4,19,6,0,0,0,2,0,0,0,0,0,0,0
+22,Alex Berenguer,MID,Athletic Club,61,19,32,3,1,5,0,0,0,0,0,0,6,0
+23,Iker Munian,MID,Athletic Club,38,19,26,0,1,5,1,0,0,0,0,0,5,0
+24,Malcom Ares,FWD,Athletic Club,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+25,Luis Bilbao,FWD,Athletic Club,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+26,Gorka Guruzeta,FWD,Athletic Club,41,19,16,5,0,0,1,0,0,0,0,0,6,0
+27,Asier Villalibre,FWD,Athletic Club,5,19,5,0,0,0,0,0,0,0,0,0,0,0
+28,Oihan Sancet,FWD,Athletic Club,43,19,33,3,0,4,2,0,0,0,0,0,0,0
+29,Raul Garcia,FWD,Athletic Club,26,19,20,1,1,1,1,0,0,0,0,0,0,0
+30,Nico Williams,FWD,Athletic Club,64,19,36,3,3,0,0,0,0,0,0,0,7,0
+31,Inaki Williams,FWD,Athletic Club,65,19,35,5,1,0,0,0,0,1,0,0,9,0
+32,Jan Oblak,GK,Atletico Madrid,67,19,34,0,0,7,1,0,0,0,7,0,2,3
+33,Antonio Gomis,GK,Atletico Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+34,Ivo Grbic,GK,Atletico Madrid,6,19,6,0,0,0,1,0,0,0,1,0,0,0
+35,Mario Hermoso,DEF,Atletico Madrid,25,19,11,2,0,2,1,2,0,0,0,0,1,0
+36,Stefan Savic,DEF,Atletico Madrid,33,19,24,0,0,4,3,1,0,0,0,0,0,1
+37,Felipe,DEF,Atletico Madrid,4,19,5,0,0,0,0,0,0,0,0,0,0,1
+38,Reinildo,DEF,Atletico Madrid,58,19,36,0,0,6,3,0,0,0,0,0,4,3
+39,Santiago Arias,DEF,Atletico Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+40,Renan Lodi,DEF,Atletico Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+41,Jose Gimenez,DEF,Atletico Madrid,40,19,23,0,0,5,5,0,0,0,0,0,2,0
+42,Daniel Wass,MID,Atletico Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+43,Geoffrey Kondogbia,MID,Atletico Madrid,38,19,26,0,2,3,4,0,0,0,0,0,7,0
+44,Nahuel Molina,DEF,Atletico Madrid,46,19,29,0,1,5,3,1,0,0,0,0,2,2
+45,Thomas Lemar,MID,Atletico Madrid,29,19,18,0,2,2,0,0,0,0,0,0,3,0
+46,Koke,MID,Atletico Madrid,36,19,26,0,2,6,2,0,0,0,0,0,0,0
+47,Axel Witsel,MID,Atletico Madrid,33,19,31,0,0,4,2,0,0,0,0,0,0,1
+48,Marcos Llorente,MID,Atletico Madrid,35,19,23,1,0,4,1,0,0,0,0,0,4,0
+49,Yannick Carrasco,MID,Atletico Madrid,32,19,25,1,0,1,1,0,0,0,0,0,2,0
+50,Saul Niguez,MID,Atletico Madrid,25,19,19,1,1,2,6,0,0,0,0,0,2,0
+51,Rodrigo De Paul,MID,Atletico Madrid,44,19,23,1,2,3,2,0,0,0,0,0,9,0
+52,Carlos Martin,FWD,Atletico Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+53,Marcos Paulo,FWD,Atletico Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+54,Matheus Cunha,FWD,Atletico Madrid,18,19,14,0,2,0,2,0,0,0,0,0,0,0
+55,Angel Correa,FWD,Atletico Madrid,44,19,26,4,0,0,1,0,0,0,0,0,3,0
+56,Alvaro Morata,FWD,Atletico Madrid,70,19,31,7,1,0,3,0,0,0,0,0,11,0
+57,Joao Felix,FWD,Atletico Madrid,47,19,21,4,3,0,5,0,0,0,0,0,6,0
+58,Antoine Griezmann,FWD,Atletico Madrid,92,19,30,6,6,0,0,0,0,0,0,0,20,0
+59,Aitor Fernandez,GK,Osasuna,39,19,18,0,0,4,1,0,0,0,5,0,3,2
+60,Sergio Herrera,GK,Osasuna,27,19,20,0,0,2,3,0,0,0,4,0,1,3
+61,Jorge Herrando,DEF,Osasuna,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+62,Jesus Areso,DEF,Osasuna,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+63,Juan Cruz,DEF,Osasuna,34,19,29,0,0,3,4,0,0,0,0,0,2,5
+64,Unai Garcia,DEF,Osasuna,39,19,29,0,1,4,5,1,0,0,0,0,3,4
+65,Ruben Pena,DEF,Osasuna,24,19,18,0,1,2,1,1,0,0,0,0,0,1
+66,Aridane Hernandez,DEF,Osasuna,16,19,8,0,0,2,0,0,0,0,0,0,0,0
+67,Nacho Vidal,DEF,Osasuna,26,19,21,0,0,2,2,0,0,0,0,0,1,2
+68,Manuel Sanchez,DEF,Osasuna,37,19,23,0,1,3,0,0,0,0,0,0,0,1
+69,David Garcia,DEF,Osasuna,56,19,34,1,0,6,6,1,0,0,0,0,5,4
+70,Iker Benito,MID,Osasuna,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+71,Aimar Oroz,MID,Osasuna,46,19,26,3,1,4,3,0,0,0,0,0,1,0
+72,Robert Ibanez,MID,Osasuna,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+73,Javi Martinez,MID,Osasuna,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+74,Darko Brasanac,MID,Osasuna,29,19,23,1,1,2,4,0,0,0,0,0,0,0
+75,Roberto Torres,MID,Osasuna,2,19,2,0,0,0,0,0,0,0,0,0,0,0
+76,Kike Saverio,MID,Osasuna,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+77,Lucas Torro,MID,Osasuna,35,19,34,0,0,6,6,0,0,0,0,0,1,0
+78,Jon Moncayola,MID,Osasuna,30,19,30,0,0,2,2,0,0,0,0,0,0,0
+79,Moi Gomez,MID,Osasuna,69,19,36,1,2,6,2,0,0,0,0,0,18,0
+80,Ruben Garcia,MID,Osasuna,35,19,20,1,2,2,2,0,0,0,0,0,4,0
+81,Barbero,FWD,Osasuna,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+82,Kike Barja,FWD,Osasuna,20,19,13,1,1,1,0,0,0,0,0,0,0,0
+83,Kike Garcia,FWD,Osasuna,31,19,22,2,0,0,3,0,0,0,0,0,4,0
+84,Chimy,FWD,Osasuna,62,19,31,7,1,0,5,1,0,1,0,0,10,0
+85,Ante Budimir,FWD,Osasuna,27,19,25,1,0,0,2,0,0,0,0,0,0,0
+86,David Gil,GK,Cadiz,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+87,Jeremias Ledesma,GK,Cadiz,97,19,38,0,0,6,0,0,0,0,22,1,19,11
+88,Mamadou Mbaye,DEF,Cadiz,16,19,10,0,0,2,0,0,0,0,0,0,0,2
+89,Karl Eyong,DEF,Cadiz,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+90,Juan Cala,DEF,Cadiz,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+91,Isaac Carcelen,DEF,Cadiz,29,19,21,0,0,4,2,2,0,0,0,0,3,3
+92,Luis Hernandez,DEF,Cadiz,44,19,34,0,0,5,1,1,0,0,0,0,4,10
+93,Joseba Zaldua,DEF,Cadiz,8,19,16,0,1,0,4,0,0,0,0,0,0,7
+94,Fali,DEF,Cadiz,21,19,19,0,0,2,4,0,0,0,0,0,2,4
+95,Santiago Arzamendia,DEF,Cadiz,15,19,11,0,0,1,0,0,0,0,0,0,0,0
+96,Alfonso Espino,DEF,Cadiz,54,19,37,0,3,5,4,0,0,0,0,0,2,10
+97,Victor Chust,DEF,Cadiz,25,19,20,1,0,2,3,0,0,0,0,0,1,7
+98,Jon Garrido,MID,Cadiz,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+99,Martin Calderon,MID,Cadiz,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+100,Jorge Pombo,MID,Cadiz,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+101,Jose Mari,MID,Cadiz,11,19,13,0,0,0,2,0,0,0,0,0,0,0
+102,Alberto Perea,MID,Cadiz,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+103,Ivan Alejo,MID,Cadiz,17,19,22,0,1,2,7,1,0,0,0,0,0,0
+104,Alex Fernandez,MID,Cadiz,55,19,28,3,0,6,0,0,0,0,0,0,6,0
+105,Ruben Alcaraz,MID,Cadiz,28,19,24,1,0,3,4,1,0,0,0,0,3,0
+106,Awer Mabil,MID,Cadiz,6,19,6,0,0,0,0,0,0,0,0,0,0,0
+107,Tomas Alarcon,MID,Cadiz,3,19,6,0,0,0,0,1,0,0,0,0,0,0
+108,Ivan Chapela,FWD,Cadiz,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+109,Mamady Diarra,FWD,Cadiz,3,19,3,0,0,0,0,0,0,0,0,0,0,0
+110,Milutin Osmajic,FWD,Cadiz,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+111,Alvaro Gimenez,FWD,Cadiz,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+112,Ruben Sobrino,FWD,Cadiz,30,19,28,1,1,3,5,0,0,0,0,0,0,0
+113,Anthony Lozano,FWD,Cadiz,26,19,28,0,0,0,2,0,0,0,0,0,0,0
+114,Alvaro Negredo,FWD,Cadiz,30,19,17,1,2,0,0,0,0,0,0,0,3,0
+115,Lucas Perez,FWD,Cadiz,32,19,19,3,0,0,2,0,0,0,0,0,3,0
+116,Axel Werner,GK,Elche,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+117,Edgar Badia,GK,Elche,61,19,38,0,0,0,2,0,0,0,21,2,8,14
+118,Josema,DEF,Elche,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+119,Diego Gonzalez,DEF,Elche,7,19,15,0,0,0,4,0,0,0,0,0,0,4
+120,Pedro Bigas,DEF,Elche,12,19,30,0,0,0,2,2,0,0,0,0,0,10
+121,Gonzalo Verdu,DEF,Elche,9,19,11,1,0,0,1,2,0,0,0,0,3,4
+122,Carlos Clerc,DEF,Elche,22,19,26,0,1,1,1,0,0,0,0,0,0,10
+123,Helibelton Palacios,DEF,Elche,14,19,26,0,0,0,3,0,0,0,0,0,0,9
+124,Enzo Roco,DEF,Elche,13,19,25,0,0,0,2,0,0,0,0,0,0,10
+125,Johan Mojica,DEF,Villareal,20,19,17,0,0,1,2,0,0,0,0,0,2,1
+126,Victor Rodriguez,MID,Elche,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+127,Branislav Knezevic,MID,Elche,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+128,Josan,MID,Elche,18,19,14,1,0,0,2,0,0,0,0,0,1,1
+129,Tete Morente,MID,Elche,21,19,24,0,0,0,3,0,0,0,0,0,0,0
+130,Gerard Gumbau,MID,Elche,34,19,29,0,3,0,6,0,0,0,0,0,2,0
+131,Raul Guti,MID,Elche,19,19,20,0,0,0,1,0,0,0,0,0,0,0
+132,Omar Mascarell,MID,Elche,29,19,33,0,0,0,4,0,0,0,0,0,0,0
+133,Fidel,MID,Elche,12,19,11,0,1,0,3,0,0,0,0,0,1,0
+134,Javier Pastore,MID,Elche,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+135,Mourad El Ghezouani,FWD,Elche,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+136,Pere Milla,FWD,Elche,45,19,30,3,1,0,4,0,0,0,0,0,4,0
+137,Ezequiel Ponce,FWD,Elche,33,19,20,3,0,0,2,0,0,0,0,0,3,0
+138,Roger Marti,FWD,Cadiz,22,19,21,0,1,0,2,0,0,0,0,0,0,0
+139,Lucas Boye,FWD,Elche,35,19,30,1,2,0,3,1,0,1,0,0,3,0
+140,Joan Garcia,GK,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+141,Benjamin Lecomte,GK,Espanyol,25,19,20,0,0,1,1,1,1,0,6,0,6,5
+142,Wassim Keddari,DEF,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+143,Fernando Calero,DEF,Espanyol,30,19,27,0,0,2,2,0,0,0,0,0,0,3
+144,Brian Olivan,DEF,Espanyol,55,19,35,0,5,3,5,0,0,0,0,0,7,9
+145,Oscar Gil,DEF,Espanyol,41,19,29,0,1,3,5,0,0,0,0,0,5,4
+146,Sergi Gomez,DEF,Espanyol,14,19,24,0,0,0,0,1,0,0,0,0,1,8
+147,Tonny Vilhena,DEF,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+148,Leandro Cabrera,DEF,Espanyol,34,19,35,0,0,3,3,1,0,0,0,0,3,10
+149,Adria Pedrosa,DEF,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+150,Aleix Vidal,DEF,Espanyol,20,19,19,0,0,1,3,0,0,0,0,0,0,0
+151,Daniel Villahermosa,MID,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+152,Pol Lozano,MID,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+153,Nicolas Melamed,MID,Espanyol,11,19,13,0,0,0,2,0,0,0,0,0,0,0
+154,Adrian Embarba,MID,Espanyol,39,19,20,1,3,2,3,1,0,0,0,0,9,0
+155,Vinicius Souza,MID,Espanyol,34,19,36,0,0,2,6,1,0,0,0,0,5,0
+156,Keidi Bare,MID,Espanyol,12,19,12,0,0,0,0,0,0,0,0,0,0,0
+157,Sergi Darder,MID,Espanyol,68,19,38,2,1,2,2,0,0,0,0,0,17,0
+158,Matias Vargas,MID,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+159,Javi Puado,MID,Espanyol,41,19,27,3,0,2,3,0,0,0,0,0,0,0
+160,Jofre,FWD,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+161,Kenneth Soler,FWD,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+162,Luca Koleosho,FWD,Espanyol,2,19,2,0,0,0,0,0,0,0,0,0,0,0
+163,Juan Camilo Becerra,FWD,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+164,Nabil Touaizi,FWD,Espanyol,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+165,Landry Dimata,FWD,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+166,Joselu,FWD,Espanyol,103,19,38,11,2,0,2,0,0,0,0,0,17,0
+167,Wu Lei,FWD,Espanyol,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+168,Raul De Tomas,FWD,Rayo Vallecano,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+169,Inaki Pena,GK,FC Barcelona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+170,Ter Stegen,GK,FC Barcelona,106,19,38,0,0,14,0,0,0,0,6,0,7,1
+171,Alejandro Balde,DEF,FC Barcelona,80,19,31,0,4,10,2,0,0,0,0,0,0,1
+172,Sergi Roberto,DEF,FC Barcelona,41,19,17,2,0,3,1,0,0,0,0,0,2,1
+173,Andreas Christensen,DEF,FC Barcelona,35,19,16,0,1,3,2,0,0,0,0,0,6,0
+174,Samuel Umtiti,DEF,FC Barcelona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+175,Eric Garcia,DEF,FC Barcelona,39,19,17,1,0,4,2,0,0,0,0,0,3,1
+176,Jules Kounde,DEF,FC Barcelona,70,19,23,0,2,9,0,0,1,0,0,0,8,1
+177,Sergino Dest,DEF,FC Barcelona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+178,Ronald Araujo,DEF,FC Barcelona,47,19,18,0,1,7,4,0,0,0,0,0,2,0
+179,Jordi Alba,DEF,FC Barcelona,52,19,21,0,2,6,2,1,0,0,0,0,6,0
+180,Gerard Pique,DEF,FC Barcelona,25,19,10,0,0,4,3,0,0,0,0,0,2,0
+181,Pablo Torre,MID,FC Barcelona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+182,Miralem Pjanic,MID,FC Barcelona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+183,Franck Kessie,MID,FC Barcelona,11,19,13,0,0,1,3,0,0,0,0,0,0,0
+184,Sergio Busquets,MID,FC Barcelona,41,19,30,0,1,11,4,1,0,0,0,0,4,0
+185,Gavi,MID,FC Barcelona,44,19,30,0,2,10,4,0,0,0,0,0,2,0
+186,Raphinha,MID,FC Barcelona,76,19,28,3,3,9,2,0,0,0,0,0,17,0
+187,Pedri,MID,FC Barcelona,88,19,36,5,0,12,2,0,0,0,0,0,17,0
+188,Frenkie De Jong,MID,FC Barcelona,54,19,27,2,1,6,0,0,0,0,0,0,8,0
+189,Martin Braithwaite,FWD,Espanyol,44,19,27,4,1,0,2,1,0,0,0,0,3,0
+190,Ferran Torres,FWD,FC Barcelona,22,19,21,2,0,0,4,1,0,0,0,0,0,0
+191,Memphis Depay,FWD,Atletico Madrid,7,19,3,1,0,0,0,0,0,0,0,0,0,0
+192,Pierre-Emerick Aubameyang,FWD,FC Barcelona,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+193,Ousmane Dembele,FWD,FC Barcelona,68,19,30,5,5,1,4,0,0,0,0,0,7,0
+194,Ansu Fati,FWD,FC Barcelona,45,19,24,3,3,0,2,0,0,0,0,0,2,0
+195,Robert Lewandowski,FWD,FC Barcelona,111,19,30,14,4,1,0,1,0,1,0,0,18,0
+196,Diego Conde,GK,Getafe,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+197,David Soria,GK,Getafe,90,19,38,0,0,6,1,0,0,0,14,2,13,8
+198,Gaston Alvarez,DEF,Getafe,29,19,13,2,0,2,1,1,0,0,0,0,1,1
+199,Juan Iglesias,DEF,Getafe,45,19,32,1,0,4,4,0,0,0,0,0,2,7
+200,Amankwaa Akurugu,DEF,Getafe,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+201,Fabrizio Angileri,DEF,Getafe,3,19,12,0,0,0,2,1,0,0,0,0,0,4
+202,Stefan Mitrovic,DEF,Getafe,35,19,25,0,0,4,3,0,0,0,0,0,0,3
+203,Damian Suarez,DEF,Getafe,36,19,22,1,0,3,2,0,0,0,0,0,1,3
+204,Domingos Duarte,DEF,Getafe,49,19,35,0,2,5,7,0,1,0,0,0,5,8
+205,Djene,DEF,Getafe,46,19,33,0,0,5,4,0,0,0,0,0,4,7
+206,Angel Algobia,MID,Getafe,20,19,21,0,0,1,2,0,0,0,0,0,0,0
+207,Jaime Seoane,MID,Getafe,13,19,12,0,0,1,0,0,0,0,0,0,0,0
+208,Jakub Jankto,MID,Getafe,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+209,Luis Milla,MID,Getafe,32,19,25,0,0,4,1,1,0,0,0,0,7,0
+210,Portu,MID,Getafe,25,19,20,0,2,3,1,1,0,0,0,0,0,0
+211,Mauro Arambarri,MID,Getafe,14,19,12,0,1,2,0,1,0,0,0,0,0,0
+212,Nemanja Maksimovic,MID,Getafe,20,19,18,0,0,2,0,0,0,0,0,0,0,0
+213,Carles Alena,MID,Getafe,51,19,33,2,2,6,7,0,0,0,0,0,3,0
+214,John Joe Patrick Finn,FWD,Getafe,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+215,Jaime Mata,FWD,Getafe,4,19,6,0,0,0,2,0,0,0,0,0,0,0
+216,Borja Mayoral,FWD,Getafe,52,19,38,4,0,0,3,0,0,1,0,0,3,0
+217,Enes Unal,FWD,Getafe,71,19,38,5,3,0,4,0,0,1,0,0,10,0
+218,Juan Carlos,GK,Girona,22,19,20,0,0,0,0,0,0,0,5,0,2,5
+219,Biel Farres,DEF,Girona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+220,Eric Monjonell,DEF,Girona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+221,Juanpe,DEF,Girona,11,19,17,0,0,0,3,0,0,0,0,0,0,3
+222,Santiago Bueno,DEF,Girona,29,19,36,0,1,0,2,1,0,0,0,0,2,7
+223,Arnau Martinez,DEF,Girona,35,19,30,2,1,0,5,0,0,0,0,0,1,6
+224,Bernardo Espinos,DEF,Girona,14,19,18,0,1,0,2,0,0,0,0,0,0,5
+225,Miguel Gutierrez,DEF,Girona,34,19,33,0,2,1,4,0,0,0,0,0,1,6
+226,Ramon Terrats,MID,Girona,10,19,10,0,0,0,0,0,0,0,0,0,0,0
+227,Ibrahim Kebe,MID,Girona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+228,Ivan Martin,MID,Girona,22,19,11,2,0,0,0,0,0,0,0,0,1,0
+229,Valery Fernandez,MID,Girona,26,19,18,0,2,1,1,0,0,0,0,0,2,0
+230,Borja Garcia,MID,Girona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+231,David Lopez,MID,Girona,42,19,22,2,1,0,3,0,0,0,0,0,10,2
+232,Aleix Garcia,MID,Girona,75,19,38,0,4,0,1,0,0,0,0,0,26,0
+233,Rodrigo Riquelme,MID,Girona,43,19,28,3,0,0,0,0,0,0,0,0,0,0
+234,Yan Couto,MID,Girona,24,19,20,0,1,0,1,0,0,0,0,0,2,0
+235,Yangel Herrera,MID,Girona,37,19,22,2,2,0,2,0,0,0,0,0,1,0
+236,Joel Roca,FWD,Girona,2,19,2,0,0,0,0,0,0,0,0,0,0,0
+237,Pau Victor,FWD,Girona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+238,Oscar Urena,FWD,Girona,3,19,3,0,0,0,0,0,0,0,0,0,0,0
+239,Samu Saiz,FWD,Girona,17,19,9,2,0,0,1,0,0,0,0,0,1,0
+240,Christhian Stuani,FWD,Girona,38,19,22,5,0,0,4,0,0,1,0,0,2,0
+241,Valentin Castellanos,FWD,Girona,47,19,35,4,0,1,6,0,0,0,0,0,2,0
+242,Stole Dimitrievski,GK,Rayo Vallecano,78,19,36,0,0,7,3,0,0,0,11,0,13,7
+243,Diego Lopez,GK,Rayo Vallecano,1,19,2,0,0,0,0,0,0,0,0,0,0,1
+244,Mario Hernandez,DEF,Rayo Vallecano,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+245,Esteban Saveljich,DEF,Rayo Vallecano,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+246,Mario Suarez,DEF,Rayo Vallecano,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+247,Ivan Balliu,DEF,Rayo Vallecano,53,19,38,0,0,7,2,0,2,0,0,0,1,8
+248,Florian Lejeune,DEF,Rayo Vallecano,70,19,32,3,0,6,2,1,0,0,0,0,8,7
+249,Alejandro Catena,DEF,Rayo Vallecano,65,19,36,1,1,7,5,0,0,0,0,0,4,7
+250,Fran Garcia,DEF,Rayo Vallecano,65,19,38,0,2,7,0,0,0,0,0,0,1,8
+251,Ruben de Tomas,MID,Rayo Vallecano,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+252,Jose Pozo,MID,Rayo Vallecano,6,19,6,0,0,0,0,0,0,0,0,0,0,0
+253,Salvi,MID,Rayo Vallecano,9,19,11,0,0,0,2,0,0,0,0,0,0,0
+254,Oscar Valentin,MID,Rayo Vallecano,32,19,28,0,0,6,6,0,0,0,0,0,4,0
+255,Unai Lopez,MID,Rayo Vallecano,41,19,24,1,2,4,1,0,0,0,0,0,3,0
+256,Isi Palazon,MID,Rayo Vallecano,74,19,33,5,3,7,3,0,0,1,0,0,5,0
+257,Bebe,MID,Rayo Vallecano,3,19,4,0,0,0,1,0,0,0,0,0,0,0
+258,Santi Comesana,MID,Rayo Vallecano,40,19,28,1,0,7,2,0,0,0,0,0,2,0
+259,Randy Nteka,MID,Rayo Vallecano,7,19,10,0,0,0,0,1,0,0,0,0,0,0
+260,Ismaila Ciss,MID,Rayo Vallecano,34,19,25,1,0,3,4,0,0,0,0,0,5,0
+261,Alvaro Garcia,MID,Rayo Vallecano,64,19,34,3,2,7,3,0,0,0,0,0,5,0
+262,Oscar Trejo,MID,Rayo Vallecano,47,19,30,2,3,5,7,0,0,1,0,0,2,0
+263,Sergio Moreno,FWD,Rayo Vallecano,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+264,Andres Martin,FWD,Rayo Vallecano,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+265,Lass Bangoura,FWD,Rayo Vallecano,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+266,Sergio Camello,FWD,Rayo Vallecano,71,19,35,5,3,0,1,0,0,0,0,0,8,0
+267,Radamel Falcao,FWD,Rayo Vallecano,25,19,19,2,0,0,3,0,0,0,0,0,1,0
+268,Ivan Villar,GK,Celta Vigo,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+269,Agustin Marchesin,GK,Celta Vigo,75,19,38,0,0,6,3,0,0,0,10,2,7,11
+270,Carlos Dominguez,DEF,Celta Vigo,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+271,Kevin Vasquez,DEF,Celta Vigo,8,19,4,0,0,1,0,0,0,0,0,0,0,0
+272,Hugo Mallo,DEF,Celta Vigo,32,19,29,0,0,4,4,0,0,0,0,0,0,9
+273,Unai Nunez,DEF,Celta Vigo,49,19,36,0,0,6,4,0,1,0,0,0,4,9
+274,Javi Galan,DEF,Celta Vigo,54,19,37,0,1,6,2,0,0,0,0,0,3,11
+275,Joseph Aidoo,DEF,Celta Vigo,61,19,38,1,0,6,3,0,0,0,0,0,7,11
+276,Oscar Mingueza,DEF,Celta Vigo,29,19,23,0,0,3,2,0,0,0,0,0,0,4
+277,Gabriel Veiga,MID,Celta Vigo,54,19,28,4,2,4,3,1,0,0,0,0,2,0
+278,Augusto Solari,MID,Celta Vigo,10,19,7,0,1,0,0,0,0,0,0,0,0,0
+279,Miguel Baeza,MID,Celta Vigo,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+280,Luca De La Torre,MID,Celta Vigo,16,19,12,0,1,1,0,0,0,0,0,0,0,0
+281,Williot Swedberg,MID,Celta Vigo,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+282,Fran Beltran,MID,Celta Vigo,39,19,35,0,1,4,3,0,0,0,0,0,0,0
+283,Franco Cervi,MID,Celta Vigo,39,19,32,0,2,4,0,1,0,0,0,0,0,0
+284,Oscar Rodriguez,MID,Celta Vigo,43,19,30,2,0,3,3,0,0,0,0,0,3,0
+285,Denis Suarez,MID,Celta Vigo,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+286,Renato Tapia,MID,Celta Vigo,20,19,21,0,0,2,3,0,0,0,0,0,0,0
+287,Goncalo Paciencia,FWD,Celta Vigo,14,19,15,1,0,0,2,1,0,0,0,0,0,0
+288,Santi Mina,FWD,Celta Vigo,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+289,Carles Perez,FWD,Celta Vigo,27,19,22,0,2,1,1,0,0,0,0,0,0,0
+290,Iago Aspas,FWD,Celta Vigo,96,19,36,9,3,0,2,0,0,1,0,0,19,0
+291,Predrag Rajkovic,GK,Mallorca,79,19,38,0,0,7,2,0,0,0,10,0,10,5
+292,Dominik Greif,GK,Mallorca,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+293,Toni Frau,DEF,Mallorca,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+294,Josep Gaya,DEF,Mallorca,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+295,Copete,DEF,Mallorca,54,19,31,0,0,6,5,0,0,0,0,0,6,2
+296,Antonio Raillo,DEF,Mallorca,69,19,36,1,0,6,5,0,0,0,0,0,13,5
+297,Brian Cufre,DEF,Mallorca,6,19,6,0,0,0,0,0,0,0,0,0,0,0
+298,Jaume Costa,DEF,Mallorca,55,19,32,0,1,7,4,0,0,0,0,0,1,5
+299,Franco Russo,DEF,Mallorca,2,19,2,0,0,0,0,0,0,0,0,0,0,0
+300,Giovanni Gonzalez,DEF,Mallorca,22,19,7,0,1,3,1,0,0,0,0,0,1,0
+301,Martin Valjent,DEF,Mallorca,55,19,34,0,0,7,7,0,0,0,0,0,4,4
+302,Pablo Maffeo,DEF,Mallorca,54,19,32,1,2,4,3,1,0,0,0,0,5,5
+303,Antonio Sanchez,MID,Mallorca,19,19,22,0,0,1,4,0,0,0,0,0,0,0
+304,Inigo Ruiz de Galarreta,MID,Mallorca,28,19,27,0,0,5,5,0,0,0,0,0,1,0
+305,Clement Grenier,MID,Mallorca,13,19,17,0,0,3,7,0,0,0,0,0,0,0
+306,Dani Rodriguez,MID,Mallorca,42,19,30,1,2,6,5,0,0,0,0,0,0,0
+307,Rodrigo Battaglia,MID,Mallorca,14,19,17,0,0,2,5,0,0,0,0,0,0,0
+308,Jordi Mboula,MID,Mallorca,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+309,Iddrisu Baba,MID,Mallorca,21,19,22,0,0,2,3,0,0,0,0,0,0,0
+310,Kang-in Lee,MID,Mallorca,67,19,34,2,3,5,5,0,0,0,0,0,14,0
+311,Javi Llabres,FWD,Mallorca,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+312,Alex Alegria,FWD,Mallorca,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+313,Abdon Prats,FWD,Mallorca,18,19,13,1,0,0,0,0,0,0,0,0,1,0
+314,Lago Junior,FWD,Mallorca,5,19,5,0,0,0,0,0,0,0,0,0,0,0
+315,Amath Ndiaye,FWD,Mallorca,11,19,8,1,0,0,1,0,0,0,0,0,0,0
+316,Angel Rodriguez,FWD,Mallorca,9,19,9,0,0,0,0,0,0,0,0,0,0,0
+317,Matthew Hoppe,FWD,Mallorca,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+318,Vedat Muriqi,FWD,Mallorca,69,19,34,8,1,0,4,1,0,1,0,0,9,0
+319,Rui Silva,GK,Real Betis,67,19,32,0,0,7,2,0,0,0,8,0,5,4
+320,Claudio Bravo,GK,Real Betis,14,19,6,0,0,1,1,0,0,0,2,0,3,0
+321,Felix Marti,DEF,Real Betis,6,19,2,0,0,1,0,0,0,0,0,0,0,0
+322,Edgar Gonzalez,DEF,Real Betis,41,19,25,0,0,4,2,1,0,0,0,0,7,2
+323,Martin Montoya,DEF,Real Betis,4,19,4,0,0,0,0,0,0,0,0,0,0,0
+324,Victor Ruiz,DEF,Real Betis,11,19,9,0,0,1,0,0,0,0,0,0,0,2
+325,Alex Moreno,DEF,Real Betis,60,19,30,0,3,6,1,0,0,0,0,0,1,3
+326,Marc Bartra,DEF,Real Betis,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+327,Luiz Felipe,DEF,Real Betis,27,19,17,0,0,3,1,2,0,0,0,0,7,2
+328,Juan Miranda,DEF,Real Betis,16,19,6,0,0,2,0,0,0,0,0,0,2,0
+329,German Pezzella,DEF,Real Betis,50,19,29,0,0,6,2,2,0,0,0,0,7,2
+330,Youssouf Sabaly,DEF,Real Betis,39,19,21,0,0,4,0,0,0,0,0,0,5,3
+331,Aitor Ruibal,MID,Real Betis,25,19,24,0,0,3,3,0,0,0,0,0,1,0
+332,Victor Camarasa,MID,Real Betis,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+333,Paul Akouokou,MID,Real Betis,7,19,8,0,0,1,2,0,0,0,0,0,0,0
+334,Rodri Sanchez,MID,Real Betis,33,19,24,1,0,4,0,0,0,0,0,0,0,0
+335,Juanmi,MID,Real Betis,24,19,12,2,0,2,3,0,0,0,0,0,3,0
+336,Joaquin,MID,Real Betis,11,19,8,0,1,1,1,0,0,0,0,0,0,0
+337,Luiz Henrique,MID,Real Betis,39,19,28,1,1,3,3,0,0,0,0,0,3,0
+338,Sergio Canales,MID,Real Betis,38,19,30,1,0,5,2,1,0,0,0,0,3,0
+339,Andres Guardado,MID,Real Betis,16,19,17,0,0,2,3,0,0,0,0,0,0,0
+340,William Carvalho,MID,Real Betis,52,19,32,2,0,8,4,1,0,0,0,0,9,0
+341,Guido Rodriguez,MID,Real Betis,34,19,30,0,0,6,3,0,0,0,0,0,1,0
+342,Nabil Fekir,MID,Real Betis,29,19,19,1,2,5,4,1,0,0,0,0,1,0
+343,Loren Moron,FWD,Real Betis,1,19,2,0,0,0,1,0,0,0,0,0,0,0
+344,Borja Iglesias,FWD,Real Betis,80,19,33,9,2,0,0,1,0,0,0,0,8,0
+345,Willian Jose,FWD,Real Betis,17,19,17,0,0,0,0,0,0,0,0,0,0,0
+346,Andriy Lunin,GK,Real Madrid,21,19,8,0,0,2,0,0,0,0,2,0,3,0
+347,Thibaut Courtois,GK,Real Madrid,58,19,30,0,0,4,0,0,0,0,10,0,4,2
+348,Vinicius Tobias,DEF,Real Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+349,Jesus Vallejo,DEF,Real Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+350,Alvaro Odriozola,DEF,Real Madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+351,Nacho Fernandez,DEF,Real Madrid,26,19,14,0,0,3,2,0,0,0,0,0,2,0
+352,Lucas Vasquez,DEF,Real Madrid,27,19,14,2,0,0,1,0,0,0,0,0,2,0
+353,Ferland Mendy,DEF,Real Madrid,34,19,27,0,1,2,2,0,0,0,0,0,0,2
+354,Daniel Carvajal,DEF,Real Madrid,34,19,24,0,1,2,3,0,0,0,0,0,3,1
+355,Antonio Rudiger,DEF,Real Madrid,59,19,31,1,0,6,1,0,0,0,0,0,0,1
+356,Eder Militao,DEF,Real Madrid,65,19,27,3,0,4,1,0,0,0,0,0,7,2
+357,David Alaba,DEF,Real Madrid,55,19,31,1,3,3,3,0,0,0,0,0,2,2
+358,Dani Ceballos,MID,Real Madrid,28,19,17,0,1,4,1,0,0,0,0,0,5,0
+359,Reinier,MID,Girona,14,19,10,1,0,0,1,0,0,0,0,0,0,0
+360,Aurelien Tchouameni,MID,Real Madrid,36,19,25,0,2,1,1,0,0,0,0,0,5,0
+361,Federico Valverde,MID,Real Madrid,86,19,34,6,2,5,1,0,0,0,0,0,12,0
+362,Eduardo Camavinga,MID,Real Madrid,33,19,26,0,1,5,3,0,0,0,0,0,2,0
+363,Casemiro,MID,Real Madrid,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+364,Toni Kroos,MID,Real Madrid,63,19,30,2,2,4,0,1,0,0,0,0,16,0
+365,Luka Modric,MID,Real Madrid,56,19,30,3,2,3,3,0,0,0,0,0,5,0
+366,Mariano Diaz,FWD,Real Madrid,2,19,2,0,0,0,0,0,0,0,0,0,0,0
+367,Marco Asensio,FWD,Real Madrid,37,19,18,2,3,3,1,0,0,0,0,0,3,0
+368,Rodrygo,FWD,Real Madrid,68,19,28,4,5,0,1,0,0,0,0,0,10,0
+369,Vinicius Junior,FWD,Real Madrid,83,19,38,7,3,0,4,0,0,0,0,0,12,0
+370,Eden Hazard,FWD,Real Madrid,1,19,3,0,0,0,0,0,0,1,0,0,0,0
+371,Karim Benzema,FWD,Real Madrid,81,19,24,9,3,0,1,0,0,1,0,0,15,0
+372,Andoni Zubiaurre,GK,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+373,Alex Remiro,GK,Real Sociedad,88,19,38,0,0,8,1,0,0,0,10,1,9,5
+374,Aritz Arambarri,DEF,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+375,Alex Sola,DEF,Real Sociedad,13,19,8,0,0,1,1,0,0,0,0,0,3,1
+376,Urko Gonzalez,DEF,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+377,Jon Pacheco,DEF,Real Sociedad,19,19,16,0,0,2,2,0,0,0,0,0,0,3
+378,Aihen Munoz,DEF,Real Sociedad,20,19,16,0,0,2,0,0,0,0,0,0,0,4
+379,Andoni Gorosabel,DEF,Real Sociedad,25,19,20,0,0,2,2,0,0,0,0,0,0,1
+380,Jonathan Gomez,DEF,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+381,Diego Rico,DEF,Real Sociedad,41,19,22,0,0,5,1,0,0,0,0,0,1,1
+382,Igor Zubeldia,DEF,Real Sociedad,55,19,28,1,0,6,4,0,0,0,0,0,4,3
+383,Aritz Elustondo,DEF,Real Sociedad,53,19,27,0,1,7,4,1,0,0,0,0,4,2
+384,Robin Le Normand,DEF,Real Sociedad,56,19,30,0,0,7,4,0,0,0,0,0,4,2
+385,Ander Martin,MID,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+386,Jon Ander Olasagasti,MID,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+387,Peter Pokorny,MID,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+388,Benat Turrientes,MID,Real Sociedad,6,19,6,0,0,0,0,0,0,0,0,0,0,0
+389,Ander Guevara,MID,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+390,Asier Illarramendi,MID,Real Sociedad,21,19,13,1,0,3,2,0,0,0,0,0,2,0
+391,Martin Zubimendi,MID,Real Sociedad,51,19,34,1,2,6,6,0,0,0,0,0,6,0
+392,Brais Mendez,MID,Real Sociedad,92,19,33,7,3,6,5,0,0,0,0,0,14,0
+393,Mikel Merino,MID,Real Sociedad,70,19,30,1,7,5,5,0,0,1,0,0,16,0
+394,David Silva,MID,Real Sociedad,43,19,29,1,1,7,2,0,0,0,0,0,1,0
+395,Takefusa Kubo,MID,Real Sociedad,56,19,29,2,2,7,2,0,0,0,0,0,6,0
+396,Jon Karrikaburu,FWD,Real Sociedad,5,19,6,0,0,0,1,0,0,0,0,0,0,0
+397,Martin Merquelanz,FWD,Real Sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+398,Carlos Fernandez,FWD,Real Sociedad,8,19,8,0,0,0,0,0,0,0,0,0,0,0
+399,Robert Navarro,FWD,Real Sociedad,11,19,13,0,0,0,2,0,0,0,0,0,0,0
+400,Ander Barrenetxea,FWD,Real Sociedad,10,19,7,1,0,0,1,0,0,0,0,0,0,0
+401,Mohamed-Ali Cho,FWD,Real Sociedad,19,19,11,0,2,0,1,0,0,0,0,0,3,0
+402,Mikel Oyarzabal,FWD,Real Sociedad,5,19,5,0,0,0,0,0,0,0,0,0,0,0
+403,Alexander Isak,FWD,Real Sociedad,8,19,4,1,0,0,0,0,0,0,0,0,0,0
+404,Roberto Jimenez,GK,Real Valladolid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+405,Jordi Masip,GK,Real Valladolid,65,19,28,0,0,3,2,0,0,0,10,3,9,7
+406,Sergio Asenjo,GK,Real Valladolid,13,19,10,0,0,1,0,0,0,0,1,0,0,2
+407,Adrian Gomez,DEF,Real Valladolid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+408,Luis Perez,DEF,Real Valladolid,13,19,13,0,0,1,1,0,0,0,0,0,1,4
+409,Joaquin Fernandez,DEF,Real Valladolid,48,19,29,1,0,4,3,0,0,0,0,0,6,6
+410,Sergio Escudero,DEF,Real Valladolid,28,19,17,0,0,3,2,0,0,0,0,0,4,3
+411,Javi Sanchez,DEF,Real Valladolid,45,19,32,1,0,4,6,0,0,0,0,0,4,7
+412,Lucas Olaza,DEF,Real Valladolid,16,19,19,0,0,1,2,0,0,0,0,0,0,5
+413,Jawad El Yamiq,DEF,Real Valladolid,14,19,17,0,0,1,0,1,0,0,0,0,0,4
+414,Victor Garcia,MID,Real Valladolid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+415,Kike Perez,MID,Real Valladolid,38,19,32,0,1,3,4,0,0,0,0,0,4,0
+416,Alvaro Aguado,MID,Real Valladolid,36,19,28,0,2,2,2,0,0,0,0,0,2,0
+417,Ivan Sanchez,MID,Real Valladolid,24,19,21,0,0,3,0,0,0,0,0,0,0,0
+418,Moha Moukhliss,MID,Real Valladolid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+419,Toni Villa,MID,Real Valladolid,30,19,23,1,1,1,2,0,0,0,0,0,0,0
+420,Oscar Plano,MID,Real Valladolid,40,19,30,1,1,3,1,0,0,0,0,0,0,0
+421,Roque Mesa,MID,Real Valladolid,43,19,27,2,1,4,5,0,0,0,0,0,4,0
+422,Anuar,MID,Real Valladolid,12,19,5,1,0,0,1,0,0,0,0,0,3,0
+423,Monchu,MID,Real Valladolid,37,19,25,1,1,3,4,0,0,0,0,0,5,0
+424,Gonzalo Plata,MID,Real Valladolid,30,19,21,0,2,1,0,0,0,0,0,0,2,0
+425,Waldo Marin,FWD,Real Valladolid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+426,Sekou Gassama,FWD,Real Valladolid,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+427,Hugo Vallejo,FWD,Real Valladolid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+428,Sergio Leon,FWD,Real Valladolid,50,19,24,5,1,0,0,1,0,1,0,0,8,0
+429,Stiven Plaza,FWD,Real Valladolid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+430,Sergi Guardiola,FWD,Real Valladolid,19,19,20,0,0,0,1,0,0,0,0,0,0,0
+431,Shon Weissman,FWD,Real Valladolid,23,19,20,1,0,0,1,0,0,0,0,0,0,0
+432,Marko Dmitrovic,GK,Sevilla,8,19,5,0,0,0,1,0,0,0,3,0,1,0
+433,Bono,GK,Sevilla,58,19,33,0,0,3,2,0,0,0,12,1,6,8
+434,Karim Rekik,DEF,Sevilla,27,19,14,1,1,2,1,0,0,0,0,0,0,3
+435,Marcao,DEF,Sevilla,10,19,8,0,0,1,2,0,0,0,0,0,1,1
+436,Jesus Navas,DEF,Sevilla,21,19,25,0,0,1,3,0,1,0,0,0,0,3
+437,Gonzalo Montiel,DEF,Sevilla,17,19,17,0,1,1,3,1,0,0,0,0,1,2
+438,Marcos Acuna,DEF,Sevilla,37,19,22,2,1,1,4,1,0,0,0,0,6,3
+439,Alex Telles,DEF,Sevilla,26,19,20,0,2,2,4,0,0,0,0,0,0,4
+440,Nemanja Gudelj,MID,Sevilla,50,19,32,2,0,2,4,0,0,0,0,0,10,3
+441,Oliver Torres,MID,Sevilla,57,19,31,3,1,4,1,0,0,0,0,0,5,0
+442,Rony Lopes,MID,Sevilla,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+443,Joan Jordan,MID,Sevilla,27,19,25,0,1,1,3,0,0,0,0,0,1,0
+444,Fernando,MID,Sevilla,21,19,21,0,0,2,2,0,0,0,0,0,0,0
+445,Thomas Delaney,MID,Sevilla,6,19,9,0,0,0,3,0,0,0,0,0,0,0
+446,Jesus Corona,MID,Sevilla,2,19,2,0,0,0,0,0,0,0,0,0,0,0
+447,Erik Lamela,MID,Sevilla,41,19,29,3,0,3,5,1,0,0,0,0,2,0
+448,Papu Gomez,MID,Sevilla,21,19,19,0,1,0,4,0,0,0,0,0,3,0
+449,Ivan Rakitic,MID,Sevilla,38,19,23,1,2,4,2,1,0,0,0,0,5,0
+450,Isco,MID,Sevilla,24,19,21,0,2,2,5,0,0,0,0,0,0,0
+451,Rafa Mir,FWD,Sevilla,37,19,23,3,0,0,1,0,0,0,0,0,3,0
+452,Suso,FWD,Sevilla,13,19,10,0,1,1,1,0,0,0,0,0,1,0
+453,Lucas Ocampos,FWD,Sevilla,5,19,7,0,0,1,2,0,0,0,0,0,0,0
+454,Munir El Haddadi,FWD,Getafe,15,19,11,1,0,0,2,0,0,0,0,0,2,0
+455,Youssef En-Nesyri,FWD,Sevilla,28,19,19,2,0,0,1,0,0,0,0,0,2,0
+456,Dragan Rosic,GK,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+457,Fernando Martinez,GK,Almeria,61,19,36,0,0,1,1,0,0,0,17,1,8,8
+458,Ivan Martos,DEF,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+459,Juanjo Nieto,DEF,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+460,Jonathan Silva,DEF,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+461,Alex Centelles,DEF,Almeria,0,19,0,0,0,0,0,1,0,0,0,0,0,0
+462,Houboulang Mendes,DEF,Almeria,12,19,17,0,1,0,1,0,0,0,0,0,0,7
+463,Arnau Sola,DEF,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+464,Nikola Maras,DEF,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+465,Srdan Babic,DEF,Almeria,37,19,31,1,0,1,2,0,0,0,0,0,4,6
+466,Alejandro Pozo,DEF,Almeria,35,19,23,0,1,1,0,0,0,0,0,0,6,1
+467,Rodrigo Ely,DEF,Almeria,26,19,37,0,0,1,3,1,0,0,0,0,0,9
+468,Chumi,DEF,Almeria,19,19,17,1,0,0,1,0,0,0,0,0,1,4
+469,Sergio Akieme Rodriguez,DEF,Almeria,33,19,38,0,0,1,3,0,0,0,0,0,3,9
+470,Kaiky,DEF,Almeria,4,19,12,0,0,0,5,0,0,0,0,0,0,4
+471,Cesar de la Hoz,MID,Almeria,25,19,20,1,0,1,4,0,0,0,0,0,3,0
+472,Curro,MID,Almeria,1,19,2,0,0,0,1,0,0,0,0,0,0,0
+473,Gui,MID,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+474,Inigo Eguaras,MID,Almeria,24,19,19,1,1,0,3,0,0,0,0,0,0,0
+475,Jose Carlos Lazo,MID,Almeria,17,19,9,1,0,0,0,0,0,0,0,0,3,0
+476,Francisco Portillo,MID,Almeria,24,19,13,2,0,0,1,0,0,0,0,0,2,0
+477,Samuel Costa,MID,Almeria,25,19,25,0,0,0,3,0,0,0,0,0,3,0
+478,Martin Svidersky,MID,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+479,Arnau Puigmal,MID,Almeria,8,19,11,0,0,0,3,0,0,0,0,0,0,0
+480,Lucas Robertone,MID,Almeria,59,19,36,1,3,4,4,0,0,0,0,0,9,0
+481,Arvin Appiah,FWD,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+482,Marko Milovanovic,FWD,Almeria,1,19,2,0,0,0,1,0,0,0,0,0,0,0
+483,Dyego Sousa,FWD,Almeria,15,19,13,0,1,0,1,0,0,0,0,0,0,0
+484,Jordi Escobar,FWD,Almeria,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+485,Largie Ramazani,FWD,Almeria,34,19,29,2,0,0,4,0,0,1,0,0,3,0
+486,Umar Sadiq,FWD,Real Sociedad,19,19,8,3,0,0,1,0,0,0,0,0,0,0
+487,Cristian Rivero,GK,Valencia,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+488,Jaume Domenech,GK,Valencia,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+489,Giorgi Mamardashvili,GK,Valencia,61,19,38,0,0,3,1,0,0,0,13,0,6,7
+490,Cristhian Mosquera,DEF,Valencia,4,19,4,0,0,0,0,0,0,0,0,0,0,0
+491,Jesus Vazquez,DEF,Valencia,9,19,6,0,0,1,1,0,0,0,0,0,0,0
+492,Dimitri Foulquier,DEF,Valencia,15,19,16,0,1,0,2,0,0,0,0,0,0,2
+493,Toni Lato,DEF,Valencia,28,19,16,1,0,1,0,0,0,0,0,0,2,0
+494,Eray Comert,DEF,Valencia,35,19,27,1,0,2,4,1,0,0,0,0,3,2
+495,Thierry Correia,DEF,Valencia,39,19,32,0,0,3,3,0,0,0,0,0,3,5
+496,Mouctar Diakhaby,DEF,Valencia,40,19,25,2,0,3,5,1,0,0,0,0,3,4
+497,Gabriel Paulista,DEF,Valencia,18,19,20,1,0,0,1,1,0,0,0,0,1,5
+498,Jose Luis Gaya,DEF,Valencia,60,19,30,1,2,3,2,0,0,1,0,0,17,7
+499,Yellu Santiago,MID,Valencia,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+500,Koba Koindredi,MID,Valencia,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+501,Hugo Guillamon,MID,Valencia,46,19,28,1,4,3,4,0,1,0,0,0,4,0
+502,Uros Racic,MID,Valencia,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+503,Samu Castillejo,MID,Valencia,34,19,24,2,0,4,4,0,0,0,0,0,0,0
+504,Yunus Musah,MID,Valencia,34,19,30,0,2,2,7,0,0,0,0,0,3,0
+505,Carlos Soler,MID,Valencia,15,19,6,1,0,1,0,0,0,0,0,0,3,0
+506,Manu Vallejo,FWD,Girona,10,19,7,0,1,0,0,0,0,0,0,0,0,0
+507,Marcos Andre,FWD,Valencia,16,19,16,1,0,0,2,1,0,0,0,0,1,0
+508,Samuel Lino,FWD,Valencia,46,19,38,2,0,2,3,0,0,0,0,0,3,0
+509,Hugo Duro,FWD,Valencia,18,19,15,1,0,0,1,0,0,0,0,0,0,0
+510,Maximiliano Gomez,FWD,Valencia,3,19,3,0,0,0,0,0,0,0,0,0,0,0
+511,Pepe Reina,GK,Villareal,17,19,8,0,0,1,1,0,0,0,3,0,3,0
+512,Geronimo Rulli,GK,Villareal,80,19,28,0,0,7,1,0,0,0,12,0,15,2
+513,Sergio Carreira,DEF,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+514,Adrian de la Fuente,DEF,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+515,Kiko Femenia,DEF,Villareal,33,19,23,0,0,3,0,0,0,0,0,0,0,2
+516,Alfonso Pedraza,DEF,Villareal,49,19,21,0,1,6,1,0,0,0,0,0,2,0
+517,Jorge Cuenca,DEF,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+518,Alberto Moreno,DEF,Villareal,13,19,14,0,0,1,4,0,0,0,0,0,0,1
+519,Raul Albiol,DEF,Villareal,58,19,32,0,0,7,5,0,0,0,0,0,5,2
+520,Pervis Estupinan,DEF,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+521,Juan Foyth,DEF,Villareal,31,19,13,1,0,3,2,0,0,0,0,0,2,0
+522,Pau Torres,DEF,Villareal,60,19,34,0,0,7,7,0,0,0,0,0,7,2
+523,Aissa Mandi,DEF,Villareal,21,19,13,0,0,2,0,0,0,0,0,0,0,0
+524,Alejandro Baena,MID,Villareal,44,19,25,4,0,3,7,1,0,0,0,0,6,0
+525,Manuel Morlanes,MID,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+526,Javier Ontiveros,MID,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+527,Nicolas Jackson,FWD,Villareal,35,19,20,2,2,1,1,0,0,0,0,0,2,0
+528,Nikita Iosifov,MID,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+529,Manu Trigueros,MID,Villareal,11,19,12,0,0,1,2,0,0,0,0,0,0,0
+530,Francis Coquelin,MID,Villareal,30,19,21,1,0,3,2,0,0,0,0,0,3,0
+531,Etienne Capoue,MID,Villareal,33,19,27,0,0,7,1,0,0,0,0,0,0,0
+532,Yeremy Pino,MID,Villareal,41,19,28,2,0,5,3,0,0,0,0,0,1,0
+533,Dani Parejo,MID,Villareal,75,19,38,1,3,8,2,0,0,0,0,0,17,0
+534,Samuel Chukwueze,MID,Villareal,40,19,26,1,2,2,1,0,0,0,0,0,2,0
+535,Fernando Nino,FWD,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+536,Jose Luis Morales,FWD,Villareal,24,19,21,1,0,0,1,0,0,0,0,0,0,0
+537,Paco Alcacer,FWD,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+538,Arnaut Danjuma,FWD,Villareal,24,19,14,2,0,0,0,0,0,0,0,0,2,0
+539,Boulaye Dia,FWD,Villareal,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+540,Gerard Moreno,FWD,Villareal,43,19,20,4,2,0,2,0,0,1,0,0,5,0
+541,Pablo Lumbreras,DEF,Osasuna,13,19,9,0,0,1,0,0,0,0,0,0,0,0
+542,Ivan Romero,FWD,Sevilla,0,19,1,0,0,0,1,0,0,0,0,0,0,0
+543,Ruben Sanchez Saez,MID,Espanyol,13,19,11,0,1,0,1,0,0,0,0,0,0,0
+544,Edu Exposito,MID,Espanyol,42,19,24,2,2,0,2,0,0,0,0,0,4,0
+545,Nico Gonzalez,MID,Valencia,22,19,18,1,0,1,0,0,1,0,0,0,0,0
+546,Moi Parra,FWD,Getafe,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+547,Fran Delgado,DEF,Real Betis,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+548,Rober Gonzalez,FWD,Real Betis,1,19,2,0,0,0,1,0,0,0,0,0,0,0
+549,John Donald,MID,Elche,1,19,4,0,0,0,0,1,0,0,0,0,0,2
+550,Alejandro Alfaro,MID,Elche,1,19,1,0,0,0,0,0,0,0,0,0,0,0
+551,Tanguy Nianzou,DEF,Sevilla,20,19,19,1,0,1,1,1,0,0,0,0,0,5
+552,Fede San Emeterio,MID,Cadiz,23,19,24,0,0,4,5,0,0,0,0,0,0,0
+553,Giovani Lo Celso,MID,Villareal,22,19,14,1,0,4,1,0,0,0,0,0,0,0
+554,Pol Lirola,DEF,Elche,13,19,13,1,0,0,1,0,0,0,0,0,0,5
+555,Alex Collado,MID,Elche,24,19,13,1,1,0,1,0,0,0,0,0,4,0
+556,Domingos Quina,MID,Elche,7,19,11,0,0,0,1,1,0,0,0,0,0,0
+557,Leo Baptistao,FWD,Almeria,46,19,25,3,2,1,4,0,0,0,0,0,7,0
+558,Javier Hernandez,DEF,Girona,15,19,13,0,1,0,1,0,0,0,0,0,1,1
+559,Jose Angel Carmona,DEF,Elche,34,19,18,3,1,0,5,1,0,0,0,0,6,3
+560,Juanmi Latasa,FWD,Getafe,10,19,10,0,0,0,0,0,0,0,0,0,0,0
+561,Dani Gomez,FWD,Espanyol,6,19,7,0,0,0,1,0,0,0,0,0,0,0
+562,Antonio Blanco,MID,Cadiz,5,19,5,0,0,0,0,0,0,0,0,0,0,0
+563,Jorgen Larsen,FWD,Celta Vigo,30,19,23,1,2,0,3,0,0,0,0,0,0,0
+564,Brian Ocampo,MID,Cadiz,38,19,25,1,0,7,2,0,0,0,0,0,3,0
+565,Theo Bongonda,FWD,Cadiz,26,19,17,2,0,5,0,0,0,0,0,0,1,0
+566,Edinson Cavani,FWD,Valencia,47,19,22,5,1,0,3,0,0,1,0,0,7,0
+567,Marcos Alonso,DEF,FC Barcelona,33,19,16,1,0,3,1,0,0,0,0,0,0,0
+568,Hector Bellerin,DEF,FC Barcelona,8,19,4,0,0,1,0,0,0,0,0,0,0,0
+569,Ander Herrera,MID,Athletic Club,8,19,10,0,1,1,3,1,0,0,0,0,0,0
+570,Sergio Reguilon,DEF,Atletico Madrid,1,19,4,0,0,0,0,1,0,0,0,0,0,0
+571,Abdessamad Ezzalzouli,FWD,Osasuna,23,19,18,0,2,1,1,0,0,0,0,0,0,0
+572,El Bilal Toure,FWD,Almeria,48,19,24,4,2,0,0,0,0,0,0,0,2,0
+573,Paulo Gazzaniga,GK,Girona,31,19,18,0,0,0,1,0,0,0,6,1,5,2
+574,Oriol Romeu,MID,Girona,35,19,30,1,0,0,5,0,0,0,0,0,5,0
+575,Alexander Sorloth,FWD,Real Sociedad,61,19,28,7,1,0,2,0,0,0,0,0,4,0
+576,Kasper Dolberg,FWD,Sevilla,9,19,6,0,1,0,0,0,0,0,0,0,0,0
+577,Alvaro Fernandez,GK,Espanyol,30,19,18,0,0,2,0,0,0,0,8,0,1,5
+578,Omar El Hilali,DEF,Espanyol,3,19,5,0,0,0,1,0,0,0,0,0,0,1
+579,Simo,MID,Espanyol,3,19,3,0,0,0,0,0,0,0,0,0,0,0
+580,Andre Almeida,MID,Valencia,49,19,28,2,3,2,2,0,0,0,0,0,2,0
+581,Ilaix Moriba,MID,Valencia,12,19,15,0,0,2,2,1,0,0,0,0,0,0
+582,Kenedy,MID,Real Valladolid,3,19,4,0,0,0,1,0,0,0,0,0,0,0
+583,Ivan Fresneda,DEF,Real Valladolid,18,19,17,0,0,1,1,0,0,0,0,0,0,2
+584,Justin Kluivert,MID,Valencia,39,19,19,3,0,1,2,0,0,0,0,0,6,0
+585,Kike Salas,DEF,Sevilla,16,19,9,1,1,0,1,1,0,0,0,0,3,1
+586,Matija Nastasic,DEF,Mallorca,16,19,11,0,0,2,1,0,0,0,0,0,0,2
+587,Nicolas Fernandez,MID,Elche,7,19,11,0,0,0,2,0,1,0,0,0,0,0
+588,Lazaro,FWD,Almeria,11,19,7,1,0,0,0,0,0,0,0,0,0,0
+589,Federico Fernandez,DEF,Elche,1,19,2,0,0,0,0,0,0,0,0,0,0,1
+590,Gonzalo Melero,MID,Almeria,49,19,24,2,3,4,3,0,0,0,0,0,5,0
+591,Zouhair Feddal,DEF,Real Valladolid,5,19,7,0,0,0,0,0,0,0,0,0,0,2
+592,Lucas Rosa,DEF,Real Valladolid,16,19,14,0,0,1,1,0,0,0,0,0,0,1
+593,Fernando Pacheco,GK,Almeria,2,19,2,0,0,0,0,0,0,0,1,0,0,1
+594,Jordan Amavi,DEF,Celta Vigo,5,19,4,0,0,1,0,1,0,0,0,0,0,0
+595,Adnan Januzaj,MID,Sevilla,2,19,2,0,0,0,0,0,0,0,0,0,0,0
+596,Pablo Marin,MID,Real Sociedad,8,19,7,0,0,2,1,0,0,0,0,0,0,0
+597,Juan Cruz Betis,MID,Real Betis,8,19,3,1,0,0,0,0,0,0,0,0,0,0
+598,Cenk Ozkacar,DEF,Valencia,9,19,6,0,0,1,0,0,0,0,0,0,0,1
+599,Abdul Mumin,DEF,Rayo Vallecano,2,19,3,0,0,0,0,0,0,0,0,0,0,1
+600,Pablo Barrios,MID,Atletico Madrid,8,19,7,0,0,2,1,0,0,0,0,0,0,0
+601,Omar Alderete,DEF,Getafe,10,19,9,0,0,1,2,0,0,0,0,0,0,1
+602,Tino Kadewere,FWD,Real Mallorca,4,19,4,0,0,0,0,0,0,0,0,0,0,0
+603,Lautaro Blanco,DEF,Elche,7,19,6,0,1,0,1,0,0,0,0,0,0,1
+604,Luis Suarez,FWD,Almeria,9,19,5,1,0,0,0,0,0,0,0,0,0,0
+605,Loic Bade,DEF,Sevilla,15,19,7,0,0,2,0,0,0,0,0,0,0,0
+606,Diego Moreno,DEF,Osasuna,16,19,8,0,0,2,0,0,0,0,0,0,0,0
+607,Cesar Montes,DEF,Espanyol,8,19,6,0,0,1,2,0,0,0,0,0,1,1
+608,Abner Vinicius,DEF,Real Betis,3,19,4,0,0,0,0,0,0,0,0,0,0,1
+609,David Torres,DEF,Real Valladolid,2,19,3,0,0,0,0,0,0,0,0,0,0,1
+610,Darwin Machis,FWD,Real Valladolid,8,19,2,0,1,1,0,0,0,0,0,0,3,0
+611,Cyle Larin,FWD,Real Valladolid,7,19,1,1,0,0,0,0,0,0,0,0,2,0
