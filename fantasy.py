@@ -16,11 +16,11 @@
 # - Run fill_fantasy_table.py code
 # - Change updating variable to False
 # - Change updated_points in this file to True
-# - Commit all fantasy files to github
+# - Commit all fantasy files to Github
 # - Refresh link for updates and check if all correct
 # - Change updated_points in this file to False
 # - Manually change standings.csv
-# - Commit this file + standings.csv to github
+# - Commit this file + standings.csv to Github
 
 
 import streamlit as st
