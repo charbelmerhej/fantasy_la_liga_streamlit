@@ -647,7 +647,11 @@ clean_sheets = [
     jordi_masip, luis_perez, martin_hongla, javi_sanchez, lucas_olaza, kike_perez, gonzalo_plata, oscar_plano, darwin_machis, # Real Valladolid
     # giorgi_mamardashvili, thierry_correia, cenk_ozkacar, eray_comert, jose_luis_gaya, nico_gonzalez, yunus_musah, andre_almeida, samu_castillejo, samuel_lino, # Valencia
     # fernando_martinez, alejandro_pozo, rodrigo_ely, srdan_babic, sergio_akieme_rodriguez, cesar_de_la_hoz, leo_baptistao, lucas_robertone, gonzalo_melero, adrian_embarba, # Almeria
+<<<<<<< HEAD
     andriy_lunin, daniel_carvajal, nacho_fernandez, eder_militao, david_alaba, dani_ceballos, federico_valverde, eduardo_camavinga, rodrygo, marco_asensio, # Real Madrid
+=======
+    # thibaut_courtois, nacho_fernandez, eder_militao, antonio_rudiger, dani_ceballos, federico_valverde, eduardo_camavinga, toni_kroos,  # Real Madrid
+>>>>>>> dc36b222130aca57ca441db45d080ebbf639581f
     # predrag_rajkovic, pablo_maffeo, jaume_costa, antonio_raillo, giovanni_gonzalez, matija_nastasic, inigo_ruiz_de_galarreta, iddrisu_baba, dani_rodriguez, kang_in_lee,  # Mallorca
     bono, tanguy_nianzou, loic_bade, nemanja_gudelj, bryan_gil, fernando, oliver_torres, pape_gueye, suso, # Sevilla
     alvaro_odriozola
