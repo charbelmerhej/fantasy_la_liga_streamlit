@@ -136,6 +136,7 @@ javi_galan = "Javi Galan"
 unai_nunez = "Unai Nunez"
 joseph_aidoo = "Joseph Aidoo"
 hugo_mallo = "Hugo Mallo"
+ivan_villar = "Ivan Villar"
 fran_beltran = "Fran Beltran"
 kevin_vasquez = "Kevin Vasquez"
 franco_cervi = "Franco Cervi"
@@ -377,6 +378,7 @@ lucas_vasquez = "Lucas Vasquez"
 eder_militao = "Eder Militao"
 antonio_rudiger = "Antonio Rudiger"
 nacho_fernandez = "Nacho Fernandez"
+alvaro_odriozola = "Alvaro Odriozola"
 ferland_mendy = "Ferland Mendy"
 david_alaba = "David Alaba"
 daniel_carvajal = "Daniel Carvajal"
@@ -399,6 +401,7 @@ predrag_rajkovic = "Predrag Rajkovic"
 pablo_maffeo = "Pablo Maffeo"
 martin_valjent = "Martin Valjent"
 brian_cufre = "Brian Cufre"
+ludwig_augustinsson = "Ludwig Augustinsson"
 giovanni_gonzalez = "Giovanni Gonzalez"
 franco_russo = "Franco Russo"
 antonio_raillo = "Antonio Raillo"
@@ -455,6 +458,7 @@ luis_perez = "Luis Perez"
 joaquin_fernandez = "Joaquin Fernandez"
 jawad_el_yamiq = "Jawad El Yamiq"
 sergio_escudero = "Sergio Escudero"
+martin_hongla = "Martin Hongla"
 david_torres = "David Torres"
 zouhair_feddal = "Zouhair Feddal"
 lucas_rosa = "Lucas Rosa"
@@ -591,28 +595,28 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": unai_simon,
+    "G1": andriy_lunin,
     "D1": german_pezzella,
     "D2": andreas_christensen,
-    "D3": jose_maria_gimenez,
+    "D3": loic_bade,
     "D4": jules_kounde,
     "M1": isi_palazon,
     "M2": brais_mendez,
-    "M3": luiz_henrique,
+    "M3": samuel_lino,
     "F1": antoine_griezmann,
     "F2": robert_lewandowski,
-    "F3": gerard_moreno,
-    "G2": pepe_reina,
+    "F3": rodrygo,
+    "G2": unai_simon,
     "D5": pau_torres,
-    "M4": samuel_lino,
-    "F4": borja_iglesias,
+    "M4": luiz_henrique,
+    "F4": gerard_moreno,
 }]
 
 ralph = [{
     "G1": jan_oblak,
     "D1": nacho_fernandez,
     "D2": reinildo,
-    "D3": antonio_rudiger,
+    "D3": david_alaba,
     "D4": raul_albiol,
     "M1": sergio_canales,
     "M2": alejandro_baena,
@@ -621,7 +625,7 @@ ralph = [{
     "F2": iago_aspas,
     "F3": edinson_cavani,
     "G2": bono,
-    "D5": david_alaba,
+    "D5": antonio_rudiger,
     "M4": kang_in_lee,
     "F4": mikel_oyarzabal,
 }]
@@ -630,36 +634,36 @@ george = [{
     "G1": marc_andre_ter_stegen,
     "D1": alejandro_balde,
     "D2": ronald_araujo,
-    "D3": yuri_berchiche,
+    "D3": eder_militao,
     "D4": yeray_alvarez,
     "M1": takefusa_kubo,
     "M2": nico_williams,
-    "M3": pedri,
+    "M3": gabriel_veiga,
     "F1": vedat_muriqi,
     "F2": youssef_ennesyri,
     "F3": vinicius_junior,
     "G2": stole_dimitrievski,
-    "D5": matt_doherty,
-    "M4": gabriel_veiga,
+    "D5": stefan_savic,
+    "M4": pedri,
     "F4": ousmane_dembele,
 }]
 
 rene = [{
-    "G1": thibaut_courtois,
+    "G1": rui_silva,
     "D1": nahuel_molina,
     "D2": daniel_carvajal,
-    "D3": oscar_de_marcos,
+    "D3": jordi_alba,
     "D4": robin_le_normand,
-    "M1": nabil_fekir,
+    "M1": mikel_merino,
     "M2": alvaro_garcia,
     "M3": raphinha,
-    "F1": joselu,
+    "F1": karim_benzema,
     "F2": alvaro_morata,
     "F3": alexander_sorloth,
-    "G2": rui_silva,
-    "D5": jordi_alba,
-    "M4": mikel_merino,
-    "F4": karim_benzema,
+    "G2": thibaut_courtois,
+    "D5": oscar_de_marcos,
+    "M4": nabil_fekir,
+    "F4": joselu,
 }]
 
 
@@ -1183,7 +1187,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
