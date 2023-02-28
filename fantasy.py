@@ -396,6 +396,7 @@ eden_hazard = "Eden Hazard"
 karim_benzema = "Karim Benzema"
 marco_asensio = "Marco Asensio"
 rodrygo = "Rodrygo"
+alvaro_rodriguez = "Alvaro Rodriguez"
 mariano_diaz = "Mariano Diaz"
 
 # Real Mallorca
@@ -597,62 +598,62 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": alex_remiro,
+    "G1": unai_simon,
     "D1": pau_torres,
     "D2": andreas_christensen,
-    "D3": sergi_roberto,
-    "D4": jules_kounde,
+    "D3": florian_lejeune,
+    "D4": fran_garcia,
     "M1": isi_palazon,
     "M2": brais_mendez,
-    "M3": samuel_lino,
-    "F1": antoine_griezmann,
+    "M3": alex_berenguer,
+    "F1": cyle_larin,
     "F2": robert_lewandowski,
     "F3": gerard_moreno,
-    "G2": unai_simon,
-    "D5": german_pezzella,
+    "G2": alex_remiro,
+    "D5": jules_kounde,
     "M4": lucas_ocampos,
-    "F4": borja_iglesias,
+    "F4": antoine_griezmann,
 }]
 
 ralph = [{
-    "G1": jan_oblak,
-    "D1": abner_vinicius,
+    "G1": bono,
+    "D1": antonio_rudiger,
     "D2": eric_garcia,
-    "D3": david_alaba,
+    "D3": reinildo,
     "D4": raul_albiol,
-    "M1": sergio_canales,
-    "M2": alejandro_baena,
+    "M1": kang_in_lee,
+    "M2": sergi_darder,
     "M3": federico_valverde,
-    "F1": memphis_depay,
+    "F1": mikel_oyarzabal,
     "F2": iago_aspas,
-    "F3": mikel_oyarzabal,
-    "G2": bono,
-    "D5": reinildo,
-    "M4": kang_in_lee,
-    "F4": edinson_cavani,
+    "F3": edinson_cavani,
+    "G2": jan_oblak,
+    "D5": david_alaba,
+    "M4": sergio_canales,
+    "F4": memphis_depay,
 }]
 
 george = [{
     "G1": marc_andre_ter_stegen,
-    "D1": alejandro_balde,
+    "D1": eder_militao,
     "D2": yeray_alvarez,
-    "D3": brian_olivan,
-    "D4": eder_militao,
+    "D3": ronald_araujo,
+    "D4": alejandro_catena,
     "M1": takefusa_kubo,
-    "M2": nico_williams,
+    "M2": oihan_sancet,
     "M3": gabriel_veiga,
     "F1": vedat_muriqi,
-    "F2": youssef_ennesyri,
+    "F2": enes_unal,
     "F3": vinicius_junior,
     "G2": stole_dimitrievski,
-    "D5": ronald_araujo,
+    "D5": alejandro_balde,
     "M4": pedri,
     "F4": ousmane_dembele,
 }]
 
 rene = [{
     "G1": thibaut_courtois,
-    "D1": nahuel_molina,
+    "D1": jordi_alba,
     "D2": daniel_carvajal,
     "D3": oscar_de_marcos,
     "D4": robin_le_normand,
@@ -660,12 +661,12 @@ rene = [{
     "M2": alvaro_garcia,
     "M3": raphinha,
     "F1": joselu,
-    "F2": alvaro_morata,
+    "F2": karim_benzema,
     "F3": alexander_sorloth,
     "G2": rui_silva,
-    "D5": jordi_alba,
+    "D5": nahuel_molina,
     "M4": mikel_merino,
-    "F4": karim_benzema,
+    "F4": alvaro_morata,
 }]
 
 
@@ -1189,7 +1190,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
