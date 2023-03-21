@@ -598,10 +598,10 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": jeremias_ledesma,
+    "G1": alex_remiro,
     "D1": jules_kounde,
     "D2": andreas_christensen,
-    "D3": nacho_fernandez,
+    "D3": pau_torres,
     "D4": stefan_savic,
     "M1": isi_palazon,
     "M2": brais_mendez,
@@ -609,8 +609,8 @@ charbel = [{
     "F1": robert_lewandowski,
     "F2": antoine_griezmann,
     "F3": gerard_moreno,
-    "G2": alex_remiro,
-    "D5": pau_torres,
+    "G2": jeremias_ledesma,
+    "D5": german_pezzella,
     "M4": dani_rodriguez,
     "F4": cyle_larin,
 }]
@@ -637,7 +637,7 @@ george = [{
     "G1": marc_andre_ter_stegen,
     "D1": alejandro_balde,
     "D2": jose_maria_gimenez,
-    "D3": eder_militao,
+    "D3": ronald_araujo,
     "D4": igor_zubeldia,
     "M1": takefusa_kubo,
     "M2": yannick_carrasco,
@@ -646,27 +646,27 @@ george = [{
     "F2": enes_unal,
     "F3": vinicius_junior,
     "G2": stole_dimitrievski,
-    "D5": ronald_araujo,
+    "D5": eder_militao,
     "M4": pedri,
     "F4": ousmane_dembele,
 }]
 
 rene = [{
-    "G1": thibaut_courtois,
+    "G1": rui_silva,
     "D1": nahuel_molina,
     "D2": daniel_carvajal,
     "D3": oscar_de_marcos,
     "D4": robin_le_normand,
     "M1": samuel_chukwueze,
-    "M2": alvaro_garcia,
+    "M2": david_silva,
     "M3": raphinha,
     "F1": alvaro_morata,
-    "F2": joselu,
+    "F2": karim_benzema,
     "F3": alexander_sorloth,
-    "G2": rui_silva,
+    "G2": thibaut_courtois,
     "D5": jordi_alba,
-    "M4": mikel_merino,
-    "F4": karim_benzema,
+    "M4": alvaro_garcia,
+    "F4": joselu,
 }]
 
 
@@ -1190,7 +1190,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
