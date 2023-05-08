@@ -644,11 +644,11 @@ george = [{
     "M3": yeremy_pino,
     "F1": ousmane_dembele,
     "F2": youssef_ennesyri,
-    "F3": vinicius_junior,
+    "F3": vedat_muriqi,
     "G2": stole_dimitrievski,
     "D5": eder_militao,
     "M4": nico_williams,
-    "F4": vedat_muriqi,
+    "F4": vinicius_junior,
 }]
 
 rene = [{
