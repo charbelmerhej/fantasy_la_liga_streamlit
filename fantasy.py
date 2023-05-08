@@ -598,21 +598,21 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": pepe_reina,
+    "G1": marko_dmitrovic,
     "D1": jules_kounde,
     "D2": nemanja_gudelj,
     "D3": pau_torres,
     "D4": mario_hermoso,
     "M1": isi_palazon,
     "M2": lucas_ocampos,
-    "M3": gio_lo_celso,
+    "M3": ayoze_perez,
     "F1": robert_lewandowski,
     "F2": antoine_griezmann,
-    "F3": marco_asensio,
+    "F3": enes_unal,
     "G2": alex_remiro,
     "D5": arnau_martinez,
-    "M4": ayoze_perez,
-    "F4": enes_unal,
+    "M4": gio_lo_celso,
+    "F4": marco_asensio,
 }]
 
 ralph = [{
@@ -636,18 +636,18 @@ ralph = [{
 george = [{
     "G1": marc_andre_ter_stegen,
     "D1": jose_maria_gimenez,
-    "D2": fran_garcia,
+    "D2": loic_bade,
     "D3": ronald_araujo,
     "D4": alejandro_balde,
     "M1": takefusa_kubo,
     "M2": pedri,
-    "M3": nico_williams,
+    "M3": yeremy_pino,
     "F1": ousmane_dembele,
     "F2": youssef_ennesyri,
     "F3": vinicius_junior,
     "G2": stole_dimitrievski,
     "D5": eder_militao,
-    "M4": gabriel_veiga,
+    "M4": nico_williams,
     "F4": vedat_muriqi,
 }]
 
@@ -662,11 +662,11 @@ rene = [{
     "M3": raphinha,
     "F1": joselu,
     "F2": alvaro_morata,
-    "F3": karim_benzema,
+    "F3": rodrygo,
     "G2": rui_silva,
     "D5": robin_le_normand,
     "M4": alvaro_garcia,
-    "F4": borja_mayoral,
+    "F4": karim_benzema,
 }]
 
 
@@ -1190,7 +1190,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
