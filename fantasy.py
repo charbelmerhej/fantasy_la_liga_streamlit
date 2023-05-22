@@ -598,21 +598,21 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": alex_remiro,
+    "G1": david_soria,
     "D1": jules_kounde,
-    "D2": pablo_maffeo,
-    "D3": lucas_vasquez,
+    "D2": nemanja_gudelj,
+    "D3": yuri_berchiche,
     "D4": mario_hermoso,
     "M1": isi_palazon,
     "M2": ayoze_perez,
-    "M3": david_silva,
+    "M3": carles_alena,
     "F1": robert_lewandowski,
     "F2": antoine_griezmann,
-    "F3": marco_asensio,
+    "F3": enes_unal,
     "G2": marko_dmitrovic,
-    "D5": nemanja_gudelj,
-    "M4": gio_lo_celso,
-    "F4": enes_unal,
+    "D5": pau_torres,
+    "M4": david_silva,
+    "F4": marco_asensio,
 }]
 
 ralph = [{
@@ -637,36 +637,36 @@ george = [{
     "G1": marc_andre_ter_stegen,
     "D1": jose_maria_gimenez,
     "D2": aihen_munoz,
-    "D3": ronald_araujo,
+    "D3": eder_militao,
     "D4": alejandro_balde,
     "M1": takefusa_kubo,
-    "M2": pedri,
-    "M3": yeremy_pino,
+    "M2": gabriel_veiga,
+    "M3": nico_williams,
     "F1": ousmane_dembele,
-    "F2": vinicius_junior,
+    "F2": nicolas_jackson,
     "F3": vedat_muriqi,
     "G2": stole_dimitrievski,
-    "D5": eder_militao,
-    "M4": nico_williams,
-    "F4": youssef_ennesyri,
+    "D5": ronald_araujo,
+    "M4": pedri,
+    "F4": vinicius_junior,
 }]
 
 rene = [{
     "G1": thibaut_courtois,
     "D1": nahuel_molina,
-    "D2": robin_le_normand,
+    "D2": daniel_carvajal,
     "D3": oscar_de_marcos,
     "D4": andreas_christensen,
     "M1": samuel_chukwueze,
     "M2": yannick_carrasco,
     "M3": raphinha,
-    "F1": joselu,
+    "F1": karim_benzema,
     "F2": alvaro_morata,
-    "F3": rodrygo,
+    "F3": borja_mayoral,
     "G2": rui_silva,
-    "D5": daniel_carvajal,
+    "D5": robin_le_normand,
     "M4": alvaro_garcia,
-    "F4": karim_benzema,
+    "F4": joselu,
 }]
 
 
@@ -1190,7 +1190,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
