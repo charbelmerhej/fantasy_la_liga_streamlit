@@ -598,21 +598,21 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": david_soria,
-    "D1": jules_kounde,
+    "G1": alex_remiro,
+    "D1": yuri_berchiche,
     "D2": nemanja_gudelj,
-    "D3": yuri_berchiche,
+    "D3": pau_torres,
     "D4": mario_hermoso,
-    "M1": isi_palazon,
+    "M1": mikel_merino,
     "M2": ayoze_perez,
-    "M3": carles_alena,
+    "M3": lucas_ocampos,
     "F1": robert_lewandowski,
     "F2": antoine_griezmann,
-    "F3": enes_unal,
-    "G2": marko_dmitrovic,
-    "D5": pau_torres,
-    "M4": david_silva,
-    "F4": marco_asensio,
+    "F3": marco_asensio,
+    "G2": ivo_grbic,
+    "D5": jules_kounde,
+    "M4": isi_palazon,
+    "F4": enes_unal,
 }]
 
 ralph = [{
@@ -639,9 +639,9 @@ george = [{
     "D2": aihen_munoz,
     "D3": eder_militao,
     "D4": alejandro_balde,
-    "M1": takefusa_kubo,
+    "M1": rodrigo_de_paul,
     "M2": gabriel_veiga,
-    "M3": nico_williams,
+    "M3": takefusa_kubo,
     "F1": ousmane_dembele,
     "F2": nicolas_jackson,
     "F3": vedat_muriqi,
@@ -654,19 +654,19 @@ george = [{
 rene = [{
     "G1": thibaut_courtois,
     "D1": nahuel_molina,
-    "D2": daniel_carvajal,
+    "D2": robin_le_normand,
     "D3": oscar_de_marcos,
     "D4": andreas_christensen,
     "M1": samuel_chukwueze,
     "M2": yannick_carrasco,
     "M3": raphinha,
     "F1": karim_benzema,
-    "F2": alvaro_morata,
-    "F3": borja_mayoral,
+    "F2": borja_mayoral,
+    "F3": joselu,
     "G2": rui_silva,
-    "D5": robin_le_normand,
+    "D5": daniel_carvajal,
     "M4": alvaro_garcia,
-    "F4": joselu,
+    "F4": alvaro_morata,
 }]
 
 
@@ -1190,7 +1190,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
