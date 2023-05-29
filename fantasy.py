@@ -598,20 +598,20 @@ gerard_moreno = "Gerard Moreno"
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": alex_remiro,
+    "G1": jeremias_ledesma,
     "D1": yuri_berchiche,
-    "D2": nemanja_gudelj,
-    "D3": pau_torres,
+    "D2": omar_alderete,
+    "D3": jules_kounde,
     "D4": mario_hermoso,
-    "M1": mikel_merino,
+    "M1": isi_palazon,
     "M2": ayoze_perez,
-    "M3": lucas_ocampos,
+    "M3": oihan_sancet,
     "F1": robert_lewandowski,
     "F2": antoine_griezmann,
-    "F3": marco_asensio,
+    "F3": lazaro,
     "G2": ivo_grbic,
-    "D5": jules_kounde,
-    "M4": isi_palazon,
+    "D5": pau_torres,
+    "M4": lucas_ocampos,
     "F4": enes_unal,
 }]
 
@@ -660,13 +660,13 @@ rene = [{
     "M1": samuel_chukwueze,
     "M2": yannick_carrasco,
     "M3": raphinha,
-    "F1": karim_benzema,
+    "F1": alvaro_morata,
     "F2": borja_mayoral,
     "F3": joselu,
     "G2": rui_silva,
     "D5": daniel_carvajal,
     "M4": alvaro_garcia,
-    "F4": alvaro_morata,
+    "F4": karim_benzema,
 }]
 
 
@@ -1190,7 +1190,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
