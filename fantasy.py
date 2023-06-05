@@ -625,8 +625,8 @@ ralph = [{
     "M2": sergi_darder,
     "M3": federico_valverde,
     "F1": mikel_oyarzabal,
-    "F2": iago_aspas,
-    "F3": memphis_depay,
+    "F2": marco_asensio,
+    "F3": karim_benzema,
     "G2": bono,
     "D5": reinildo,
     "M4": kang_in_lee,
@@ -656,17 +656,17 @@ rene = [{
     "D1": nahuel_molina,
     "D2": robin_le_normand,
     "D3": oscar_de_marcos,
-    "D4": andreas_christensen,
+    "D4": daniel_carvajal,
     "M1": samuel_chukwueze,
     "M2": yannick_carrasco,
     "M3": raphinha,
     "F1": alvaro_morata,
     "F2": borja_mayoral,
-    "F3": joselu,
+    "F3": karim_benzema,
     "G2": rui_silva,
     "D5": daniel_carvajal,
     "M4": alvaro_garcia,
-    "F4": karim_benzema,
+    "F4": joselu,
 }]
 
 
@@ -1190,7 +1190,7 @@ else:
 st.dataframe(weekly_df)
 
 st.header("Standings")
-updated_points = False
+updated_points = True
 if not updated_points:
     old_standings_df = pd.read_csv("standings.csv", index_col=0)
     st.dataframe(old_standings_df)
