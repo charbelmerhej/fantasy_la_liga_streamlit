@@ -99,7 +99,7 @@ rene = [{
 
 st.set_page_config(page_title="Fantasy La Liga", layout="wide")
 st.title("Fantasy La Liga")
-st.image("https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg", width=100)
+# st.image("https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg", width=100)
 
 st.header("Charbel")
 # Charbel - Team Structure
