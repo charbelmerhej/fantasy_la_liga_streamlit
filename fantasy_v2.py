@@ -6,7 +6,7 @@
 # - Change updated_points in this file to False
 # - Manually change standings.csv
 # - Commit this file + standings.csv to Github
-
+import sys
 
 import streamlit as st
 import pandas as pd
@@ -119,6 +119,8 @@ cols[1].write("%i" % G1_weekly_pts_c)
 
 cols[0].write("%s" % charbel[0]["D1"])
 D1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D1"], 'Pts']
+print(D1_weekly_pts_c)
+sys.exit()
 D1_weekly_pts_c = D1_weekly_pts_c.reset_index()
 D1_weekly_pts_c = D1_weekly_pts_c["Pts"][0]
 cols[0].write("%i" % D1_weekly_pts_c)
