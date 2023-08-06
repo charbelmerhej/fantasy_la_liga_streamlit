@@ -119,8 +119,7 @@ cols[1].write("%i" % G1_weekly_pts_c)
 
 cols[0].write("%s" % charbel[0]["D1"])
 D1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D1"], 'Pts']
-print(D1_weekly_pts_c)
-sys.exit()
+cols[1].write("%s" % D1_weekly_pts_c)
 D1_weekly_pts_c = D1_weekly_pts_c.reset_index()
 D1_weekly_pts_c = D1_weekly_pts_c["Pts"][0]
 cols[0].write("%i" % D1_weekly_pts_c)
