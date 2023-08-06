@@ -193,36 +193,36 @@ cols[3].write("_%s_" % charbel[0]["F4"])
 cols[3].write("%i" % weekly_df.loc[weekly_df["Name"] == charbel[0]["F4"], 'Pts'])
 
 if (weekly_df.loc[weekly_df["Name"] == charbel[0]["G1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    G1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["G2"], 'Pts']
+    G1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["G2"], 'Pts'].reset_index()["Pts"][0]
 
 if (weekly_df.loc[weekly_df["Name"] == charbel[0]["D1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    D1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts']
+    D1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts'].reset_index()["Pts"][0]
 elif (weekly_df.loc[weekly_df["Name"] == charbel[0]["D2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    D2_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts']
+    D2_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts'].reset_index()["Pts"][0]
 elif (weekly_df.loc[weekly_df["Name"] == charbel[0]["D3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    D3_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts']
+    D3_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts'].reset_index()["Pts"][0]
 elif (weekly_df.loc[weekly_df["Name"] == charbel[0]["D4"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    D4_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts']
+    D4_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["D5"], 'Pts'].reset_index()["Pts"][0]
 
 if (weekly_df.loc[weekly_df["Name"] == charbel[0]["M1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    M1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["M4"], 'Pts']
+    M1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["M4"], 'Pts'].reset_index()["Pts"][0]
 elif (weekly_df.loc[weekly_df["Name"] == charbel[0]["M2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    M2_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["M4"], 'Pts']
+    M2_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["M4"], 'Pts'].reset_index()["Pts"][0]
 elif (weekly_df.loc[weekly_df["Name"] == charbel[0]["M3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    M3_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["M4"], 'Pts']
+    M3_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["M4"], 'Pts'].reset_index()["Pts"][0]
 
 if (weekly_df.loc[weekly_df["Name"] == charbel[0]["F1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    F1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["F4"], 'Pts']
+    F1_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["F4"], 'Pts'].reset_index()["Pts"][0]
 elif (weekly_df.loc[weekly_df["Name"] == charbel[0]["F2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    F2_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["F4"], 'Pts']
+    F2_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["F4"], 'Pts'].reset_index()["Pts"][0]
 elif (weekly_df.loc[weekly_df["Name"] == charbel[0]["F3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
-    F3_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["F4"], 'Pts']
+    F3_weekly_pts_c = weekly_df.loc[weekly_df["Name"] == charbel[0]["F4"], 'Pts'].reset_index()["Pts"][0]
 
 
 charbel_weekly_pts = G1_weekly_pts_c + D1_weekly_pts_c + D2_weekly_pts_c + D3_weekly_pts_c + D4_weekly_pts_c \
                      + M1_weekly_pts_c + M2_weekly_pts_c + M3_weekly_pts_c + F1_weekly_pts_c + F2_weekly_pts_c \
                      + F3_weekly_pts_c
-cols[4].write(charbel_weekly_pts)
+
 cols[4].markdown("<font color=%s> . </font>" % hidden_color, unsafe_allow_html=True)
 cols[4].markdown("<font color=%s> . </font>" % hidden_color, unsafe_allow_html=True)
 cols[4].markdown("<font color=%s> . </font>" % hidden_color, unsafe_allow_html=True)
@@ -326,31 +326,31 @@ cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == ralph[0]["M4"], 'Pts'])
 cols[3].write("_%s_" % ralph[0]["F4"])
 cols[3].write("%i" % weekly_df.loc[weekly_df["Name"] == ralph[0]["F4"], 'Pts'])
 
-if weekly_df.loc[weekly_df["Name"] == ralph[0]["G1"], 'Mins Pts'] == 0:
-    G1_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["G2"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == ralph[0]["G1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    G1_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["G2"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == ralph[0]["D1"], 'Mins Pts'] == 0:
-    D1_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == ralph[0]["D2"], 'Mins Pts'] == 0:
-    D2_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == ralph[0]["D3"], 'Mins Pts'] == 0:
-    D3_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == ralph[0]["D4"], 'Mins Pts'] == 0:
-    D4_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == ralph[0]["D1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D1_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == ralph[0]["D2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D2_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == ralph[0]["D3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D3_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == ralph[0]["D4"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D4_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["D5"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == ralph[0]["M1"], 'Mins Pts'] == 0:
-    M1_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["M4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == ralph[0]["M2"], 'Mins Pts'] == 0:
-    M2_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["M4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == ralph[0]["M3"], 'Mins Pts'] == 0:
-    M3_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["M4"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == ralph[0]["M1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M1_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["M4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == ralph[0]["M2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M2_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["M4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == ralph[0]["M3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M3_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["M4"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == ralph[0]["F1"], 'Mins Pts'] == 0:
-    F1_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["F4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == ralph[0]["F2"], 'Mins Pts'] == 0:
-    F2_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["F4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == ralph[0]["F3"], 'Mins Pts'] == 0:
-    F3_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["F4"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == ralph[0]["F1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F1_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["F4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == ralph[0]["F2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F2_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["F4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == ralph[0]["F3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F3_weekly_pts_ra = weekly_df.loc[weekly_df["Name"] == ralph[0]["F4"], 'Pts'].reset_index()["Pts"][0]
 
 ralph_weekly_pts = G1_weekly_pts_ra + D1_weekly_pts_ra + D2_weekly_pts_ra + D3_weekly_pts_ra + D4_weekly_pts_ra \
                      + M1_weekly_pts_ra + M2_weekly_pts_ra + M3_weekly_pts_ra + F1_weekly_pts_ra + F2_weekly_pts_ra + F3_weekly_pts_ra
@@ -457,31 +457,31 @@ cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == george[0]["M4"], 'Pts'])
 cols[3].write("_%s_" % george[0]["F4"])
 cols[3].write("%i" % weekly_df.loc[weekly_df["Name"] == george[0]["F4"], 'Pts'])
 
-if weekly_df.loc[weekly_df["Name"] == george[0]["G1"], 'Mins Pts'] == 0:
-    G1_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["G2"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == george[0]["G1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    G1_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["G2"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == george[0]["D1"], 'Mins Pts'] == 0:
-    D1_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == george[0]["D2"], 'Mins Pts'] == 0:
-    D2_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == george[0]["D3"], 'Mins Pts'] == 0:
-    D3_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == george[0]["D4"], 'Mins Pts'] == 0:
-    D4_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == george[0]["D1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D1_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == george[0]["D2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D2_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == george[0]["D3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D3_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == george[0]["D4"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D4_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["D5"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == george[0]["M1"], 'Mins Pts'] == 0:
-    M1_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["M4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == george[0]["M2"], 'Mins Pts'] == 0:
-    M2_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["M4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == george[0]["M3"], 'Mins Pts'] == 0:
-    M3_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["M4"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == george[0]["M1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M1_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["M4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == george[0]["M2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M2_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["M4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == george[0]["M3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M3_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["M4"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == george[0]["F1"], 'Mins Pts'] == 0:
-    F1_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["F4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == george[0]["F2"], 'Mins Pts'] == 0:
-    F2_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["F4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == george[0]["F3"], 'Mins Pts'] == 0:
-    F3_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["F4"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == george[0]["F1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F1_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["F4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == george[0]["F2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F2_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["F4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == george[0]["F3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F3_weekly_pts_g = weekly_df.loc[weekly_df["Name"] == george[0]["F4"], 'Pts'].reset_index()["Pts"][0]
 
 george_weekly_pts = G1_weekly_pts_g + D1_weekly_pts_g + D2_weekly_pts_g + D3_weekly_pts_g + D4_weekly_pts_g \
                      + M1_weekly_pts_g + M2_weekly_pts_g + M3_weekly_pts_g + F1_weekly_pts_g + F2_weekly_pts_g + F3_weekly_pts_g
@@ -588,31 +588,31 @@ cols[2].write("%i" % weekly_df.loc[weekly_df["Name"] == rene[0]["M4"], 'Pts'])
 cols[3].write("_%s_" % rene[0]["F4"])
 cols[3].write("%i" % weekly_df.loc[weekly_df["Name"] == rene[0]["F4"], 'Pts'])
 
-if weekly_df.loc[weekly_df["Name"] == rene[0]["G1"], 'Mins Pts'] == 0:
-    G1_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["G2"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == rene[0]["G1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    G1_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["G2"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == rene[0]["D1"], 'Mins Pts'] == 0:
-    D1_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == rene[0]["D2"], 'Mins Pts'] == 0:
-    D2_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == rene[0]["D3"], 'Mins Pts'] == 0:
-    D3_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == rene[0]["D4"], 'Mins Pts'] == 0:
-    D4_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == rene[0]["D1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D1_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == rene[0]["D2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D2_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == rene[0]["D3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D3_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == rene[0]["D4"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    D4_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["D5"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == rene[0]["M1"], 'Mins Pts'] == 0:
-    M1_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["M4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == rene[0]["M2"], 'Mins Pts'] == 0:
-    M2_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["M4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == rene[0]["M3"], 'Mins Pts'] == 0:
-    M3_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["M4"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == rene[0]["M1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M1_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["M4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == rene[0]["M2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M2_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["M4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == rene[0]["M3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    M3_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["M4"], 'Pts'].reset_index()["Pts"][0]
 
-if weekly_df.loc[weekly_df["Name"] == rene[0]["F1"], 'Mins Pts'] == 0:
-    F1_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["F4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == rene[0]["F2"], 'Mins Pts'] == 0:
-    F2_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["F4"], 'Pts']
-elif weekly_df.loc[weekly_df["Name"] == rene[0]["F3"], 'Mins Pts'] == 0:
-    F3_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["F4"], 'Pts']
+if (weekly_df.loc[weekly_df["Name"] == rene[0]["F1"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F1_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["F4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == rene[0]["F2"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F2_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["F4"], 'Pts'].reset_index()["Pts"][0]
+elif (weekly_df.loc[weekly_df["Name"] == rene[0]["F3"], 'Mins Pts']).reset_index()["Mins Pts"][0] == 0:
+    F3_weekly_pts_re = weekly_df.loc[weekly_df["Name"] == rene[0]["F4"], 'Pts'].reset_index()["Pts"][0]
 
 rene_weekly_pts = G1_weekly_pts_re + D1_weekly_pts_re + D2_weekly_pts_re + D3_weekly_pts_re + D4_weekly_pts_re \
                      + M1_weekly_pts_re + M2_weekly_pts_re + M3_weekly_pts_re + F1_weekly_pts_re + F2_weekly_pts_re \
