@@ -222,6 +222,7 @@ elif (weekly_df.loc[weekly_df["Name"] == charbel[0]["F3"], 'Mins Pts']).reset_in
 charbel_weekly_pts = G1_weekly_pts_c + D1_weekly_pts_c + D2_weekly_pts_c + D3_weekly_pts_c + D4_weekly_pts_c \
                      + M1_weekly_pts_c + M2_weekly_pts_c + M3_weekly_pts_c + F1_weekly_pts_c + F2_weekly_pts_c \
                      + F3_weekly_pts_c
+cols[4].write(charbel_weekly_pts)
 cols[4].markdown("<font color=%s> . </font>" % hidden_color, unsafe_allow_html=True)
 cols[4].markdown("<font color=%s> . </font>" % hidden_color, unsafe_allow_html=True)
 cols[4].markdown("<font color=%s> . </font>" % hidden_color, unsafe_allow_html=True)
