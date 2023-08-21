@@ -14,14 +14,15 @@ import pandas as pd
 hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
-updated_points = False
+
+updated_points = True
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Rui Silva",
+    "G1": "Claudio Bravo",
     "D1": "Andreas Christensen",
     "D2": "César Azpilicueta",
     "D3": "David Alaba",

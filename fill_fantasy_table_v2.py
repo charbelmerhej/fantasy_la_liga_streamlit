@@ -54,6 +54,9 @@ for team in teams:
         if player_slug == "juan-cruz" and player_team_slug == "real-betis":
             continue
 
+        if player_slug == "raul-garcia" and player_team_slug == "osasuna":
+            continue
+
         if player_slug in players_df['Slug'].values:
             # Get the row index of the player in the dataframe
             index = players_df[players_df['Slug'] == player_slug].index[0]
