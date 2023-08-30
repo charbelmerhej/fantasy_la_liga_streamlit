@@ -674,7 +674,7 @@ def color_survived(val):
     return f'background-color: {color}'
 
 
-values = ("None", "Athletic Club", "Atletico Madrid", "Osasuna", "Cadiz", "Alaves", "FC Barcelona", "Getafe",
+values = ("None", "Athletic Club", "Atletico Madrid", "Osasuna", "Cadiz", "Alaves", "Barcelona", "Getafe",
           "Girona", "Granada", "Rayo Vallecano", "Celta Vigo", "Mallorca", "Real Betis", "Real Madrid", "Real Sociedad",
           "Sevilla", "Las Palmas", "Almeria", "Valencia", "Villareal")
 option = st.selectbox('Filter by Team', values, index=0, key="total")
