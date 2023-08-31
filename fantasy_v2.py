@@ -676,7 +676,7 @@ def color_survived(val):
 
 values = ("None", "Athletic Club", "Atlético Madrid", "Osasuna", "Cádiz", "Deportivo Alavés", "Barcelona", "Getafe",
           "Girona", "Granada", "Rayo Vallecano", "Celta Vigo", "Mallorca", "Real Betis", "Real Madrid", "Real Sociedad",
-          "Sevilla", "Las Palmas", "Almería", "Valencia", "Villarreal")
+          "Sevilla", "Las Palmas", "Almería", "Valencia", "Villarreal", "test")
 option = st.selectbox('Filter by Team', values, index=0, key="total")
 
 values_pos = ("None", "G", "D", "M", "F")
