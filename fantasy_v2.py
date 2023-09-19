@@ -15,7 +15,7 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
@@ -27,34 +27,34 @@ charbel = [{
     "D2": "Óscar Mingueza",
     "D3": "David Alaba",
     "D4": "Jules Koundé",
-    "M1": "Nico Williams",
+    "M1": "Oihan Sancet",
     "M2": "Jude Bellingham",
-    "M3": "Luis Rioja",
-    "F1": "Ferran Torres",
-    "F2": "Joselu",
+    "M3": "Bryan Zaragoza",
+    "F1": "Alexander Sørloth",
+    "F2": "Youssef En-Nesyri",
     "F3": "Antoine Griezmann",
     "G2": "Rui Silva",
     "D5": "César Azpilicueta",
-    "M4": "İlkay Gündoğan",
-    "F4": "Alexander Sørloth",
+    "M4": "Luis Rioja",
+    "F4": "Ferran Torres",
 }]
 
 ralph = [{
     "G1": "Jan Oblak",
     "D1": "Daniel Carvajal",
-    "D2": "José Luis Gayà",
+    "D2": "Sergio Ramos",
     "D3": "Mario Hermoso",
     "D4": "Fran García",
     "M1": "Federico Valverde",
-    "M2": "Takefusa Kubo",
+    "M2": "Mason Greenwood",
     "M3": "Isco",
     "F1": "Rodrygo",
-    "F2": "Mikel Oyarzabal",
-    "F3": "Hugo Duro",
+    "F2": "Gorka Guruzeta",
+    "F3": "Iago Aspas",
     "G2": "Kepa Arrizabalaga",
-    "D5": "Miguel Gutiérrez",
-    "M4": "Nabil Fekir",
-    "F4": "Iago Aspas",
+    "D5": "José Luis Gayà",
+    "M4": "Takefusa Kubo",
+    "F4": "Mikel Oyarzabal",
 }]
 
 george = [{
@@ -63,34 +63,34 @@ george = [{
     "D2": "Stefan Savić",
     "D3": "Aitor Fernández",
     "D4": "Juan Foyth",
-    "M1": "Rubén García",
+    "M1": "Yangel Herrera",
     "M2": "Lucas Ocampos",
     "M3": "Marcos Llorente",
     "F1": "Robert Lewandowski",
     "F2": "Gerard Moreno",
-    "F3": "Lamine Yamal",
+    "F3": "João Félix",
     "G2": "Stole Dimitrievski",
     "D5": "Ronald Araújo",
     "M4": "Pedri",
-    "F4": "João Félix",
+    "F4": "Lamine Yamal",
 }]
 
 rene = [{
-    "G1": "Unai Simón",
+    "G1": "Filip Jörgensen",
     "D1": "Alejandro Baldé",
     "D2": "Nahuel Molina",
     "D3": "Alfonso Pedraza",
-    "D4": "Robin Le Normand",
+    "D4": "João Cancelo",
     "M1": "Alejandro Baena",
-    "M2": "Ayoze Pérez",
+    "M2": "Brais Méndez",
     "M3": "Isi Palazón",
-    "F1": "Vinícius Júnior",
+    "F1": "Raphinha",
     "F2": "Iñaki Williams",
     "F3": "Álvaro Morata",
-    "G2": "Filip Jörgensen",
-    "D5": "Mouctar Diakhaby",
-    "M4": "Yannick Carrasco",
-    "F4": "Raphinha",
+    "G2": "Unai Simón",
+    "D5": "Robin Le Normand",
+    "M4": "Ayoze Pérez",
+    "F4": "Vinícius Júnior",
 }]
 
 
