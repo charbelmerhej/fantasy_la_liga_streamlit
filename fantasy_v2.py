@@ -15,7 +15,7 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
@@ -23,27 +23,27 @@ updated_points = False
 #######################################################################################################################
 charbel = [{
     "G1": "Claudio Bravo",
-    "D1": "Andreas Christensen",
-    "D2": "David López",
-    "D3": "Juan Miranda",
+    "D1": "Adrià Pedrosa",
+    "D2": "David Alaba",
+    "D3": "Yuri Berchiche",
     "D4": "Jules Koundé",
     "M1": "Oihan Sancet",
     "M2": "Jude Bellingham",
-    "M3": "Viktor Tsygankov",
+    "M3": "Álvaro García",
     "F1": "Alexander Sørloth",
-    "F2": "Ferran Torres",
-    "F3": "Antoine Griezmann",
+    "F2": "Youssef En-Nesyri",
+    "F3": "Joselu",
     "G2": "Álex Remiro",
-    "D5": "David Alaba",
-    "M4": "Bryan Zaragoza",
-    "F4": "Youssef En-Nesyri",
+    "D5": "Andreas Christensen",
+    "M4": "Jonathan Bamba",
+    "F4": "Antoine Griezmann",
 }]
 
 ralph = [{
     "G1": "Kepa Arrizabalaga",
     "D1": "Daniel Carvajal",
     "D2": "Sergio Ramos",
-    "D3": "José Luis Gayà",
+    "D3": "Mario Hermoso",
     "D4": "Fran García",
     "M1": "Federico Valverde",
     "M2": "Takefusa Kubo",
@@ -52,7 +52,7 @@ ralph = [{
     "F2": "Willian José",
     "F3": "Mikel Oyarzabal",
     "G2": "Jan Oblak",
-    "D5": "Mario Hermoso",
+    "D5": "José Luis Gayà",
     "M4": "Mason Greenwood",
     "F4": "Iago Aspas",
 }]
@@ -61,18 +61,18 @@ george = [{
     "G1": "Marc-André ter Stegen",
     "D1": "Antonio Rüdiger",
     "D2": "Stefan Savić",
-    "D3": "Aitor Paredes",
+    "D3": "Ronald Araújo",
     "D4": "Germán Pezzella",
     "M1": "İlkay Gündoğan",
     "M2": "Lucas Ocampos",
-    "M3": "Marcos Llorente",
+    "M3": "Yangel Herrera",
     "F1": "Robert Lewandowski",
-    "F2": "Gerard Moreno",
+    "F2": "Ander Barrenetxea",
     "F3": "João Félix",
     "G2": "Stole Dimitrievski",
-    "D5": "Ronald Araújo",
-    "M4": "Yangel Herrera",
-    "F4": "Hugo Duro",
+    "D5": "Aitor Paredes",
+    "M4": "Sergio Arribas",
+    "F4": "Gerard Moreno",
 }]
 
 rene = [{
