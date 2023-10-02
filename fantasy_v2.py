@@ -15,7 +15,7 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
-updated_points = True 
+updated_points = False
 
 
 #######################################################################################################################
@@ -88,7 +88,7 @@ rene = [{
     "F2": "Iñaki Williams",
     "F3": "Vinícius Júnior",
     "G2": "Unai Simón",
-    "D5": "NÓscar de Marcos",
+    "D5": "Óscar de Marcos",
     "M4": "Brais Méndez",
     "F4": "Álvaro Morata",
 }]
