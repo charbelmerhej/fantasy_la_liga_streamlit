@@ -15,28 +15,28 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Claudio Bravo",
+    "G1": "Álex Remiro",
     "D1": "David Alaba",
-    "D2": "Loïc Badé",
-    "D3": "Raúl Albiol",
-    "D4": "Jules Koundé",
-    "M1": "Jonathan Bamba",
+    "D2": "Eric García",
+    "D3": "Juan Foyth",
+    "D4": "Andreas Christensen",
+    "M1": "Pepelu",
     "M2": "Jude Bellingham",
-    "M3": "Nico Williams",
+    "M3": "Álvaro García",
     "F1": "Alexander Sørloth",
-    "F2": "Youssef En-Nesyri",
+    "F2": "Sávio",
     "F3": "Antoine Griezmann",
-    "G2": "Álex Remiro",
-    "D5": "Andreas Christensen",
-    "M4": "Álvaro García",
-    "F4": "Joselu",
+    "G2": "Claudio Bravo",
+    "D5": "Jules Koundé",
+    "M4": "Nico Williams",
+    "F4": "Youssef En-Nesyri",
 }]
 
 ralph = [{
@@ -60,17 +60,17 @@ ralph = [{
 george = [{
     "G1": "Marc-André ter Stegen",
     "D1": "Antonio Rüdiger",
-    "D2": "Yuri Berchiche",
+    "D2": "Igor Zubeldia",
     "D3": "Ronald Araújo",
-    "D4": "Germán Pezzella",
-    "M1": "Gavi",
+    "D4": "David López",
+    "M1": "Bryan Zaragoza",
     "M2": "Lucas Ocampos",
     "M3": "Yangel Herrera",
     "F1": "Gerard Moreno",
     "F2": "Vedat Muriqi",
     "F3": "João Félix",
     "G2": "Stole Dimitrievski",
-    "D5": "Igor Zubeldia",
+    "D5": "Yuri Berchiche",
     "M4": "Saúl Ñíguez",
     "F4": "Robert Lewandowski",
 }]
@@ -78,19 +78,19 @@ george = [{
 rene = [{
     "G1": "Filip Jörgensen",
     "D1": "Alejandro Baldé",
-    "D2": "Óscar de Marcos",
+    "D2": "Robin Le Normand",
     "D3": "Nahuel Molina",
     "D4": "João Cancelo",
     "M1": "Ayoze Pérez",
     "M2": "Isi Palazón",
     "M3": "Brais Méndez",
     "F1": "Álvaro Morata",
-    "F2": "Iñaki Williams",
+    "F2": "Raphinha",
     "F3": "Vinícius Júnior",
     "G2": "Unai Simón",
-    "D5": "Robin Le Normand",
+    "D5": "Óscar de Marcos",
     "M4": "Alejandro Baena",
-    "F4": "Raphinha",
+    "F4": "Iñaki Williams",
 }]
 
 
