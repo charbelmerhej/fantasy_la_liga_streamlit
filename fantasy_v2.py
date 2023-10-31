@@ -15,27 +15,27 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Álex Remiro",
+    "G1": "Claudio Bravo",
     "D1": "David Alaba",
     "D2": "Eric García",
-    "D3": "Juan Foyth",
+    "D3": "César Azpilicueta",
     "D4": "Andreas Christensen",
-    "M1": "Pepelu",
-    "M2": "Jude Bellingham",
+    "M1": "Sergio Arribas",
+    "M2": "Nico Williams",
     "M3": "Álvaro García",
     "F1": "Alexander Sørloth",
     "F2": "Sávio",
     "F3": "Antoine Griezmann",
-    "G2": "Claudio Bravo",
+    "G2": "Álex Remiro",
     "D5": "Jules Koundé",
-    "M4": "Nico Williams",
+    "M4": "Jude Bellingham",
     "F4": "Youssef En-Nesyri",
 }]
 
@@ -62,12 +62,12 @@ george = [{
     "D1": "Antonio Rüdiger",
     "D2": "Igor Zubeldia",
     "D3": "Ronald Araújo",
-    "D4": "David López",
+    "D4": "Daley Blind",
     "M1": "Bryan Zaragoza",
     "M2": "Lucas Ocampos",
-    "M3": "Yangel Herrera",
+    "M3": "Oihan Sancet",
     "F1": "Gerard Moreno",
-    "F2": "Vedat Muriqi",
+    "F2": "Artem Dovbyk",
     "F3": "João Félix",
     "G2": "Stole Dimitrievski",
     "D5": "Yuri Berchiche",
@@ -78,19 +78,19 @@ george = [{
 rene = [{
     "G1": "Filip Jörgensen",
     "D1": "Alejandro Baldé",
-    "D2": "Robin Le Normand",
+    "D2": "Óscar de Marcos",
     "D3": "Nahuel Molina",
     "D4": "João Cancelo",
     "M1": "Ayoze Pérez",
     "M2": "Isi Palazón",
     "M3": "Brais Méndez",
     "F1": "Álvaro Morata",
-    "F2": "Raphinha",
+    "F2": "Iñaki Williams",
     "F3": "Vinícius Júnior",
     "G2": "Unai Simón",
-    "D5": "Óscar de Marcos",
+    "D5": "Robin Le Normand",
     "M4": "Alejandro Baena",
-    "F4": "Iñaki Williams",
+    "F4": "Raphinha",
 }]
 
 
