@@ -14,7 +14,7 @@ import requests
 teams = [2816, 2817, 2818, 2819, 2820, 2821, 2824, 2825, 2826, 2828, 2829, 2833, 2836, 2858, 2859, 2885, 4488, 6577,
          24264, 33779]
 
-round_number = 12
+round_number = 13
 
 # players_df = pd.DataFrame(columns={"Name", "Slug", "Position", "Team", "Team Slug", "Pts", "GWs", "Mins Pts", "G",
 #                                       "A", "CS", "YC", "RC", "OG", "2GC", "PenMiss", "Saves Pts", "PenSave", "Bonus"})
@@ -62,6 +62,9 @@ for team in teams:
 
         if player_slug == "lamine-yamal" and player_team_slug == "barcelona-u19":
             player_team_slug = "barcelona"
+
+        if player_slug == "joselu" and player_team_slug == "valencia":
+            continue
 
         if player_slug in players_df['Slug'].values:
             # Get the row index of the player in the dataframe
@@ -171,9 +174,12 @@ bonus_3 = []
 for game in game_ids_from_round:
     game_id = game["id"]
 
-    # # Postponed ATM - sevilla game
-    # if game_id == 11369296:
-    #     continue
+    # Postponed game
+    if game_id == 11369392:
+        continue
+    # Posponed Mallorca-Cadiz game
+    if game_id == 11813986:
+        continue
 
     incidents_url = "https://api.sofascore.com/api/v1/event/{}/incidents".format(game_id)
     game_incidents = requests.request("GET", incidents_url, headers=round_headers, data={})
