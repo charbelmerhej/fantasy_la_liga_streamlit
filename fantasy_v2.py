@@ -15,27 +15,27 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Álex Remiro",
+    "G1": "Claudio Bravo",
     "D1": "David Alaba",
-    "D2": "Andreas Christensen",
-    "D3": "Daniel Vivian",
+    "D2": "Diego Rico",
+    "D3": "Axel Witsel",
     "D4": "Jules Koundé",
     "M1": "Jude Bellingham",
     "M2": "Nico Williams",
-    "M3": "Álvaro García",
-    "F1": "Joselu",
+    "M3": "Luis Rioja",
+    "F1": "Hugo Duro",
     "F2": "Youssef En-Nesyri",
     "F3": "Antoine Griezmann",
-    "G2": "Claudio Bravo",
-    "D5": "Stefan Savić",
-    "M4": "Luis Rioja",
+    "G2": "Álex Remiro",
+    "D5": "Iñigo Martínez",
+    "M4": "Álvaro García",
     "F4": "Alexander Sørloth",
 }]
 
@@ -76,21 +76,21 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Unai Simón",
+    "G1": "Giorgi Mamardashvili",
     "D1": "Alejandro Baldé",
     "D2": "Óscar de Marcos",
-    "D3": "Robin Le Normand",
+    "D3": "Nahuel Molina",
     "D4": "João Cancelo",
     "M1": "Ayoze Pérez",
     "M2": "Aleix García",
     "M3": "Brais Méndez",
     "F1": "Álvaro Morata",
     "F2": "Iñaki Williams",
-    "F3": "Vinícius Júnior",
-    "G2": "Filip Jörgensen",
-    "D5": "Nahuel Molina",
+    "F3": "Raphinha",
+    "G2": "Unai Simón",
+    "D5": "Robin Le Normand",
     "M4": "Isi Palazón",
-    "F4": "Raphinha",
+    "F4": "Vinícius Júnior",
 }]
 
 
