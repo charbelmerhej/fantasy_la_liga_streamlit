@@ -15,26 +15,26 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Claudio Bravo",
+    "G1": "Paulo Gazzaniga",
     "D1": "David Alaba",
-    "D2": "Diego Rico",
-    "D3": "Axel Witsel",
+    "D2": "Daniel Vivian",
+    "D3": "Kevin Vázquez",
     "D4": "Jules Koundé",
     "M1": "Jude Bellingham",
     "M2": "Nico Williams",
     "M3": "Luis Rioja",
-    "F1": "Hugo Duro",
+    "F1": "Joselu",
     "F2": "Youssef En-Nesyri",
     "F3": "Antoine Griezmann",
     "G2": "Álex Remiro",
-    "D5": "Iñigo Martínez",
+    "D5": "Axel Witsel",
     "M4": "Álvaro García",
     "F4": "Alexander Sørloth",
 }]
@@ -62,24 +62,24 @@ george = [{
     "D1": "Aihen Muñoz",
     "D2": "Aitor Paredes",
     "D3": "Ronald Araújo",
-    "D4": "Daley Blind",
-    "M1": "Bryan Zaragoza",
+    "D4": "Antonio Rüdiger",
+    "M1": "Toni Kroos",
     "M2": "Nabil Fekir",
     "M3": "Oihan Sancet",
     "F1": "Robert Lewandowski",
     "F2": "Artem Dovbyk",
-    "F3": "João Félix",
+    "F3": "Gerard Moreno",
     "G2": "Stole Dimitrievski",
-    "D5": "Antonio Rüdiger",
-    "M4": "Lucas Ocampos",
-    "F4": "Gerard Moreno",
+    "D5": "Daley Blind",
+    "M4": "Bryan Zaragoza",
+    "F4": "João Félix",
 }]
 
 rene = [{
-    "G1": "Giorgi Mamardashvili",
+    "G1": "Unai Simón",
     "D1": "Alejandro Baldé",
     "D2": "Óscar de Marcos",
-    "D3": "Nahuel Molina",
+    "D3": "Robin Le Normand",
     "D4": "João Cancelo",
     "M1": "Ayoze Pérez",
     "M2": "Aleix García",
@@ -87,8 +87,8 @@ rene = [{
     "F1": "Álvaro Morata",
     "F2": "Iñaki Williams",
     "F3": "Raphinha",
-    "G2": "Unai Simón",
-    "D5": "Robin Le Normand",
+    "G2": "Giorgi Mamardashvili",
+    "D5": "Nahuel Molina",
     "M4": "Isi Palazón",
     "F4": "Vinícius Júnior",
 }]
