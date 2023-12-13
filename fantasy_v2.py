@@ -15,7 +15,7 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
-updated_points = True 
+updated_points = True
 
 
 #######################################################################################################################
@@ -23,8 +23,8 @@ updated_points = True
 #######################################################################################################################
 charbel = [{
     "G1": "Iñaki Peña",
-    "D1": "Axel Witsel",
-    "D2": "Daniel Vivian",
+    "D1": "Daniel Vivian",
+    "D2": "Axel Witsel",
     "D3": "Marcos Acuña",
     "D4": "Jules Koundé",
     "M1": "Jude Bellingham",
