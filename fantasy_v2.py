@@ -726,9 +726,9 @@ st.header("Standings")
 if not updated_points:
     old_standings_df = pd.read_csv("standings_v2.csv", index_col=0)
     st.dataframe(old_standings_df)
-if updated_points:
-    st.dataframe(standings_df)
-    standings_df.to_csv("standings_v2.csv")
+# if updated_points:
+#     st.dataframe(standings_df)
+#     standings_df.to_csv("standings_v2.csv")
 
 st.subheader("Past Standings")
 past_data = {'year': ["2019/2020", "2020/2021", "2021/2022", "2022/2023"], 'Charbel': ["1276", "1378", "1588", "1689"],
