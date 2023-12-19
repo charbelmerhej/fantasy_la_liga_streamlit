@@ -25,9 +25,9 @@ updated_points = False
 charbel = [{
     "G1": "Iñaki Peña",
     "D1": "Nemanja Gudelj",
-    "D2": "David Alaba",
+    "D2": "Jules Koundé",
     "D3": "Julian Araujo",
-    "D4": "Jules Koundé",
+    "D4": "David Alaba",
     "M1": "Jude Bellingham",
     "M2": "Nico Williams",
     "M3": "Álvaro García",
