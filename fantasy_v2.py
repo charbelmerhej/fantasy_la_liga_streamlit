@@ -24,9 +24,9 @@ updated_points = True
 #######################################################################################################################
 charbel = [{
     "G1": "Iñaki Peña",
-    "D1": "Julian Araujo",
+    "D1": "Nemanja Gudelj",
     "D2": "David Alaba",
-    "D3": "Nemanja Gudelj",
+    "D3": "Julian Araujo",
     "D4": "Jules Koundé",
     "M1": "Jude Bellingham",
     "M2": "Nico Williams",
