@@ -24,8 +24,8 @@ updated_points = True
 charbel = [{
     "G1": "Iñaki Peña",
     "D1": "Axel Witsel",
-    "D2": "Jules Koundé",
-    "D3": "Daniel Vivian",
+    "D2": "Daniel Vivian",
+    "D3": "Jules Koundé",
     "D4": "Nacho Fernández",
     "M1": "Jude Bellingham",
     "M2": "Nico Williams",
