@@ -15,29 +15,50 @@ hidden_color = "black"
 weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
+<<<<<<< HEAD
 
 updated_points = True
+=======
+updated_points = False
+>>>>>>> bbeded367db1acfaf9ffc6719ef4d68f2b46f14c
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
+<<<<<<< HEAD
     "G1": "Álex Remiro",
     "D1": "Nemanja Gudelj",
     "D2": "Jules Koundé",
     "D3": "Lucas Vázquez",
     "D4": "David García",
+=======
+    "G1": "Iñaki Peña",
+    "D1": "Axel Witsel",
+    "D2": "Jules Koundé",
+    "D3": "Daniel Vivian",
+    "D4": "Nacho Fernández",
+>>>>>>> bbeded367db1acfaf9ffc6719ef4d68f2b46f14c
     "M1": "Jude Bellingham",
     "M2": "Nico Williams",
     "M3": "Álvaro García",
     "F1": "Alexander Sørloth",
+<<<<<<< HEAD
     "F2": "Ante Budimir",
     "F3": "Antoine Griezmann",
     "G2": "Iñaki Peña",
     "D5": "Axel Witsel",
     "M4": "Luis Rioja",
     "F4": "Youssef En-Nesyri",
+=======
+    "F2": "Youssef En-Nesyri",
+    "F3": "Antoine Griezmann",
+    "G2": "Álex Remiro",
+    "D5": "Nemanja Gudelj",
+    "M4": "Luis Rioja",
+    "F4": "Ante Budimir",
+>>>>>>> bbeded367db1acfaf9ffc6719ef4d68f2b46f14c
 }]
 
 ralph = [{
@@ -77,10 +98,17 @@ george = [{
 }]
 
 rene = [{
+<<<<<<< HEAD
     "G1": "Rui Silva",
     "D1": "Alejandro Baldé",
     "D2": "Robin Le Normand",
     "D3": "Óscar de Marcos",
+=======
+    "G1": "Andriy Lunin",
+    "D1": "Alejandro Baldé",
+    "D2": "Óscar de Marcos",
+    "D3": "Nahuel Molina",
+>>>>>>> bbeded367db1acfaf9ffc6719ef4d68f2b46f14c
     "D4": "João Cancelo",
     "M1": "Ayoze Pérez",
     "M2": "İlkay Gündoğan",
@@ -89,9 +117,15 @@ rene = [{
     "F2": "Iñaki Williams",
     "F3": "Vinícius Júnior",
     "G2": "Unai Simón",
+<<<<<<< HEAD
     "D5": "Nahuel Molina",
     "M4": "Aleix García",
     "F4": "Raphinha",
+=======
+    "D5": "Robin Le Normand",
+    "M4": "Brais Méndez",
+    "F4": "Vinícius Júnior",
+>>>>>>> bbeded367db1acfaf9ffc6719ef4d68f2b46f14c
 }]
 
 
