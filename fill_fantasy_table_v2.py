@@ -14,7 +14,7 @@ import requests
 teams = [2816, 2817, 2818, 2819, 2820, 2821, 2824, 2825, 2826, 2828, 2829, 2833, 2836, 2858, 2859, 2885, 4488, 6577,
          24264, 33779]
 
-round_number = 19
+round_number = 20
 
 # players_df = pd.DataFrame(columns={"Name", "Slug", "Position", "Team", "Team Slug", "Pts", "GWs", "Mins Pts", "G",
 #                                       "A", "CS", "YC", "RC", "OG", "2GC", "PenMiss", "Saves Pts", "PenSave", "Bonus"})
@@ -174,8 +174,8 @@ bonus_3 = []
 for game in game_ids_from_round:
     game_id = game["id"]
 
-    # Posponed Mallorca-Cadiz game
-    if game_id == 11813986:
+    # Posponed games
+    if game_id == 11369460 or game_id == 11369459 or game_id == 11369463:
         continue
 
     incidents_url = "https://api.sofascore.com/api/v1/event/{}/incidents".format(game_id)
