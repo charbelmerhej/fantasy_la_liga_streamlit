@@ -16,46 +16,46 @@ weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Marko Dmitrović",
-    "D1": "Aitor Ruibal",
-    "D2": "Pablo Maffeo",
-    "D3": "Juanpe",
-    "D4": "Iza Carcelén",
+    "G1": "Sergio Herrera",
+    "D1": "Axel Witsel",
+    "D2": "Nacho Fernández",
+    "D3": "Ivan Balliu",
+    "D4": "Juanpe",
     "M1": "Luis Rioja",
-    "M2": "Nico Williams",
+    "M2": "Jude Bellingham",
     "M3": "Álvaro García",
     "F1": "Alexander Sørloth",
-    "F2": "Cyle Larin",
-    "F3": "Youssef En-Nesyri",
+    "F2": "Antoine Griezmann",
+    "F3": "Joselu",
     "G2": "Iñaki Peña",
     "D5": "Jules Koundé",
-    "M4": "Jude Bellingham",
-    "F4": "Antoine Griezmann",
+    "M4": "Nico Williams",
+    "F4": "Cyle Larin",
 }]
 
 ralph = [{
-    "G1": "Kepa Arrizabalaga",
+    "G1": "Andriy Lunin",
     "D1": "Miguel Gutiérrez",
-    "D2": "Sergio Ramos",
-    "D3": "José Luis Gayà",
-    "D4": "Miguel Gutiérrez",
+    "D2": "Daniel Carvajal",
+    "D3": "Jorge Cuenca",
+    "D4": "Mario Hermoso",
     "M1": "Sávio",
     "M2": "Takefusa Kubo",
     "M3": "Isco",
-    "F1": "Willian José",
+    "F1": "Rodrygo",
     "F2": "Borja Mayoral",
     "F3": "Mikel Oyarzabal",
     "G2": "Jan Oblak",
-    "D5": "Daniel Carvajal",
+    "D5": "Sergio Ramos",
     "M4": "Federico Valverde",
-    "F4": "Rodrygo",
+    "F4": "Willian José",
 }]
 
 george = [{
@@ -77,21 +77,21 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Rui Silva",
+    "G1": "Unai Simón",
     "D1": "Alejandro Baldé",
     "D2": "Robin Le Normand",
     "D3": "Óscar de Marcos",
-    "D4": "João Cancelo",
-    "M1": "Ayoze Pérez",
-    "M2": "Aleix García",
+    "D4": "Ferland Mendy",
+    "M1": "İlkay Gündoğan",
+    "M2": "Iván Martín",
     "M3": "Brais Méndez",
     "F1": "Álvaro Morata",
-    "F2": "Iñaki Williams",
+    "F2": "Ante Budimir",
     "F3": "Vinícius Júnior",
-    "G2": "Unai Simón",
-    "D5": "Nahuel Molina",
-    "M4": "İlkay Gündoğan",
-    "F4": "Raphinha",
+    "G2": "Rui Silva",
+    "D5": "João Cancelo",
+    "M4": "Ayoze Pérez",
+    "F4": "Iñaki Williams",
 }]
 
 
