@@ -16,46 +16,46 @@ weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Sergio Herrera",
+    "G1": "Iñaki Peña",
     "D1": "Axel Witsel",
     "D2": "Nacho Fernández",
-    "D3": "Juanpe",
-    "D4": "Ivan Balliu",
-    "M1": "Luis Rioja",
+    "D3": "Jules Koundé",
+    "D4": "Gastón Álvarez",
+    "M1": "Nico Williams",
     "M2": "Jude Bellingham",
-    "M3": "Álvaro García",
-    "F1": "Alexander Sørloth",
+    "M3": "Pedri",
+    "F1": "Lamine Yamal",
     "F2": "Antoine Griezmann",
     "F3": "Joselu",
-    "G2": "Iñaki Peña",
-    "D5": "Jules Koundé",
-    "M4": "Nico Williams",
-    "F4": "Cyle Larin",
+    "G2": "Sergio Herrera",
+    "D5": "Ivan Balliu",
+    "M4": "Luis Rioja",
+    "F4": "Alexander Sørloth",
 }]
 
 ralph = [{
-    "G1": "Andriy Lunin",
+    "G1": "Jan Oblak",
     "D1": "Miguel Gutiérrez",
     "D2": "Daniel Carvajal",
-    "D3": "Jorge Cuenca",
+    "D3": "Andreas Christensen",
     "D4": "Mario Hermoso",
     "M1": "Sávio",
-    "M2": "Takefusa Kubo",
+    "M2": "Federico Valverde",
     "M3": "Isco",
     "F1": "Rodrygo",
     "F2": "Borja Mayoral",
     "F3": "Mikel Oyarzabal",
-    "G2": "Jan Oblak",
+    "G2": "David Soria",
     "D5": "Sergio Ramos",
-    "M4": "Federico Valverde",
-    "F4": "Willian José",
+    "M4": "Takefusa Kubo",
+    "F4": "Hugo Duro",
 }]
 
 george = [{
@@ -78,7 +78,7 @@ george = [{
 
 rene = [{
     "G1": "Unai Simón",
-    "D1": "Alejandro Baldé",
+    "D1": "João Cancelo",
     "D2": "Robin Le Normand",
     "D3": "Óscar de Marcos",
     "D4": "Ferland Mendy",
@@ -89,7 +89,7 @@ rene = [{
     "F2": "Ante Budimir",
     "F3": "Vinícius Júnior",
     "G2": "Rui Silva",
-    "D5": "João Cancelo",
+    "D5": "Alejandro Baldé",
     "M4": "Ayoze Pérez",
     "F4": "Iñaki Williams",
 }]
