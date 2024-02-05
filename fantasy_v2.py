@@ -24,9 +24,9 @@ updated_points = True
 #######################################################################################################################
 charbel = [{
     "G1": "Sergio Herrera",
-    "D1": "Sokratis",
+    "D1": "Jules Koundé",
     "D2": "Nacho Fernández",
-    "D3": "Jules Koundé",
+    "D3": "Sokratis",
     "D4": "Cristhian Mosquera",
     "M1": "Nico Williams",
     "M2": "Facundo Pellistri",
