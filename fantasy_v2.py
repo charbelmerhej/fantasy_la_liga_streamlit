@@ -16,46 +16,46 @@ weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Iñaki Peña",
-    "D1": "Axel Witsel",
+    "G1": "Sergio Herrera",
+    "D1": "Sokratis",
     "D2": "Nacho Fernández",
     "D3": "Jules Koundé",
-    "D4": "Gastón Álvarez",
+    "D4": "Cristhian Mosquera",
     "M1": "Nico Williams",
-    "M2": "Pedri",
+    "M2": "Facundo Pellistri",
     "M3": "Jude Bellingham",
     "F1": "Lamine Yamal",
     "F2": "Antoine Griezmann",
-    "F3": "Joselu",
-    "G2": "Sergio Herrera",
-    "D5": "Ivan Balliu",
+    "F3": "Alexander Sørloth",
+    "G2": "Iñaki Peña",
+    "D5": "Axel Witsel",
     "M4": "Luis Rioja",
-    "F4": "Alexander Sørloth",
+    "F4": "Cédric Bakambu",
 }]
 
 ralph = [{
-    "G1": "Jan Oblak",
+    "G1": "David Soria",
     "D1": "Miguel Gutiérrez",
     "D2": "Daniel Carvajal",
-    "D3": "Andreas Christensen",
-    "D4": "Mario Hermoso",
+    "D3": "José Luis Gayà",
+    "D4": "Sergio Ramos",
     "M1": "Sávio",
-    "M2": "Federico Valverde",
+    "M2": "Alejandro Baena",
     "M3": "Isco",
     "F1": "Rodrygo",
     "F2": "Borja Mayoral",
-    "F3": "Mikel Oyarzabal",
-    "G2": "David Soria",
-    "D5": "Sergio Ramos",
+    "F3": "Hugo Duro",
+    "G2": "Jan Oblak",
+    "D5": "Mario Hermoso",
     "M4": "Takefusa Kubo",
-    "F4": "Hugo Duro",
+    "F4": "Mikel Oyarzabal",
 }]
 
 george = [{
@@ -83,15 +83,15 @@ rene = [{
     "D3": "Óscar de Marcos",
     "D4": "Ferland Mendy",
     "M1": "İlkay Gündoğan",
-    "M2": "Iván Martín",
-    "M3": "Brais Méndez",
+    "M2": "Iñaki Williams",
+    "M3": "Pepelu",
     "F1": "Álvaro Morata",
     "F2": "Ante Budimir",
     "F3": "Vinícius Júnior",
     "G2": "Rui Silva",
     "D5": "Alejandro Baldé",
-    "M4": "Ayoze Pérez",
-    "F4": "Iñaki Williams",
+    "M4": "Brais Méndez",
+    "F4": "Gonçalo Guedes",
 }]
 
 
