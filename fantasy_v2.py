@@ -16,7 +16,7 @@ weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
@@ -27,35 +27,35 @@ charbel = [{
     "D1": "Jules Koundé",
     "D2": "Nacho Fernández",
     "D3": "Sokratis",
-    "D4": "Cristhian Mosquera",
+    "D4": "Axel Witsel",
     "M1": "Nico Williams",
     "M2": "Álvaro García",
-    "M3": "Jude Bellingham",
+    "M3": "Facundo Pellistri",
     "F1": "Lamine Yamal",
     "F2": "Antoine Griezmann",
     "F3": "Alexander Sørloth",
-    "G2": "Iñaki Peña",
-    "D5": "Axel Witsel",
-    "M4": "Facundo Pellistri",
+    "G2": "Álex Remiro",
+    "D5": "Cristhian Mosquera",
+    "M4": "Jude Bellingham",
     "F4": "Youssef En-Nesyri",
 }]
 
 ralph = [{
-    "G1": "David Soria",
+    "G1": "Jan Oblak",
     "D1": "Mario Hermoso",
     "D2": "Daniel Carvajal",
-    "D3": "Hamari Traore",
-    "D4": "Diego Rico",
+    "D3": "David García",
+    "D4": "Héctor Bellerín",
     "M1": "Takefusa Kubo",
     "M2": "Alejandro Baena",
     "M3": "Mason Greenwood",
     "F1": "Rodrygo",
     "F2": "Borja Mayoral",
-    "F3": "Mikel Oyarzabal",
-    "G2": "Jan Oblak",
+    "F3": "Hugo Duro",
+    "G2": "Andriy Lunin",
     "D5": "Miguel Gutiérrez",
     "M4": "Sávio",
-    "F4": "Hugo Duro",
+    "F4": "Mikel Oyarzabal",
 }]
 
 george = [{
@@ -77,21 +77,21 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Unai Simón",
+    "G1": "Rui Silva",
     "D1": "João Cancelo",
     "D2": "Robin Le Normand",
     "D3": "Óscar de Marcos",
     "D4": "Ferland Mendy",
     "M1": "İlkay Gündoğan",
     "M2": "Iñaki Williams",
-    "M3": "Pepelu",
-    "F1": "Álvaro Morata",
+    "M3": "Brais Méndez",
+    "F1": "Memphis Depay",
     "F2": "Ante Budimir",
     "F3": "Vinícius Júnior",
-    "G2": "Rui Silva",
+    "G2": "Unai Simón",
     "D5": "Alejandro Baldé",
-    "M4": "Brais Méndez",
-    "F4": "Gonçalo Guedes",
+    "M4": "Pepelu",
+    "F4": "Álvaro Morata",
 }]
 
 
