@@ -16,7 +16,7 @@ weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
@@ -27,7 +27,7 @@ charbel = [{
     "D1": "Jules Koundé",
     "D2": "Nacho Fernández",
     "D3": "Axel Witsel",
-    "D4": "Sokratis",
+    "D4": "Andoni Gorosabel",
     "M1": "Nico Williams",
     "M2": "Álvaro García",
     "M3": "Facundo Pellistri",
@@ -35,26 +35,26 @@ charbel = [{
     "F2": "Antoine Griezmann",
     "F3": "Alexander Sørloth",
     "G2": "Álex Remiro",
-    "D5": "Cristhian Mosquera",
+    "D5": "Sokratis",
     "M4": "Jude Bellingham",
     "F4": "Youssef En-Nesyri",
 }]
 
 ralph = [{
-    "G1": "Jan Oblak",
+    "G1": "Andriy Lunin",
     "D1": "Mario Hermoso",
-    "D2": "Daniel Carvajal",
-    "D3": "David García",
-    "D4": "Héctor Bellerín",
+    "D2": "Miguel Gutiérrez",
+    "D3": "Rubén Duarte",
+    "D4": "Pau Cubarsí",
     "M1": "Takefusa Kubo",
-    "M2": "Alejandro Baena",
+    "M2": "Sávio",
     "M3": "Mason Greenwood",
     "F1": "Rodrygo",
     "F2": "Borja Mayoral",
     "F3": "Hugo Duro",
-    "G2": "Andriy Lunin",
-    "D5": "Miguel Gutiérrez",
-    "M4": "Sávio",
+    "G2": "Jan Oblak",
+    "D5": "Daniel Carvajal",
+    "M4": "Alejandro Baena",
     "F4": "Mikel Oyarzabal",
 }]
 
@@ -77,21 +77,21 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Rui Silva",
+    "G1": "Unai Simón",
     "D1": "João Cancelo",
     "D2": "Robin Le Normand",
-    "D3": "Óscar de Marcos",
+    "D3": "Nahuel Molina",
     "D4": "Ferland Mendy",
     "M1": "İlkay Gündoğan",
     "M2": "Iñaki Williams",
-    "M3": "Brais Méndez",
-    "F1": "Memphis Depay",
+    "M3": "Pepelu",
+    "F1": "Álvaro Morata",
     "F2": "Ante Budimir",
     "F3": "Vinícius Júnior",
-    "G2": "Unai Simón",
-    "D5": "Alejandro Baldé",
-    "M4": "Pepelu",
-    "F4": "Álvaro Morata",
+    "G2": "Rui Silva",
+    "D5": "Óscar de Marcos",
+    "M4": "Brais Méndez",
+    "F4": "Memphis Depay",
 }]
 
 
