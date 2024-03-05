@@ -16,7 +16,7 @@ weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
@@ -26,36 +26,36 @@ charbel = [{
     "G1": "Sergio Herrera",
     "D1": "Jules Koundé",
     "D2": "Nacho Fernández",
-    "D3": "Andoni Gorosabel",
-    "D4": "Axel Witsel",
-    "M1": "Nico Williams",
+    "D3": "Omar Alderete",
+    "D4": "Florian Lejeune",
+    "M1": "Jude Bellingham",
     "M2": "Álvaro García",
     "M3": "Facundo Pellistri",
-    "F1": "Lamine Yamal",
+    "F1": "Youssef En-Nesyri",
     "F2": "Antoine Griezmann",
     "F3": "Alexander Sørloth",
     "G2": "Álex Remiro",
-    "D5": "Sokratis",
-    "M4": "Jude Bellingham",
-    "F4": "Youssef En-Nesyri",
+    "D5": "Axel Witsel",
+    "M4": "Nico Williams",
+    "F4": "Lamine Yamal",
 }]
 
 ralph = [{
-    "G1": "Andriy Lunin",
+    "G1": "Jan Oblak",
     "D1": "Mario Hermoso",
     "D2": "Miguel Gutiérrez",
-    "D3": "Rubén Duarte",
-    "D4": "Pau Cubarsí",
-    "M1": "Takefusa Kubo",
+    "D3": "Javier Manquillo",
+    "D4": "Alfonso Espino",
+    "M1": "Alejandro Baena",
     "M2": "Sávio",
     "M3": "Mason Greenwood",
     "F1": "Rodrygo",
     "F2": "Borja Mayoral",
-    "F3": "Hugo Duro",
-    "G2": "Jan Oblak",
+    "F3": "Iago Aspas",
+    "G2": "Andriy Lunin",
     "D5": "Daniel Carvajal",
-    "M4": "Alejandro Baena",
-    "F4": "Mikel Oyarzabal",
+    "M4": "Takefusa Kubo",
+    "F4": "Hugo Duro",
 }]
 
 george = [{
@@ -77,21 +77,21 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Unai Simón",
+    "G1": "Paulo Gazzaniga",
     "D1": "João Cancelo",
-    "D2": "Robin Le Normand",
+    "D2": "Óscar de Marcos",
     "D3": "Nahuel Molina",
     "D4": "Ferland Mendy",
     "M1": "İlkay Gündoğan",
     "M2": "Iñaki Williams",
-    "M3": "Pepelu",
+    "M3": "Brais Méndez",
     "F1": "Álvaro Morata",
     "F2": "Ante Budimir",
     "F3": "Vinícius Júnior",
-    "G2": "Rui Silva",
-    "D5": "Óscar de Marcos",
-    "M4": "Brais Méndez",
-    "F4": "Memphis Depay",
+    "G2": "Unai Simón",
+    "D5": "Robin Le Normand",
+    "M4": "Pepelu",
+    "F4": "Raphinha",
 }]
 
 
