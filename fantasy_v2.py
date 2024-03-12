@@ -23,39 +23,39 @@ updated_points = False
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Sergio Herrera",
+    "G1": "Ørjan Nyland",
     "D1": "Jules Koundé",
     "D2": "Nacho Fernández",
-    "D3": "Omar Alderete",
-    "D4": "Florian Lejeune",
-    "M1": "Jude Bellingham",
+    "D3": "Eric García",
+    "D4": "Axel Witsel",
+    "M1": "Nico Williams",
     "M2": "Álvaro García",
     "M3": "Facundo Pellistri",
     "F1": "Youssef En-Nesyri",
     "F2": "Antoine Griezmann",
     "F3": "Alexander Sørloth",
     "G2": "Álex Remiro",
-    "D5": "Axel Witsel",
-    "M4": "Nico Williams",
+    "D5": "Florian Lejeune",
+    "M4": "Jude Bellingham",
     "F4": "Lamine Yamal",
 }]
 
 ralph = [{
-    "G1": "Jan Oblak",
+    "G1": "Andriy Lunin",
     "D1": "Mario Hermoso",
     "D2": "Miguel Gutiérrez",
-    "D3": "Javier Manquillo",
-    "D4": "Alfonso Espino",
-    "M1": "Alejandro Baena",
+    "D3": "Daniel Carvajal",
+    "D4": "Pau Cubarsí",
+    "M1": "Takefusa Kubo",
     "M2": "Sávio",
     "M3": "Mason Greenwood",
     "F1": "Rodrygo",
-    "F2": "Borja Mayoral",
-    "F3": "Iago Aspas",
-    "G2": "Andriy Lunin",
-    "D5": "Daniel Carvajal",
-    "M4": "Takefusa Kubo",
-    "F4": "Hugo Duro",
+    "F2": "Samuel Omorodion",
+    "F3": "Hugo Duro",
+    "G2": "Jan Oblak",
+    "D5": "Lucas Vázquez",
+    "M4": "Alejandro Baena",
+    "F4": "Gorka Guruzeta",
 }]
 
 george = [{
@@ -77,21 +77,21 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Paulo Gazzaniga",
+    "G1": "Unai Simón",
     "D1": "João Cancelo",
     "D2": "Óscar de Marcos",
     "D3": "Nahuel Molina",
     "D4": "Ferland Mendy",
     "M1": "İlkay Gündoğan",
     "M2": "Iñaki Williams",
-    "M3": "Brais Méndez",
+    "M3": "Isco",
     "F1": "Álvaro Morata",
-    "F2": "Ante Budimir",
+    "F2": "Raphinha",
     "F3": "Vinícius Júnior",
-    "G2": "Unai Simón",
+    "G2": "Paulo Gazzaniga",
     "D5": "Robin Le Normand",
-    "M4": "Pepelu",
-    "F4": "Raphinha",
+    "M4": "Brais Méndez",
+    "F4": "Ante Budimir",
 }]
 
 
