@@ -16,7 +16,7 @@ weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
@@ -26,36 +26,36 @@ charbel = [{
     "G1": "Álex Remiro",
     "D1": "Jules Koundé",
     "D2": "Nacho Fernández",
-    "D3": "Daniel Vivian",
-    "D4": "Julian Araujo",
-    "M1": "Nico Williams",
+    "D3": "Andreas Christensen",
+    "D4": "Dimitri Foulquier",
+    "M1": "Jude Bellingham",
     "M2": "Álvaro García",
     "M3": "Facundo Pellistri",
     "F1": "Youssef En-Nesyri",
     "F2": "Antoine Griezmann",
-    "F3": "Alexander Sørloth",
+    "F3": "Lamine Yamal",
     "G2": "Ørjan Nyland",
     "D5": "Axel Witsel",
-    "M4": "Jude Bellingham",
-    "F4": "Lamine Yamal",
+    "M4": "Nico Williams",
+    "F4": "Alexander Sørloth",
 }]
 
 ralph = [{
     "G1": "Andriy Lunin",
-    "D1": "Yeray Álvarez",
+    "D1": "Yerson Mosquera",
     "D2": "Miguel Gutiérrez",
     "D3": "Daniel Carvajal",
-    "D4": "Igor Zubeldia",
+    "D4": "Pau Cubarsí",
     "M1": "Takefusa Kubo",
     "M2": "Sávio",
-    "M3": "Alejandro Baena",
+    "M3": "Mason Greenwood",
     "F1": "Rodrygo",
-    "F2": "Vedat Muriqi",
-    "F3": "Gorka Guruzeta",
+    "F2": "Hugo Duro",
+    "F3": "Iago Aspas",
     "G2": "Jan Oblak",
     "D5": "Éder Militão",
-    "M4": "Mason Greenwood",
-    "F4": "Hugo Duro",
+    "M4": "Alejandro Baena",
+    "F4": "Gorka Guruzeta",
 }]
 
 george = [{
@@ -77,21 +77,21 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Unai Simón",
+    "G1": "Sergio Herrera",
     "D1": "João Cancelo",
     "D2": "Óscar de Marcos",
     "D3": "Robin Le Normand",
     "D4": "Ferland Mendy",
     "M1": "Brais Méndez",
     "M2": "Iñaki Williams",
-    "M3": "Lucas Ocampos",
-    "F1": "Álvaro Morata",
+    "M3": "İlkay Gündoğan",
+    "F1": "Ante Budimir",
     "F2": "Raphinha",
     "F3": "Vinícius Júnior",
-    "G2": "Paulo Gazzaniga",
+    "G2": "Unai Simón",
     "D5": "Nahuel Molina",
-    "M4": "İlkay Gündoğan",
-    "F4": "Ante Budimir",
+    "M4": "Lucas Ocampos",
+    "F4": "Álvaro Morata",
 }]
 
 
