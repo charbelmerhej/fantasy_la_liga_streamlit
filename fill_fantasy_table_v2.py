@@ -10,11 +10,13 @@ import pprint
 import sys
 import pandas as pd
 import requests
+import http.client
+import json
 
 teams = [2816, 2817, 2818, 2819, 2820, 2821, 2824, 2825, 2826, 2828, 2829, 2833, 2836, 2858, 2859, 2885, 4488, 6577,
          24264, 33779]
 
-round_number = 30
+round_number = 31
 
 # players_df = pd.DataFrame(columns={"Name", "Slug", "Position", "Team", "Team Slug", "Pts", "GWs", "Mins Pts", "G",
 #                                       "A", "CS", "YC", "RC", "OG", "2GC", "PenMiss", "Saves Pts", "PenSave", "Bonus"})
@@ -24,21 +26,20 @@ players_df = pd.read_csv("fantasy_all_players.csv", index_col=0)
 # v = v.sort_values()
 # print(v)
 # sys.exit()
+conn = http.client.HTTPSConnection('api.sofascore.com')
 
 for team in teams:
-    players_url = "https://api.sofascore.com/api/v1/team/{}/players".format(team)
-    players_headers = {
-        "authority": "api.sofascore.com",
-        "accept-language": "en-US,en;q=0.9,ar;q=0.8",
-        "cache-control": "max-age=0",
-        "origin": "https://www.sofascore.com",
-        "referer": "https://www.sofascore.com",
-        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/111.0.0.0 Safari/537.36 "
+    headers = {
+        'accept': '*/*',
+        'accept-language': 'en-US,en;q=0.9,ar;q=0.8',
+        'origin': 'https://www.sofascore.com',
+        'referer': 'https://www.sofascore.com/',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko)'
+                      ' Chrome/123.0.0.0 Safari/537.36',
     }
-
-    players_info = requests.request("GET", players_url, headers=players_headers)
-    players_info_json = players_info.json()
+    conn.request('GET', '/api/v1/team/{}/players'.format(team), headers=headers)
+    response = conn.getresponse()
+    players_info_json = json.loads(response.read())
     all_players = players_info_json["players"]
     for player in all_players:
         player_name = player["player"]["name"]
@@ -136,19 +137,20 @@ for team in teams:
 #                                                       "Mins Pts", "G", "A", "CS", "YC", "RC", "OG", "2GC", "PenMiss",
 #                                                       "Saves Pts", "PenSave", "Bonus"])
 
-# sys.exit(27)
-round_url = "https://api.sofascore.com/api/v1/unique-tournament/8/season/52376/events/round/{}".format(round_number)
+# round_url = "https://api.sofascore.com/api/v1/unique-tournament/8/season/52376/events/round/{}".format(round_number)
 round_headers = {
-    "authority": "api.sofascore.com",
+    "accept": "*/*",
     "accept-language": "en-US,en;q=0.9,ar;q=0.8",
-    "cache-control": "max-age=0",
     "origin": "https://www.sofascore.com",
-    "referer": "https://www.sofascore.com",
+    "referer": "https://www.sofascore.com/",
     "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/111.0.0.0 Safari/537.36 "
+                  "Chrome/123.0.0.0 Safari/537.36 "
 }
-round_info = requests.request("GET", round_url, headers=round_headers, data={})
-round_info_json = round_info.json()
+conn.request('GET', 'api/v1/unique-tournament/8/season/52376/events/round/{}'.format(round_number), headers=round_headers)
+# round_info = requests.request("GET", round_url, headers=round_headers, data={})
+response_2 = conn.getresponse()
+# round_info_json = round_info.json()
+round_info_json = json.loads(response_2.read())
 game_ids_from_round = round_info_json["events"]
 
 
@@ -174,9 +176,12 @@ bonus_3 = []
 for game in game_ids_from_round:
     game_id = game["id"]
 
-    incidents_url = "https://api.sofascore.com/api/v1/event/{}/incidents".format(game_id)
-    game_incidents = requests.request("GET", incidents_url, headers=round_headers, data={})
-    game_incidents_json = game_incidents.json()
+    # incidents_url = "https://api.sofascore.com/api/v1/event/{}/incidents".format(game_id)
+    # game_incidents = requests.request("GET", incidents_url, headers=round_headers, data={})
+    # game_incidents_json = game_incidents.json()
+    conn.request('GET', 'api/v1/event/{}/incidents'.format(game_id), headers=round_headers)
+    response_3 = conn.getresponse()
+    game_incidents_json = json.loads(response_3.read())
     incidents = game_incidents_json["incidents"]
     player_slug_from_yellow_red = []
     home_goals_minutes = []
@@ -229,9 +234,12 @@ for game in game_ids_from_round:
             if incident_class == "missed":
                 missed_pen.append(incident["player"]["slug"])
 
-    game_lineup_url = "https://api.sofascore.com/api/v1/event/{}/lineups".format(game_id)
-    game_lineup_info = requests.request("GET", game_lineup_url, headers=round_headers, data={})
-    game_lineup_info_json = game_lineup_info.json()
+    # game_lineup_url = "https://api.sofascore.com/api/v1/event/{}/lineups".format(game_id)
+    # game_lineup_info = requests.request("GET", game_lineup_url, headers=round_headers, data={})
+    # game_lineup_info_json = game_lineup_info.json()
+    conn.request('GET', 'api/v1/event/{}/lineups'.format(game_id), headers=round_headers)
+    response_4 = conn.getresponse()
+    game_lineup_info_json = json.loads(response_4.read())
 
     players_from_away_team = game_lineup_info_json["away"]["players"]
     players_from_home_team = game_lineup_info_json["home"]["players"]
@@ -526,7 +534,6 @@ for col in weekly_df.columns:
         continue
     else:
         weekly_df[col].values[:] = 0
-
 
 for player in mins_pts_2:
     players_df.loc[players_df["Slug"] == player, 'Mins Pts'] += 2

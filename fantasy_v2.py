@@ -16,7 +16,7 @@ weekly_df = pd.read_csv("fantasy_weekly_v2.csv", index_col=0)
 standings_df = pd.read_csv("standings_v2.csv", index_col=0)
 
 
-updated_points = False
+updated_points = True
 
 
 #######################################################################################################################
@@ -26,36 +26,36 @@ charbel = [{
     "G1": "Álex Remiro",
     "D1": "Jules Koundé",
     "D2": "Nacho Fernández",
-    "D3": "Andreas Christensen",
-    "D4": "Dimitri Foulquier",
+    "D3": "Germán Pezzella",
+    "D4": "Kike Salas",
     "M1": "Jude Bellingham",
     "M2": "Álvaro García",
-    "M3": "Facundo Pellistri",
+    "M3": "Nico Williams",
     "F1": "Youssef En-Nesyri",
     "F2": "Antoine Griezmann",
-    "F3": "Lamine Yamal",
+    "F3": "Alexander Sørloth",
     "G2": "Ørjan Nyland",
     "D5": "Axel Witsel",
-    "M4": "Nico Williams",
-    "F4": "Alexander Sørloth",
+    "M4": "Facundo Pellistri",
+    "F4": "Lamine Yamal",
 }]
 
 ralph = [{
     "G1": "Andriy Lunin",
-    "D1": "Yerson Mosquera",
+    "D1": "Igor Zubeldia",
     "D2": "Miguel Gutiérrez",
-    "D3": "Daniel Carvajal",
+    "D3": "Éder Militão",
     "D4": "Pau Cubarsí",
     "M1": "Takefusa Kubo",
-    "M2": "Sávio",
+    "M2": "Isco",
     "M3": "Mason Greenwood",
     "F1": "Rodrygo",
     "F2": "Hugo Duro",
-    "F3": "Iago Aspas",
+    "F3": "Gorka Guruzeta",
     "G2": "Jan Oblak",
-    "D5": "Éder Militão",
-    "M4": "Alejandro Baena",
-    "F4": "Gorka Guruzeta",
+    "D5": "Daniel Carvajal",
+    "M4": "Sávio",
+    "F4": "Iago Aspas",
 }]
 
 george = [{
@@ -90,7 +90,7 @@ rene = [{
     "F3": "Vinícius Júnior",
     "G2": "Unai Simón",
     "D5": "Nahuel Molina",
-    "M4": "Lucas Ocampos",
+    "M4": "Viktor Tsygankov",
     "F4": "Álvaro Morata",
 }]
 
