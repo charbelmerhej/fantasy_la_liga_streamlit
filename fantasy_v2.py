@@ -23,39 +23,39 @@ updated_points = False
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Álex Remiro",
+    "G1": "Ørjan Nyland",
     "D1": "Jules Koundé",
-    "D2": "Nacho Fernández",
-    "D3": "Germán Pezzella",
-    "D4": "Kike Salas",
+    "D2": "Axel Witsel",
+    "D3": "Marcos Acuña",
+    "D4": "Daniel Vivian",
     "M1": "Jude Bellingham",
     "M2": "Álvaro García",
     "M3": "Nico Williams",
     "F1": "Youssef En-Nesyri",
     "F2": "Antoine Griezmann",
     "F3": "Alexander Sørloth",
-    "G2": "Ørjan Nyland",
-    "D5": "Axel Witsel",
-    "M4": "Facundo Pellistri",
+    "G2": "Álex Remiro",
+    "D5": "Nacho Fernández",
+    "M4": "Pablo Fornals",
     "F4": "Lamine Yamal",
 }]
 
 ralph = [{
     "G1": "Andriy Lunin",
-    "D1": "Igor Zubeldia",
+    "D1": "Yuri Berchiche",
     "D2": "Miguel Gutiérrez",
-    "D3": "Éder Militão",
-    "D4": "Pau Cubarsí",
+    "D3": "Daniel Carvajal",
+    "D4": "Sergio Ramos",
     "M1": "Takefusa Kubo",
     "M2": "Isco",
-    "M3": "Mason Greenwood",
+    "M3": "Sávio",
     "F1": "Rodrygo",
-    "F2": "Hugo Duro",
+    "F2": "Iago Aspas",
     "F3": "Gorka Guruzeta",
     "G2": "Jan Oblak",
-    "D5": "Daniel Carvajal",
-    "M4": "Sávio",
-    "F4": "Iago Aspas",
+    "D5": "Éder Militão",
+    "M4": "Mason Greenwood",
+    "F4": "Hugo Duro",
 }]
 
 george = [{
@@ -77,20 +77,20 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Sergio Herrera",
+    "G1": "Unai Simón",
     "D1": "João Cancelo",
     "D2": "Óscar de Marcos",
     "D3": "Robin Le Normand",
-    "D4": "Ferland Mendy",
-    "M1": "Brais Méndez",
+    "D4": "Nahuel Molina",
+    "M1": "Viktor Tsygankov",
     "M2": "Iñaki Williams",
     "M3": "İlkay Gündoğan",
     "F1": "Ante Budimir",
     "F2": "Raphinha",
     "F3": "Vinícius Júnior",
-    "G2": "Unai Simón",
-    "D5": "Nahuel Molina",
-    "M4": "Viktor Tsygankov",
+    "G2": "Sergio Herrera",
+    "D5": "Ferland Mendy",
+    "M4": "Brais Méndez",
     "F4": "Álvaro Morata",
 }]
 
