@@ -23,39 +23,39 @@ updated_points = False
 ############################################### USERS TEAMS ###########################################################
 #######################################################################################################################
 charbel = [{
-    "G1": "Jeremías Ledesma",
+    "G1": "Álex Remiro",
     "D1": "Jules Koundé",
     "D2": "Axel Witsel",
-    "D3": "Pau Cubarsí",
-    "D4": "Eric García",
-    "M1": "Luis Rioja",
+    "D3": "Nacho Fernández",
+    "D4": "Florian Lejeune",
+    "M1": "Pepelu",
     "M2": "Jude Bellingham",
-    "M3": "Pablo Fornals",
+    "M3": "Nico Williams",
     "F1": "Youssef En-Nesyri",
     "F2": "Antoine Griezmann",
     "F3": "Alexander Sørloth",
-    "G2": "Álex Remiro",
-    "D5": "Nacho Fernández",
-    "M4": "Nico Williams",
+    "G2": "Jeremías Ledesma",
+    "D5": "Pau Cubarsí",
+    "M4": "Pablo Fornals",
     "F4": "Lamine Yamal",
 }]
 
 ralph = [{
     "G1": "Andriy Lunin",
-    "D1": "Jorge Herrando",
-    "D2": "Miguel Gutiérrez",
+    "D1": "Sergio Ramos",
+    "D2": "Javi Galán",
     "D3": "Daniel Carvajal",
-    "D4": "Yerson Mosquera",
+    "D4": "Cristhian Mosquera",
     "M1": "Mason Greenwood",
     "M2": "Isco",
-    "M3": "Sávio",
+    "M3": "Takefusa Kubo",
     "F1": "Hugo Duro",
     "F2": "Iago Aspas",
-    "F3": "Gorka Guruzeta",
+    "F3": "Rodrygo",
     "G2": "Jan Oblak",
-    "D5": "Sergio Ramos",
-    "M4": "Takefusa Kubo",
-    "F4": "Rodrygo",
+    "D5": "Miguel Gutiérrez",
+    "M4": "Sávio",
+    "F4": "Gorka Guruzeta"
 }]
 
 george = [{
@@ -77,21 +77,21 @@ george = [{
 }]
 
 rene = [{
-    "G1": "Sergio Herrera",
+    "G1": "Unai Simón",
     "D1": "João Cancelo",
     "D2": "Óscar de Marcos",
     "D3": "Ferland Mendy",
-    "D4": "Nahuel Molina",
-    "M1": "Viktor Tsygankov",
+    "D4": "Robin Le Normand",
+    "M1": "Brais Méndez",
     "M2": "Iñaki Williams",
     "M3": "İlkay Gündoğan",
-    "F1": "Ante Budimir",
+    "F1": "Álvaro Morata",
     "F2": "Raphinha",
     "F3": "Vinícius Júnior",
-    "G2": "Unai Simón",
-    "D5": "Robin Le Normand",
-    "M4": "Brais Méndez",
-    "F4": "Álvaro Morata",
+    "G2": "Sergio Herrera",
+    "D5": "Nahuel Molina",
+    "M4": "Viktor Tsygankov",
+    "F4": "Ante Budimir",
 }]
 
 

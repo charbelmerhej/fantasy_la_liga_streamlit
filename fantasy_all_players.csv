@@ -1,888 +1,891 @@
 ,Name,Slug,Position,Team,Team Slug,Pts,GWs,Mins Pts,G,A,CS,YC,RC,OG,2GC,PenMiss,Saves Pts,PenSave,Bonus
-0,Borja Iglesias,borja-iglesias,F,Real Betis,real-betis,14,33,13,0,1,1,2,0,0,1,0,0,0,0
-1,Willian José,willian-jose,F,Real Betis,real-betis,101,33,44,10,3,7,0,1,0,6,0,0,0,11
-2,Nabil Fekir,nabil-fekir,M,Real Betis,real-betis,46,33,23,1,2,3,0,0,0,2,0,0,0,9
-3,Guido Rodríguez,guido-rodriguez,M,Real Betis,real-betis,53,33,38,2,0,5,6,0,0,4,0,0,0,6
-4,Luiz Henrique,luiz-henrique,M,Real Betis,real-betis,37,33,20,0,3,3,1,0,0,2,0,0,0,6
-5,William Carvalho,william-carvalho,M,Real Betis,real-betis,30,33,21,1,2,0,3,0,0,2,0,0,0,1
-6,Andrés Guardado,andres-guardado,M,Real Betis,real-betis,15,33,14,0,0,1,1,0,0,0,0,0,0,1
-7,Sergio Canales,sergio-canales,M,Real Betis,real-betis,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-8,Marc Roca,marc-roca,M,Real Betis,real-betis,67,33,45,2,2,9,4,0,0,4,0,0,0,1
-9,Ayoze Pérez,ayoze-perez,M,Real Betis,real-betis,98,33,47,6,1,7,4,0,0,4,0,0,0,15
-10,Juanmi,juanmi,F,Cádiz,cadiz,33,33,21,3,0,3,3,0,0,3,0,0,0,3
-11,Rodri Sánchez,rodri-sanchez,M,Real Betis,real-betis,32,33,30,0,0,2,0,0,0,1,0,0,0,0
-12,Paul Akouokou,paul-akouokou,M,Real Betis,real-betis,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-13,Raúl Fernández,raul-fernandez,G,Granada,granada,4,33,7,0,0,0,0,0,0,5,0,2,0,0
-14,Enrique Fernández López,enrique-fernandez-lopez,M,Real Betis,real-betis,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-15,Héctor Bellerín,hector-bellerin,D,Real Betis,real-betis,62,33,36,0,1,8,0,1,1,4,0,0,0,0
-16,Germán Pezzella,german-pezzella,D,Real Betis,real-betis,93,33,61,0,0,10,7,0,0,6,0,0,0,5
-17,Youssouf Sabaly,youssouf-sabaly,D,Real Betis,real-betis,21,33,16,0,1,1,1,0,0,4,0,0,0,3
-18,Juan Miranda,juan-miranda,D,Real Betis,real-betis,73,33,36,1,1,8,6,0,0,4,0,0,0,6
-19,Luiz Felipe,luiz-felipe,D,Real Betis,real-betis,14,33,8,0,0,2,1,0,0,2,0,0,0,1
-20,Abner Vinícius,abner-vinicius,D,Real Betis,real-betis,48,33,34,0,0,5,3,0,0,3,0,0,0,0
-21,Aitor Ruibal,aitor-ruibal,D,Real Betis,real-betis,60,33,27,3,1,3,4,0,0,3,0,0,0,7
-22,Martín Montoya,martin-montoya,D,Real Betis,real-betis,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-23,Claudio Bravo,claudio-bravo,G,Real Betis,real-betis,31,33,14,0,0,2,0,0,0,0,0,3,0,6
-24,Rui Silva,rui-silva,G,Real Betis,real-betis,100,33,47,0,0,8,3,0,1,8,0,15,1,14
-25,Robert Lewandowski,robert-lewandowski,F,Barcelona,barcelona,152,33,56,16,7,10,5,0,0,8,0,0,0,16
-26,Ousmane Dembélé,ousmane-dembele,F,Barcelona,barcelona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-27,Ansu Fati,ansu-fati,F,Barcelona,barcelona,3,33,3,0,0,0,0,0,0,0,0,0,0,0
-28,Raphinha,raphinha,F,Barcelona,barcelona,83,33,37,4,8,5,1,1,0,3,0,0,0,10
-29,Ferran Torres,ferran-torres,F,Barcelona,barcelona,74,33,34,8,2,4,2,0,0,6,0,0,0,4
-30,Abdessamad Ezzalzouli,abdessamad-ezzalzouli,F,Real Betis,real-betis,29,33,26,1,0,3,1,0,0,1,0,0,0,0
-31,Pedri,pedri,M,Barcelona,barcelona,50,33,31,2,2,4,3,0,0,6,0,0,0,2
-32,Frenkie de Jong,frenkie-de-jong,M,Barcelona,barcelona,64,33,39,2,0,6,7,0,0,5,0,0,0,16
-33,Gavi,gavi,M,Barcelona,barcelona,32,33,22,1,1,5,5,0,0,3,0,0,0,2
-34,İlkay Gündoğan,ilkay-gundogan,M,Barcelona,barcelona,144,33,60,6,7,12,4,0,0,10,1,0,0,27
-35,Franck Kessié,franck-kessie,M,Barcelona,barcelona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-36,Nicolás González,nicolas-gonzalez,M,Barcelona,barcelona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-37,Alex Collado,alex-collado,M,Barcelona,barcelona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-38,Oriol Romeu,oriol-romeu,M,Barcelona,barcelona,35,33,31,0,1,5,4,0,0,2,0,0,0,0
-39,Ronald Araújo,ronald-araujo,D,Barcelona,barcelona,76,33,42,1,1,7,4,0,0,6,0,0,0,7
-40,Jules Koundé,jules-kounde,D,Barcelona,barcelona,115,33,57,1,2,12,3,0,0,9,0,0,0,10
-41,Alejandro Baldé,alejandro-balde,D,Barcelona,barcelona,55,33,33,0,1,6,1,0,0,4,0,0,0,0
-42,Andreas Christensen,andreas-christensen,D,Barcelona,barcelona,84,33,44,1,2,9,3,0,0,5,0,0,0,0
-43,Sergiño Dest,sergino-dest,D,Barcelona,barcelona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-44,Marcos Alonso,marcos-alonso,D,Barcelona,barcelona,10,33,7,0,0,1,0,0,0,1,0,0,0,0
-45,Eric García,eric-garcia,D,Girona FC,girona-fc,92,33,52,3,0,6,4,0,0,11,0,0,0,13
-46,Sergi Roberto,sergi-roberto,D,Barcelona,barcelona,35,33,16,1,2,3,4,0,0,1,0,0,0,0
-47,Clément Lenglet,clement-lenglet,D,Barcelona,barcelona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-48,Iñigo Martínez,inigo-martinez,D,Barcelona,barcelona,34,33,25,0,0,4,5,0,0,2,0,0,0,0
-49,Marc-André ter Stegen,marc-andre-ter-stegen,G,Barcelona,barcelona,106,33,46,0,0,12,3,0,0,7,0,13,0,9
-50,Iñaki Peña,inaki-pena,G,Barcelona,barcelona,29,33,20,0,0,2,0,0,0,3,0,4,0,0
-51,Radamel Falcao,radamel-falcao,F,Rayo Vallecano,rayo-vallecano,21,33,19,1,0,0,2,0,0,0,0,0,0,0
-52,Raúl de Tomás,raul-de-tomas,F,Rayo Vallecano,rayo-vallecano,39,33,34,1,2,6,5,0,0,2,0,0,0,0
-53,Randy Nteka,randy-nteka,F,Rayo Vallecano,rayo-vallecano,27,33,15,1,2,2,0,0,0,3,0,0,0,2
-54,Andrés Martín,andres-martin,F,Rayo Vallecano,rayo-vallecano,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-55,Sergio Moreno,sergio-moreno,F,Rayo Vallecano,rayo-vallecano,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-56,Ismaila Ciss,ismaila-ciss,M,Rayo Vallecano,rayo-vallecano,41,33,40,1,0,5,11,0,0,8,0,0,0,2
-57,Isi Palazón,isi-palazon,M,Rayo Vallecano,rayo-vallecano,93,33,59,4,1,13,8,0,0,7,0,0,0,6
-58,Óscar Trejo,oscar-trejo,M,Rayo Vallecano,rayo-vallecano,38,33,35,0,0,5,2,0,0,4,0,0,0,0
-59,Álvaro García,alvaro-garcia,D,Deportivo Alavés,deportivo-alaves,115,33,50,6,1,9,6,1,0,10,0,0,0,9
-60,Bebé,bebe,M,Rayo Vallecano,rayo-vallecano,26,33,17,2,0,0,1,0,0,0,0,0,0,0
-61,Unai López,unai-lopez,M,Rayo Vallecano,rayo-vallecano,65,33,48,1,2,8,6,0,0,7,0,0,0,4
-62,Óscar Valentín,oscar-valentin,M,Rayo Vallecano,rayo-vallecano,69,33,55,1,0,13,4,1,0,7,0,0,0,3
-63,Salvi,salvi,M,Rayo Vallecano,rayo-vallecano,1,33,1,0,0,0,0,0,0,0,0,0,0,0
-64,Joni Montiel,joni-montiel,M,Rayo Vallecano,rayo-vallecano,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-65,José Pozo,jose-pozo,M,Rayo Vallecano,rayo-vallecano,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-66,Pablo Muñoz,pablo-munoz,M,Rayo Vallecano,rayo-vallecano,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-67,Alfonso Espino,alfonso-espino,D,Rayo Vallecano,rayo-vallecano,61,33,51,0,1,6,9,0,1,8,0,0,0,2
-68,Abdul Mumin,abdul-mumin,D,Rayo Vallecano,rayo-vallecano,54,33,29,1,0,7,3,1,0,5,0,0,0,2
-69,Ivan Balliu,ivan-balliu,D,Rayo Vallecano,rayo-vallecano,98,33,57,0,1,11,3,0,0,8,0,0,0,5
-70,Aridane Hernández,aridane-hernandez,D,Rayo Vallecano,rayo-vallecano,51,33,36,0,0,6,3,0,0,6,0,0,0,0
-71,Josep Chavarría,josep-chavarria,D,Rayo Vallecano,rayo-vallecano,41,33,24,1,1,3,3,1,0,4,0,0,0,6
-72,Martín Pascual,martin-pascual,D,Rayo Vallecano,rayo-vallecano,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-73,Jorge Moreno,jorge-moreno,D,Rayo Vallecano,rayo-vallecano,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-74,Sergio Arribas,sergio-arribas,M,Rayo Vallecano,almeria,95,33,45,6,2,5,0,0,0,12,0,0,0,9
-75,Stole Dimitrievski,stole-dimitrievski,G,Rayo Vallecano,rayo-vallecano,138,33,64,0,0,12,1,0,0,11,0,21,1,12
-76,Miguel Ángel Morro,miguel-angel-morro,G,Villarreal,villarreal,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-77,Miguel Benedí,miguel-benedi,G,Rayo Vallecano,rayo-vallecano,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-78,Gerard Moreno,gerard-moreno,F,Villarreal,villarreal,125,33,54,11,4,3,0,0,0,12,1,0,0,17
-79,Arnaut Danjuma,arnaut-danjuma,F,Villarreal,villarreal,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-80,Ben Brereton Díaz,ben-brereton-diaz,F,Villarreal,villarreal,14,33,16,0,0,1,2,0,0,2,0,0,0,0
-81,Ilias Akhomach,ilias-akhomach,M,Villarreal,villarreal,65,33,38,2,3,3,4,0,0,8,0,0,0,9
-82,José Luis Morales,jose-luis-morales,F,Villarreal,villarreal,60,33,33,6,0,0,0,0,0,8,0,0,0,3
-83,Samuel Chukwueze,samuel-chukwueze,M,Villarreal,villarreal,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-84,Yéremy Pino,yeremy-pino,M,Villarreal,villarreal,8,33,11,0,0,1,4,0,0,1,0,0,0,0
-85,Dani Parejo,dani-parejo,M,Villarreal,villarreal,79,33,53,2,4,3,5,0,0,15,0,0,0,6
-86,Denis Suárez,denis-suarez,M,Villarreal,villarreal,5,33,5,0,0,0,0,0,0,1,0,0,0,0
-87,Alejandro Baena,alejandro-baena,M,Villarreal,villarreal,119,33,54,2,12,7,8,1,0,10,1,0,0,25
-88,Étienne Capoue,etienne-capoue,M,Villarreal,villarreal,46,33,44,1,1,2,9,0,0,10,0,0,0,1
-89,Francis Coquelin,francis-coquelin,M,Villarreal,villarreal,22,33,23,0,0,3,4,0,0,1,0,0,0,0
-90,Manu Trigueros,manu-trigueros,M,Villarreal,villarreal,13,33,13,0,0,0,0,0,0,1,0,0,0,0
-91,Santi Comesaña,santi-comesana,M,Villarreal,villarreal,44,33,35,2,0,4,5,1,0,3,0,0,0,3
-92,Iván Martín,ivan-martin,M,Girona FC,girona-fc,98,33,57,6,2,10,5,0,0,9,0,0,0,0
-93,Ramón Terrats,ramon-terrats,M,Villarreal,villarreal,22,33,22,0,1,1,4,0,0,6,0,0,0,0
-94,Aïssa Mandi,aissa-mandi,D,Villarreal,villarreal,20,33,23,0,0,1,3,0,0,6,0,0,0,2
-95,Juan Foyth,juan-foyth,D,Villarreal,villarreal,36,33,24,1,1,2,1,0,0,6,0,0,0,2
-96,Johan Mojica,johan-mojica,D,Osasuna,osasuna,61,33,42,0,2,5,1,0,0,8,0,0,0,2
-97,Raúl Albiol,raul-albiol,D,Villarreal,villarreal,45,33,44,0,1,3,6,0,0,8,0,0,0,0
-98,Alberto Moreno,alberto-moreno,D,Villarreal,villarreal,54,33,39,1,2,3,0,2,0,6,0,0,0,3
-99,Alfonso Pedraza,alfonso-pedraza,D,Villarreal,villarreal,26,33,27,0,3,1,4,1,0,8,0,0,0,1
-100,Jorge Cuenca,jorge-cuenca,D,Villarreal,villarreal,55,33,42,3,0,3,7,0,0,11,0,0,0,1
-101,Kiko Femenía,kiko-femenia,D,Villarreal,villarreal,36,33,32,0,0,3,6,0,0,2,0,0,0,0
-102,Pepe Reina,pepe-reina,G,Villarreal,villarreal,-2,33,2,0,0,0,1,1,0,0,0,0,0,0
-103,Filip Jörgensen,filip-jorgensen,G,Villarreal,villarreal,120,33,64,0,0,5,4,0,0,17,0,36,0,21
-104,Ante Budimir,ante-budimir,F,Osasuna,osasuna,154,33,59,17,2,10,4,0,0,10,1,0,0,27
-105,Chimy Ávila,chimy-avila,F,Real Betis,real-betis,40,33,34,2,2,4,4,3,0,6,0,0,0,5
-106,Kike García,kike-garcia,F,Deportivo Alavés,deportivo-alaves,61,33,41,3,2,6,4,0,0,2,1,0,0,8
-107,Kike Barja,kike-barja,F,Osasuna,osasuna,13,33,16,0,0,0,3,0,0,2,0,0,0,0
-108,Moi Gómez,moi-gomez,M,Osasuna,osasuna,74,33,50,3,0,9,3,0,0,8,0,0,0,3
-109,Rubén García,ruben-garcia,M,Osasuna,osasuna,71,33,40,2,2,6,0,0,0,5,0,0,0,9
-110,Aimar Oroz,aimar-oroz,M,Osasuna,osasuna,73,33,54,1,1,11,3,0,0,9,0,0,0,3
-111,Lucas Torró,lucas-torro,M,Osasuna,osasuna,38,33,38,0,0,5,5,0,0,8,0,0,0,0
-112,José Manuel Arnáiz,jose-manuel-arnaiz,F,Osasuna,osasuna,43,33,30,2,1,4,2,0,0,2,0,0,0,4
-113,Jon Moncayola,jon-moncayola,M,Osasuna,osasuna,66,33,46,0,3,9,2,0,0,8,0,0,0,4
-114,Darko Brašanac,darko-brasanac,M,Osasuna,osasuna,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-115,Javi Martínez,javi-martinez,M,Osasuna,osasuna,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-116,Pablo Ibáñez Lumbreras,pablo-ibanez-lumbreras,M,Osasuna,osasuna,39,33,36,0,1,1,4,0,0,2,0,0,0,3
-117,David García,david-garcia,D,Osasuna,osasuna,91,33,53,0,1,10,5,0,0,9,0,0,0,9
-118,Alejandro Catena,alejandro-catena,D,Osasuna,osasuna,72,33,51,1,2,7,7,1,0,13,0,0,0,4
-119,Nacho Vidal,nacho-vidal,D,Mallorca,mallorca,30,33,15,1,0,2,1,0,0,1,0,0,0,3
-120,Rubén Peña,ruben-pena,D,Osasuna,osasuna,85,33,45,0,1,10,2,0,0,9,0,0,0,8
-121,Unai García,unai-garcia,D,Osasuna,osasuna,18,33,14,1,0,1,2,1,0,3,0,0,0,2
-122,Juan Cruz,juan-cruz,D,Osasuna,osasuna,52,33,43,0,1,4,3,0,0,7,0,0,0,0
-123,Jesús Areso,jesus-areso,D,Osasuna,osasuna,97,33,57,1,4,8,3,0,0,11,0,0,0,4
-124,Aitor Fernández,aitor-fernandez,G,Osasuna,osasuna,5,33,9,0,0,0,2,0,0,3,0,1,0,0
-125,Sergio Herrera,sergio-herrera,G,Osasuna,osasuna,125,33,58,0,0,11,2,0,0,12,0,18,1,14
-126,Iago Aspas,iago-aspas,F,Celta Vigo,celta-vigo,127,33,58,8,8,6,6,1,0,8,2,0,0,26
-127,Carles Pérez,carles-perez,F,Celta Vigo,celta-vigo,26,33,22,1,1,1,3,0,0,2,0,0,0,0
-128,Jørgen Strand Larsen,jorgen-strand-larsen,F,Celta Vigo,celta-vigo,112,33,63,10,2,10,5,0,0,7,0,0,0,8
-129,Gonçalo Paciência,goncalo-paciencia,F,Celta Vigo,celta-vigo,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-130,Santi Mina,santi-mina,F,Celta Vigo,celta-vigo,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-131,Williot Swedberg,williot-swedberg,M,Celta Vigo,celta-vigo,39,33,14,5,0,0,0,0,0,3,0,0,0,0
-132,Miguel Rodríguez,miguel-rodriguez,F,Celta Vigo,celta-vigo,10,33,12,0,0,0,2,0,0,0,0,0,0,0
-133,Gabri Veiga,gabri-veiga,M,Celta Vigo,celta-vigo,1,33,1,0,0,0,0,0,0,0,0,0,0,0
-134,Renato Tapia,renato-tapia,M,Celta Vigo,celta-vigo,34,33,32,0,0,4,3,1,0,1,0,0,0,4
-135,Jonathan Bamba,jonathan-bamba,M,Celta Vigo,celta-vigo,72,33,45,2,2,7,0,0,0,6,0,0,0,4
-136,Franco Cervi,franco-cervi,M,Celta Vigo,celta-vigo,22,33,19,0,1,1,1,0,0,2,0,0,0,0
-137,Fran Beltrán,fran-beltran,M,Celta Vigo,celta-vigo,60,33,54,0,0,5,2,0,0,8,0,0,0,3
-138,Luca De La Torre,luca-de-la-torre,M,Celta Vigo,celta-vigo,69,33,48,1,4,7,2,1,0,6,0,0,0,2
-139,Carlos Dotor,dotor-carlos,M,Celta Vigo,celta-vigo,21,33,21,0,0,2,2,0,0,1,0,0,0,0
-140,Miguel Baeza,miguel-baeza,M,Celta Vigo,celta-vigo,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-141,Óscar Mingueza,oscar-mingueza,D,Celta Vigo,celta-vigo,95,33,61,2,2,5,3,0,0,9,0,0,0,8
-142,Joseph Aidoo,joseph-aidoo,D,Celta Vigo,celta-vigo,9,33,10,0,0,0,0,0,0,1,0,0,0,0
-143,Unai Núñez,unai-nunez,D,Celta Vigo,celta-vigo,77,33,61,1,0,5,4,0,0,8,0,0,0,2
-144,Manuel Sánchez,manuel-sanchez,D,Celta Vigo,celta-vigo,68,33,44,0,4,4,2,0,0,3,0,0,0,1
-145,Kevin Vázquez,kevin-vazquez,D,Celta Vigo,celta-vigo,24,33,15,0,0,3,2,0,0,1,0,0,0,0
-146,Jose Fontán,jose-fontan,D,Celta Vigo,celta-vigo,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-147,Sergio Carreira,sergio-carreira,D,Celta Vigo,celta-vigo,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-148,Carlos Domínguez,carlos-dominguez,D,Celta Vigo,celta-vigo,40,33,35,0,0,3,2,0,1,5,0,0,0,2
-149,Agustín Marchesín,agustin-marchesin,G,Celta Vigo,celta-vigo,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-150,Rubén Blanco,ruben-blanco,G,Celta Vigo,celta-vigo,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-151,Iván Villar,ivan-villar,G,Celta Vigo,celta-vigo,26,33,19,0,0,0,0,3,0,4,0,6,1,3
-152,Mikel Oyarzabal,mikel-oyarzabal,F,Real Sociedad,real-sociedad,98,33,47,9,2,8,3,0,0,3,0,0,0,12
-153,Umar Sadiq,umar-sadiq,F,Real Sociedad,real-sociedad,44,33,33,3,1,3,5,0,0,4,0,0,0,1
-154,Mohamed-Ali Cho,mohamed-ali-cho,F,Real Sociedad,real-sociedad,12,33,12,0,0,1,0,0,0,1,0,0,0,0
-155,Ander Barrenetxea,ander-barrenetxea,F,Real Sociedad,real-sociedad,61,33,37,4,1,4,1,0,0,3,0,0,0,6
-156,Jon Karrikaburu,jon-karrikaburu,F,Deportivo Alavés,deportivo-alaves,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-157,Carlos Fernández,carlos-fernandez,F,Real Sociedad,real-sociedad,21,33,12,2,1,3,4,0,0,0,0,0,0,0
-158,Martín Merquelanz,martin-merquelanz,F,Real Sociedad,real-sociedad,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-159,Takefusa Kubo,kubo-takefusa,M,Real Sociedad,real-sociedad,123,33,47,7,3,6,2,0,0,3,0,0,0,28
-160,David Silva,david-silva,M,Real Sociedad,real-sociedad,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-161,Martín Zubimendi,martin-zubimendi,M,Real Sociedad,real-sociedad,96,33,58,5,1,8,5,0,0,8,0,0,0,7
-162,Mikel Merino,mikel-merino,M,Real Sociedad,real-sociedad,94,33,51,4,4,8,10,0,0,4,0,0,0,13
-163,Brais Méndez,brais-mendez,M,Real Sociedad,real-sociedad,102,33,48,4,5,6,6,0,0,7,0,0,0,19
-164,Robert Navarro,robert-navarro,M,Cádiz,cadiz,56,33,40,1,1,5,0,1,0,7,0,0,0,6
-165,Beñat Turrientes,benat-turrientes,M,Real Sociedad,real-sociedad,39,33,34,0,1,4,3,0,0,4,0,0,0,1
-166,Peter Pokorný,peter-pokorny,M,Real Sociedad,real-sociedad,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-167,Hamari Traore,hamari-traore,D,Real Sociedad,real-sociedad,78,33,49,0,2,8,7,0,0,6,0,0,0,4
-168,Robin Le Normand,robin-le-normand,D,Real Sociedad,real-sociedad,64,33,49,2,0,5,12,0,1,7,0,0,0,4
-169,Igor Zubeldia,igor-zubeldia,D,Real Sociedad,real-sociedad,75,33,56,0,2,8,12,1,0,7,0,0,0,3
-170,Diego Rico,diego-rico,D,Getafe,getafe,81,33,52,0,7,6,8,0,0,11,0,0,0,3
-171,Aritz Elustondo,aritz-elustondo,D,Real Sociedad,real-sociedad,30,33,15,0,1,3,2,0,0,1,0,0,0,3
-172,Andoni Gorosabel,andoni-gorosabel,D,Deportivo Alavés,deportivo-alaves,96,33,61,1,0,9,5,0,0,9,0,0,0,7
-173,Aihen Muñoz,aihen-munoz,D,Real Sociedad,real-sociedad,47,33,32,0,2,3,2,0,0,3,0,0,0,2
-174,Jon Pacheco,jon-pacheco,D,Real Sociedad,real-sociedad,52,33,27,1,1,5,5,0,0,2,0,0,0,3
-175,Álex Sola,alex-sola,M,Deportivo Alavés,deportivo-alaves,48,33,35,0,3,2,2,0,0,1,0,0,0,4
-176,Álex Remiro,alex-remiro,G,Real Sociedad,real-sociedad,116,33,60,0,0,10,1,2,0,8,0,17,0,14
-177,Iñaki Williams,inaki-williams,M,Athletic Club,athletic-club,140,33,57,9,3,13,3,0,1,9,0,0,0,21
-178,Gorka Guruzeta,gorka-guruzeta,F,Athletic Club,athletic-club,145,33,60,14,5,17,2,0,0,5,0,0,0,16
-179,Asier Villalibre,asier-villalibre,F,Athletic Club,athletic-club,25,33,15,1,1,1,0,0,0,2,0,0,0,3
-180,Malcom Ares,malcom-ares,F,Athletic Club,athletic-club,10,33,12,0,0,1,2,0,0,0,0,0,0,0
-181,Juan Artola,juan-artola,F,Athletic Club,athletic-club,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-182,Javier Martón Ansó,javier-marton-anso,F,Athletic Club,athletic-club,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-183,Nico Williams,nico-williams,M,Athletic Club,athletic-club,120,33,50,4,8,14,4,1,0,7,0,0,0,19
-184,Ander Herrera,ander-herrera,M,Athletic Club,athletic-club,40,33,27,0,3,4,3,0,0,1,0,0,0,3
-185,Iker Muniain,iker-muniain,M,Athletic Club,athletic-club,25,33,20,1,0,0,1,0,0,4,0,0,0,1
-186,Oihan Sancet,oihan-sancet,M,Athletic Club,athletic-club,91,33,52,4,5,12,3,2,0,5,1,0,0,3
-187,Álex Berenguer,alex-berenguer,M,Athletic Club,athletic-club,87,33,42,6,2,7,4,0,0,5,0,0,0,6
-188,Raúl García,raul-garcia,M,Athletic Club,athletic-club,64,33,54,2,1,2,8,0,0,6,0,0,0,3
-189,Mikel Vesga,mikel-vesga,M,Athletic Club,athletic-club,72,33,40,4,1,8,2,0,0,5,0,0,0,3
-190,Dani García,dani-garcia,M,Athletic Club,athletic-club,23,33,19,1,0,3,4,0,0,2,0,0,0,0
-191,Iñigo Ruiz de Galarreta,inigo-ruiz-de-galarreta,M,Athletic Club,athletic-club,70,33,51,1,2,14,5,0,1,7,0,0,0,1
-192,Unai Vencedor,unai-vencedor,M,Athletic Club,athletic-club,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-193,Nico Serrano,nico-serrano,M,Athletic Club,athletic-club,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-194,Peru Nolaskoain Esnal,peru-nolaskoain-esnal,M,Athletic Club,athletic-club,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-195,Jon Morcillo,jon-morcillo,M,Athletic Club,athletic-club,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-196,Beñat Prados,benat-prados,M,Athletic Club,athletic-club,41,33,33,0,0,6,1,0,0,3,0,0,0,3
-197,Wibuala Junior Bita,wibuala-junior-bita,M,Athletic Club,athletic-club,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-198,Yeray Álvarez,yeray-alvarez,D,Athletic Club,athletic-club,40,33,23,0,0,5,1,0,0,4,0,0,0,2
-199,Yuri Berchiche,yuri-berchiche,D,Athletic Club,athletic-club,106,33,41,3,1,10,4,0,1,4,0,0,0,14
-200,Óscar de Marcos,oscar-de-marcos,D,Athletic Club,athletic-club,98,33,46,1,4,9,5,0,0,8,0,0,0,11
-201,Daniel Vivian,daniel-vivian,D,Athletic Club,athletic-club,95,33,60,0,0,12,6,0,0,10,0,0,0,3
-202,Íñigo Lekue,inigo-lekue,D,Athletic Club,athletic-club,60,33,40,0,2,6,4,0,0,6,0,0,0,0
-203,Aitor Paredes,aitor-paredes,D,Athletic Club,athletic-club,117,33,58,2,0,13,7,0,0,7,0,0,0,9
-204,Imanol García de Albéniz,imanol-garcia-de-albeniz,D,Athletic Club,athletic-club,14,33,10,0,0,2,2,0,0,2,0,0,0,0
-205,Álex Petxa,alex-petxa,D,Athletic Club,athletic-club,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-206,Unai Simón,unai-simon,G,Athletic Club,athletic-club,150,33,64,0,0,15,2,0,1,10,0,17,2,13
-207,Julen Agirrezabala,julen-agirrezabala,G,Athletic Club,athletic-club,1,33,2,0,0,0,0,0,0,1,0,0,0,0
-208,Vedat Muriqi,vedat-muriqi,F,Mallorca,mallorca,88,33,47,6,2,6,3,0,0,7,2,0,0,18
-209,Amath Ndiaye,amath-ndiaye,F,Mallorca,mallorca,14,33,16,0,0,1,2,0,0,0,0,0,0,0
-210,Abdón Prats,abdon-prats,F,Mallorca,mallorca,58,33,35,5,1,3,3,0,0,1,0,0,0,3
-211,Javi Llabrés,javi-llabres,F,Mallorca,mallorca,15,33,12,1,0,0,1,0,0,0,0,0,0,0
-212,Iddrisu Baba,iddrisu-baba,M,Mallorca,almeria,32,33,35,0,0,1,4,0,0,12,0,0,0,0
-213,Omar Mascarell,omar-mascarell,M,Mallorca,mallorca,34,33,38,0,0,5,5,1,1,3,0,0,0,1
-214,Dani Rodríguez,dani-rodriguez,M,Mallorca,mallorca,70,33,56,1,2,9,7,0,0,5,0,0,0,1
-215,Manu Morlanes,manu-morlanes,M,Mallorca,mallorca,48,33,42,0,1,5,2,0,0,4,0,0,0,0
-216,Clément Grenier,clement-grenier,M,Mallorca,mallorca,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-217,Antonio Sánchez,antonio-sanchez,M,Mallorca,mallorca,55,33,38,3,1,2,3,0,0,1,0,0,0,0
-218,Pablo Maffeo,pablo-maffeo,D,Mallorca,mallorca,39,33,33,0,0,4,3,1,0,4,0,0,0,0
-219,Martin Valjent,martin-valjent,D,Mallorca,mallorca,64,33,43,0,1,5,3,0,0,6,0,0,0,7
-220,Giovanni González,giovanni-gonzalez,D,Mallorca,mallorca,71,33,50,0,1,6,6,0,0,3,0,0,0,3
-221,Toni Lato,toni-lato,D,Mallorca,mallorca,59,33,40,0,1,5,3,0,0,1,0,0,0,0
-222,Antonio Raíllo,antonio-raillo,D,Mallorca,mallorca,70,33,37,2,0,5,1,1,0,4,0,0,0,9
-223,José Copete,jose-copete,D,Mallorca,mallorca,34,33,25,1,0,2,5,0,0,4,0,0,0,4
-224,Jaume Costa,jaume-costa,D,Mallorca,mallorca,45,33,37,0,0,5,5,0,0,7,0,0,0,0
-225,Siebe Van Der Heyden,siebe-van-der-heyden,D,Mallorca,mallorca,15,33,9,0,0,2,3,1,0,1,0,0,0,2
-226,Josep Gayá,josep-gaya,D,Mallorca,mallorca,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-227,Predrag Rajković,predrag-rajkovic,G,Mallorca,mallorca,125,33,62,0,0,8,2,0,0,8,0,19,1,17
-228,Dominik Greif,dominik-greif,G,Mallorca,mallorca,10,33,2,0,0,1,0,0,0,0,0,1,0,3
-229,Edinson Cavani,edinson-cavani,F,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-230,Samu Castillejo,samu-castillejo,F,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-231,Hugo Duro,hugo-duro,F,Valencia,valencia,129,33,63,13,2,11,3,0,0,8,0,0,0,11
-232,Marcos André,marcos-andre,F,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-233,Diego Lopez Noguerol,diego-lopez-noguerol,M,Valencia,valencia,12,33,9,0,0,2,0,0,0,0,0,0,0,1
-234,Fran Pérez,fran-perez,M,Valencia,valencia,83,33,52,1,4,12,3,0,0,3,0,0,0,5
-235,Yunus Musah,yunus-musah,M,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-236,André Almeida,andre-almeida,M,Valencia,valencia,36,33,19,2,1,3,0,0,0,2,0,0,0,1
-237,Hugo Guillamón,hugo-guillamon,M,Valencia,valencia,38,33,34,1,0,3,4,0,0,2,0,0,0,0
-238,Uroš Račić,uros-racic,M,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-239,Pepelu,pepelu,M,Valencia,valencia,137,33,64,8,1,10,4,0,0,9,1,0,0,26
-240,Koba Koindredi,koba-koindredi,M,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-241,Javier Guerra,javier-guerra,M,Valencia,valencia,84,33,54,4,1,7,3,1,0,6,0,0,0,6
-242,Javi Navarro,javi-navarro,M,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-243,José Luis Gayà,jose-luis-gaya,D,Valencia,valencia,87,33,42,1,3,7,3,0,0,5,0,0,0,10
-244,José Luis Gayà,jose-luis-gaya,D,Valencia,valencia,87,33,42,1,3,7,3,0,0,5,0,0,0,10
-245,Mouctar Diakhaby,mouctar-diakhaby,D,Valencia,valencia,35,33,23,1,0,3,5,0,0,4,0,0,0,3
-246,Gabriel Paulista,gabriel-paulista,D,Atlético Madrid,atletico-madrid,53,33,42,0,0,5,4,1,0,7,0,0,0,5
-247,Cenk Özkaçar,cenk-ozkacar,D,Valencia,valencia,40,33,31,0,0,4,3,0,1,3,0,0,0,1
-248,Thierry Correia,correia-thierry,D,Valencia,valencia,66,33,40,0,2,6,2,0,0,5,0,0,0,3
-249,Eray Cömert,eray-comert,D,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-250,Jesús Vázquez,jesus-vazquez,D,Valencia,valencia,29,33,22,1,0,1,0,0,0,4,0,0,0,1
-251,Dimitri Foulquier,dimitri-foulquier,D,Valencia,valencia,59,33,43,0,0,5,2,0,0,2,0,0,0,0
-252,Cristhian Mosquera,cristhian-mosquera,D,Valencia,valencia,90,33,57,0,0,9,2,0,0,9,0,0,0,8
-253,Giorgi Mamardashvili,giorgi-mamardashvili,G,Valencia,valencia,142,33,63,0,0,10,3,1,0,9,0,23,3,16
-254,Jaume Doménech,jaume-domenech,G,Valencia,valencia,3,33,1,0,0,0,0,0,0,1,0,2,0,1
-255,Cristian Rivero,cristian-rivero,G,Valencia,valencia,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-256,Vinícius Júnior,vinicius-junior,F,Real Madrid,real-madrid,112,33,42,12,5,11,6,0,0,3,0,0,0,13
-257,Rodrygo,rodrygo,F,Real Madrid,real-madrid,117,33,54,10,5,12,2,0,0,4,1,0,0,12
-258,Joselu,joselu,F,Real Madrid,real-madrid,82,33,42,8,2,9,1,0,0,0,2,0,0,7
-259,Luka Modrić,luka-modric,M,Real Madrid,real-madrid,92,33,42,2,5,9,2,0,0,2,0,0,0,18
-260,Toni Kroos,toni-kroos,M,Real Madrid,real-madrid,95,33,50,1,5,8,3,0,0,4,0,0,0,20
-261,Jude Bellingham,jude-bellingham,M,Real Madrid,real-madrid,185,33,49,17,4,13,4,1,0,4,0,0,0,33
-262,Federico Valverde,federico-valverde,M,Real Madrid,real-madrid,122,33,62,1,7,18,2,0,0,4,0,0,0,18
-263,Eduardo Camavinga,camavinga-eduardo,M,Real Madrid,real-madrid,41,33,39,0,0,8,8,0,0,3,0,0,0,2
-264,Aurélien Tchouaméni,aurelien-tchouameni,M,Real Madrid,real-madrid,77,33,49,2,1,14,6,0,0,3,0,0,0,7
-265,Arda Güler,arda-guler,M,Real Madrid,real-madrid,16,33,6,2,0,1,1,0,0,0,0,0,0,0
-266,Brahim Díaz,brahim-diaz,M,Real Madrid,real-madrid,88,33,39,5,3,8,0,0,0,0,0,0,0,7
-267,Dani Ceballos,dani-ceballos,M,Real Madrid,real-madrid,18,33,15,0,1,1,1,0,0,0,0,0,0,0
-268,Reinier,reinier,M,Real Madrid,real-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-269,Antonio Blanco,antonio-blanco,M,Deportivo Alavés,deportivo-alaves,58,33,51,0,1,9,3,1,0,7,0,0,0,1
-270,Éder Militão,eder-militao,D,Real Madrid,real-madrid,10,33,6,0,0,1,0,0,0,0,0,0,0,0
-271,David Alaba,david-alaba,D,Real Madrid,real-madrid,43,33,26,0,1,4,2,0,1,1,0,0,0,3
-272,Antonio Rüdiger,antonio-rudiger,D,Real Madrid,real-madrid,106,33,53,2,0,13,7,0,0,4,0,0,0,0
-273,Daniel Carvajal,daniel-carvajal,D,Real Madrid,real-madrid,131,33,46,4,3,12,2,1,0,2,0,0,0,11
-274,Ferland Mendy,ferland-mendy,D,Real Madrid,real-madrid,74,33,36,0,0,11,4,0,0,2,0,0,0,0
-275,Lucas Vázquez,lucas-vazquez,D,Real Madrid,real-madrid,80,33,36,1,4,5,0,0,0,2,0,0,0,8
-276,Nacho Fernández,nacho-fernandez,D,Real Madrid,real-madrid,65,33,34,0,0,9,3,1,0,1,0,0,0,2
-277,Álvaro Odriozola,alvaro-odriozola,D,Real Sociedad,real-sociedad,6,33,6,0,0,0,0,0,0,0,0,0,0,0
-278,Fran García,fran-garcia,D,Real Madrid,real-madrid,63,33,30,0,4,6,2,0,0,1,0,0,0,0
-279,Thibaut Courtois,thibaut-courtois,G,Real Madrid,real-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-280,Andriy Lunin,andriy-lunin,G,Real Madrid,real-madrid,93,33,40,0,0,11,3,0,0,2,0,9,0,5
-281,Youssef En-Nesyri,youssef-en-nesyri,F,Sevilla,sevilla,107,33,48,12,1,6,4,0,0,6,0,0,0,12
-282,Rafa Mir,rafa-mir,F,Sevilla,sevilla,25,33,18,2,0,2,1,0,0,2,0,0,0,0
-283,Rony Lopes,rony-lopes,F,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-284,Luismi Cruz,luismi-cruz,F,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-285,Iván Romero,ivan-romero,F,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-286,Isaac Romero,romero-isaac,F,Sevilla,sevilla,56,33,26,4,4,6,2,0,0,4,0,0,0,4
-287,Ivan Rakitić,ivan-rakitic,M,Sevilla,sevilla,55,33,31,2,1,2,7,0,0,7,0,0,0,16
-288,Papu Gómez,papu-gomez,M,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-289,Lucas Ocampos,lucas-ocampos,M,Sevilla,sevilla,89,33,57,3,2,6,5,0,0,12,0,0,0,10
-290,Erik Lamela,erik-lamela,M,Sevilla,sevilla,25,33,15,2,0,1,3,0,0,2,0,0,0,2
-291,Jesús Corona,jesus-corona,M,Sevilla,sevilla,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-292,Oussama Idrissi,oussama-idrissi,M,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-293,Adnan Januzaj,adnan-januzaj,M,Sevilla,sevilla,7,33,7,0,0,0,0,0,0,0,0,0,0,0
-294,Suso,suso,M,Sevilla,sevilla,55,33,38,1,2,1,4,1,0,12,0,0,0,12
-295,Thomas Delaney,thomas-delaney,M,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-296,Fernando,fernando,M,Sevilla,sevilla,12,33,12,0,0,0,0,0,0,3,0,0,0,0
-297,Óscar Rodríguez,oscar-rodriguez,M,Getafe,getafe,26,33,23,1,0,2,7,0,0,0,0,0,0,3
-298,Óliver Torres,oliver-torres,M,Sevilla,sevilla,49,33,41,0,1,8,3,0,0,4,0,0,0,0
-299,Joan Jordán,joan-jordan,M,Sevilla,sevilla,11,33,10,0,0,1,1,0,0,4,0,0,0,1
-300,Juanlu Sánchez,juanlu-sanchez,D,Sevilla,sevilla,42,33,31,0,2,1,2,0,0,3,0,0,0,6
-301,Marcos Acuña,marcos-acuna,D,Sevilla,sevilla,30,33,24,0,2,2,6,0,0,5,0,0,0,3
-302,Gonzalo Montiel,gonzalo-montiel,D,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-303,Tanguy Nianzou,tanguy-nianzou,D,Sevilla,sevilla,11,33,9,0,0,1,2,0,0,2,0,0,0,2
-304,Jesús Navas,jesus-navas,D,Sevilla,sevilla,49,33,44,0,0,5,5,1,0,8,0,0,0,1
-305,Nemanja Gudelj,nemanja-gudelj,D,Sevilla,sevilla,55,33,37,1,1,5,7,0,0,7,0,0,0,3
-306,Marcão,marcao,D,Sevilla,sevilla,4,33,9,0,0,0,3,0,0,2,0,0,0,0
-307,Loïc Badé,loic-bade,D,Sevilla,sevilla,68,33,48,0,1,6,4,1,0,4,0,0,0,4
-308,Karim Rekik,karim-rekik,D,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-309,Ludwig Augustinsson,ludwig-augustinsson,D,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-310,Federico Gattoni,federico-gattoni,D,Sevilla,sevilla,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-311,Adrià Pedrosa,adria-pedrosa,D,Sevilla,sevilla,52,33,39,0,4,2,1,0,0,8,0,0,0,2
-312,Kike Salas,kike-salas,D,Sevilla,sevilla,52,33,28,3,0,4,5,0,0,7,0,0,0,2
-313,Bono,bono,G,Sevilla,sevilla,1,33,2,0,0,0,0,0,0,1,0,0,0,0
-314,Marko Dmitrović,marko-dmitrovic,G,Sevilla,sevilla,28,33,24,0,0,1,1,0,1,10,0,10,0,3
-315,Alfonso Pastor,alfonso-pastor,G,Sevilla,sevilla,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-316,Matías Árbol,matias-arbol,G,Sevilla Atlético,sevilla-atletico,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-317,Antoine Griezmann,antoine-griezmann,F,Atlético Madrid,atletico-madrid,129,33,53,11,7,7,5,0,0,5,0,0,0,16
-318,Memphis Depay,memphis-depay,F,Atlético Madrid,atletico-madrid,49,33,26,5,1,2,2,0,0,2,0,0,0,2
-319,João Félix,joao-felix,F,Barcelona,barcelona,85,33,42,7,3,9,3,0,0,6,0,0,0,9
-320,Álvaro Morata,alvaro-morata,F,Atlético Madrid,atletico-madrid,121,33,45,16,2,6,2,1,0,6,1,0,0,13
-321,Ángel Correa,angel-correa,F,Atlético Madrid,atletico-madrid,86,33,35,9,2,2,2,0,0,2,0,0,0,11
-322,Samuel Lino,samuel-lino,F,Atlético Madrid,atletico-madrid,68,33,42,3,2,4,0,0,0,4,0,0,0,8
-323,Sergio Camello,sergio-camello,F,Rayo Vallecano,rayo-vallecano,71,33,43,5,1,7,3,0,0,8,0,0,0,8
-324,Giuliano Simeone,giuliano-simeone,F,Deportivo Alavés,deportivo-alaves,16,33,12,1,0,2,0,0,0,0,0,0,0,0
-325,Víctor Mollejo,victor-mollejo,F,Atlético Madrid,atletico-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-326,Borja Garcés,borja-garces,F,Atlético Madrid,atletico-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-327,Rodrigo de Paul,rodrigo-de-paul,M,Atlético Madrid,atletico-madrid,92,33,47,2,6,6,5,0,0,5,0,0,0,16
-328,Yannick Carrasco,yannick-carrasco,M,Atlético Madrid,atletico-madrid,13,33,6,0,1,2,0,0,0,0,0,0,0,2
-329,Marcos Llorente,marcos-llorente,M,Atlético Madrid,atletico-madrid,90,33,50,5,2,4,4,0,0,7,0,0,0,9
-330,Axel Witsel,axel-witsel,D,Atlético Madrid,atletico-madrid,88,33,55,2,0,6,2,0,0,7,0,0,0,6
-331,Saúl Ñíguez,saul-niguez,M,Atlético Madrid,atletico-madrid,58,33,40,1,4,4,8,0,0,1,0,0,0,5
-332,Koke,koke,M,Atlético Madrid,atletico-madrid,72,33,52,0,4,5,4,0,0,5,0,0,0,7
-333,Thomas Lemar,thomas-lemar,M,Atlético Madrid,atletico-madrid,5,33,4,0,0,1,0,0,0,1,0,0,0,0
-334,Rodrigo Riquelme,rodrigo-riquelme,M,Atlético Madrid,atletico-madrid,60,33,35,2,4,0,1,0,0,6,0,0,0,4
-335,Pablo Barrios,pablo-barrios,M,Atlético Madrid,atletico-madrid,42,33,35,0,1,5,5,0,0,4,0,0,0,4
-336,Vitolo,vitolo,M,Atlético Madrid,atletico-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-337,Nahuel Molina,nahuel-molina,D,Atlético Madrid,atletico-madrid,81,33,44,2,3,6,3,1,0,4,0,0,0,2
-338,César Azpilicueta,cesar-azpilicueta,D,Atlético Madrid,atletico-madrid,40,33,27,0,2,3,3,0,0,2,0,0,0,0
-339,Çağlar Söyüncü,caglar-soyuncu,D,Atlético Madrid,atletico-madrid,5,33,5,0,0,0,0,0,0,0,0,0,0,0
-340,José María Giménez,jose-maria-gimenez,D,Atlético Madrid,atletico-madrid,30,33,28,0,0,2,3,0,0,3,0,0,0,0
-341,Reinildo Isnard Mandava,mandava-reinildo-isnard,D,Atlético Madrid,atletico-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-342,Stefan Savić,stefan-savic,D,Atlético Madrid,atletico-madrid,45,33,34,0,0,5,5,0,0,4,0,0,0,0
-343,Mario Hermoso,mario-hermoso,D,Atlético Madrid,atletico-madrid,73,33,51,0,1,7,8,0,0,7,0,0,0,6
-344,Javi Galán,javi-galan,D,Real Sociedad,real-sociedad,35,33,24,0,1,2,2,0,0,2,0,0,0,4
-345,Santiago Mouriño,santiago-mourino,D,Atlético Madrid,real-zaragoza,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-346,Jan Oblak,jan-oblak,G,Atlético Madrid,atletico-madrid,108,33,64,0,0,8,1,0,0,9,0,18,0,4
-347,Ivo Grbić,ivo-grbic,G,Atlético Madrid,atletico-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-348,Lázaro,lazaro,F,Almería,almeria,14,33,14,0,0,0,0,0,0,2,0,0,0,0
-349,Luis Javier Suárez,luis-javier-suarez,F,Almería,almeria,35,33,18,4,0,0,2,0,0,7,0,0,0,3
-350,El Bilal Touré,el-bilal-toure,F,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-351,Largie Ramazani,largie-ramazani,F,Almería,almeria,60,33,41,3,5,2,7,2,0,10,0,0,0,5
-352,Léo Baptistão,leo-baptistao,F,Almería,almeria,50,33,41,4,0,4,6,1,0,8,0,0,0,2
-353,Adrián Embarba,adrian-embarba,M,Almería,almeria,73,33,53,3,0,5,4,0,0,13,0,0,0,4
-354,Marko Milovanović,marko-milovanovic,F,Almería,almeria,17,33,12,1,0,0,0,0,0,3,0,0,0,1
-355,Dyego Sousa,dyego-sousa,F,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-356,Arvin Appiah,arvin-appiah,F,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-357,Lucas Robertone,lucas-robertone,M,Almería,almeria,75,33,53,0,5,6,11,0,0,13,0,0,0,12
-358,Gonzalo Melero,gonzalo-melero,M,Almería,almeria,31,33,30,0,1,1,3,0,0,9,0,0,0,0
-359,Samuel Costa,samuel-costa,M,Almería,mallorca,66,33,51,1,1,6,7,0,0,5,0,0,0,8
-360,Arnau Puigmal,arnau-puigmal,M,Almería,almeria,10,33,13,0,0,0,3,0,0,1,0,0,0,0
-361,Gui,gui,M,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-362,Íñigo Eguaras,inigo-eguaras,M,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-363,Kaiky,kaiky,D,Almería,almeria,13,33,13,1,0,0,2,0,0,6,0,0,0,2
-364,Srđan Babić,srdan-babic,D,Almería,almeria,1,33,2,0,0,0,0,0,0,1,0,0,0,0
-365,Rodrigo Ely,rodrigo-ely,D,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-366,Sergio Akieme,sergio-akieme,D,Almería,almeria,49,33,36,2,0,3,2,0,0,9,0,0,0,0
-367,Chumi,chumi,D,Almería,almeria,37,33,43,0,1,1,4,0,0,12,0,0,0,3
-368,Edgar González,edgar-gonzalez,D,Almería,almeria,53,33,49,1,0,4,4,1,0,14,0,0,0,3
-369,Alejandro Pozo,alejandro-pozo,D,Almería,almeria,24,33,24,0,0,2,2,0,0,6,0,0,0,0
-370,Houboulang Mendes,houboulang-mendes,D,Almería,almeria,8,33,10,0,0,0,0,0,0,2,0,0,0,0
-371,Álex Centelles,centelles-alex,D,Almería,almeria,18,33,16,0,1,2,2,0,0,7,0,0,0,0
-372,Iván Martos,ivan-martos,D,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-373,Fernando Martínez,fernando-martinez,G,Almería,almeria,3,33,4,0,0,0,0,0,0,2,0,1,0,0
-374,Diego Mariño,diego-marino,G,Almería,almeria,1,33,2,0,0,0,0,0,0,1,0,0,0,0
-375,Enes Ünal,enes-unal,F,Getafe,getafe,8,33,5,0,1,0,0,0,0,1,0,0,0,0
-376,Borja Mayoral,borja-mayoral,F,Getafe,getafe,114,33,50,13,1,7,2,0,0,11,0,0,0,11
-377,Anthony Lozano,anthony-lozano,F,Almería,almeria,31,33,22,2,0,4,2,0,0,2,0,0,0,3
-378,Juanmi Latasa,juanmi-latasa,F,Getafe,getafe,40,33,39,2,0,5,4,2,0,3,0,0,0,3
-379,Jaime Mata,jaime-mata,M,Getafe,getafe,68,33,42,5,1,3,9,1,0,7,0,0,0,7
-380,Jack Harper,jack-harper,F,Getafe,getafe,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-381,Carles Aleñá,carles-alena,M,Getafe,getafe,34,33,30,1,1,1,5,0,0,5,0,0,0,0
-382,Nemanja Maksimović,nemanja-maksimovic,M,Getafe,getafe,96,33,64,4,0,10,3,0,0,13,0,0,0,5
-383,Mauro Arambarri,mauro-arambarri,M,Getafe,getafe,8,33,9,0,0,1,2,0,0,2,0,0,0,0
-384,Luis Milla,luis-milla,M,Getafe,getafe,46,33,42,0,1,4,5,0,0,7,0,0,0,2
-385,Portu,portu,F,Girona FC,girona-fc,71,33,39,5,5,5,3,0,0,3,0,0,0,0
-386,Jaime Seoane,jaime-seoane,M,Getafe,getafe,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-387,Ángel Algobia,angel-algobia,M,Getafe,getafe,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-388,Sergi Altimira,sergi-altimira,M,Getafe,real-betis,24,33,17,1,0,2,1,0,0,3,0,0,0,1
-389,Djené,djene,D,Getafe,getafe,67,33,55,0,0,9,12,1,0,9,0,0,0,0
-390,Omar Alderete,omar-alderete,D,Getafe,getafe,53,33,43,0,1,5,8,1,0,6,0,0,0,4
-391,Domingos Duarte,domingos-duarte,D,Getafe,getafe,21,33,22,0,0,3,3,2,0,4,0,0,0,0
-392,Stefan Mitrović,stefan-mitrovic,D,Getafe,getafe,30,33,19,1,0,3,3,0,0,4,0,0,0,0
-393,Damián Suárez,damian-suarez,D,Getafe,getafe,31,33,31,0,1,4,7,2,0,8,0,0,0,2
-394,José Ángel Carmona,jose-angel-carmona,M,Getafe,getafe,34,33,32,1,1,2,8,0,0,3,0,0,0,0
-395,Fabrizio Angileri,fabrizio-angileri,D,Getafe,getafe,4,33,10,0,0,0,2,1,0,1,0,0,0,0
-396,Juan Iglesias,juan-iglesias,D,Getafe,getafe,67,33,35,0,2,7,4,0,0,4,0,0,0,6
-397,Jonathan Silva,jonathan-silva,D,Getafe,getafe,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-398,Erick Cabaco,erick-cabaco,D,Getafe,getafe,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-399,David Soria,david-soria,G,Getafe,getafe,145,33,66,0,0,10,3,0,0,13,0,29,0,26
-400,Daniel Fuzato,daniel-fuzato,G,Getafe,getafe,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-401,Mamadou Sylla,mamadou-sylla,F,Deportivo Alavés,deportivo-alaves,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-402,Miguel de la Fuente,miguel-de-la-fuente,F,Deportivo Alavés,deportivo-alaves,3,33,3,0,0,0,0,0,0,0,0,0,0,0
-403,Abderrahman Rebbach,abderrahman-rebbach,M,Deportivo Alavés,deportivo-alaves,31,33,25,1,0,2,2,0,0,0,0,0,0,1
-404,Luis Rioja,luis-rioja,M,Deportivo Alavés,deportivo-alaves,112,33,59,5,4,9,3,0,0,8,1,0,0,12
-405,Salva Sevilla,salva-sevilla,M,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-406,Ander Guevara,ander-guevara,M,Deportivo Alavés,deportivo-alaves,70,33,60,1,0,7,6,0,0,10,0,0,0,4
-407,Carlos Benavídez,carlos-benavidez,M,Deportivo Alavés,deportivo-alaves,49,33,32,3,0,2,4,0,0,2,0,0,0,4
-408,Abdallahi Mahmoud,abdallahi-mahmoud,M,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-409,Jon Guridi,jon-guridi,M,Deportivo Alavés,deportivo-alaves,85,33,57,1,4,11,2,0,0,5,0,0,0,2
-410,Xeber Alkain,xeber-alkain,M,Deportivo Alavés,deportivo-alaves,13,33,13,0,0,1,1,0,0,1,0,0,0,0
-411,Alex Balboa,alex-balboa,M,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-412,Abdelkabir Abqar,abqar-abdelkabir,D,Deportivo Alavés,deportivo-alaves,45,33,41,0,0,5,10,0,1,6,0,0,0,2
-413,Florian Lejeune,florian-lejeune,D,Rayo Vallecano,rayo-vallecano,114,33,62,2,1,11,5,0,1,11,0,0,0,11
-414,Rubén Duarte,ruben-duarte,D,Deportivo Alavés,deportivo-alaves,57,33,38,2,0,4,5,0,0,6,0,0,0,2
-415,Víctor Laguardia,victor-laguardia,D,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-416,Nikola Maraš,nikola-maras,D,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-417,Aleksandar Sedlar,aleksandar-sedlar,D,Deportivo Alavés,deportivo-alaves,33,33,22,1,0,2,2,0,0,3,0,0,0,2
-418,Javi López,lopez-javi,D,Deportivo Alavés,deportivo-alaves,74,33,48,0,3,6,2,0,0,5,0,0,0,0
-419,Jesús Owono,jesus-owono,G,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-420,Antonio Sivera,antonio-sivera,G,Deportivo Alavés,deportivo-alaves,114,33,64,0,0,8,4,0,0,10,0,17,0,15
-421,Darwin Machís,darwin-machis,F,Cádiz,cadiz,45,33,26,4,0,3,0,1,0,3,0,0,0,6
-422,Álvaro Negredo,alvaro-negredo,F,Cádiz,cadiz,8,33,8,0,0,0,0,0,0,1,0,0,0,0
-423,Roger Martí,roger-marti,F,Cádiz,cadiz,51,33,27,2,3,4,2,0,0,3,0,0,0,9
-424,Sergi Guardiola,sergi-guardiola,F,Cádiz,cadiz,23,33,21,0,1,0,1,0,0,1,0,0,0,0
-425,Francisco Mwepu,francisco-mwepu,F,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-426,Milutin Osmajić,milutin-osmajic,F,Cádiz,cadiz,1,33,1,0,0,0,0,0,0,1,0,0,0,0
-427,Chris Ramos,chris-ramos,F,Cádiz,cadiz,79,33,59,5,1,6,5,0,0,10,0,0,0,2
-428,Tomás Alarcón,tomas-alarcon,M,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-429,Brian Ocampo,brian-ocampo,M,Cádiz,cadiz,9,33,9,0,0,0,0,0,0,1,0,0,0,0
-430,Gonzalo Escalante,gonzalo-escalante,M,Cádiz,cadiz,46,33,34,1,2,3,1,1,0,7,0,0,0,2
-431,Awer Mabil,awer-mabil,M,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-432,Youba Diarra,youba-diarra,M,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-433,Rubén Alcaraz,ruben-alcaraz,M,Cádiz,cadiz,78,33,61,1,1,7,14,0,0,11,0,0,0,16
-434,Rubén Sobrino,ruben-sobrino,M,Cádiz,cadiz,38,33,40,0,1,6,7,2,0,6,0,0,0,2
-435,Álex Fernández,alex-fernandez,M,Cádiz,cadiz,31,33,32,0,0,1,4,0,0,2,0,0,0,2
-436,Fede San Emeterio,fede-san-emeterio,M,Cádiz,cadiz,12,33,6,1,0,2,1,1,0,0,0,0,0,3
-437,Iván Alejo,ivan-alejo,M,Cádiz,cadiz,40,33,42,0,2,7,15,0,0,6,0,0,0,0
-438,José Mari,jose-mari,M,Cádiz,cadiz,3,33,3,0,0,0,1,0,0,1,0,0,0,0
-439,Martín Calderón,martin-calderon,M,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-440,Víctor Chust,victor-chust,D,Cádiz,cadiz,48,33,35,0,1,4,2,1,0,6,0,0,0,5
-441,Javier Hernández,javier-hernandez,D,Cádiz,cadiz,65,33,47,1,2,4,6,0,0,8,0,0,0,4
-442,Luis Hernández,luis-hernandez,D,Cádiz,cadiz,28,33,19,1,0,2,4,0,0,4,0,0,0,3
-443,Fali,fali,D,Cádiz,cadiz,50,33,48,0,0,5,11,0,0,7,0,0,0,0
-444,Mamadou Mbaye,mamadou-mbaye,D,Cádiz,cadiz,2,33,4,0,0,0,1,0,0,1,0,0,0,0
-445,Joseba Zaldúa,joseba-zaldua,D,Cádiz,cadiz,7,33,10,0,0,0,1,0,0,2,0,0,0,0
-446,Juan Cala,juan-cala,D,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-447,Raúl Parra,raul-parra,D,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-448,Jeremías Ledesma,jeremias-ledesma,G,Cádiz,cadiz,111,33,64,0,0,6,0,0,0,13,0,21,0,15
-449,David Gil,david-gil,G,Cádiz,cadiz,7,33,3,0,0,0,1,0,0,0,0,2,0,3
-450,Juan Flere,flere-juan,G,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-451,Sandro Ramírez,sandro-ramirez,F,Las Palmas,las-palmas,53,33,38,1,3,5,2,0,0,5,1,0,0,6
-452,Marc Cardona,marc-cardona,F,Las Palmas,las-palmas,43,33,27,3,1,4,3,0,0,1,0,0,0,4
-453,Óscar Pinchi,oscar-pinchi,F,Las Palmas,las-palmas,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-454,Alberto Moleiro,alberto-moleiro,M,Las Palmas,las-palmas,61,33,37,2,3,5,0,0,0,5,0,0,0,0
-455,Jonathan Viera,jonathan-viera,M,Almería,almeria,66,33,34,2,3,6,2,1,0,5,0,0,0,12
-456,Enzo Loiodice,loiodice-enzo,M,Las Palmas,las-palmas,49,33,44,0,0,7,2,0,0,1,0,0,0,0
-457,Omenuke Mfulu,omenuke-mfulu,M,Las Palmas,las-palmas,3,33,4,0,0,0,1,0,0,0,0,0,0,0
-458,Kirian Rodríguez,kirian-rodriguez,M,Las Palmas,las-palmas,116,33,62,6,2,7,7,0,0,7,0,0,0,18
-459,Pejiño,pejino,M,Las Palmas,las-palmas,33,33,19,2,0,2,1,0,0,0,0,0,0,3
-460,Javier Muñoz,javier-munoz,M,Las Palmas,las-palmas,75,33,57,1,3,7,6,0,0,7,0,0,0,3
-461,Cristian Herrera,cristian-herrera,M,Las Palmas,las-palmas,12,33,8,1,0,0,1,0,0,1,0,0,0,0
-462,Benito Ramírez,benito-ramirez,M,Las Palmas,las-palmas,22,33,17,1,0,0,0,0,0,0,0,0,0,0
-463,Fabio González,fabio-gonzalez,M,Las Palmas,las-palmas,4,33,4,0,0,0,0,0,0,0,0,0,0,0
-464,Daley Sinkgraven,daley-sinkgraven,D,Las Palmas,las-palmas,10,33,13,0,0,1,0,2,0,1,0,0,0,0
-465,Saúl Coco,saul-coco,D,Las Palmas,las-palmas,49,33,44,1,0,3,6,1,1,6,0,0,0,4
-466,Eric Curbelo,eric-curbelo,D,Las Palmas,las-palmas,1,33,2,0,0,0,0,0,0,1,0,0,0,0
-467,Sergi Cardona,sergi-cardona,D,Las Palmas,las-palmas,101,33,59,1,2,7,9,0,0,6,0,0,0,17
-468,Enrique Clemente,enrique-clemente,D,Las Palmas,las-palmas,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-469,Álvaro Lemos,alvaro-lemos,D,Las Palmas,las-palmas,3,33,4,0,0,0,1,0,0,0,0,0,0,0
-470,Alex Suárez,alex-suarez,D,Las Palmas,las-palmas,70,33,50,1,0,5,7,0,0,4,0,0,0,5
-471,Alejandro Palanca,alejandro-palanca,D,Las Palmas,las-palmas,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-472,Álvaro Valles,alvaro-valles,G,Las Palmas,las-palmas,122,33,61,0,0,7,2,1,0,8,0,22,1,19
-473,Alex Domínguez,alex-dominguez,G,Las Palmas,las-palmas,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-474,Sávio,savio,M,Girona FC,girona-fc,155,33,63,9,8,10,5,0,0,10,0,0,0,18
-475,Cristhian Stuani,cristhian-stuani,F,Girona FC,girona-fc,75,33,34,8,2,2,6,0,0,1,0,0,0,9
-476,Manu Vallejo,manu-vallejo,F,Girona,girona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-477,Pau Víctor,pau-victor,F,Barcelona,barcelona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-478,Pablo Torre,pablo-torre,M,Girona FC,girona-fc,36,33,28,0,3,0,1,0,0,4,0,0,0,0
-479,Viktor Tsygankov,viktor-tsygankov,M,Girona FC,girona-fc,100,33,45,6,4,6,0,0,0,5,0,0,0,7
-480,Aleix García,aleix-garcia,M,Girona FC,girona-fc,124,33,63,3,6,11,3,1,0,12,0,0,0,23
-481,Yangel Herrera,yangel-herrera,M,Girona FC,girona-fc,71,33,43,4,0,8,8,0,0,5,0,0,0,8
-482,Yan Couto,couto-yan,D,Girona FC,girona-fc,99,33,54,1,8,7,8,0,0,11,0,0,0,6
-483,Toni Villa,toni-villa,M,Girona FC,girona-fc,1,33,1,0,0,0,0,0,0,0,0,0,0,0
-484,Borja García,borja-garcia,M,Girona FC,girona-fc,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-485,Ibrahima Kébé,ibrahima-kebe,M,Girona FC,girona-fc,1,33,2,0,0,0,1,0,0,0,0,0,0,0
-486,Oscar Ureña,oscar-urena,M,Girona,girona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-487,Silvi Clúa,silvi-clua,M,Girona FC,girona-fc,1,33,1,0,0,0,0,0,0,0,0,0,0,0
-488,Daley Blind,daley-blind,D,Girona FC,girona-fc,106,33,57,2,2,10,5,0,0,9,0,0,0,5
-489,Miguel Gutiérrez,miguel-gutierrez,D,Girona FC,girona-fc,125,33,62,1,6,12,4,0,0,11,0,0,0,6
-490,Arnau Martínez,arnau-martinez,D,Girona FC,girona-fc,50,33,30,0,2,5,4,0,0,2,0,0,0,0
-491,Alexander Callens,alexander-callens,D,Girona,girona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-492,Santiago Bueno,santiago-bueno,D,Girona,girona,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-493,Bernardo Espinosa,bernardo-espinosa,D,Girona FC,girona-fc,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-494,David López,david-lopez,D,Girona FC,girona-fc,80,33,39,3,0,7,3,0,0,6,0,0,0,4
-495,Valery Fernández,valery-fernandez,D,Girona FC,girona-fc,42,33,24,3,0,1,1,0,0,3,0,0,0,0
-496,Juanpe,juanpe,D,Girona FC,girona-fc,18,33,19,0,0,1,4,0,0,4,0,0,0,3
-497,Eric Monjonell,eric-monjonell,D,Girona FC,girona-fc,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-498,Marc Aznar,marc-aznar,D,Girona FC,girona-fc,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-499,Paulo Gazzaniga,paulo-gazzaniga,G,Girona FC,girona-fc,143,33,66,0,0,11,2,0,0,12,0,22,1,20
-500,Toni Fuidias,toni-fuidias,G,Girona FC,girona-fc,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-501,Juan Carlos,juan-carlos,G,Girona FC,girona-fc,0,33,0,0,0,0,1,0,0,0,0,0,0,0
-502,Famara Diédhiou,famara-diedhiou,F,Granada,granada,12,33,8,0,1,0,1,0,0,0,0,0,0,2
-503,Myrto Uzuni,myrto-uzuni,F,Granada,granada,107,33,56,12,1,5,3,0,0,15,1,0,0,5
-504,José Callejón,jose-callejon,F,Granada,granada,32,33,29,0,1,2,0,0,0,4,0,0,0,0
-505,Shon Weissman,shon-weissman,F,Granada,granada,5,33,5,0,0,0,0,0,0,0,0,0,0,0
-506,Alberto Perea,alberto-perea,F,Granada,granada,2,33,2,0,0,0,0,0,0,0,0,0,0,0
-507,Antoñín,antonin,F,Granada,granada,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-508,Njegoš Petrović,njegos-petrovic,M,Granada,granada,9,33,9,0,0,0,0,0,0,0,0,0,0,0
-509,Antonio Puertas,antonio-puertas,M,Granada,granada,30,33,32,0,2,0,3,1,0,4,1,0,0,0
-510,Alberto Soro,soro-alberto,M,Granada,granada,1,33,1,0,0,0,0,0,0,0,0,0,0,0
-511,Óscar Melendo,oscar-melendo,M,Granada,granada,35,33,35,0,0,2,2,0,0,6,0,0,0,0
-512,Yann Bodiger,yann-bodiger,M,Granada,granada,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-513,Sergio Ruiz Alonso,sergio-ruiz-alonso,M,Granada,granada,73,33,54,0,4,6,7,0,0,10,0,0,0,8
-514,Víctor Meseguer,victor-meseguer,M,Granada,granada,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-515,Bryan Zaragoza,bryan-zaragoza,M,Granada,granada,89,33,39,7,2,2,5,0,0,10,0,0,0,12
-516,Isma Ruiz,isma-ruiz,M,Granada,granada,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-517,Jesús Vallejo,jesus-vallejo,D,Granada,granada,3,33,5,0,0,0,1,0,0,1,0,0,0,0
-518,Alpha Dionkou,alpha-dionkou,D,Granada,granada,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-519,Ricard Sánchez,ricard-sanchez,D,Granada,granada,62,33,53,3,0,3,8,0,0,14,0,0,0,1
-520,Carlos Neva,neva-carlos,D,Granada,granada,87,33,64,0,3,6,3,0,0,16,0,0,0,9
-521,Víctor Díaz,victor-diaz,D,Granada,granada,3,33,6,0,0,0,1,0,0,2,0,0,0,0
-522,Miguel Rubio,miguel-rubio,D,Granada,granada,36,33,29,1,0,3,4,0,0,7,0,0,0,0
-523,Ignasi Miquel,ignasi-miquel,D,Granada,granada,73,33,63,1,1,5,6,0,0,18,0,0,0,5
-524,Raúl Torrente,raul-torrente,D,Granada,granada,19,33,23,0,0,1,2,0,1,4,0,0,0,0
-525,Pepe Sánchez,pepe-sanchez,D,Granada,granada,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-526,André Ferreira,andre-ferreira,G,Granada,granada,33,33,28,0,0,0,1,0,0,8,0,10,0,4
-527,Isco,isco,M,Real Betis,real-betis,133,33,54,7,5,10,10,0,0,5,0,0,0,29
-528,Joaquín,joaquin,M,Real Betis,real-betis,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-529,Chadi Riad,chadi-riad,D,Real Betis,real-betis,49,33,39,0,0,4,1,0,0,5,0,0,0,0
-530,Marc Bartra,marc-bartra,D,Real Betis,real-betis,2,33,5,0,0,0,1,0,0,2,0,0,0,0
-531,Lamine Yamal,lamine-yamal,F,Barcelona,barcelona,88,33,48,4,3,5,3,0,0,8,0,0,0,18
-532,Jorge de Frutos,jorge-de-frutos,M,Rayo Vallecano,rayo-vallecano,56,33,41,1,0,7,0,0,0,4,0,0,0,3
-533,Kike Pérez,kike-perez,M,Rayo Vallecano,rayo-vallecano,28,33,28,1,0,2,7,0,0,3,0,0,0,0
-534,Diego Mendez,mendez-diego,M,Rayo Vallecano B,rayo-vallecano-b,1,33,1,0,0,0,0,0,0,0,0,0,0,0
-535,Dani Cárdenas,dani-cardenas,G,Rayo Vallecano,rayo-vallecano,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-536,Alexander Sørloth,alexander-sorloth,F,Villarreal,villarreal,140,33,48,17,4,4,3,0,0,10,0,0,0,15
-537,Andrés Ferrari,andres-ferrari,F,Villarreal B,villarreal-b,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-538,Dani Requena,dani-requena,M,Villarreal,villarreal,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-539,Rodri Alonso,rodri-alonso,M,Villarreal,villarreal,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-540,Matteo Gabbia,matteo-gabbia,D,Villarreal,villarreal,14,33,12,0,0,2,2,0,0,4,0,0,0,0
-541,Lanchi,lanchi,D,Villarreal,villarreal,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-542,Dani Sancho,dani-sancho,F,Osasuna B,osasuna-b,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-543,Jorge Herrando,herrando-jorge,D,Osasuna,osasuna,33,33,27,0,0,4,3,0,0,7,0,0,0,0
-544,Carl Starfelt,carl-starfelt,D,Celta Vigo,celta-vigo,57,33,41,1,0,3,2,0,0,6,0,0,0,6
-545,André Silva,andre-silva,F,Real Sociedad,real-sociedad,27,33,20,2,0,1,1,0,0,2,0,0,0,0
-546,Alex Lebarbier,alex-lebarbier,M,Real Sociedad,real-sociedad,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-547,Ekain Azkune,ekain-azkune,F,Real Sociedad B,real-sociedad-b,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-548,Arsen Zakharyan,arsen-zakharyan,M,Real Sociedad,real-sociedad,52,33,35,1,2,4,1,0,0,5,0,0,0,3
-549,Jon Ander Olasagasti,jon-ander-olasagasti,M,Real Sociedad,real-sociedad,13,33,14,0,0,1,2,0,0,2,0,0,0,0
-550,Eneko Astigarraga,eneko-astigarraga,M,Real Sociedad B,real-sociedad-b,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-551,Unai Marrero,unai-marrero,G,Real Sociedad,real-sociedad,3,33,4,0,0,0,0,0,0,1,0,0,0,0
-552,Unai Eguíluz,unai-eguiluz,D,Athletic Bilbao B,athletic-bilbao-b,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-553,Cyle Larin,cyle-larin,F,Mallorca,mallorca,49,33,42,2,2,6,8,0,0,3,0,0,0,1
-554,Sergi Darder,sergi-darder,M,Mallorca,mallorca,71,33,46,0,5,8,4,0,0,4,0,0,0,6
-555,Ruben Quintanilla,quintanilla-ruben,M,Mallorca,mallorca,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-556,Marcos Fernández,marcos-fernandez,D,Mallorca,mallorca,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-557,Alberto Mari,alberto-mari,F,Valencia,valencia,16,33,12,0,1,0,0,0,0,2,0,0,0,1
-558,Sergi Canós,sergi-canos,M,Valencia,valencia,36,33,27,0,2,4,1,0,0,5,0,0,0,0
-559,Kepa Arrizabalaga,kepa-arrizabalaga,G,Real Madrid,real-madrid,55,33,24,0,0,6,1,0,0,2,0,6,0,4
-560,Djibril Sow,djibril-sow,M,Sevilla,sevilla,49,33,41,1,1,5,6,0,0,5,0,0,0,1
-561,Manu Bueno,bueno-manu,M,Sevilla,sevilla,1,33,1,0,0,0,0,0,0,0,0,0,0,0
-562,Ørjan Nyland,orjan-nyland,G,Sevilla,sevilla,71,33,38,0,0,5,1,0,0,3,0,12,0,5
-563,Samuel Omorodion,omorodion-samuel,F,Deportivo Alavés,deportivo-alaves,80,33,50,7,1,8,5,0,0,7,0,0,0,4
-564,Alvaro Mouriño,alvaro-mourino,D,Atlético Madrid,atletico-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-565,Antonio Gomis Aleman,aleman-antonio-gomis,G,Atlético Madrid,atletico-madrid,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-566,Ibrahima Kone,ibrahima-kone,F,Almería,almeria,10,33,10,0,0,0,0,0,0,3,0,0,0,0
-567,Marciano Sanca Tchami,sanca-tchami-marciano,F,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-568,Dion Lopy,dion-lopy,M,Almería,almeria,48,33,48,0,0,1,4,0,0,10,0,0,0,3
-569,Marcos Pena,pena-marcos,M,Almería,almeria,4,33,5,0,0,0,1,0,0,0,0,0,0,0
-570,Marc Pubill,marc-pubill,D,Almería,almeria,51,33,37,1,2,3,2,0,0,9,0,0,0,1
-571,Luís Maximiano,luis-maximiano,G,Almería,almeria,94,33,58,0,0,5,1,0,0,16,0,19,1,9
-572,Manuel Obón Salido,manuel-obon-salido,G,Almería,almeria,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-573,Santi García,santi-garcia,M,Getafe B,getafe-b,1,33,1,0,0,0,0,0,0,0,0,0,0,0
-574,Santiago Garcia Gonzalez,garcia-gonzalez-santiago,M,Getafe,getafe,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-575,Gastón Álvarez,gaston-alvarez,D,Getafe,getafe,79,33,53,1,0,7,6,0,0,9,0,0,0,7
-576,Jorge Benito,jorge-benito,G,Getafe,getafe,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-577,Mamadou Diallo,mamadou-diallo,M,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-578,Ander Sánchez,ander-sanchez,M,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-579,Rafa Marín,rafa-marin,D,Deportivo Alavés,deportivo-alaves,65,33,51,0,0,6,5,0,1,7,0,0,0,4
-580,Nahuel Tenaglia,nahuel-tenaglia,D,Deportivo Alavés,deportivo-alaves,37,33,29,1,0,2,2,0,0,4,0,0,0,0
-581,Joseda Álvarez,joseda-alvarez,D,Deportivo Alavés,deportivo-alaves,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-582,Álvaro Bastida,alvaro-bastida,M,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-583,Lucas Pires,lucas-pires,D,Cádiz,cadiz,39,33,39,1,0,2,6,0,0,9,0,0,0,1
-584,Iza Carcelén,iza-carcelen,D,Cádiz,cadiz,71,33,60,0,0,6,2,0,0,11,0,0,0,0
-585,Jorge Meré,jorge-mere,D,Cádiz,cadiz,18,33,17,0,0,1,0,0,0,3,0,0,0,0
-586,Julio,julio,D,Cádiz,cadiz,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-587,Munir El Haddadi,munir-el-haddadi,F,Las Palmas,las-palmas,73,33,56,4,2,13,3,0,0,7,1,0,0,0
-588,Sory Kaba,sory-kaba,F,Las Palmas,las-palmas,24,33,19,1,1,2,2,0,0,2,0,0,0,0
-589,Marvin Park,park-marvin,F,Las Palmas,las-palmas,40,33,36,0,2,2,5,0,0,3,0,0,0,3
-590,Julian Araujo,julian-araujo,D,Las Palmas,las-palmas,56,33,32,1,0,5,3,0,0,4,0,0,0,5
-591,Mika Mármol,mika-marmol,D,Las Palmas,las-palmas,74,33,59,0,1,6,4,1,0,7,0,0,0,2
-592,Aarón Escandell,aaron-escandell,G,Las Palmas,las-palmas,1,33,4,0,0,0,0,1,0,0,0,0,0,0
-593,Artem Dovbyk,artem-dovbyk,F,Girona FC,girona-fc,159,33,58,18,6,8,1,0,0,10,1,0,0,14
-594,Iker Almena,iker-almena,F,Girona FC,girona-fc,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-595,Gonzalo Villar,gonzalo-villar,M,Granada,granada,61,33,46,1,3,4,7,0,0,8,0,0,0,4
-596,Gerard Gumbau,gerard-gumbau,M,Granada,granada,60,33,52,0,3,3,10,0,0,15,0,0,0,6
-597,Wilson Manafá,wilson-manafa,D,Granada,granada,4,33,7,0,0,0,1,0,0,2,0,0,0,0
-598,Miki Bosch,miki-bosch,D,Granada,granada,0,33,0,0,0,0,0,0,0,0,0,0,0,0
-599,Fermín López,fermin-lopez,M,Barcelona,barcelona,61,31,34,5,0,4,2,0,0,3,0,0,0,0
-600,Pau Cubarsí,pau-cubarsi,D,Barcelona,barcelona,48,31,26,0,0,7,3,0,0,6,0,0,0,3
-601,Andrei Rațiu,andrei-ratiu,D,Rayo Vallecano,rayo-vallecano,19,31,14,0,0,2,1,0,0,2,0,0,0,0
-602,Anastasios Douvikas,douvikas-anastasios,F,Celta Vigo,celta-vigo,52,31,32,4,1,3,0,0,0,4,0,0,0,1
-603,Hugo Sotelo,hugo-sotelo,M,Celta Vigo,celta-vigo,20,31,17,0,0,2,0,0,0,3,0,0,0,1
-604,Kieran Tierney,kieran-tierney,D,Real Sociedad,real-sociedad,43,31,26,0,2,3,1,0,0,3,0,0,0,3
-605,Iván Cuéllar,ivan-cuellar,G,Mallorca,mallorca,0,31,0,0,0,0,0,0,0,0,0,0,0,0
-606,Dodi Lukebakio,dodi-lukebakio,F,Sevilla,sevilla,46,31,26,4,1,4,0,0,0,4,0,0,0,1
-607,Álex Calatrava,alex-calatrava,F,Atlético Madrid,atletico-madrid,0,31,0,0,0,0,0,0,0,0,0,0,0,0
-608,Ivan Vasiljevic,ivan-vasiljevic,D,Atlético Madrid,atletico-madrid,0,31,0,0,0,0,0,0,0,0,0,0,0,0
-609,Ianis Hagi,ianis-hagi,M,Deportivo Alavés,deportivo-alaves,23,31,22,0,1,1,2,0,0,0,1,0,0,1
-610,Maximiliano Gómez,maximiliano-gomez,F,Cádiz,cadiz,32,31,34,0,0,3,2,0,0,5,0,0,0,0
-611,Máximo Perrone,maximo-perrone,M,Las Palmas,las-palmas,41,31,39,0,0,6,4,0,0,5,0,0,0,0
-612,Juanma Herzog,juanma-herzog,D,Las Palmas,las-palmas,25,31,6,2,0,2,1,0,0,2,0,0,0,2
-613,Alex Gonzalez,gonzalez-alex,G,Las Palmas,las-palmas,0,31,0,0,0,0,0,0,0,0,0,0,0,0
-614,Mario González,mario-gonzalez,M,Granada,granada,0,31,0,0,0,0,0,0,0,0,0,0,0,0
-615,Dani Pérez,dani-perez,M,Real Betis,real-betis,0,30,0,0,0,0,0,0,0,0,0,0,0,0
-616,João Cancelo,joao-cancelo,D,Barcelona,barcelona,113,30,49,2,3,10,5,0,0,9,0,0,0,17
-617,Iker Munoz,munoz-iker,M,Osasuna,osasuna,28,30,17,1,0,5,1,0,0,2,0,0,0,2
-618,Mihailo Ristić,mihailo-ristic,D,Celta Vigo,celta-vigo,20,30,17,0,0,2,2,0,0,3,0,0,0,0
-619,Vicente Guaita,vicente-guaita,G,Celta Vigo,celta-vigo,89,30,48,0,0,6,2,0,1,6,0,14,0,13
-620,Pablo Marín,pablo-marin,M,Real Sociedad B,real-sociedad-b,0,30,0,0,0,0,0,0,0,0,0,0,0,0
-621,Urko González,urko-gonzalez,D,Real Sociedad,real-sociedad,1,30,3,0,0,0,1,0,0,1,0,0,0,0
-622,Unai Gómez,unai-gomez,M,Athletic Club,athletic-club,24,30,23,0,0,2,1,0,0,1,0,0,0,0
-623,Matija Nastasić,matija-nastasic,D,Mallorca,mallorca,67,30,46,1,0,6,9,0,0,4,0,0,0,4
-624,Roman Yaremchuk,roman-yaremchuk,F,Valencia,valencia,45,30,29,4,0,5,2,0,0,1,0,0,0,2
-625,Selim Amallah,amallah-selim,M,Valencia,valencia,21,30,20,0,1,2,2,1,0,1,0,0,0,1
-626,Mariano Díaz,mariano-diaz,F,Sevilla,sevilla,8,30,8,0,0,0,1,0,0,1,0,0,0,1
-627,Boubakary Soumaré,boubakary-soumare,M,Sevilla,sevilla,36,30,40,0,0,4,9,0,0,5,0,0,0,1
-628,César Montes,cesar-montes,D,Almería,almeria,35,30,33,0,0,4,4,0,0,10,0,0,0,0
-629,Mason Greenwood,mason-greenwood,M,Getafe,getafe,117,30,51,8,6,7,6,2,0,9,0,0,0,13
-630,Rominigue Kouamé,rominigue-kouame,M,Cádiz,cadiz,24,30,24,0,0,2,2,0,0,5,0,0,0,0
-631,Jhon Solís,jhon-solis,M,Girona FC,girona-fc,19,30,19,0,0,0,0,0,0,1,0,0,0,0
-632,Lucas Boyé,lucas-boye,F,Granada,granada,75,30,51,5,4,6,8,1,0,10,0,0,0,3
-633,Álvaro Fernández,alvaro-fernandez,M,Granada,granada,19,30,18,0,0,2,1,0,0,3,0,0,0,0
-634,Mario Ramos,mario-ramos,G,Extremadura UD,extremadura-ud,0,29,0,0,0,0,0,0,0,0,0,0,0,0
-635,Carlos Romero,carlos-romero,D,Villarreal,villarreal,4,29,7,0,0,0,1,0,0,2,0,0,0,0
-636,Sergio Ramos,sergio-ramos,D,Sevilla,sevilla,76,29,44,2,0,5,5,1,1,9,0,0,0,19
-637,Mini,mini,M,Atlético Madrid,atletico-madrid,0,29,0,0,0,0,0,0,0,0,0,0,0,0
-638,Jastin García,jastin-garcia,F,Girona FC,girona-fc,2,29,2,0,0,0,0,0,0,0,0,0,0,0
-639,Assane Diao,assane-diao,M,Real Betis,real-betis,41,28,28,2,0,5,4,0,0,0,0,0,0,2
-640,Germán García,german-garcia,G,Real Betis,real-betis,0,28,0,0,0,0,0,0,0,0,0,0,0,0
-641,Iker Álvarez,iker-alvarez,G,Villarreal,villarreal,0,28,0,0,0,0,0,0,0,0,0,0,0,0
-642,Diego Lopez,diego-lopez,M,Valencia,valencia,83,28,45,3,5,7,3,0,0,7,0,0,0,4
-643,Marciano Sanca,marciano-sanca,F,Almería,almeria,6,28,6,0,0,0,0,0,0,1,0,0,0,0
-644,Gorka Rivera,gorka-rivera,D,Getafe,getafe,0,28,0,0,0,0,0,0,0,0,0,0,0,0
-645,Tomás Mendes,tomas-mendes,M,Deportivo Alavés,deportivo-alaves,1,28,1,0,0,0,0,0,0,0,0,0,0,0
-646,Unai Ropero,unai-ropero,F,Deportivo Alavés,deportivo-alaves,1,28,1,0,0,0,0,0,0,0,0,0,0,0
-647,Ricardo Visus,ricardo-visus,D,Real Betis,real-betis,2,27,2,0,0,0,0,0,0,0,0,0,0,0
-648,Marco Moreno,marco-moreno,D,Atlético Madrid,atletico-madrid,0,27,0,0,0,0,0,0,0,0,0,0,0,0
-649,Selvi Clua Oya,selvi-clua-oya,M,Girona,girona,0,27,0,0,0,0,0,0,0,0,0,0,0,0
-650,Paco Sanz,sanz-paco,D,Almería,almeria,0,26,0,0,0,0,0,0,0,0,0,0,0,0
-651,Rúben Montero,ruben-montero,G,Deportivo Alavés,deportivo-alaves,0,26,0,0,0,0,0,0,0,0,0,0,0,0
-652,Ale Gorrin,gorrin-ale,G,Las Palmas,las-palmas,0,26,0,0,0,0,0,0,0,0,0,0,0,0
-653,Gines Sorroche,gines-sorroche,F,Real Betis,real-betis,0,25,0,0,0,0,0,0,0,0,0,0,0,0
-654,Marc Guiu,marc-guiu,F,Barcelona,barcelona,0,25,0,0,0,0,0,0,0,0,0,0,0,0
-655,Adrià Altimira,altimira-adria,D,Villarreal B,villarreal-b,15,25,19,0,0,2,3,0,0,9,0,0,0,0
-656,Aitor Fraga,fraga-aitor,G,Real Sociedad,real-sociedad,0,25,0,0,0,0,0,0,0,0,0,0,0,0
-657,Yarek Gasiorowski,gasiorowski-yarek,D,Valencia,valencia,11,25,14,0,0,0,1,0,0,2,0,0,0,0
-658,Adrián Niño,adrian-nino,F,Atlético Madrid,atletico-madrid,0,25,0,0,0,0,0,0,0,0,0,0,0,0
-659,Marc Guiu,guiu-marc,F,Barcelona,barcelona,7,24,4,1,0,1,1,0,0,0,0,0,0,0
-660,Aleix Garrido,aleix-garrido,M,Barcelona,barcelona,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-661,Unai Hernández,unai-hernandez,M,Barcelona,barcelona,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-662,Ander Ibañez,ander-ibanez,G,Osasuna,osasuna,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-663,Gaizka Ayesa,gaizka-ayesa,G,Real Sociedad,real-sociedad,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-664,Adu Ares,adu-ares,F,Athletic Club,athletic-club,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-665,Daniel Luna,daniel-luna,M,Mallorca,mallorca,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-666,Yuzún Ley,yuzun-ley,D,Mallorca,mallorca,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-667,Diego Piñeiro,diego-pineiro,G,Real Madrid,real-madrid,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-668,Facundo Esnaider,facundo-esnaider,F,Getafe,getafe,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-669,Nabil Aberdin,nabil-aberdin,D,Getafe,getafe,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-670,Alejandro Morata,morata-alejandro,D,Cádiz,cadiz,0,24,0,0,0,0,0,0,0,0,0,0,0,0
-671,Gines Sorroche Pinero,sorroche-pinero-gines,M,Real Betis,real-betis,0,23,0,0,0,0,0,0,0,0,0,0,0,0
-672,Sokratis,sokratis,D,Real Betis,real-betis,25,23,20,0,0,4,6,0,1,3,0,0,0,0
-673,Aristide Njalla,aristide-njalla,M,Cádiz,cadiz,0,23,0,0,0,0,0,0,0,0,0,0,0,0
-674,Julio Cabrera,julio-cabrera,D,Cádiz,cadiz,0,23,0,0,0,0,0,0,0,0,0,0,0,0
-675,Adri Miranda,adri-miranda,D,Cádiz,cadiz,0,23,0,0,0,0,0,0,0,0,0,0,0,0
-676,Marc Casadó,marc-casado,M,Barcelona,barcelona,2,22,2,0,0,0,0,0,0,0,0,0,0,0
-677,Diego Collado,diego-collado,F,Villarreal,villarreal,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-678,Javier Rodríguez,javier-rodriguez,D,Celta Vigo,celta-vigo,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-679,Pau Mascaró,pau-mascaro,F,Mallorca,mallorca,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-680,Pablo Gozálbez,pablo-gozalbez,F,Valencia B,valencia-b,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-681,Nico Paz,nico-paz,M,Real Madrid Castilla,real-madrid-castilla,4,22,4,0,0,0,0,0,0,0,0,0,0,0
-682,Antonio Gomis,antonio-gomis,G,Atlético Madrid,atletico-madrid,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-683,Miguel Peñalver,miguel-penalver,D,Almería,almeria,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-684,Pau,pau,F,Las Palmas,las-palmas,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-685,Yadam,yadam,M,Las Palmas,las-palmas,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-686,Pol Tristan Jimenez,pol-tristan-jimenez,G,Granada,granada,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-687,Rachad Dhimi,rachad-dhimi,F,Almería,almeria,1,21,1,0,0,0,0,0,0,0,0,0,0,0
-688,Francisco Vieites,francisco-vieites,G,Real Betis,real-betis,7,20,2,0,0,1,0,0,0,0,0,1,0,0
-689,Diego Kochen,kochen-diego,G,Barcelona,barcelona,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-690,Jorge Pascual,jorge-pascual,F,Villarreal B,villarreal-b,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-691,Abraham Rando,rando-abraham,D,Villarreal,villarreal,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-692,Pablo Valencia,pablo-valencia,G,Osasuna,osasuna,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-693,Hugo Martín,hugo-martin,M,Real Sociedad,real-sociedad,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-694,Aitor Fraga,aitor-fraga,G,Real Sociedad,real-sociedad,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-695,Álex Padilla,alex-padilla,G,Athletic Club,athletic-club,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-696,Hugo González,hugo-gonzalez,F,Valencia B,valencia-b,1,20,1,0,0,0,0,0,0,0,0,0,0,0
-697,Mario Martín,mario-martin,M,Real Madrid,real-madrid,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-698,Alberto Flores,alberto-flores,G,Sevilla,sevilla,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-699,Adrián Rodríguez,adrian-rodriguez,G,Deportivo Alavés,deportivo-alaves,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-700,Adria Miquel Bosch Sanchis,adria-miquel-bosch-sanchis,D,Granada,granada,0,20,0,0,0,0,0,0,0,0,0,0,0,0
-701,Marco Camús,marco-camus,M,Valencia,valencia,0,19,0,0,0,0,0,0,0,0,0,0,0,0
-702,Rafael Romero,rafael-romero,G,Sevilla,sevilla,0,19,0,0,0,0,0,0,0,0,0,0,0,0
-703,Reinildo Mandava,reinildo-mandava,D,Atlético Madrid,atletico-madrid,35,19,16,1,1,2,1,0,0,2,0,0,0,5
-704,Jordi Martín,jordi-martin,M,Getafe,getafe,15,19,14,0,0,2,1,0,0,0,0,0,0,0
-705,Nobel Mendy,mendy-nobel,D,Real Betis,real-betis,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-706,Ángel Alarcón,angel-alarcon,F,Barcelona,barcelona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-707,Héctor Fort,hector-fort,D,Barcelona,barcelona,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-708,Javi Domínguez,javi-dominguez,D,Celta Vigo,celta-vigo,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-709,Coke Carrillo,coke-carrillo,G,Celta Vigo,celta-vigo,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-710,Bryan Fiabema,bryan-fiabema,F,Real Sociedad,real-sociedad,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-711,Ali Fadal,ali-fadal,M,Valencia,valencia,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-712,Ruben Iranzo Lendinez,ruben-iranzo-lendinez,D,Valencia,valencia,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-713,Vinícius Tobías,vinicius-tobias,D,Real Madrid,real-madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-714,Fran Gonzalez,gonzalez-fran,G,Real Madrid,real-madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-715,Xavi Sintes,xavi-sintes,M,Sevilla,sevilla,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-716,Alberto Collado,alberto-collado,M,Sevilla,sevilla,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-717,Oso,oso,M,Sevilla,sevilla,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-718,Rayane Belaid Khellil,rayane-belaid-khellil,M,Atlético Madrid,atletico-madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-719,Aitor Gismera,aitor-gismera,M,Atlético Madrid,atletico-madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-720,Selu Diallo,selu-diallo,M,Deportivo Alavés,deportivo-alaves,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-721,Alex Almansa,alex-almansa,F,Girona FC,girona-fc,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-722,Juan Arango,juan-arango,M,Girona FC,girona-fc,0,18,0,0,0,0,0,0,0,0,0,0,0,0
-723,Mikel Jauregizar,mikel-jauregizar,M,Athletic Bilbao B,athletic-bilbao-b,3,17,3,0,0,0,0,0,0,0,0,0,0,0
-724,Mario de Luis,mario-de-luis,G,Real Madrid,real-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
-725,Joel Roca,joel-roca,F,Girona FC,girona-fc,0,17,0,0,0,0,0,0,0,0,0,0,0,0
-726,Fran Árbol,fran-arbol,G,Granada,granada,0,17,0,0,0,0,0,0,0,0,0,0,0,0
-727,Johnny,johnny,M,Real Betis,real-betis,35,16,22,1,2,3,3,0,0,2,0,0,0,2
-728,Pablo Busto,pablo-busto,D,Real Betis,real-betis,2,16,2,0,0,0,0,0,0,0,0,0,0,0
-729,German Garcia Fernandez,german-garcia-fernandez,G,Real Betis,real-betis,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-730,Guilherme Sousa Carvalho Fernandes,carvalho-fernandes-guilherme-sousa,G,Real Betis,real-betis,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-731,Vitor Roque,vitor-roque,F,Barcelona,barcelona,17,16,13,2,0,1,1,1,0,1,0,0,0,0
-732,Pau Prim,prim-pau,M,Barcelona,barcelona,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-733,Hector Fort,fort-hector,D,Barcelona Atlètic,barcelona-atletic,18,16,7,0,1,2,0,0,0,0,0,0,0,0
-734,Pau Cubarsi,cubarsi-pau,D,Barcelona,barcelona,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-735,Ander Astralaga,ander-astralaga,G,Barcelona,barcelona,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-736,Aaron Yaakobisvili,yaakobisvili-aaron,G,Barcelona,barcelona,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-737,Eric Bailly,eric-bailly,D,Villarreal,villarreal,4,16,15,0,0,0,4,0,1,5,0,0,0,0
-738,Max Svensson,max-svensson,F,Osasuna,osasuna,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-739,Raul,raul,F,Osasuna,osasuna,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-740,Dimitrios Stamatakis,stamatakis-dimitrios,G,Osasuna,osasuna,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-741,Pablo Valencia,valencia-pablo,G,Osasuna,osasuna,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-742,Jailson,jailson,M,Celta Vigo,celta-vigo,19,16,16,0,1,1,1,0,0,4,0,0,0,0
-743,Javier Rodrguez Galiano,rodrguez-galiano-javier,D,Celta Vigo,celta-vigo,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-744,Raul Garcia Gonzalez,gonzalez-raul-garcia,G,Celta Vigo,celta-vigo,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-745,Alex Lebarbier,lebarbier-alex,M,Real Sociedad,real-sociedad,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-746,Jon Gorrotxategi,gorrotxategi-jon,M,Real Sociedad,real-sociedad,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-747,Jon Martin Vicente,vicente-jon-martin,D,Real Sociedad,real-sociedad,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-748,Eneko Astigarraga,astigarraga-eneko,D,Real Sociedad,real-sociedad,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-749,Jon Mikel Aramburu Mejias,aramburu-mejias-jon-mikel,D,Real Sociedad,real-sociedad,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-750,Aingeru Olabarrieta,olabarrieta-aingeru,F,Athletic Club,athletic-club,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-751,Hugo Rincon Lumbreras,rincon-lumbreras-hugo,D,Athletic Club,athletic-club,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-752,Alex Padilla,padilla-alex,G,Athletic Bilbao B,athletic-bilbao-b,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-753,Amath Diedhiou,amath-diedhiou,F,Mallorca,mallorca,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-754,Daniel Andres Luna Garcia,daniel-andres-luna-garcia,M,Mallorca,mallorca,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-755,Brian Cufré,brian-cufre,D,Mallorca,mallorca,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-756,Carles Sogorb Oliver,sogorb-oliver-carles,D,Mallorca,mallorca,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-757,Jose Luis Perez del Amo,perez-del-amo-jose-luis,F,Valencia,valencia,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-758,Ali Fadal,fadal-ali,M,Valencia,valencia,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-759,David Otorbi,otorbi-david,M,Valencia,valencia,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-760,Mario Dominguez Franco,dominguez-franco-mario,M,Valencia,valencia,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-761,Martin Tejon Fauli,tejon-fauli-martin,M,Valencia,valencia,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-762,Javier Navarro Girona,navarro-girona-javier,M,Valencia,valencia,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-763,Álvaro Rodríguez,alvaro-rodriguez,F,Real Madrid,real-madrid,1,16,1,0,0,0,0,0,0,0,0,0,0,0
-764,Mario Martin,martin-mario,M,Real Madrid,real-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-765,Álvaro Carrillo,alvaro-carrillo,F,Real Madrid,real-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-766,Rafael Obrador,rafael-obrador,D,Real Madrid,real-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-767,Marvelous Antolin Garzon,garzon-marvelous-antolin,D,Real Madrid,real-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-768,Edgar Climent Pujol Portorreal,pujol-portorreal-edgar-climent,D,Real Madrid,real-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-769,Ibrahima Sow,ibrahima-sow,F,Sevilla U19,sevilla-u19,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-770,Isra Dominguez,dominguez-isra,F,Sevilla,sevilla,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-771,Alberto Collado,collado-alberto,M,Sevilla,sevilla,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-772,Miguel Jimenez Capitas,jimenez-capitas-miguel,M,Sevilla,sevilla,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-773,Luis Dasilva Rodriguez,dasilva-rodriguez-luis,M,Sevilla,sevilla,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-774,Alex Calatrava,calatrava-alex,F,Atlético Madrid,atletico-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-775,Salim El Jebari,salim-el-jebari,M,Atlético Madrid,atletico-madrid,1,16,1,0,0,0,0,0,0,0,0,0,0,0
-776,Marcos Paulo,marcos-paulo,M,Atlético Madrid,atletico-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-777,Ilias Kostis,ilias-kostis,D,Atlético Madrid,atletico-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-778,Javier Boñar,javier-bonar,D,Atlético Madrid,atletico-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-779,Rayane Belid,belid-rayane,D,Atlético Madrid,atletico-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-780,Alejandro Iturbe,iturbe-alejandro,G,Atlético Madrid,atletico-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-781,Sergio Mestre,sergio-mestre,G,Atlético Madrid,atletico-madrid,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-782,Rachad Fettal,fettal-rachad,F,Almería,almeria,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-783,Martin Svidersky,martin-svidersky,M,Almería,almeria,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-784,Carlos Ballestero Garcia,ballestero-garcia-carlos,D,Almería,almeria,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-785,Bruno Iribarne,iribarne-bruno,G,Almería,almeria,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-786,Jordi,jordi,M,Getafe,getafe,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-787,J Patrick,patrick-j,M,Getafe,getafe,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-788,Facundo Esnaider  Ruiz,esnaider-ruiz-facundo,M,Getafe,getafe,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-789,Jorge Benito de Valle Martin,benito-de-valle-martin-jorge,G,Getafe,getafe,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-790,Giorgi Gagua,gagua-giorgi,F,Deportivo Alavés,deportivo-alaves,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-791,Carlos Vicente,vicente-carlos,M,Deportivo Alavés,deportivo-alaves,31,16,20,0,2,3,1,0,0,3,0,0,0,3
-792,Rafael Marin Zamora,rafael-marin-zamora,D,Deportivo Alavés,deportivo-alaves,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-793,Ruben Montero,montero-ruben,G,Deportivo Alavés,deportivo-alaves,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-794,Jose Antonio de la Rosa,de-la-rosa-jose-antonio,F,Cádiz,cadiz,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-795,Aristide Njalla,njalla-aristide,F,Cádiz,cadiz,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-796,Moussa Diakité,moussa-diakite,M,Cádiz,cadiz,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-797,Adrian Salguero Cid,salguero-cid-adrian,D,Cádiz,cadiz,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-798,Pau Ferrer Besalduch,ferrer-besalduch-pau,F,Las Palmas,las-palmas,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-799,Deo Gracias Maurile Gloire Bassinga,bassinga-deo-gracias-maurile-gloire,F,Las Palmas,las-palmas,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-800,Gustavo Yadam Santana Hernandez,santana-hernandez-gustavo-yadam,M,Las Palmas,las-palmas,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-801,Inaki,inaki,M,Las Palmas,las-palmas,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-802,Gabriel Palmero,gabriel-palmero,D,Las Palmas,las-palmas,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-803,Iker Almena,almena-iker,F,Girona FC,girona-fc,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-804,Joel Roca Casals,joel-roca-casals,F,Girona FC,girona-fc,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-805,Alex Almansa,almansa-alex,F,Girona FC,girona-fc,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-806,Juan Arango,arango-juan,F,Girona FC,girona-fc,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-807,Jastin Garca,garca-jastin,F,Girona FC,girona-fc,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-808,Enric Garcia,garcia-enric,M,Girona FC,girona-fc,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-809,Antal Yaakobishvili,yaakobishvili-antal,D,Girona FC,girona-fc,6,16,2,0,0,1,0,0,0,0,0,0,0,0
-810,Matías Arezo,matias-arezo,F,Granada,granada,12,16,13,0,0,0,1,0,0,1,0,0,0,0
-811,Mario Gonzalez Bravo,gonzalez-bravo-mario,M,Granada,granada,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-812,Bruno Méndez,bruno-mendez,D,Granada,granada,55,16,27,1,0,6,3,0,0,2,0,0,0,3
-813,Augusto Batalla,augusto-batalla,G,Granada,granada,65,16,32,0,0,5,3,0,0,5,0,12,0,9
-814,Adri López,adri-lopez,G,Granada,granada,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-815,Fran Arbol,arbol-fran,G,Granada,granada,0,16,0,0,0,0,0,0,0,0,0,0,0,0
-816,Iker Muñoz,iker-munoz,M,Osasuna,osasuna,36,14,19,3,0,3,1,0,0,3,0,0,0,0
-817,Hannibal Mejbri,hannibal-mejbri,M,Sevilla,sevilla,2,14,4,0,0,0,2,0,0,0,0,0,0,0
-818,Lucien Agoumé,lucien-agoume,M,Sevilla,sevilla,8,14,9,0,0,0,1,0,0,0,0,0,0,0
-819,Ilaix Moriba,ilaix-moriba,M,Getafe,getafe,24,14,16,0,2,1,3,0,0,2,0,0,0,4
-820,Yellu Santiago,yellu-santiago,M,Getafe,getafe,23,14,16,1,0,3,3,0,0,0,0,0,0,2
-821,Martin Hongla,martin-hongla,M,Granada,granada,15,14,15,0,0,0,0,0,0,4,0,0,0,0
-822,Kamil Piątkowski,kamil-piatkowski,D,Granada,granada,4,14,10,0,0,0,1,1,0,2,0,0,0,0
-823,Javier Manquillo,javier-manquillo,D,Celta Vigo,celta-vigo,21,13,14,0,1,2,2,0,0,2,0,0,0,0
-824,Sheraldo Becker,sheraldo-becker,F,Real Sociedad,real-sociedad,25,13,12,1,2,1,0,0,0,0,0,0,0,3
-825,Iñaki Rupérez Urtasun,inaki-ruperez-urtasun,D,Real Sociedad,real-sociedad,0,13,0,0,0,0,0,0,0,0,0,0,0,0
-826,Luka Romero,luka-romero,M,Almería,almeria,23,13,10,2,0,1,1,0,0,1,0,0,0,3
-827,Aleksandar Radovanović,aleksandar-radovanovic,D,Almería,almeria,13,13,12,0,0,1,2,0,0,3,0,0,0,2
-828,Djordjije Medenica,djordjije-medenica,G,Getafe,getafe,0,13,0,0,0,0,0,0,0,0,0,0,0,0
-829,Etta Eyong,etta-eyong,M,Cádiz,cadiz,1,13,1,0,0,0,0,0,0,0,0,0,0,0
-830,Ricard Artero,ricard-artero,M,Girona FC,girona-fc,0,13,0,0,0,0,0,0,0,0,0,0,0,0
-831,Lassina Sangare,lassina-sangare,M,Granada,granada,0,13,0,0,0,0,0,0,0,0,0,0,0,0
-832,Pablo Sáenz,pablo-saenz,,Granada,granada,0,13,0,0,0,0,0,0,0,0,0,0,0,0
-833,Cédric Bakambu,cedric-bakambu,F,Real Betis,real-betis,4,12,5,0,0,0,1,0,0,0,0,0,0,0
-834,Pablo Fornals,pablo-fornals,M,Real Betis,real-betis,39,12,21,1,2,2,2,0,0,4,0,0,0,7
-835,Xavier Pleguezuelo,xavier-pleguezuelo,D,Real Betis,real-betis,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-836,Miguel Crespo,miguel-crespo,M,Rayo Vallecano,rayo-vallecano,9,12,12,0,0,0,3,0,0,1,0,0,0,0
-837,Bertrand Traoré,bertrand-traore,M,Villarreal,villarreal,13,12,11,0,0,2,1,0,0,1,0,0,0,1
-838,Gonçalo Guedes,goncalo-guedes,F,Villarreal,villarreal,30,12,16,2,2,2,0,0,0,1,0,0,0,0
-839,Yerson Mosquera,yerson-mosquera,D,Villarreal,villarreal,33,12,20,1,0,2,3,0,0,1,0,0,0,3
-840,Tadeo Allende,tadeo-allende,M,Celta Vigo,celta-vigo,14,12,9,1,0,0,1,0,0,1,0,0,0,1
-841,Javier Dominguez Arribas,javier-dominguez-arribas,D,Celta Vigo,celta-vigo,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-842,Joel Lopez,joel-lopez,D,Celta Vigo,celta-vigo,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-843,Inaki Ruperez,ruperez-inaki,D,Real Sociedad,real-sociedad,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-844,Nemanja Radonjić,nemanja-radonjic,M,Mallorca,mallorca,15,12,10,0,0,2,0,0,0,0,0,0,0,3
-845,Alex Quevedo,quevedo-alex,G,Mallorca,mallorca,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-846,Peter González,peter-gonzalez,F,Valencia,valencia,10,12,11,0,0,1,1,0,0,2,0,0,0,0
-847,Alejo Véliz,alejo-veliz,F,Sevilla,sevilla,3,12,3,0,0,0,0,0,0,0,0,0,0,0
-848,Arthur Vermeeren,arthur-vermeeren,M,Atlético Madrid,atletico-madrid,2,12,3,0,0,0,1,0,0,0,0,0,0,0
-849,Horațiu Moldovan,horatiu-moldovan,G,Atlético Madrid,atletico-madrid,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-850,Bruno Langa,bruno-langa,D,Almería,almeria,11,12,14,0,0,1,1,1,0,3,0,0,0,0
-851,Jesus Santiago Perez,santiago-perez-jesus,M,Getafe,getafe,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-852,Diadié Samassékou,diadie-samassekou,M,Cádiz,cadiz,3,12,3,0,0,0,0,0,0,0,0,0,0,0
-853,Aiham Ousou,aiham-ousou,D,Cádiz,cadiz,12,12,11,0,0,1,0,0,0,3,0,0,0,0
-854,Eghosa Augustine Bello,bello-eghosa-augustine,F,Granada,granada,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-855,Facundo Pellistri,facundo-pellistri,M,Granada,granada,36,12,18,2,1,3,0,0,0,4,0,0,0,2
-856,Kamil Jóźwiak,kamil-jozwiak,M,Granada,granada,19,12,13,0,1,3,2,0,0,1,0,0,0,2
-857,Faitout Maouassa,faitout-maouassa,M,Granada,granada,9,12,6,0,1,0,0,0,0,1,0,0,0,0
-858,Theo Corbeanu,theo-corbeanu,M,Granada,granada,11,12,7,1,0,0,1,0,0,0,0,0,0,0
-859,Marc Martínez,marc-martinez,G,Granada,granada,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-860,Jon Aramburu,jon-aramburu,M,Real Sociedad B,real-sociedad-b,8,11,7,0,0,1,0,0,0,2,0,0,0,0
-861,Adama Boiro,adama-boiro,F,Athletic Club,athletic-club,0,11,0,0,0,0,0,0,0,0,0,0,0,0
-862,Joaquin Panichelli,panichelli-joaquin,F,Deportivo Alavés,deportivo-alaves,6,11,6,0,0,0,0,0,0,1,0,0,0,0
-863,Iñaki González,inaki-gonzalez,M,Las Palmas,las-palmas,0,11,0,0,0,0,0,0,0,0,0,0,0,0
-864,Alejandro Herranz,alejandro-herranz,D,Getafe,getafe,0,10,0,0,0,0,0,0,0,0,0,0,0,0
-865,Álvaro Killane,alvaro-killane,G,Las Palmas,las-palmas,0,10,0,0,0,0,0,0,0,0,0,0,0,0
-866,José Campaña,jose-campana,M,Las Palmas,las-palmas,5,9,5,0,0,0,0,0,0,0,0,0,0,0
-867,Iñigo Arguibide,inigo-arguibide,F,Osasuna,osasuna,1,8,1,0,0,0,0,0,0,0,0,0,0,0
-868,Hugo Rincón,hugo-rincon,D,Athletic Club,athletic-club,0,8,0,0,0,0,0,0,0,0,0,0,0,0
-869,Daniel Budesca,daniel-budesca,D,Villarreal,villarreal,0,7,0,0,0,0,0,0,0,0,0,0,0,0
-870,Javier Sola,sola-javier,F,Osasuna,osasuna,0,7,0,0,0,0,0,0,0,0,0,0,0,0
-871,Hugo Álvarez,hugo-alvarez,M,Celta Vigo B,celta-vigo-b,14,7,11,0,0,1,1,0,0,1,0,0,0,3
-872,Jon Magunazelaia,jon-magunazelaia,M,Real Sociedad B,real-sociedad-b,2,7,2,0,0,0,0,0,0,0,0,0,0,0
-873,Sergio Gimeno,sergio-gimeno,D,Getafe,getafe,0,7,0,0,0,0,0,0,0,0,0,0,0,0
-874,Mikayil Ngor Faye,mikayil-ngor-faye,D,Barcelona,barcelona,0,4,0,0,0,0,0,0,0,0,0,0,0,0
-875,Daniel Budesca,budesca-daniel,D,Villarreal,villarreal,0,4,0,0,0,0,0,0,0,0,0,0,0,0
-876,Asier Osambela,osambela-asier,M,Osasuna,osasuna,0,4,0,0,0,0,0,0,0,0,0,0,0,0
-877,Alberto Risco,alberto-risco,M,Getafe,getafe,1,3,1,0,0,0,0,0,0,0,0,0,0,0
-878,Abde Raihani,abde-raihani,F,Atlético Madrid,atletico-madrid,1,2,1,0,0,0,0,0,0,0,0,0,0,0
-879,Carles Garrido,carles-garrido,F,Girona FC,girona-fc,0,2,0,0,0,0,0,0,0,0,0,0,0,0
-880,Álex Forés,alex-fores,F,Villarreal,villarreal,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-881,Stefan Leković,stefan-lekovic,D,Villarreal,villarreal,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-882,Pedro Alemañ Serna,pedro-aleman-serna,M,Valencia,valencia,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-883,Stanis Idumbo Muzambo,stanis-idumbo-muzambo,M,Sevilla,sevilla,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-884,Yassin Tallal,tallal-yassin,F,Getafe,getafe,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-885,Diego Lopez de Haro Repullo,lopez-de-haro-repullo-diego,M,Getafe,getafe,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-886,Carles Garrido Biosca,garrido-biosca-carles,F,Girona FC,girona-fc,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,Borja Iglesias,borja-iglesias,F,Real Betis,real-betis,14,34,13,0,1,1,2,0,0,1,0,0,0,0
+1,Willian José,willian-jose,F,Real Betis,real-betis,106,34,46,10,4,8,0,1,0,6,0,0,0,11
+2,Nabil Fekir,nabil-fekir,M,Real Betis,real-betis,50,34,25,1,2,4,0,0,0,2,0,0,0,10
+3,Guido Rodríguez,guido-rodriguez,M,Real Betis,real-betis,56,34,40,2,0,6,6,0,0,4,0,0,0,6
+4,Luiz Henrique,luiz-henrique,M,Real Betis,real-betis,37,34,20,0,3,3,1,0,0,2,0,0,0,6
+5,William Carvalho,william-carvalho,M,Real Betis,real-betis,31,34,22,1,2,0,3,0,0,2,0,0,0,1
+6,Andrés Guardado,andres-guardado,M,Real Betis,real-betis,15,34,14,0,0,1,1,0,0,0,0,0,0,1
+7,Sergio Canales,sergio-canales,M,Real Betis,real-betis,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+8,Marc Roca,marc-roca,M,Real Betis,real-betis,67,34,45,2,2,9,4,0,0,4,0,0,0,1
+9,Ayoze Pérez,ayoze-perez,M,Real Betis,real-betis,109,34,49,7,1,8,4,0,0,4,0,0,0,18
+10,Juanmi,juanmi,F,Cádiz,cadiz,34,34,22,3,0,3,3,0,0,3,0,0,0,3
+11,Rodri Sánchez,rodri-sanchez,M,Real Betis,real-betis,33,34,31,0,0,2,0,0,0,1,0,0,0,0
+12,Paul Akouokou,paul-akouokou,M,Real Betis,real-betis,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+13,Raúl Fernández,raul-fernandez,G,Granada,granada,4,34,7,0,0,0,0,0,0,5,0,2,0,0
+14,Enrique Fernández López,enrique-fernandez-lopez,M,Real Betis,real-betis,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+15,Héctor Bellerín,hector-bellerin,D,Real Betis,real-betis,62,34,36,0,1,8,0,1,1,4,0,0,0,0
+16,Germán Pezzella,german-pezzella,D,Real Betis,real-betis,99,34,63,0,0,11,7,0,0,6,0,0,0,5
+17,Youssouf Sabaly,youssouf-sabaly,D,Real Betis,real-betis,27,34,18,0,1,2,1,0,0,4,0,0,0,3
+18,Juan Miranda,juan-miranda,D,Real Betis,real-betis,73,34,37,1,1,8,7,0,0,4,0,0,0,6
+19,Luiz Felipe,luiz-felipe,D,Real Betis,real-betis,14,34,8,0,0,2,1,0,0,2,0,0,0,1
+20,Abner Vinícius,abner-vinicius,D,Real Betis,real-betis,49,34,35,0,0,5,3,0,0,3,0,0,0,0
+21,Aitor Ruibal,aitor-ruibal,D,Real Betis,real-betis,60,34,27,3,1,3,4,0,0,3,0,0,0,7
+22,Martín Montoya,martin-montoya,D,Real Betis,real-betis,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+23,Claudio Bravo,claudio-bravo,G,Real Betis,real-betis,31,34,14,0,0,2,0,0,0,0,0,3,0,6
+24,Rui Silva,rui-silva,G,Real Betis,real-betis,105,34,49,0,0,9,4,0,1,8,0,15,1,14
+25,Robert Lewandowski,robert-lewandowski,F,Barcelona,barcelona,158,34,58,17,7,10,5,0,0,10,0,0,0,16
+26,Ousmane Dembélé,ousmane-dembele,F,Barcelona,barcelona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+27,Ansu Fati,ansu-fati,F,Barcelona,barcelona,3,34,3,0,0,0,0,0,0,0,0,0,0,0
+28,Raphinha,raphinha,F,Barcelona,barcelona,84,34,38,4,8,5,1,1,0,3,0,0,0,10
+29,Ferran Torres,ferran-torres,F,Barcelona,barcelona,75,34,35,8,2,4,2,0,0,6,0,0,0,4
+30,Abdessamad Ezzalzouli,abdessamad-ezzalzouli,F,Real Betis,real-betis,30,34,27,1,0,3,1,0,0,1,0,0,0,0
+31,Pedri,pedri,M,Barcelona,barcelona,51,34,32,2,2,4,3,0,0,6,0,0,0,2
+32,Frenkie de Jong,frenkie-de-jong,M,Barcelona,barcelona,64,34,39,2,0,6,7,0,0,5,0,0,0,16
+33,Gavi,gavi,M,Barcelona,barcelona,32,34,22,1,1,5,5,0,0,3,0,0,0,2
+34,İlkay Gündoğan,ilkay-gundogan,M,Barcelona,barcelona,146,34,62,6,7,12,4,0,0,12,1,0,0,27
+35,Franck Kessié,franck-kessie,M,Barcelona,barcelona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+36,Nicolás González,nicolas-gonzalez,M,Barcelona,barcelona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+37,Alex Collado,alex-collado,M,Barcelona,barcelona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+38,Oriol Romeu,oriol-romeu,M,Barcelona,barcelona,36,34,32,0,1,5,4,0,0,2,0,0,0,0
+39,Ronald Araújo,ronald-araujo,D,Barcelona,barcelona,75,34,44,1,1,7,5,0,0,8,0,0,0,7
+40,Jules Koundé,jules-kounde,D,Barcelona,barcelona,114,34,59,1,2,12,4,0,0,11,0,0,0,10
+41,Alejandro Baldé,alejandro-balde,D,Barcelona,barcelona,55,34,33,0,1,6,1,0,0,4,0,0,0,0
+42,Andreas Christensen,andreas-christensen,D,Barcelona,barcelona,91,34,46,2,2,9,3,0,0,6,0,0,0,0
+43,Sergiño Dest,sergino-dest,D,Barcelona,barcelona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+44,Marcos Alonso,marcos-alonso,D,Barcelona,barcelona,10,34,7,0,0,1,0,0,0,1,0,0,0,0
+45,Eric García,eric-garcia,D,Girona FC,girona-fc,93,34,54,3,0,6,4,0,0,12,0,0,0,13
+46,Sergi Roberto,sergi-roberto,D,Barcelona,barcelona,34,34,18,1,2,3,5,0,0,3,0,0,0,0
+47,Clément Lenglet,clement-lenglet,D,Barcelona,barcelona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+48,Iñigo Martínez,inigo-martinez,D,Barcelona,barcelona,34,34,25,0,0,4,5,0,0,2,0,0,0,0
+49,Marc-André ter Stegen,marc-andre-ter-stegen,G,Barcelona,barcelona,106,34,48,0,0,12,3,0,0,9,0,13,0,9
+50,Iñaki Peña,inaki-pena,G,Barcelona,barcelona,29,34,20,0,0,2,0,0,0,3,0,4,0,0
+51,Radamel Falcao,radamel-falcao,F,Rayo Vallecano,rayo-vallecano,21,34,20,1,0,0,3,0,0,0,0,0,0,0
+52,Raúl de Tomás,raul-de-tomas,F,Rayo Vallecano,rayo-vallecano,40,34,35,1,2,6,5,0,0,2,0,0,0,0
+53,Randy Nteka,randy-nteka,F,Rayo Vallecano,rayo-vallecano,28,34,16,1,2,2,0,0,0,3,0,0,0,2
+54,Andrés Martín,andres-martin,F,Rayo Vallecano,rayo-vallecano,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+55,Sergio Moreno,sergio-moreno,F,Rayo Vallecano,rayo-vallecano,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+56,Ismaila Ciss,ismaila-ciss,M,Rayo Vallecano,rayo-vallecano,41,34,40,1,0,5,11,0,0,8,0,0,0,2
+57,Isi Palazón,isi-palazon,M,Rayo Vallecano,rayo-vallecano,94,34,60,4,1,13,8,0,0,7,0,0,0,6
+58,Óscar Trejo,oscar-trejo,M,Rayo Vallecano,rayo-vallecano,41,34,37,0,0,5,3,0,0,4,0,0,0,2
+59,Álvaro García,alvaro-garcia,M,Rayo Vallecano,rayo-vallecano,94,34,52,6,1,9,6,1,0,10,0,0,0,9
+60,Bebé,bebe,M,Rayo Vallecano,rayo-vallecano,27,34,18,2,0,0,1,0,0,0,0,0,0,0
+61,Unai López,unai-lopez,M,Rayo Vallecano,rayo-vallecano,67,34,50,1,2,8,6,0,0,7,0,0,0,4
+62,Óscar Valentín,oscar-valentin,M,Rayo Vallecano,rayo-vallecano,71,34,57,1,0,13,4,1,0,7,0,0,0,3
+63,Salvi,salvi,M,Rayo Vallecano,rayo-vallecano,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+64,Joni Montiel,joni-montiel,M,Rayo Vallecano,rayo-vallecano,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+65,José Pozo,jose-pozo,M,Rayo Vallecano,rayo-vallecano,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+66,Pablo Muñoz,pablo-munoz,M,Rayo Vallecano,rayo-vallecano,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+67,Alfonso Espino,alfonso-espino,D,Rayo Vallecano,rayo-vallecano,61,34,51,0,1,6,9,0,1,8,0,0,0,2
+68,Abdul Mumin,abdul-mumin,D,Rayo Vallecano,rayo-vallecano,55,34,31,1,0,7,4,1,0,5,0,0,0,2
+69,Ivan Balliu,ivan-balliu,D,Rayo Vallecano,rayo-vallecano,100,34,59,0,1,11,3,0,0,8,0,0,0,5
+70,Aridane Hernández,aridane-hernandez,D,Rayo Vallecano,rayo-vallecano,51,34,36,0,0,6,3,0,0,6,0,0,0,0
+71,Josep Chavarría,josep-chavarria,D,Rayo Vallecano,rayo-vallecano,43,34,26,1,1,3,3,1,0,4,0,0,0,6
+72,Martín Pascual,martin-pascual,D,Rayo Vallecano,rayo-vallecano,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+73,Jorge Moreno,jorge-moreno,D,Rayo Vallecano,rayo-vallecano,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+74,Sergio Arribas,sergio-arribas,M,Rayo Vallecano,almeria,98,34,47,6,2,6,0,0,0,12,0,0,0,9
+75,Stole Dimitrievski,stole-dimitrievski,G,Rayo Vallecano,rayo-vallecano,140,34,66,0,0,12,1,0,0,11,0,21,1,12
+76,Miguel Ángel Morro,miguel-angel-morro,G,Villarreal,villarreal,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+77,Miguel Benedí,miguel-benedi,G,Rayo Vallecano,rayo-vallecano,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+78,Gerard Moreno,gerard-moreno,F,Villarreal,villarreal,125,34,54,11,4,3,0,0,0,12,1,0,0,17
+79,Arnaut Danjuma,arnaut-danjuma,F,Villarreal,villarreal,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+80,Ben Brereton Díaz,ben-brereton-diaz,F,Villarreal,villarreal,14,34,16,0,0,1,2,0,0,2,0,0,0,0
+81,Ilias Akhomach,ilias-akhomach,M,Villarreal,villarreal,66,34,39,2,3,3,4,0,0,9,0,0,0,9
+82,José Luis Morales,jose-luis-morales,F,Villarreal,villarreal,61,34,34,6,0,0,0,0,0,8,0,0,0,3
+83,Samuel Chukwueze,samuel-chukwueze,M,Villarreal,villarreal,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+84,Yéremy Pino,yeremy-pino,M,Villarreal,villarreal,8,34,11,0,0,1,4,0,0,1,0,0,0,0
+85,Dani Parejo,dani-parejo,M,Villarreal,villarreal,84,34,55,2,5,3,5,0,0,16,0,0,0,6
+86,Denis Suárez,denis-suarez,M,Villarreal,villarreal,5,34,5,0,0,0,0,0,0,1,0,0,0,0
+87,Alejandro Baena,alejandro-baena,M,Villarreal,villarreal,121,34,56,2,12,7,8,1,0,11,1,0,0,25
+88,Étienne Capoue,etienne-capoue,M,Villarreal,villarreal,47,34,45,1,1,2,9,0,0,10,0,0,0,1
+89,Francis Coquelin,francis-coquelin,M,Villarreal,villarreal,23,34,24,0,0,3,4,0,0,1,0,0,0,0
+90,Manu Trigueros,manu-trigueros,M,Villarreal,villarreal,13,34,13,0,0,0,0,0,0,1,0,0,0,0
+91,Santi Comesaña,santi-comesana,M,Villarreal,villarreal,42,34,36,2,0,4,5,2,0,3,0,0,0,3
+92,Iván Martín,ivan-martin,M,Girona FC,girona-fc,103,34,59,6,3,10,5,0,0,10,0,0,0,0
+93,Ramón Terrats,ramon-terrats,M,Villarreal,villarreal,22,34,22,0,1,1,4,0,0,6,0,0,0,0
+94,Aïssa Mandi,aissa-mandi,D,Villarreal,villarreal,20,34,23,0,0,1,3,0,0,6,0,0,0,2
+95,Juan Foyth,juan-foyth,D,Villarreal,villarreal,36,34,24,1,1,2,1,0,0,6,0,0,0,2
+96,Johan Mojica,johan-mojica,D,Osasuna,osasuna,62,34,44,0,2,5,1,0,0,9,0,0,0,2
+97,Raúl Albiol,raul-albiol,D,Villarreal,villarreal,46,34,46,0,1,3,6,0,0,9,0,0,0,0
+98,Alberto Moreno,alberto-moreno,D,Villarreal,villarreal,60,34,40,2,2,3,0,2,0,7,0,0,0,3
+99,Alfonso Pedraza,alfonso-pedraza,D,Villarreal,villarreal,27,34,28,0,3,1,4,1,0,8,0,0,0,1
+100,Jorge Cuenca,jorge-cuenca,D,Villarreal,villarreal,56,34,43,3,0,3,7,0,0,11,0,0,0,1
+101,Kiko Femenía,kiko-femenia,D,Villarreal,villarreal,37,34,34,0,0,3,6,0,0,3,0,0,0,0
+102,Pepe Reina,pepe-reina,G,Villarreal,villarreal,-2,34,2,0,0,0,1,1,0,0,0,0,0,0
+103,Filip Jörgensen,filip-jorgensen,G,Villarreal,villarreal,122,34,66,0,0,5,4,0,0,18,0,37,0,21
+104,Ante Budimir,ante-budimir,F,Osasuna,osasuna,154,34,59,17,2,10,4,0,0,10,1,0,0,27
+105,Chimy Ávila,chimy-avila,F,Real Betis,real-betis,40,34,34,2,2,4,4,3,0,6,0,0,0,5
+106,Kike García,kike-garcia,F,Deportivo Alavés,deportivo-alaves,63,34,43,3,2,7,4,0,0,2,1,0,0,8
+107,Kike Barja,kike-barja,F,Osasuna,osasuna,13,34,16,0,0,0,3,0,0,2,0,0,0,0
+108,Moi Gómez,moi-gomez,M,Osasuna,osasuna,74,34,50,3,0,9,3,0,0,8,0,0,0,3
+109,Rubén García,ruben-garcia,M,Osasuna,osasuna,74,34,42,2,2,6,0,0,0,6,0,0,0,10
+110,Aimar Oroz,aimar-oroz,M,Osasuna,osasuna,73,34,54,1,1,11,3,0,0,9,0,0,0,3
+111,Lucas Torró,lucas-torro,M,Osasuna,osasuna,39,34,39,0,0,5,5,0,0,8,0,0,0,0
+112,José Manuel Arnáiz,jose-manuel-arnaiz,F,Osasuna,osasuna,44,34,31,2,1,4,2,0,0,2,0,0,0,4
+113,Jon Moncayola,jon-moncayola,M,Osasuna,osasuna,64,34,47,0,3,9,2,1,0,8,0,0,0,4
+114,Darko Brašanac,darko-brasanac,M,Osasuna,osasuna,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+115,Javi Martínez,javi-martinez,M,Osasuna,osasuna,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+116,Pablo Ibáñez Lumbreras,pablo-ibanez-lumbreras,M,Osasuna,osasuna,41,34,38,0,1,1,4,0,0,3,0,0,0,3
+117,David García,david-garcia,D,Osasuna,osasuna,91,34,53,0,1,10,5,0,0,9,0,0,0,9
+118,Alejandro Catena,alejandro-catena,D,Osasuna,osasuna,73,34,53,1,2,7,7,1,0,14,0,0,0,4
+119,Nacho Vidal,nacho-vidal,D,Mallorca,mallorca,30,34,15,1,0,2,1,0,0,1,0,0,0,3
+120,Rubén Peña,ruben-pena,D,Osasuna,osasuna,86,34,47,0,1,10,2,0,0,10,0,0,0,8
+121,Unai García,unai-garcia,D,Osasuna,osasuna,18,34,14,1,0,1,3,1,0,3,0,0,0,2
+122,Juan Cruz,juan-cruz,D,Osasuna,osasuna,53,34,44,0,1,4,3,0,0,7,0,0,0,0
+123,Jesús Areso,jesus-areso,D,Osasuna,osasuna,98,34,59,1,4,8,3,0,0,12,0,0,0,4
+124,Aitor Fernández,aitor-fernandez,G,Osasuna,osasuna,5,34,9,0,0,0,2,0,0,3,0,1,0,0
+125,Sergio Herrera,sergio-herrera,G,Osasuna,osasuna,126,34,60,0,0,11,2,0,0,13,0,18,1,14
+126,Iago Aspas,iago-aspas,F,Celta Vigo,celta-vigo,139,34,60,9,9,6,6,1,0,9,2,0,0,29
+127,Carles Pérez,carles-perez,F,Celta Vigo,celta-vigo,27,34,23,1,1,1,3,0,0,2,0,0,0,0
+128,Jørgen Strand Larsen,jorgen-strand-larsen,F,Celta Vigo,celta-vigo,118,34,65,11,2,10,5,0,0,8,0,0,0,8
+129,Gonçalo Paciência,goncalo-paciencia,F,Celta Vigo,celta-vigo,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+130,Santi Mina,santi-mina,F,Celta Vigo,celta-vigo,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+131,Williot Swedberg,williot-swedberg,M,Celta Vigo,celta-vigo,40,34,16,5,0,0,1,0,0,3,0,0,0,0
+132,Miguel Rodríguez,miguel-rodriguez,F,Celta Vigo,celta-vigo,10,34,12,0,0,0,2,0,0,0,0,0,0,0
+133,Gabri Veiga,gabri-veiga,M,Celta Vigo,celta-vigo,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+134,Renato Tapia,renato-tapia,M,Celta Vigo,celta-vigo,34,34,32,0,0,4,3,1,0,1,0,0,0,4
+135,Jonathan Bamba,jonathan-bamba,M,Celta Vigo,celta-vigo,72,34,45,2,2,7,0,0,0,6,0,0,0,4
+136,Franco Cervi,franco-cervi,M,Celta Vigo,celta-vigo,23,34,20,0,1,1,1,0,0,2,0,0,0,0
+137,Fran Beltrán,fran-beltran,M,Celta Vigo,celta-vigo,62,34,56,0,0,5,2,0,0,9,0,0,0,3
+138,Luca De La Torre,luca-de-la-torre,M,Celta Vigo,celta-vigo,70,34,49,1,4,7,2,1,0,6,0,0,0,2
+139,Carlos Dotor,dotor-carlos,M,Celta Vigo,celta-vigo,21,34,21,0,0,2,2,0,0,1,0,0,0,0
+140,Miguel Baeza,miguel-baeza,M,Celta Vigo,celta-vigo,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+141,Óscar Mingueza,oscar-mingueza,D,Celta Vigo,celta-vigo,98,34,63,2,2,5,3,0,0,10,0,0,0,10
+142,Joseph Aidoo,joseph-aidoo,D,Celta Vigo,celta-vigo,9,34,10,0,0,0,0,0,0,1,0,0,0,0
+143,Unai Núñez,unai-nunez,D,Celta Vigo,celta-vigo,77,34,61,1,0,5,4,0,0,8,0,0,0,2
+144,Manuel Sánchez,manuel-sanchez,D,Celta Vigo,celta-vigo,68,34,44,0,4,4,2,0,0,3,0,0,0,1
+145,Kevin Vázquez,kevin-vazquez,D,Celta Vigo,celta-vigo,24,34,15,0,0,3,2,0,0,1,0,0,0,0
+146,Jose Fontán,jose-fontan,D,Celta Vigo,celta-vigo,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+147,Sergio Carreira,sergio-carreira,D,Celta Vigo,celta-vigo,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+148,Carlos Domínguez,carlos-dominguez,D,Celta Vigo,celta-vigo,40,34,35,0,0,3,2,0,1,5,0,0,0,2
+149,Agustín Marchesín,agustin-marchesin,G,Celta Vigo,celta-vigo,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+150,Rubén Blanco,ruben-blanco,G,Celta Vigo,celta-vigo,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+151,Iván Villar,ivan-villar,G,Celta Vigo,celta-vigo,26,34,19,0,0,0,0,3,0,4,0,6,1,3
+152,Mikel Oyarzabal,mikel-oyarzabal,F,Real Sociedad,real-sociedad,100,34,49,9,2,9,3,0,0,3,0,0,0,12
+153,Umar Sadiq,umar-sadiq,F,Real Sociedad,real-sociedad,44,34,33,3,1,3,5,0,0,4,0,0,0,1
+154,Mohamed-Ali Cho,mohamed-ali-cho,F,Real Sociedad,real-sociedad,12,34,12,0,0,1,0,0,0,1,0,0,0,0
+155,Ander Barrenetxea,ander-barrenetxea,F,Real Sociedad,real-sociedad,62,34,38,4,1,4,1,0,0,3,0,0,0,6
+156,Jon Karrikaburu,jon-karrikaburu,F,Deportivo Alavés,deportivo-alaves,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+157,Carlos Fernández,carlos-fernandez,F,Real Sociedad,real-sociedad,21,34,12,2,1,3,4,0,0,0,0,0,0,0
+158,Martín Merquelanz,martin-merquelanz,F,Real Sociedad,real-sociedad,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+159,Takefusa Kubo,kubo-takefusa,M,Real Sociedad,real-sociedad,124,34,48,7,3,6,2,0,0,3,0,0,0,28
+160,David Silva,david-silva,M,Real Sociedad,real-sociedad,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+161,Martín Zubimendi,martin-zubimendi,M,Real Sociedad,real-sociedad,96,34,58,5,1,8,5,0,0,8,0,0,0,7
+162,Mikel Merino,mikel-merino,M,Real Sociedad,real-sociedad,99,34,53,4,4,9,10,0,0,4,0,0,0,15
+163,Brais Méndez,brais-mendez,M,Real Sociedad,real-sociedad,110,34,50,4,6,7,6,0,0,7,0,0,0,21
+164,Robert Navarro,robert-navarro,M,Cádiz,cadiz,58,34,42,1,1,5,0,1,0,8,0,0,0,6
+165,Beñat Turrientes,benat-turrientes,M,Real Sociedad,real-sociedad,42,34,36,0,1,5,3,0,0,4,0,0,0,1
+166,Peter Pokorný,peter-pokorny,M,Real Sociedad,real-sociedad,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+167,Hamari Traore,hamari-traore,D,Real Sociedad,real-sociedad,78,34,49,0,2,8,7,0,0,6,0,0,0,4
+168,Robin Le Normand,robin-le-normand,D,Real Sociedad,real-sociedad,69,34,51,2,0,6,13,0,1,7,0,0,0,4
+169,Igor Zubeldia,igor-zubeldia,D,Real Sociedad,real-sociedad,75,34,56,0,2,8,12,1,0,7,0,0,0,3
+170,Diego Rico,diego-rico,D,Getafe,getafe,82,34,54,0,7,6,8,0,0,12,0,0,0,3
+171,Aritz Elustondo,aritz-elustondo,D,Real Sociedad,real-sociedad,31,34,16,0,1,3,2,0,0,1,0,0,0,3
+172,Andoni Gorosabel,andoni-gorosabel,D,Deportivo Alavés,deportivo-alaves,97,34,62,1,0,9,5,0,0,9,0,0,0,7
+173,Aihen Muñoz,aihen-munoz,D,Real Sociedad,real-sociedad,47,34,32,0,2,3,2,0,0,3,0,0,0,2
+174,Jon Pacheco,jon-pacheco,D,Real Sociedad,real-sociedad,60,34,29,1,1,6,5,0,0,2,0,0,0,5
+175,Álex Sola,alex-sola,M,Deportivo Alavés,deportivo-alaves,49,34,36,0,3,2,2,0,0,1,0,0,0,4
+176,Álex Remiro,alex-remiro,G,Real Sociedad,real-sociedad,122,34,62,0,0,11,1,2,0,8,0,17,0,14
+177,Iñaki Williams,inaki-williams,M,Athletic Club,athletic-club,155,34,59,11,3,14,3,0,1,9,0,0,0,23
+178,Gorka Guruzeta,gorka-guruzeta,F,Athletic Club,athletic-club,145,34,60,14,5,17,2,0,0,5,0,0,0,16
+179,Asier Villalibre,asier-villalibre,F,Athletic Club,athletic-club,25,34,15,1,1,1,0,0,0,2,0,0,0,3
+180,Malcom Ares,malcom-ares,F,Athletic Club,athletic-club,10,34,12,0,0,1,2,0,0,0,0,0,0,0
+181,Juan Artola,juan-artola,F,Athletic Club,athletic-club,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+182,Javier Martón Ansó,javier-marton-anso,F,Athletic Club,athletic-club,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+183,Nico Williams,nico-williams,M,Athletic Club,athletic-club,129,34,52,4,10,15,4,1,0,7,0,0,0,19
+184,Ander Herrera,ander-herrera,M,Athletic Club,athletic-club,43,34,29,0,3,5,3,0,0,1,0,0,0,3
+185,Iker Muniain,iker-muniain,M,Athletic Club,athletic-club,25,34,20,1,0,0,1,0,0,4,0,0,0,1
+186,Oihan Sancet,oihan-sancet,M,Athletic Club,athletic-club,91,34,52,4,5,12,3,2,0,5,1,0,0,3
+187,Álex Berenguer,alex-berenguer,M,Athletic Club,athletic-club,90,34,44,6,2,8,4,0,0,5,0,0,0,6
+188,Raúl García,raul-garcia,M,Athletic Club,athletic-club,66,34,57,2,1,2,9,0,0,7,0,0,0,3
+189,Mikel Vesga,mikel-vesga,M,Athletic Club,athletic-club,73,34,41,4,1,8,2,0,0,5,0,0,0,3
+190,Dani García,dani-garcia,M,Athletic Club,athletic-club,24,34,20,1,0,3,4,0,0,2,0,0,0,0
+191,Iñigo Ruiz de Galarreta,inigo-ruiz-de-galarreta,M,Athletic Club,athletic-club,70,34,51,1,2,14,5,0,1,7,0,0,0,1
+192,Unai Vencedor,unai-vencedor,M,Athletic Club,athletic-club,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+193,Nico Serrano,nico-serrano,M,Athletic Club,athletic-club,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+194,Peru Nolaskoain Esnal,peru-nolaskoain-esnal,M,Athletic Club,athletic-club,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+195,Jon Morcillo,jon-morcillo,M,Athletic Club,athletic-club,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+196,Beñat Prados,benat-prados,M,Athletic Club,athletic-club,44,34,35,0,0,7,1,0,0,3,0,0,0,3
+197,Wibuala Junior Bita,wibuala-junior-bita,M,Athletic Club,athletic-club,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+198,Yeray Álvarez,yeray-alvarez,D,Athletic Club,athletic-club,38,34,24,0,0,5,1,1,0,4,0,0,0,2
+199,Yuri Berchiche,yuri-berchiche,D,Athletic Club,athletic-club,106,34,41,3,1,10,4,0,1,4,0,0,0,14
+200,Óscar de Marcos,oscar-de-marcos,D,Athletic Club,athletic-club,104,34,48,1,4,10,5,0,0,8,0,0,0,11
+201,Daniel Vivian,daniel-vivian,D,Athletic Club,athletic-club,95,34,60,0,0,12,6,0,0,10,0,0,0,3
+202,Íñigo Lekue,inigo-lekue,D,Athletic Club,athletic-club,66,34,42,0,2,7,4,0,0,6,0,0,0,0
+203,Aitor Paredes,aitor-paredes,D,Athletic Club,athletic-club,120,34,60,2,0,14,7,1,0,7,0,0,0,9
+204,Imanol García de Albéniz,imanol-garcia-de-albeniz,D,Athletic Club,athletic-club,15,34,11,0,0,2,2,0,0,2,0,0,0,0
+205,Álex Petxa,alex-petxa,D,Athletic Club,athletic-club,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+206,Unai Simón,unai-simon,G,Athletic Club,athletic-club,167,34,66,0,0,16,2,0,1,10,0,20,3,16
+207,Julen Agirrezabala,julen-agirrezabala,G,Athletic Club,athletic-club,1,34,2,0,0,0,0,0,0,1,0,0,0,0
+208,Vedat Muriqi,vedat-muriqi,F,Mallorca,mallorca,89,34,49,6,2,6,4,0,0,7,2,0,0,18
+209,Amath Ndiaye,amath-ndiaye,F,Mallorca,mallorca,14,34,16,0,0,1,2,0,0,0,0,0,0,0
+210,Abdón Prats,abdon-prats,F,Mallorca,mallorca,60,34,37,5,1,3,3,0,0,1,0,0,0,3
+211,Javi Llabrés,javi-llabres,F,Mallorca,mallorca,16,34,13,1,0,0,1,0,0,0,0,0,0,0
+212,Iddrisu Baba,iddrisu-baba,M,Mallorca,almeria,33,34,36,0,0,1,4,0,0,12,0,0,0,0
+213,Omar Mascarell,omar-mascarell,M,Mallorca,mallorca,36,34,40,0,0,5,5,1,1,3,0,0,0,1
+214,Dani Rodríguez,dani-rodriguez,M,Mallorca,mallorca,72,34,58,1,2,9,7,0,0,5,0,0,0,1
+215,Manu Morlanes,manu-morlanes,M,Mallorca,mallorca,49,34,43,0,1,5,2,0,0,4,0,0,0,0
+216,Clément Grenier,clement-grenier,M,Mallorca,mallorca,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+217,Antonio Sánchez,antonio-sanchez,M,Mallorca,mallorca,55,34,38,3,1,2,3,0,0,1,0,0,0,0
+218,Pablo Maffeo,pablo-maffeo,D,Mallorca,mallorca,41,34,35,0,0,4,3,1,0,4,0,0,0,0
+219,Martin Valjent,martin-valjent,D,Mallorca,mallorca,66,34,45,0,1,5,3,0,0,6,0,0,0,7
+220,Giovanni González,giovanni-gonzalez,D,Mallorca,mallorca,72,34,51,0,1,6,6,0,0,3,0,0,0,3
+221,Toni Lato,toni-lato,D,Mallorca,mallorca,61,34,42,0,1,5,3,0,0,1,0,0,0,0
+222,Antonio Raíllo,antonio-raillo,D,Mallorca,mallorca,71,34,39,2,0,5,2,1,0,4,0,0,0,9
+223,José Copete,jose-copete,D,Mallorca,mallorca,34,34,25,1,0,2,5,0,0,4,0,0,0,4
+224,Jaume Costa,jaume-costa,D,Mallorca,mallorca,45,34,37,0,0,5,5,0,0,7,0,0,0,0
+225,Siebe Van Der Heyden,siebe-van-der-heyden,D,Mallorca,mallorca,15,34,9,0,0,2,3,1,0,1,0,0,0,2
+226,Josep Gayá,josep-gaya,D,Mallorca,mallorca,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+227,Predrag Rajković,predrag-rajkovic,G,Mallorca,mallorca,128,34,64,0,0,8,2,0,0,8,0,20,1,17
+228,Dominik Greif,dominik-greif,G,Mallorca,mallorca,10,34,2,0,0,1,0,0,0,0,0,1,0,3
+229,Edinson Cavani,edinson-cavani,F,Valencia,valencia,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+230,Samu Castillejo,samu-castillejo,F,Valencia,valencia,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+231,Hugo Duro,hugo-duro,F,Valencia,valencia,130,34,65,13,2,11,4,0,0,8,0,0,0,11
+232,Marcos André,marcos-andre,F,Valencia,valencia,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+233,Diego Lopez Noguerol,diego-lopez-noguerol,M,Valencia,valencia,12,34,9,0,0,2,0,0,0,0,0,0,0,1
+234,Fran Pérez,fran-perez,M,Valencia,valencia,83,34,52,1,4,12,3,0,0,3,0,0,0,5
+235,Yunus Musah,yunus-musah,M,Valencia,valencia,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+236,André Almeida,andre-almeida,M,Valencia,valencia,37,34,20,2,1,3,0,0,0,2,0,0,0,1
+237,Hugo Guillamón,hugo-guillamon,M,Valencia,valencia,38,34,34,1,0,3,4,0,0,2,0,0,0,0
+238,Uroš Račić,uros-racic,M,Valencia,valencia,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+239,Pepelu,pepelu,M,Valencia,valencia,139,34,66,8,1,10,4,0,0,9,1,0,0,26
+240,Koba Koindredi,koba-koindredi,M,Valencia,valencia,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+241,Javier Guerra,javier-guerra,M,Valencia,valencia,86,34,56,4,1,7,3,1,0,6,0,0,0,6
+242,Javi Navarro,javi-navarro,M,Valencia,valencia,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+243,José Luis Gayà,jose-luis-gaya,D,Valencia,valencia,87,34,42,1,3,7,3,0,0,5,0,0,0,10
+244,José Luis Gayà,jose-luis-gaya,D,Valencia,valencia,87,34,42,1,3,7,3,0,0,5,0,0,0,10
+245,Mouctar Diakhaby,mouctar-diakhaby,D,Valencia,valencia,35,34,23,1,0,3,5,0,0,4,0,0,0,3
+246,Gabriel Paulista,gabriel-paulista,D,Atlético Madrid,atletico-madrid,53,34,42,0,0,5,4,1,0,7,0,0,0,5
+247,Cenk Özkaçar,cenk-ozkacar,D,Valencia,valencia,41,34,32,0,0,4,3,0,1,3,0,0,0,1
+248,Thierry Correia,correia-thierry,D,Valencia,valencia,68,34,42,0,2,6,2,0,0,5,0,0,0,3
+249,Eray Cömert,eray-comert,D,Valencia,valencia,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+250,Jesús Vázquez,jesus-vazquez,D,Valencia,valencia,35,34,24,1,0,2,0,0,0,4,0,0,0,1
+251,Dimitri Foulquier,dimitri-foulquier,D,Valencia,valencia,60,34,44,0,0,5,2,0,0,2,0,0,0,0
+252,Cristhian Mosquera,cristhian-mosquera,D,Valencia,valencia,92,34,59,0,0,9,2,0,0,9,0,0,0,8
+253,Giorgi Mamardashvili,giorgi-mamardashvili,G,Valencia,valencia,142,34,63,0,0,10,3,1,0,9,0,23,3,16
+254,Jaume Doménech,jaume-domenech,G,Valencia,valencia,4,34,2,0,0,0,0,0,0,1,0,2,0,1
+255,Cristian Rivero,cristian-rivero,G,Valencia,valencia,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+256,Vinícius Júnior,vinicius-junior,F,Real Madrid,real-madrid,113,34,43,12,5,11,6,0,0,3,0,0,0,13
+257,Rodrygo,rodrygo,F,Real Madrid,real-madrid,117,34,54,10,5,12,2,0,0,4,1,0,0,12
+258,Joselu,joselu,F,Real Madrid,real-madrid,88,34,44,9,2,10,1,0,0,0,2,0,0,7
+259,Luka Modrić,luka-modric,M,Real Madrid,real-madrid,101,34,44,2,6,10,2,0,0,2,0,0,0,21
+260,Toni Kroos,toni-kroos,M,Real Madrid,real-madrid,95,34,50,1,5,8,3,0,0,4,0,0,0,20
+261,Jude Bellingham,jude-bellingham,M,Real Madrid,real-madrid,191,34,50,18,4,13,4,1,0,4,0,0,0,33
+262,Federico Valverde,federico-valverde,M,Real Madrid,real-madrid,123,34,63,1,7,18,2,0,0,4,0,0,0,18
+263,Eduardo Camavinga,camavinga-eduardo,M,Real Madrid,real-madrid,44,34,41,0,0,9,8,0,0,3,0,0,0,2
+264,Aurélien Tchouaméni,aurelien-tchouameni,M,Real Madrid,real-madrid,77,34,49,2,1,14,6,0,0,3,0,0,0,7
+265,Arda Güler,arda-guler,M,Real Madrid,real-madrid,19,34,8,2,0,2,1,0,0,0,0,0,0,0
+266,Brahim Díaz,brahim-diaz,M,Real Madrid,real-madrid,101,34,41,6,4,9,0,0,0,0,0,0,0,9
+267,Dani Ceballos,dani-ceballos,M,Real Madrid,real-madrid,21,34,17,0,1,2,1,0,0,0,0,0,0,0
+268,Reinier,reinier,M,Real Madrid,real-madrid,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+269,Antonio Blanco,antonio-blanco,M,Deportivo Alavés,deportivo-alaves,60,34,53,0,1,10,4,1,0,7,0,0,0,1
+270,Éder Militão,eder-militao,D,Real Madrid,real-madrid,16,34,8,0,0,2,0,0,0,0,0,0,0,0
+271,David Alaba,david-alaba,D,Real Madrid,real-madrid,43,34,26,0,1,4,2,0,1,1,0,0,0,3
+272,Antonio Rüdiger,antonio-rudiger,D,Real Madrid,real-madrid,106,34,53,2,0,13,7,0,0,4,0,0,0,0
+273,Daniel Carvajal,daniel-carvajal,D,Real Madrid,real-madrid,137,34,48,4,3,13,2,1,0,2,0,0,0,11
+274,Ferland Mendy,ferland-mendy,D,Real Madrid,real-madrid,74,34,36,0,0,11,4,0,0,2,0,0,0,0
+275,Lucas Vázquez,lucas-vazquez,D,Real Madrid,real-madrid,80,34,36,1,4,5,0,0,0,2,0,0,0,8
+276,Nacho Fernández,nacho-fernandez,D,Real Madrid,real-madrid,74,34,36,0,1,10,3,1,0,1,0,0,0,2
+277,Álvaro Odriozola,alvaro-odriozola,D,Real Sociedad,real-sociedad,12,34,8,0,0,1,0,0,0,0,0,0,0,0
+278,Fran García,fran-garcia,D,Real Madrid,real-madrid,71,34,32,0,4,7,2,0,0,1,0,0,0,2
+279,Thibaut Courtois,thibaut-courtois,G,Real Madrid,real-madrid,6,34,2,0,0,1,0,0,0,0,0,0,0,0
+280,Andriy Lunin,andriy-lunin,G,Real Madrid,real-madrid,93,34,40,0,0,11,3,0,0,2,0,9,0,5
+281,Youssef En-Nesyri,youssef-en-nesyri,F,Sevilla,sevilla,113,34,50,13,1,7,4,0,0,6,0,0,0,12
+282,Rafa Mir,rafa-mir,F,Sevilla,sevilla,25,34,18,2,0,2,1,0,0,2,0,0,0,0
+283,Rony Lopes,rony-lopes,F,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+284,Luismi Cruz,luismi-cruz,F,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+285,Iván Romero,ivan-romero,F,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+286,Isaac Romero,romero-isaac,F,Sevilla,sevilla,56,34,26,4,4,6,2,0,0,4,0,0,0,4
+287,Ivan Rakitić,ivan-rakitic,M,Sevilla,sevilla,55,34,31,2,1,2,7,0,0,7,0,0,0,16
+288,Papu Gómez,papu-gomez,M,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+289,Lucas Ocampos,lucas-ocampos,M,Sevilla,sevilla,94,34,59,3,3,7,6,0,0,12,0,0,0,10
+290,Erik Lamela,erik-lamela,M,Sevilla,sevilla,28,34,17,2,0,2,3,0,0,2,0,0,0,2
+291,Jesús Corona,jesus-corona,M,Sevilla,sevilla,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+292,Oussama Idrissi,oussama-idrissi,M,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+293,Adnan Januzaj,adnan-januzaj,M,Sevilla,sevilla,7,34,7,0,0,0,0,0,0,0,0,0,0,0
+294,Suso,suso,M,Sevilla,sevilla,55,34,38,1,2,1,4,1,0,12,0,0,0,12
+295,Thomas Delaney,thomas-delaney,M,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+296,Fernando,fernando,M,Sevilla,sevilla,12,34,12,0,0,0,0,0,0,3,0,0,0,0
+297,Óscar Rodríguez,oscar-rodriguez,M,Getafe,getafe,28,34,25,1,0,2,7,0,0,1,0,0,0,3
+298,Óliver Torres,oliver-torres,M,Sevilla,sevilla,49,34,41,0,1,8,3,0,0,4,0,0,0,0
+299,Joan Jordán,joan-jordan,M,Sevilla,sevilla,12,34,11,0,0,1,1,0,0,4,0,0,0,1
+300,Juanlu Sánchez,juanlu-sanchez,D,Sevilla,sevilla,42,34,31,0,2,1,2,0,0,3,0,0,0,6
+301,Marcos Acuña,marcos-acuna,D,Sevilla,sevilla,45,34,26,1,2,3,6,0,0,5,0,0,0,6
+302,Gonzalo Montiel,gonzalo-montiel,D,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+303,Tanguy Nianzou,tanguy-nianzou,D,Sevilla,sevilla,12,34,10,0,0,1,2,0,0,2,0,0,0,2
+304,Jesús Navas,jesus-navas,D,Sevilla,sevilla,59,34,46,0,1,6,5,1,0,8,0,0,0,2
+305,Nemanja Gudelj,nemanja-gudelj,D,Sevilla,sevilla,55,34,37,1,1,5,7,0,0,7,0,0,0,3
+306,Marcão,marcao,D,Sevilla,sevilla,4,34,9,0,0,0,3,0,0,2,0,0,0,0
+307,Loïc Badé,loic-bade,D,Sevilla,sevilla,73,34,50,0,1,7,5,1,0,4,0,0,0,4
+308,Karim Rekik,karim-rekik,D,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+309,Ludwig Augustinsson,ludwig-augustinsson,D,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+310,Federico Gattoni,federico-gattoni,D,Sevilla,sevilla,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+311,Adrià Pedrosa,adria-pedrosa,D,Sevilla,sevilla,52,34,39,0,4,2,1,0,0,8,0,0,0,2
+312,Kike Salas,kike-salas,D,Sevilla,sevilla,58,34,30,3,0,5,5,0,0,7,0,0,0,2
+313,Bono,bono,G,Sevilla,sevilla,1,34,2,0,0,0,0,0,0,1,0,0,0,0
+314,Marko Dmitrović,marko-dmitrovic,G,Sevilla,sevilla,28,34,24,0,0,1,1,0,1,10,0,10,0,3
+315,Alfonso Pastor,alfonso-pastor,G,Sevilla,sevilla,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+316,Matías Árbol,matias-arbol,G,Sevilla Atlético,sevilla-atletico,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+317,Antoine Griezmann,antoine-griezmann,F,Atlético Madrid,atletico-madrid,129,34,53,11,7,7,5,0,0,5,0,0,0,16
+318,Memphis Depay,memphis-depay,F,Atlético Madrid,atletico-madrid,49,34,26,5,1,2,2,0,0,2,0,0,0,2
+319,João Félix,joao-felix,F,Barcelona,barcelona,86,34,43,7,3,9,3,0,0,6,0,0,0,9
+320,Álvaro Morata,alvaro-morata,F,Atlético Madrid,atletico-madrid,122,34,46,16,2,6,2,1,0,6,1,0,0,13
+321,Ángel Correa,angel-correa,F,Atlético Madrid,atletico-madrid,88,34,37,9,2,3,2,0,0,2,0,0,0,11
+322,Samuel Lino,samuel-lino,F,Atlético Madrid,atletico-madrid,70,34,44,3,2,5,0,0,0,4,0,0,0,8
+323,Sergio Camello,sergio-camello,F,Rayo Vallecano,rayo-vallecano,71,34,43,5,1,7,3,0,0,8,0,0,0,8
+324,Giuliano Simeone,giuliano-simeone,F,Deportivo Alavés,deportivo-alaves,18,34,14,1,0,3,0,0,0,0,0,0,0,0
+325,Víctor Mollejo,victor-mollejo,F,Atlético Madrid,atletico-madrid,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+326,Borja Garcés,borja-garces,F,Atlético Madrid,atletico-madrid,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+327,Rodrigo de Paul,rodrigo-de-paul,M,Atlético Madrid,atletico-madrid,93,34,48,2,6,6,5,0,0,5,0,0,0,16
+328,Yannick Carrasco,yannick-carrasco,M,Atlético Madrid,atletico-madrid,13,34,6,0,1,2,0,0,0,0,0,0,0,2
+329,Marcos Llorente,marcos-llorente,M,Atlético Madrid,atletico-madrid,93,34,52,5,2,5,4,0,0,7,0,0,0,9
+330,Axel Witsel,axel-witsel,D,Atlético Madrid,atletico-madrid,94,34,57,2,0,7,2,0,0,7,0,0,0,6
+331,Saúl Ñíguez,saul-niguez,M,Atlético Madrid,atletico-madrid,58,34,40,1,4,4,8,0,0,1,0,0,0,5
+332,Koke,koke,M,Atlético Madrid,atletico-madrid,75,34,54,0,4,6,4,0,0,5,0,0,0,7
+333,Thomas Lemar,thomas-lemar,M,Atlético Madrid,atletico-madrid,5,34,4,0,0,1,0,0,0,1,0,0,0,0
+334,Rodrigo Riquelme,rodrigo-riquelme,M,Atlético Madrid,atletico-madrid,71,34,37,3,4,1,1,0,0,6,0,0,0,7
+335,Pablo Barrios,pablo-barrios,M,Atlético Madrid,atletico-madrid,45,34,37,0,1,6,5,0,0,4,0,0,0,4
+336,Vitolo,vitolo,M,Atlético Madrid,atletico-madrid,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+337,Nahuel Molina,nahuel-molina,D,Atlético Madrid,atletico-madrid,82,34,45,2,3,6,3,1,0,4,0,0,0,2
+338,César Azpilicueta,cesar-azpilicueta,D,Atlético Madrid,atletico-madrid,46,34,29,0,2,4,3,0,0,2,0,0,0,0
+339,Çağlar Söyüncü,caglar-soyuncu,D,Atlético Madrid,atletico-madrid,5,34,5,0,0,0,0,0,0,0,0,0,0,0
+340,José María Giménez,jose-maria-gimenez,D,Atlético Madrid,atletico-madrid,36,34,30,0,0,3,3,0,0,3,0,0,0,0
+341,Reinildo Isnard Mandava,mandava-reinildo-isnard,D,Atlético Madrid,atletico-madrid,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+342,Stefan Savić,stefan-savic,D,Atlético Madrid,atletico-madrid,46,34,35,0,0,5,5,0,0,4,0,0,0,0
+343,Mario Hermoso,mario-hermoso,D,Atlético Madrid,atletico-madrid,74,34,52,0,1,7,8,0,0,7,0,0,0,6
+344,Javi Galán,javi-galan,D,Real Sociedad,real-sociedad,40,34,26,0,1,3,3,0,0,2,0,0,0,4
+345,Santiago Mouriño,santiago-mourino,D,Atlético Madrid,real-zaragoza,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+346,Jan Oblak,jan-oblak,G,Atlético Madrid,atletico-madrid,118,34,66,0,0,9,1,0,0,9,0,19,0,7
+347,Ivo Grbić,ivo-grbic,G,Atlético Madrid,atletico-madrid,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+348,Lázaro,lazaro,F,Almería,almeria,14,34,14,0,0,0,0,0,0,2,0,0,0,0
+349,Luis Javier Suárez,luis-javier-suarez,F,Almería,almeria,36,34,19,4,0,0,2,0,0,7,0,0,0,3
+350,El Bilal Touré,el-bilal-toure,F,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+351,Largie Ramazani,largie-ramazani,F,Almería,almeria,60,34,41,3,5,2,7,2,0,10,0,0,0,5
+352,Léo Baptistão,leo-baptistao,F,Almería,almeria,52,34,43,4,0,5,6,1,0,8,0,0,0,2
+353,Adrián Embarba,adrian-embarba,M,Almería,almeria,80,34,55,3,1,6,4,0,0,13,0,0,0,5
+354,Marko Milovanović,marko-milovanovic,F,Almería,almeria,17,34,12,1,0,0,0,0,0,3,0,0,0,1
+355,Dyego Sousa,dyego-sousa,F,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+356,Arvin Appiah,arvin-appiah,F,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+357,Lucas Robertone,lucas-robertone,M,Almería,almeria,75,34,53,0,5,6,11,0,0,13,0,0,0,12
+358,Gonzalo Melero,gonzalo-melero,M,Almería,almeria,32,34,31,0,1,1,3,0,0,9,0,0,0,0
+359,Samuel Costa,samuel-costa,M,Almería,mallorca,66,34,51,1,1,6,7,0,0,5,0,0,0,8
+360,Arnau Puigmal,arnau-puigmal,M,Almería,almeria,10,34,13,0,0,0,3,0,0,1,0,0,0,0
+361,Gui,gui,M,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+362,Íñigo Eguaras,inigo-eguaras,M,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+363,Kaiky,kaiky,D,Almería,almeria,13,34,13,1,0,0,2,0,0,6,0,0,0,2
+364,Srđan Babić,srdan-babic,D,Almería,almeria,1,34,2,0,0,0,0,0,0,1,0,0,0,0
+365,Rodrigo Ely,rodrigo-ely,D,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+366,Sergio Akieme,sergio-akieme,D,Almería,almeria,49,34,36,2,0,3,2,0,0,9,0,0,0,0
+367,Chumi,chumi,D,Almería,almeria,43,34,45,0,1,2,4,0,0,12,0,0,0,3
+368,Edgar González,edgar-gonzalez,D,Almería,almeria,59,34,51,1,0,5,4,1,0,14,0,0,0,3
+369,Alejandro Pozo,alejandro-pozo,D,Almería,almeria,25,34,25,0,0,2,2,0,0,6,0,0,0,0
+370,Houboulang Mendes,houboulang-mendes,D,Almería,almeria,8,34,10,0,0,0,0,0,0,2,0,0,0,0
+371,Álex Centelles,centelles-alex,D,Almería,almeria,24,34,18,0,1,3,2,0,0,7,0,0,0,0
+372,Iván Martos,ivan-martos,D,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+373,Fernando Martínez,fernando-martinez,G,Almería,almeria,3,34,4,0,0,0,0,0,0,2,0,1,0,0
+374,Diego Mariño,diego-marino,G,Almería,almeria,1,34,2,0,0,0,0,0,0,1,0,0,0,0
+375,Enes Ünal,enes-unal,F,Getafe,getafe,8,34,5,0,1,0,0,0,0,1,0,0,0,0
+376,Borja Mayoral,borja-mayoral,F,Getafe,getafe,114,34,50,13,1,7,2,0,0,11,0,0,0,11
+377,Anthony Lozano,anthony-lozano,F,Almería,almeria,37,34,24,3,0,5,2,0,0,2,0,0,0,3
+378,Juanmi Latasa,juanmi-latasa,F,Getafe,getafe,41,34,40,2,0,5,4,2,0,3,0,0,0,3
+379,Jaime Mata,jaime-mata,M,Getafe,getafe,70,34,44,5,1,3,9,1,0,8,0,0,0,7
+380,Jack Harper,jack-harper,F,Getafe,getafe,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+381,Carles Aleñá,carles-alena,M,Getafe,getafe,35,34,31,1,1,1,5,0,0,5,0,0,0,0
+382,Nemanja Maksimović,nemanja-maksimovic,M,Getafe,getafe,98,34,66,4,0,10,3,0,0,14,0,0,0,5
+383,Mauro Arambarri,mauro-arambarri,M,Getafe,getafe,8,34,9,0,0,1,2,0,0,2,0,0,0,0
+384,Luis Milla,luis-milla,M,Getafe,getafe,49,34,44,0,1,4,5,0,0,8,0,0,0,3
+385,Portu,portu,F,Girona FC,girona-fc,86,34,40,7,6,5,3,0,0,3,0,0,0,3
+386,Jaime Seoane,jaime-seoane,M,Getafe,getafe,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+387,Ángel Algobia,angel-algobia,M,Getafe,getafe,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+388,Sergi Altimira,sergi-altimira,M,Getafe,real-betis,24,34,17,1,0,2,1,0,0,3,0,0,0,1
+389,Djené,djene,D,Getafe,getafe,68,34,57,0,0,9,12,1,0,10,0,0,0,0
+390,Omar Alderete,omar-alderete,D,Getafe,getafe,54,34,45,0,1,5,8,1,0,7,0,0,0,4
+391,Domingos Duarte,domingos-duarte,D,Getafe,getafe,21,34,22,0,0,3,3,2,0,4,0,0,0,0
+392,Stefan Mitrović,stefan-mitrovic,D,Getafe,getafe,30,34,19,1,0,3,3,0,0,4,0,0,0,0
+393,Damián Suárez,damian-suarez,D,Getafe,getafe,31,34,31,0,1,4,7,2,0,8,0,0,0,2
+394,José Ángel Carmona,jose-angel-carmona,M,Getafe,getafe,36,34,34,1,1,2,8,0,0,4,0,0,0,0
+395,Fabrizio Angileri,fabrizio-angileri,D,Getafe,getafe,5,34,11,0,0,0,2,1,0,1,0,0,0,0
+396,Juan Iglesias,juan-iglesias,D,Getafe,getafe,67,34,35,0,2,7,4,0,0,4,0,0,0,6
+397,Jonathan Silva,jonathan-silva,D,Getafe,getafe,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+398,Erick Cabaco,erick-cabaco,D,Getafe,getafe,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+399,David Soria,david-soria,G,Getafe,getafe,146,34,68,0,0,10,3,0,0,14,0,29,0,26
+400,Daniel Fuzato,daniel-fuzato,G,Getafe,getafe,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+401,Mamadou Sylla,mamadou-sylla,F,Deportivo Alavés,deportivo-alaves,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+402,Miguel de la Fuente,miguel-de-la-fuente,F,Deportivo Alavés,deportivo-alaves,3,34,3,0,0,0,0,0,0,0,0,0,0,0
+403,Abderrahman Rebbach,abderrahman-rebbach,M,Deportivo Alavés,deportivo-alaves,31,34,25,1,0,2,2,0,0,0,0,0,0,1
+404,Luis Rioja,luis-rioja,M,Deportivo Alavés,deportivo-alaves,113,34,60,5,4,9,3,0,0,8,1,0,0,12
+405,Salva Sevilla,salva-sevilla,M,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+406,Ander Guevara,ander-guevara,M,Deportivo Alavés,deportivo-alaves,71,34,61,1,0,7,6,0,0,10,0,0,0,4
+407,Carlos Benavídez,carlos-benavidez,M,Deportivo Alavés,deportivo-alaves,54,34,34,3,0,3,4,0,0,2,0,0,0,6
+408,Abdallahi Mahmoud,abdallahi-mahmoud,M,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+409,Jon Guridi,jon-guridi,M,Deportivo Alavés,deportivo-alaves,88,34,59,1,4,12,2,0,0,5,0,0,0,2
+410,Xeber Alkain,xeber-alkain,M,Deportivo Alavés,deportivo-alaves,13,34,13,0,0,1,1,0,0,1,0,0,0,0
+411,Alex Balboa,alex-balboa,M,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+412,Abdelkabir Abqar,abqar-abdelkabir,D,Deportivo Alavés,deportivo-alaves,51,34,43,0,0,6,10,0,1,6,0,0,0,2
+413,Florian Lejeune,florian-lejeune,D,Rayo Vallecano,rayo-vallecano,116,34,64,2,1,11,5,0,1,11,0,0,0,11
+414,Rubén Duarte,ruben-duarte,D,Deportivo Alavés,deportivo-alaves,57,34,38,2,0,4,5,0,0,6,0,0,0,2
+415,Víctor Laguardia,victor-laguardia,D,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+416,Nikola Maraš,nikola-maras,D,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+417,Aleksandar Sedlar,aleksandar-sedlar,D,Deportivo Alavés,deportivo-alaves,33,34,22,1,0,2,2,0,0,3,0,0,0,2
+418,Javi López,lopez-javi,D,Deportivo Alavés,deportivo-alaves,89,34,50,1,3,7,2,0,0,5,0,0,0,3
+419,Jesús Owono,jesus-owono,G,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+420,Antonio Sivera,antonio-sivera,G,Deportivo Alavés,deportivo-alaves,122,34,66,0,0,9,4,0,0,10,0,17,0,17
+421,Darwin Machís,darwin-machis,F,Cádiz,cadiz,45,34,26,4,0,3,0,1,0,3,0,0,0,6
+422,Álvaro Negredo,alvaro-negredo,F,Cádiz,cadiz,8,34,8,0,0,0,0,0,0,1,0,0,0,0
+423,Roger Martí,roger-marti,F,Cádiz,cadiz,51,34,27,2,3,4,2,0,0,3,0,0,0,9
+424,Sergi Guardiola,sergi-guardiola,F,Cádiz,cadiz,23,34,21,0,1,0,1,0,0,1,0,0,0,0
+425,Francisco Mwepu,francisco-mwepu,F,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+426,Milutin Osmajić,milutin-osmajic,F,Cádiz,cadiz,1,34,1,0,0,0,0,0,0,1,0,0,0,0
+427,Chris Ramos,chris-ramos,F,Cádiz,cadiz,81,34,61,5,1,6,5,0,0,11,0,0,0,2
+428,Tomás Alarcón,tomas-alarcon,M,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+429,Brian Ocampo,brian-ocampo,M,Cádiz,cadiz,9,34,9,0,0,0,0,0,0,1,0,0,0,0
+430,Gonzalo Escalante,gonzalo-escalante,M,Cádiz,cadiz,48,34,36,1,2,3,1,1,0,8,0,0,0,2
+431,Awer Mabil,awer-mabil,M,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+432,Youba Diarra,youba-diarra,M,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+433,Rubén Alcaraz,ruben-alcaraz,M,Cádiz,cadiz,80,34,63,1,1,7,14,0,0,12,0,0,0,16
+434,Rubén Sobrino,ruben-sobrino,M,Cádiz,cadiz,40,34,42,0,1,6,7,2,0,7,0,0,0,2
+435,Álex Fernández,alex-fernandez,M,Cádiz,cadiz,33,34,34,0,0,1,4,0,0,2,0,0,0,2
+436,Fede San Emeterio,fede-san-emeterio,M,Cádiz,cadiz,12,34,6,1,0,2,1,1,0,0,0,0,0,3
+437,Iván Alejo,ivan-alejo,M,Cádiz,cadiz,41,34,43,0,2,7,15,0,0,6,0,0,0,0
+438,José Mari,jose-mari,M,Cádiz,cadiz,3,34,3,0,0,0,1,0,0,1,0,0,0,0
+439,Martín Calderón,martin-calderon,M,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+440,Víctor Chust,victor-chust,D,Cádiz,cadiz,49,34,37,0,1,4,2,1,0,7,0,0,0,5
+441,Javier Hernández,javier-hernandez,D,Cádiz,cadiz,66,34,49,1,2,4,6,0,0,9,0,0,0,4
+442,Luis Hernández,luis-hernandez,D,Cádiz,cadiz,28,34,19,1,0,2,4,0,0,4,0,0,0,3
+443,Fali,fali,D,Cádiz,cadiz,51,34,50,0,0,5,11,0,0,8,0,0,0,0
+444,Mamadou Mbaye,mamadou-mbaye,D,Cádiz,cadiz,2,34,4,0,0,0,1,0,0,1,0,0,0,0
+445,Joseba Zaldúa,joseba-zaldua,D,Cádiz,cadiz,8,34,12,0,0,0,2,0,0,2,0,0,0,0
+446,Juan Cala,juan-cala,D,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+447,Raúl Parra,raul-parra,D,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+448,Jeremías Ledesma,jeremias-ledesma,G,Cádiz,cadiz,114,34,66,0,0,6,0,0,0,14,0,23,0,15
+449,David Gil,david-gil,G,Cádiz,cadiz,7,34,3,0,0,0,1,0,0,0,0,2,0,3
+450,Juan Flere,flere-juan,G,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+451,Sandro Ramírez,sandro-ramirez,F,Las Palmas,las-palmas,54,34,39,1,3,5,2,0,0,5,1,0,0,6
+452,Marc Cardona,marc-cardona,F,Las Palmas,las-palmas,43,34,27,3,1,4,3,0,0,1,0,0,0,4
+453,Óscar Pinchi,oscar-pinchi,F,Las Palmas,las-palmas,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+454,Alberto Moleiro,alberto-moleiro,M,Las Palmas,las-palmas,63,34,39,2,3,5,0,0,0,6,0,0,0,0
+455,Jonathan Viera,jonathan-viera,M,Almería,almeria,66,34,34,2,3,6,2,1,0,5,0,0,0,12
+456,Enzo Loiodice,loiodice-enzo,M,Las Palmas,las-palmas,49,34,44,0,0,7,2,0,0,1,0,0,0,0
+457,Omenuke Mfulu,omenuke-mfulu,M,Las Palmas,las-palmas,3,34,4,0,0,0,1,0,0,0,0,0,0,0
+458,Kirian Rodríguez,kirian-rodriguez,M,Las Palmas,las-palmas,118,34,64,6,2,7,7,0,0,8,0,0,0,18
+459,Pejiño,pejino,M,Las Palmas,las-palmas,33,34,19,2,0,2,1,0,0,0,0,0,0,3
+460,Javier Muñoz,javier-munoz,M,Las Palmas,las-palmas,76,34,58,1,3,7,6,0,0,7,0,0,0,3
+461,Cristian Herrera,cristian-herrera,M,Las Palmas,las-palmas,12,34,8,1,0,0,1,0,0,1,0,0,0,0
+462,Benito Ramírez,benito-ramirez,M,Las Palmas,las-palmas,24,34,19,1,0,0,0,0,0,1,0,0,0,0
+463,Fabio González,fabio-gonzalez,M,Las Palmas,las-palmas,5,34,5,0,0,0,0,0,0,0,0,0,0,0
+464,Daley Sinkgraven,daley-sinkgraven,D,Las Palmas,las-palmas,10,34,14,0,0,1,0,2,0,2,0,0,0,0
+465,Saúl Coco,saul-coco,D,Las Palmas,las-palmas,50,34,46,1,0,3,6,1,1,7,0,0,0,4
+466,Eric Curbelo,eric-curbelo,D,Las Palmas,las-palmas,1,34,2,0,0,0,0,0,0,1,0,0,0,0
+467,Sergi Cardona,sergi-cardona,D,Las Palmas,las-palmas,101,34,60,1,2,7,10,0,0,6,0,0,0,17
+468,Enrique Clemente,enrique-clemente,D,Las Palmas,las-palmas,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+469,Álvaro Lemos,alvaro-lemos,D,Las Palmas,las-palmas,3,34,4,0,0,0,1,0,0,0,0,0,0,0
+470,Alex Suárez,alex-suarez,D,Las Palmas,las-palmas,69,34,52,1,0,5,7,0,1,5,0,0,0,5
+471,Alejandro Palanca,alejandro-palanca,D,Las Palmas,las-palmas,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+472,Álvaro Valles,alvaro-valles,G,Las Palmas,las-palmas,124,34,63,0,0,7,2,1,0,9,0,23,1,19
+473,Alex Domínguez,alex-dominguez,G,Las Palmas,las-palmas,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+474,Sávio,savio,M,Girona FC,girona-fc,160,34,65,9,9,10,5,0,0,11,0,0,0,18
+475,Cristhian Stuani,cristhian-stuani,F,Girona FC,girona-fc,75,34,34,8,2,2,6,0,0,1,0,0,0,9
+476,Manu Vallejo,manu-vallejo,F,Girona,girona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+477,Pau Víctor,pau-victor,F,Barcelona,barcelona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+478,Pablo Torre,pablo-torre,M,Girona FC,girona-fc,36,34,28,0,3,0,1,0,0,4,0,0,0,0
+479,Viktor Tsygankov,viktor-tsygankov,M,Girona FC,girona-fc,102,34,47,6,4,6,0,0,0,6,0,0,0,7
+480,Aleix García,aleix-garcia,M,Girona FC,girona-fc,126,34,65,3,6,11,3,1,0,13,0,0,0,23
+481,Yangel Herrera,yangel-herrera,M,Girona FC,girona-fc,73,34,45,4,0,8,8,0,0,6,0,0,0,8
+482,Yan Couto,couto-yan,D,Girona FC,girona-fc,100,34,55,1,8,7,8,0,0,11,0,0,0,6
+483,Toni Villa,toni-villa,M,Girona FC,girona-fc,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+484,Borja García,borja-garcia,M,Girona FC,girona-fc,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+485,Ibrahima Kébé,ibrahima-kebe,M,Girona FC,girona-fc,1,34,2,0,0,0,1,0,0,0,0,0,0,0
+486,Oscar Ureña,oscar-urena,M,Girona,girona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+487,Silvi Clúa,silvi-clua,M,Girona FC,girona-fc,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+488,Daley Blind,daley-blind,D,Girona FC,girona-fc,107,34,59,2,2,10,5,0,0,10,0,0,0,5
+489,Miguel Gutiérrez,miguel-gutierrez,D,Girona FC,girona-fc,132,34,64,2,6,12,4,0,0,12,0,0,0,6
+490,Arnau Martínez,arnau-martinez,D,Girona FC,girona-fc,50,34,30,0,2,5,4,0,0,2,0,0,0,0
+491,Alexander Callens,alexander-callens,D,Girona,girona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+492,Santiago Bueno,santiago-bueno,D,Girona,girona,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+493,Bernardo Espinosa,bernardo-espinosa,D,Girona FC,girona-fc,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+494,David López,david-lopez,D,Girona FC,girona-fc,81,34,41,3,0,7,3,0,0,7,0,0,0,4
+495,Valery Fernández,valery-fernandez,D,Girona FC,girona-fc,43,34,25,3,0,1,1,0,0,3,0,0,0,0
+496,Juanpe,juanpe,D,Girona FC,girona-fc,18,34,19,0,0,1,4,0,0,4,0,0,0,3
+497,Eric Monjonell,eric-monjonell,D,Girona FC,girona-fc,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+498,Marc Aznar,marc-aznar,D,Girona FC,girona-fc,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+499,Paulo Gazzaniga,paulo-gazzaniga,G,Girona FC,girona-fc,145,34,68,0,0,11,2,0,0,13,0,23,1,20
+500,Toni Fuidias,toni-fuidias,G,Girona FC,girona-fc,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+501,Juan Carlos,juan-carlos,G,Girona FC,girona-fc,0,34,0,0,0,0,1,0,0,0,0,0,0,0
+502,Famara Diédhiou,famara-diedhiou,F,Granada,granada,12,34,8,0,1,0,1,0,0,0,0,0,0,2
+503,Myrto Uzuni,myrto-uzuni,F,Granada,granada,108,34,57,12,1,5,3,0,0,15,1,0,0,5
+504,José Callejón,jose-callejon,F,Granada,granada,32,34,29,0,1,2,0,0,0,4,0,0,0,0
+505,Shon Weissman,shon-weissman,F,Granada,granada,5,34,5,0,0,0,0,0,0,0,0,0,0,0
+506,Alberto Perea,alberto-perea,F,Granada,granada,2,34,2,0,0,0,0,0,0,0,0,0,0,0
+507,Antoñín,antonin,F,Granada,granada,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+508,Njegoš Petrović,njegos-petrovic,M,Granada,granada,9,34,9,0,0,0,0,0,0,0,0,0,0,0
+509,Antonio Puertas,antonio-puertas,M,Granada,granada,30,34,32,0,2,0,3,1,0,4,1,0,0,0
+510,Alberto Soro,soro-alberto,M,Granada,granada,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+511,Óscar Melendo,oscar-melendo,M,Granada,granada,36,34,36,0,0,2,2,0,0,6,0,0,0,0
+512,Yann Bodiger,yann-bodiger,M,Granada,granada,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+513,Sergio Ruiz Alonso,sergio-ruiz-alonso,M,Granada,granada,74,34,56,0,4,6,8,0,0,11,0,0,0,8
+514,Víctor Meseguer,victor-meseguer,M,Granada,granada,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+515,Bryan Zaragoza,bryan-zaragoza,M,Granada,granada,89,34,39,7,2,2,5,0,0,10,0,0,0,12
+516,Isma Ruiz,isma-ruiz,M,Granada,granada,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+517,Jesús Vallejo,jesus-vallejo,D,Granada,granada,3,34,5,0,0,0,1,0,0,1,0,0,0,0
+518,Alpha Dionkou,alpha-dionkou,D,Granada,granada,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+519,Ricard Sánchez,ricard-sanchez,D,Granada,granada,62,34,53,3,0,3,8,0,0,14,0,0,0,1
+520,Carlos Neva,neva-carlos,D,Granada,granada,88,34,66,0,3,6,3,0,0,17,0,0,0,9
+521,Víctor Díaz,victor-diaz,D,Granada,granada,3,34,6,0,0,0,1,0,0,2,0,0,0,0
+522,Miguel Rubio,miguel-rubio,D,Granada,granada,36,34,31,1,0,3,5,0,0,8,0,0,0,0
+523,Ignasi Miquel,ignasi-miquel,D,Granada,granada,74,34,65,1,1,5,6,0,0,19,0,0,0,5
+524,Raúl Torrente,raul-torrente,D,Granada,granada,19,34,23,0,0,1,2,0,1,4,0,0,0,0
+525,Pepe Sánchez,pepe-sanchez,D,Granada,granada,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+526,André Ferreira,andre-ferreira,G,Granada,granada,33,34,28,0,0,0,1,0,0,8,0,10,0,4
+527,Isco,isco,M,Real Betis,real-betis,133,34,54,7,5,10,10,0,0,5,0,0,0,29
+528,Joaquín,joaquin,M,Real Betis,real-betis,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+529,Chadi Riad,chadi-riad,D,Real Betis,real-betis,55,34,41,0,0,5,1,0,0,5,0,0,0,0
+530,Marc Bartra,marc-bartra,D,Real Betis,real-betis,2,34,5,0,0,0,1,0,0,2,0,0,0,0
+531,Lamine Yamal,lamine-yamal,F,Barcelona,barcelona,95,34,50,4,4,5,3,0,0,10,0,0,0,20
+532,Jorge de Frutos,jorge-de-frutos,M,Rayo Vallecano,rayo-vallecano,57,34,42,1,0,7,0,0,0,4,0,0,0,3
+533,Kike Pérez,kike-perez,M,Rayo Vallecano,rayo-vallecano,28,34,28,1,0,2,7,0,0,3,0,0,0,0
+534,Diego Mendez,mendez-diego,M,Rayo Vallecano B,rayo-vallecano-b,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+535,Dani Cárdenas,dani-cardenas,G,Rayo Vallecano,rayo-vallecano,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+536,Alexander Sørloth,alexander-sorloth,F,Villarreal,villarreal,145,34,50,17,5,4,3,0,0,11,0,0,0,15
+537,Andrés Ferrari,andres-ferrari,F,Villarreal B,villarreal-b,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+538,Dani Requena,dani-requena,M,Villarreal,villarreal,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+539,Rodri Alonso,rodri-alonso,M,Villarreal,villarreal,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+540,Matteo Gabbia,matteo-gabbia,D,Villarreal,villarreal,14,34,12,0,0,2,2,0,0,4,0,0,0,0
+541,Lanchi,lanchi,D,Villarreal,villarreal,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+542,Dani Sancho,dani-sancho,F,Osasuna B,osasuna-b,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+543,Jorge Herrando,herrando-jorge,D,Osasuna,osasuna,34,34,29,0,0,4,3,0,0,8,0,0,0,0
+544,Carl Starfelt,carl-starfelt,D,Celta Vigo,celta-vigo,58,34,43,1,0,3,2,0,0,7,0,0,0,6
+545,André Silva,andre-silva,F,Real Sociedad,real-sociedad,29,34,22,2,0,2,1,0,0,2,0,0,0,0
+546,Alex Lebarbier,alex-lebarbier,M,Real Sociedad,real-sociedad,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+547,Ekain Azkune,ekain-azkune,F,Real Sociedad B,real-sociedad-b,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+548,Arsen Zakharyan,arsen-zakharyan,M,Real Sociedad,real-sociedad,53,34,36,1,2,4,1,0,0,5,0,0,0,3
+549,Jon Ander Olasagasti,jon-ander-olasagasti,M,Real Sociedad,real-sociedad,13,34,14,0,0,1,2,0,0,2,0,0,0,0
+550,Eneko Astigarraga,eneko-astigarraga,M,Real Sociedad B,real-sociedad-b,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+551,Unai Marrero,unai-marrero,G,Real Sociedad,real-sociedad,3,34,4,0,0,0,0,0,0,1,0,0,0,0
+552,Unai Eguíluz,unai-eguiluz,D,Athletic Bilbao B,athletic-bilbao-b,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+553,Cyle Larin,cyle-larin,F,Mallorca,mallorca,50,34,43,2,2,6,8,0,0,3,0,0,0,1
+554,Sergi Darder,sergi-darder,M,Mallorca,mallorca,74,34,48,0,5,8,4,0,0,4,0,0,0,7
+555,Ruben Quintanilla,quintanilla-ruben,M,Mallorca,mallorca,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+556,Marcos Fernández,marcos-fernandez,D,Mallorca,mallorca,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+557,Alberto Mari,alberto-mari,F,Valencia,valencia,16,34,12,0,1,0,0,0,0,2,0,0,0,1
+558,Sergi Canós,sergi-canos,M,Valencia,valencia,37,34,28,0,2,4,1,0,0,5,0,0,0,0
+559,Kepa Arrizabalaga,kepa-arrizabalaga,G,Real Madrid,real-madrid,55,34,24,0,0,6,1,0,0,2,0,6,0,4
+560,Djibril Sow,djibril-sow,M,Sevilla,sevilla,49,34,41,1,1,5,6,0,0,5,0,0,0,1
+561,Manu Bueno,bueno-manu,M,Sevilla,sevilla,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+562,Ørjan Nyland,orjan-nyland,G,Sevilla,sevilla,79,34,40,0,0,6,1,0,0,3,0,13,0,6
+563,Samuel Omorodion,omorodion-samuel,F,Deportivo Alavés,deportivo-alaves,80,34,51,7,1,8,6,0,0,7,0,0,0,4
+564,Alvaro Mouriño,alvaro-mourino,D,Atlético Madrid,atletico-madrid,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+565,Antonio Gomis Aleman,aleman-antonio-gomis,G,Atlético Madrid,atletico-madrid,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+566,Ibrahima Kone,ibrahima-kone,F,Almería,almeria,10,34,10,0,0,0,0,0,0,3,0,0,0,0
+567,Marciano Sanca Tchami,sanca-tchami-marciano,F,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+568,Dion Lopy,dion-lopy,M,Almería,almeria,48,34,48,0,0,1,4,0,0,10,0,0,0,3
+569,Marcos Pena,pena-marcos,M,Almería,almeria,6,34,7,0,0,1,2,0,0,0,0,0,0,0
+570,Marc Pubill,marc-pubill,D,Almería,almeria,57,34,39,1,2,4,2,0,0,9,0,0,0,1
+571,Luís Maximiano,luis-maximiano,G,Almería,almeria,106,34,60,0,0,6,1,0,0,16,0,22,1,12
+572,Manuel Obón Salido,manuel-obon-salido,G,Almería,almeria,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+573,Santi García,santi-garcia,M,Getafe B,getafe-b,1,34,1,0,0,0,0,0,0,0,0,0,0,0
+574,Santiago Garcia Gonzalez,garcia-gonzalez-santiago,M,Getafe,getafe,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+575,Gastón Álvarez,gaston-alvarez,D,Getafe,getafe,79,34,53,1,0,7,6,0,0,9,0,0,0,7
+576,Jorge Benito,jorge-benito,G,Getafe,getafe,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+577,Mamadou Diallo,mamadou-diallo,M,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+578,Ander Sánchez,ander-sanchez,M,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+579,Rafa Marín,rafa-marin,D,Deportivo Alavés,deportivo-alaves,66,34,52,0,0,6,5,0,1,7,0,0,0,4
+580,Nahuel Tenaglia,nahuel-tenaglia,D,Deportivo Alavés,deportivo-alaves,42,34,31,1,0,3,3,0,0,4,0,0,0,0
+581,Joseda Álvarez,joseda-alvarez,D,Deportivo Alavés,deportivo-alaves,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+582,Álvaro Bastida,alvaro-bastida,M,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+583,Lucas Pires,lucas-pires,D,Cádiz,cadiz,39,34,40,1,0,2,6,0,0,10,0,0,0,1
+584,Iza Carcelén,iza-carcelen,D,Cádiz,cadiz,71,34,61,0,0,6,2,0,0,12,0,0,0,0
+585,Jorge Meré,jorge-mere,D,Cádiz,cadiz,18,34,17,0,0,1,0,0,0,3,0,0,0,0
+586,Julio,julio,D,Cádiz,cadiz,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+587,Munir El Haddadi,munir-el-haddadi,F,Las Palmas,las-palmas,74,34,57,4,2,13,3,0,0,8,1,0,0,0
+588,Sory Kaba,sory-kaba,F,Las Palmas,las-palmas,24,34,19,1,1,2,2,0,0,2,0,0,0,0
+589,Marvin Park,park-marvin,F,Las Palmas,las-palmas,42,34,38,0,2,2,5,0,0,4,0,0,0,3
+590,Julian Araujo,julian-araujo,D,Las Palmas,las-palmas,57,34,33,1,0,5,3,0,0,4,0,0,0,5
+591,Mika Mármol,mika-marmol,D,Las Palmas,las-palmas,75,34,61,0,1,6,4,1,0,8,0,0,0,2
+592,Aarón Escandell,aaron-escandell,G,Las Palmas,las-palmas,1,34,4,0,0,0,0,1,0,0,0,0,0,0
+593,Artem Dovbyk,artem-dovbyk,F,Girona FC,girona-fc,169,34,60,19,7,8,1,0,0,11,1,0,0,15
+594,Iker Almena,iker-almena,F,Girona FC,girona-fc,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+595,Gonzalo Villar,gonzalo-villar,M,Granada,granada,62,34,47,1,3,4,7,0,0,8,0,0,0,4
+596,Gerard Gumbau,gerard-gumbau,M,Granada,granada,62,34,54,0,3,3,10,0,0,16,0,0,0,6
+597,Wilson Manafá,wilson-manafa,D,Granada,granada,4,34,7,0,0,0,1,0,0,2,0,0,0,0
+598,Miki Bosch,miki-bosch,D,Granada,granada,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+599,Fermín López,fermin-lopez,M,Barcelona,barcelona,63,32,36,5,0,4,2,0,0,4,0,0,0,0
+600,Pau Cubarsí,pau-cubarsi,D,Barcelona,barcelona,48,32,28,0,0,7,3,0,0,8,0,0,0,3
+601,Andrei Rațiu,andrei-ratiu,D,Rayo Vallecano,rayo-vallecano,19,32,14,0,0,2,1,0,0,2,0,0,0,0
+602,Anastasios Douvikas,douvikas-anastasios,F,Celta Vigo,celta-vigo,57,32,33,5,1,3,1,0,0,4,0,0,0,2
+603,Hugo Sotelo,hugo-sotelo,M,Celta Vigo,celta-vigo,20,32,17,0,0,2,0,0,0,3,0,0,0,1
+604,Kieran Tierney,kieran-tierney,D,Real Sociedad,real-sociedad,43,32,26,0,2,3,1,0,0,3,0,0,0,3
+605,Iván Cuéllar,ivan-cuellar,G,Mallorca,mallorca,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+606,Dodi Lukebakio,dodi-lukebakio,F,Sevilla,sevilla,54,32,27,5,1,4,0,0,0,4,0,0,0,4
+607,Álex Calatrava,alex-calatrava,F,Atlético Madrid,atletico-madrid,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+608,Ivan Vasiljevic,ivan-vasiljevic,D,Atlético Madrid,atletico-madrid,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+609,Ianis Hagi,ianis-hagi,M,Deportivo Alavés,deportivo-alaves,23,32,22,0,1,1,2,0,0,0,1,0,0,1
+610,Maximiliano Gómez,maximiliano-gomez,F,Cádiz,cadiz,33,32,35,0,0,3,2,0,0,5,0,0,0,0
+611,Máximo Perrone,maximo-perrone,M,Las Palmas,las-palmas,42,32,40,0,0,6,4,0,0,6,0,0,0,0
+612,Juanma Herzog,juanma-herzog,D,Las Palmas Atlético,las-palmas-atletico,25,32,6,2,0,2,1,0,0,2,0,0,0,2
+613,Alex Gonzalez,gonzalez-alex,G,Las Palmas,las-palmas,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+614,Mario González,mario-gonzalez,M,Granada,granada,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+615,Dani Pérez,dani-perez,M,Real Betis,real-betis,0,31,0,0,0,0,0,0,0,0,0,0,0,0
+616,João Cancelo,joao-cancelo,D,Barcelona,barcelona,113,31,51,2,3,10,5,0,0,11,0,0,0,17
+617,Iker Munoz,munoz-iker,M,Osasuna,osasuna,28,31,17,1,0,5,1,0,0,2,0,0,0,2
+618,Mihailo Ristić,mihailo-ristic,D,Celta Vigo,celta-vigo,21,31,18,0,0,2,2,0,0,3,0,0,0,0
+619,Vicente Guaita,vicente-guaita,G,Celta Vigo,celta-vigo,90,31,50,0,0,6,2,0,1,7,0,14,0,13
+620,Pablo Marín,pablo-marin,M,Real Sociedad B,real-sociedad-b,0,31,0,0,0,0,0,0,0,0,0,0,0,0
+621,Urko González,urko-gonzalez,D,Real Sociedad,real-sociedad,1,31,3,0,0,0,1,0,0,1,0,0,0,0
+622,Unai Gómez,unai-gomez,M,Athletic Club,athletic-club,27,31,25,0,0,3,1,0,0,1,0,0,0,0
+623,Matija Nastasić,matija-nastasic,D,Mallorca,mallorca,69,31,48,1,0,6,9,0,0,4,0,0,0,4
+624,Roman Yaremchuk,roman-yaremchuk,F,Valencia,valencia,46,31,30,4,0,5,2,0,0,1,0,0,0,2
+625,Selim Amallah,amallah-selim,M,Valencia,valencia,21,31,20,0,1,2,2,1,0,1,0,0,0,1
+626,Mariano Díaz,mariano-diaz,F,Sevilla,sevilla,8,31,8,0,0,0,1,0,0,1,0,0,0,1
+627,Boubakary Soumaré,boubakary-soumare,M,Sevilla,sevilla,39,31,42,0,0,5,9,0,0,5,0,0,0,1
+628,César Montes,cesar-montes,D,Almería,almeria,40,31,35,0,0,5,5,0,0,10,0,0,0,0
+629,Mason Greenwood,mason-greenwood,M,Getafe,getafe,117,31,53,8,6,7,6,2,0,10,1,0,0,13
+630,Rominigue Kouamé,rominigue-kouame,M,Cádiz,cadiz,24,31,24,0,0,2,2,0,0,5,0,0,0,0
+631,Jhon Solís,jhon-solis,M,Girona FC,girona-fc,19,31,19,0,0,0,0,0,0,1,0,0,0,0
+632,Lucas Boyé,lucas-boye,F,Granada,granada,77,31,53,5,4,6,8,1,0,11,0,0,0,3
+633,Álvaro Fernández,alvaro-fernandez,M,Granada,granada,19,31,18,0,0,2,1,0,0,3,0,0,0,0
+634,Mario Ramos,mario-ramos,G,Extremadura UD,extremadura-ud,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+635,Carlos Romero,carlos-romero,D,Villarreal,villarreal,4,30,7,0,0,0,1,0,0,2,0,0,0,0
+636,Sergio Ramos,sergio-ramos,D,Sevilla,sevilla,82,30,46,2,0,6,5,1,1,9,0,0,0,19
+637,Mini,mini,M,Atlético Madrid,atletico-madrid,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+638,Jastin García,jastin-garcia,F,Girona FC,girona-fc,2,30,2,0,0,0,0,0,0,0,0,0,0,0
+639,Assane Diao,assane-diao,M,Real Betis,real-betis,41,29,28,2,0,5,4,0,0,0,0,0,0,2
+640,Germán García,german-garcia,G,Real Betis,real-betis,0,29,0,0,0,0,0,0,0,0,0,0,0,0
+641,Iker Álvarez,iker-alvarez,G,Villarreal,villarreal,0,29,0,0,0,0,0,0,0,0,0,0,0,0
+642,Diego Lopez,diego-lopez,M,Valencia,valencia,85,29,47,3,5,7,3,0,0,7,0,0,0,4
+643,Marciano Sanca,marciano-sanca,F,Almería,almeria,6,29,6,0,0,0,0,0,0,1,0,0,0,0
+644,Gorka Rivera,gorka-rivera,D,Getafe,getafe,0,29,0,0,0,0,0,0,0,0,0,0,0,0
+645,Tomás Mendes,tomas-mendes,M,Deportivo Alavés,deportivo-alaves,1,29,1,0,0,0,0,0,0,0,0,0,0,0
+646,Unai Ropero,unai-ropero,F,Deportivo Alavés,deportivo-alaves,1,29,1,0,0,0,0,0,0,0,0,0,0,0
+647,Ricardo Visus,ricardo-visus,D,Real Betis,real-betis,2,28,2,0,0,0,0,0,0,0,0,0,0,0
+648,Marco Moreno,marco-moreno,D,Atlético Madrid,atletico-madrid,0,28,0,0,0,0,0,0,0,0,0,0,0,0
+649,Selvi Clua Oya,selvi-clua-oya,M,Girona,girona,0,28,0,0,0,0,0,0,0,0,0,0,0,0
+650,Paco Sanz,sanz-paco,D,Almería,almeria,0,27,0,0,0,0,0,0,0,0,0,0,0,0
+651,Rúben Montero,ruben-montero,G,Deportivo Alavés,deportivo-alaves,0,27,0,0,0,0,0,0,0,0,0,0,0,0
+652,Ale Gorrin,gorrin-ale,G,Las Palmas,las-palmas,0,27,0,0,0,0,0,0,0,0,0,0,0,0
+653,Gines Sorroche,gines-sorroche,F,Real Betis,real-betis,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+654,Marc Guiu,marc-guiu,F,Barcelona,barcelona,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+655,Adrià Altimira,altimira-adria,D,Villarreal B,villarreal-b,15,26,19,0,0,2,3,0,0,9,0,0,0,0
+656,Aitor Fraga,fraga-aitor,G,Real Sociedad,real-sociedad,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+657,Yarek Gasiorowski,gasiorowski-yarek,D,Valencia,valencia,13,26,16,0,0,0,1,0,0,2,0,0,0,0
+658,Adrián Niño,adrian-nino,F,Atlético Madrid,atletico-madrid,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+659,Marc Guiu,guiu-marc,F,Barcelona U19,barcelona-u19,7,25,4,1,0,1,1,0,0,0,0,0,0,0
+660,Aleix Garrido,aleix-garrido,M,Barcelona,barcelona,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+661,Unai Hernández,unai-hernandez,M,Barcelona,barcelona,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+662,Ander Ibañez,ander-ibanez,G,Osasuna,osasuna,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+663,Gaizka Ayesa,gaizka-ayesa,G,Real Sociedad,real-sociedad,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+664,Adu Ares,adu-ares,F,Athletic Club,athletic-club,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+665,Daniel Luna,daniel-luna,M,Mallorca,mallorca,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+666,Yuzún Ley,yuzun-ley,D,Mallorca,mallorca,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+667,Diego Piñeiro,diego-pineiro,G,Real Madrid,real-madrid,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+668,Facundo Esnaider,facundo-esnaider,F,Getafe,getafe,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+669,Nabil Aberdin,nabil-aberdin,D,Getafe,getafe,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+670,Alejandro Morata,morata-alejandro,D,Cádiz,cadiz,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+671,Gines Sorroche Pinero,sorroche-pinero-gines,M,Real Betis,real-betis,0,24,0,0,0,0,0,0,0,0,0,0,0,0
+672,Sokratis,sokratis,D,Real Betis,real-betis,26,24,21,0,0,4,6,0,1,3,0,0,0,0
+673,Aristide Njalla,aristide-njalla,M,Cádiz,cadiz,0,24,0,0,0,0,0,0,0,0,0,0,0,0
+674,Julio Cabrera,julio-cabrera,D,Cádiz,cadiz,0,24,0,0,0,0,0,0,0,0,0,0,0,0
+675,Adri Miranda,adri-miranda,D,Cádiz,cadiz,0,24,0,0,0,0,0,0,0,0,0,0,0,0
+676,Marc Casadó,marc-casado,M,Barcelona,barcelona,2,23,2,0,0,0,0,0,0,0,0,0,0,0
+677,Diego Collado,diego-collado,F,Villarreal,villarreal,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+678,Javier Rodríguez,javier-rodriguez,D,Celta Vigo,celta-vigo,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+679,Pau Mascaró,pau-mascaro,F,Mallorca,mallorca,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+680,Pablo Gozálbez,pablo-gozalbez,F,Valencia B,valencia-b,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+681,Nico Paz,nico-paz,M,Real Madrid Castilla,real-madrid-castilla,4,23,4,0,0,0,0,0,0,0,0,0,0,0
+682,Antonio Gomis,antonio-gomis,G,Atlético Madrid,atletico-madrid,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+683,Miguel Peñalver,miguel-penalver,D,Almería,almeria,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+684,Pau,pau,F,Las Palmas,las-palmas,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+685,Yadam,yadam,M,Las Palmas,las-palmas,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+686,Pol Tristan Jimenez,pol-tristan-jimenez,G,Granada,granada,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+687,Rachad Dhimi,rachad-dhimi,F,Almería,almeria,1,22,1,0,0,0,0,0,0,0,0,0,0,0
+688,Francisco Vieites,francisco-vieites,G,Real Betis,real-betis,7,21,2,0,0,1,0,0,0,0,0,1,0,0
+689,Diego Kochen,kochen-diego,G,Barcelona,barcelona,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+690,Jorge Pascual,jorge-pascual,F,Villarreal B,villarreal-b,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+691,Abraham Rando,rando-abraham,D,Villarreal,villarreal,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+692,Pablo Valencia,pablo-valencia,G,Osasuna,osasuna,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+693,Hugo Martín,hugo-martin,M,Real Sociedad,real-sociedad,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+694,Aitor Fraga,aitor-fraga,G,Real Sociedad,real-sociedad,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+695,Álex Padilla,alex-padilla,G,Athletic Club,athletic-club,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+696,Hugo González,hugo-gonzalez,F,Valencia B,valencia-b,1,21,1,0,0,0,0,0,0,0,0,0,0,0
+697,Mario Martín,mario-martin,M,Real Madrid,real-madrid,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+698,Alberto Flores,alberto-flores,G,Sevilla,sevilla,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+699,Adrián Rodríguez,adrian-rodriguez,G,Deportivo Alavés,deportivo-alaves,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+700,Adria Miquel Bosch Sanchis,adria-miquel-bosch-sanchis,D,Granada,granada,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+701,Marco Camús,marco-camus,M,Valencia,valencia,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+702,Rafael Romero,rafael-romero,G,Sevilla,sevilla,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+703,Reinildo Mandava,reinildo-mandava,D,Atlético Madrid,atletico-madrid,36,20,17,1,1,2,1,0,0,2,0,0,0,5
+704,Jordi Martín,jordi-martin,M,Getafe B,getafe-b,15,20,14,0,0,2,1,0,0,0,0,0,0,0
+705,Nobel Mendy,mendy-nobel,D,Real Betis,real-betis,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+706,Ángel Alarcón,angel-alarcon,F,Barcelona,barcelona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+707,Héctor Fort,hector-fort,D,Barcelona,barcelona,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+708,Javi Domínguez,javi-dominguez,D,Celta Vigo,celta-vigo,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+709,Coke Carrillo,coke-carrillo,G,Celta Vigo,celta-vigo,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+710,Bryan Fiabema,bryan-fiabema,F,Real Sociedad,real-sociedad,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+711,Ali Fadal,ali-fadal,M,Valencia,valencia,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+712,Ruben Iranzo Lendinez,ruben-iranzo-lendinez,D,Valencia,valencia,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+713,Vinícius Tobías,vinicius-tobias,D,Real Madrid,real-madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+714,Fran Gonzalez,gonzalez-fran,G,Real Madrid,real-madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+715,Xavi Sintes,xavi-sintes,M,Sevilla,sevilla,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+716,Alberto Collado,alberto-collado,M,Sevilla,sevilla,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+717,Oso,oso,M,Sevilla,sevilla,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+718,Rayane Belaid Khellil,rayane-belaid-khellil,M,Atlético Madrid,atletico-madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+719,Aitor Gismera,aitor-gismera,M,Atlético Madrid,atletico-madrid,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+720,Selu Diallo,selu-diallo,M,Deportivo Alavés,deportivo-alaves,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+721,Alex Almansa,alex-almansa,F,Girona FC,girona-fc,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+722,Juan Arango,juan-arango,M,Girona FC,girona-fc,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+723,Mikel Jauregizar,mikel-jauregizar,M,Athletic Bilbao B,athletic-bilbao-b,4,18,4,0,0,0,0,0,0,0,0,0,0,0
+724,Mario de Luis,mario-de-luis,G,Real Madrid,real-madrid,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+725,Joel Roca,joel-roca,F,Girona FC,girona-fc,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+726,Fran Árbol,fran-arbol,G,Granada,granada,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+727,Johnny,johnny,M,Real Betis,real-betis,38,17,24,1,2,4,3,0,0,2,0,0,0,2
+728,Pablo Busto,pablo-busto,D,Real Betis,real-betis,2,17,2,0,0,0,0,0,0,0,0,0,0,0
+729,German Garcia Fernandez,german-garcia-fernandez,G,Real Betis,real-betis,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+730,Guilherme Sousa Carvalho Fernandes,carvalho-fernandes-guilherme-sousa,G,Real Betis,real-betis,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+731,Vitor Roque,vitor-roque,F,Barcelona,barcelona,17,17,13,2,0,1,1,1,0,1,0,0,0,0
+732,Pau Prim,prim-pau,M,Barcelona,barcelona,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+733,Hector Fort,fort-hector,D,Barcelona Atlètic,barcelona-atletic,18,17,7,0,1,2,0,0,0,0,0,0,0,0
+734,Pau Cubarsi,cubarsi-pau,D,Barcelona,barcelona,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+735,Ander Astralaga,ander-astralaga,G,Barcelona Atlètic,barcelona-atletic,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+736,Aaron Yaakobisvili,yaakobisvili-aaron,G,Barcelona,barcelona,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+737,Eric Bailly,eric-bailly,D,Villarreal,villarreal,4,17,15,0,0,0,4,0,1,5,0,0,0,0
+738,Max Svensson,max-svensson,F,Osasuna,osasuna,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+739,Raul,raul,F,Osasuna,osasuna,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+740,Dimitrios Stamatakis,stamatakis-dimitrios,G,Osasuna,osasuna,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+741,Pablo Valencia,valencia-pablo,G,Osasuna,osasuna,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+742,Jailson,jailson,M,Celta Vigo,celta-vigo,21,17,18,0,1,1,1,0,0,5,0,0,0,0
+743,Javier Rodrguez Galiano,rodrguez-galiano-javier,D,Celta Vigo,celta-vigo,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+744,Raul Garcia Gonzalez,gonzalez-raul-garcia,G,Celta Vigo,celta-vigo,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+745,Alex Lebarbier,lebarbier-alex,M,Real Sociedad,real-sociedad,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+746,Jon Gorrotxategi,gorrotxategi-jon,M,Real Sociedad,real-sociedad,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+747,Jon Martin Vicente,vicente-jon-martin,D,Real Sociedad,real-sociedad,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+748,Eneko Astigarraga,astigarraga-eneko,D,Real Sociedad,real-sociedad,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+749,Jon Mikel Aramburu Mejias,aramburu-mejias-jon-mikel,D,Real Sociedad,real-sociedad,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+750,Aingeru Olabarrieta,olabarrieta-aingeru,F,Athletic Club,athletic-club,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+751,Hugo Rincon Lumbreras,rincon-lumbreras-hugo,D,Athletic Club,athletic-club,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+752,Alex Padilla,padilla-alex,G,Athletic Bilbao B,athletic-bilbao-b,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+753,Amath Diedhiou,amath-diedhiou,F,Mallorca,mallorca,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+754,Daniel Andres Luna Garcia,daniel-andres-luna-garcia,M,Mallorca,mallorca,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+755,Brian Cufré,brian-cufre,D,Mallorca,mallorca,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+756,Carles Sogorb Oliver,sogorb-oliver-carles,D,Mallorca,mallorca,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+757,Jose Luis Perez del Amo,perez-del-amo-jose-luis,F,Valencia,valencia,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+758,Ali Fadal,fadal-ali,M,Valencia,valencia,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+759,David Otorbi,otorbi-david,M,Valencia,valencia,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+760,Mario Dominguez Franco,dominguez-franco-mario,M,Valencia,valencia,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+761,Martin Tejon Fauli,tejon-fauli-martin,M,Valencia,valencia,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+762,Javier Navarro Girona,navarro-girona-javier,M,Valencia,valencia,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+763,Álvaro Rodríguez,alvaro-rodriguez,F,Real Madrid,real-madrid,1,17,1,0,0,0,0,0,0,0,0,0,0,0
+764,Mario Martin,martin-mario,M,Real Madrid,real-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+765,Álvaro Carrillo,alvaro-carrillo,F,Real Madrid,real-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+766,Rafael Obrador,rafael-obrador,D,Real Madrid,real-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+767,Marvelous Antolin Garzon,garzon-marvelous-antolin,D,Real Madrid,real-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+768,Edgar Climent Pujol Portorreal,pujol-portorreal-edgar-climent,D,Real Madrid,real-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+769,Ibrahima Sow,ibrahima-sow,F,Sevilla U19,sevilla-u19,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+770,Isra Dominguez,dominguez-isra,F,Sevilla,sevilla,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+771,Alberto Collado,collado-alberto,M,Sevilla,sevilla,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+772,Miguel Jimenez Capitas,jimenez-capitas-miguel,M,Sevilla,sevilla,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+773,Luis Dasilva Rodriguez,dasilva-rodriguez-luis,M,Sevilla,sevilla,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+774,Alex Calatrava,calatrava-alex,F,Atlético Madrid,atletico-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+775,Salim El Jebari,salim-el-jebari,M,Atlético Madrid,atletico-madrid,1,17,1,0,0,0,0,0,0,0,0,0,0,0
+776,Marcos Paulo,marcos-paulo,M,Atlético Madrid,atletico-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+777,Ilias Kostis,ilias-kostis,D,Atlético Madrid,atletico-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+778,Javier Boñar,javier-bonar,D,Atlético Madrid,atletico-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+779,Rayane Belid,belid-rayane,D,Atlético Madrid,atletico-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+780,Alejandro Iturbe,iturbe-alejandro,G,Atlético Madrid,atletico-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+781,Sergio Mestre,sergio-mestre,G,Atlético Madrid,atletico-madrid,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+782,Rachad Fettal,fettal-rachad,F,Almería,almeria,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+783,Martin Svidersky,martin-svidersky,M,Almería,almeria,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+784,Carlos Ballestero Garcia,ballestero-garcia-carlos,D,Almería,almeria,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+785,Bruno Iribarne,iribarne-bruno,G,Almería,almeria,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+786,Jordi,jordi,M,Getafe,getafe,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+787,J Patrick,patrick-j,M,Getafe,getafe,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+788,Facundo Esnaider  Ruiz,esnaider-ruiz-facundo,M,Getafe,getafe,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+789,Jorge Benito de Valle Martin,benito-de-valle-martin-jorge,G,Getafe,getafe,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+790,Giorgi Gagua,gagua-giorgi,F,Deportivo Alavés,deportivo-alaves,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+791,Carlos Vicente,vicente-carlos,M,Deportivo Alavés,deportivo-alaves,37,17,22,0,3,4,1,0,0,3,0,0,0,3
+792,Rafael Marin Zamora,rafael-marin-zamora,D,Deportivo Alavés,deportivo-alaves,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+793,Ruben Montero,montero-ruben,G,Deportivo Alavés,deportivo-alaves,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+794,Jose Antonio de la Rosa,de-la-rosa-jose-antonio,F,Cádiz,cadiz,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+795,Aristide Njalla,njalla-aristide,F,Cádiz,cadiz,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+796,Moussa Diakité,moussa-diakite,M,Cádiz,cadiz,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+797,Adrian Salguero Cid,salguero-cid-adrian,D,Cádiz,cadiz,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+798,Pau Ferrer Besalduch,ferrer-besalduch-pau,F,Las Palmas,las-palmas,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+799,Deo Gracias Maurile Gloire Bassinga,bassinga-deo-gracias-maurile-gloire,F,Las Palmas,las-palmas,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+800,Gustavo Yadam Santana Hernandez,santana-hernandez-gustavo-yadam,M,Las Palmas,las-palmas,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+801,Inaki,inaki,M,Las Palmas,las-palmas,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+802,Gabriel Palmero,gabriel-palmero,D,Las Palmas,las-palmas,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+803,Iker Almena,almena-iker,F,Girona FC,girona-fc,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+804,Joel Roca Casals,joel-roca-casals,F,Girona FC,girona-fc,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+805,Alex Almansa,almansa-alex,F,Girona FC,girona-fc,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+806,Juan Arango,arango-juan,F,Girona FC,girona-fc,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+807,Jastin Garca,garca-jastin,F,Girona FC,girona-fc,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+808,Enric Garcia,garcia-enric,M,Girona FC,girona-fc,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+809,Antal Yaakobishvili,yaakobishvili-antal,D,Girona FC,girona-fc,6,17,2,0,0,1,0,0,0,0,0,0,0,0
+810,Matías Arezo,matias-arezo,F,Granada,granada,14,17,15,0,0,0,1,0,0,2,0,0,0,0
+811,Mario Gonzalez Bravo,gonzalez-bravo-mario,M,Granada,granada,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+812,Bruno Méndez,bruno-mendez,D,Granada,granada,56,17,29,1,0,6,3,0,0,3,0,0,0,3
+813,Augusto Batalla,augusto-batalla,G,Granada,granada,66,17,34,0,0,5,3,0,0,6,0,12,0,9
+814,Adri López,adri-lopez,G,Granada,granada,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+815,Fran Arbol,arbol-fran,G,Granada,granada,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+816,Iker Muñoz,iker-munoz,M,Osasuna,osasuna,38,15,21,3,0,3,1,0,0,4,0,0,0,0
+817,Hannibal Mejbri,hannibal-mejbri,M,Sevilla,sevilla,3,15,5,0,0,0,2,0,0,0,0,0,0,0
+818,Lucien Agoumé,lucien-agoume,M,Sevilla,sevilla,12,15,11,0,0,1,1,0,0,0,0,0,0,1
+819,Ilaix Moriba,ilaix-moriba,M,Getafe,getafe,25,15,17,0,2,1,3,0,0,3,0,0,0,4
+820,Yellu Santiago,yellu-santiago,M,Getafe,getafe,23,15,16,1,0,3,3,0,0,0,0,0,0,2
+821,Martin Hongla,martin-hongla,M,Granada,granada,16,15,16,0,0,0,0,0,0,4,0,0,0,0
+822,Kamil Piątkowski,kamil-piatkowski,D,Granada,granada,4,15,10,0,0,0,1,1,0,2,0,0,0,0
+823,Javier Manquillo,javier-manquillo,D,Celta Vigo,celta-vigo,21,14,15,0,1,2,3,0,0,2,0,0,0,0
+824,Sheraldo Becker,sheraldo-becker,F,Real Sociedad,real-sociedad,34,14,14,2,2,2,0,0,0,0,0,0,0,6
+825,Iñaki Rupérez Urtasun,inaki-ruperez-urtasun,D,Real Sociedad,real-sociedad,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+826,Luka Romero,luka-romero,M,Almería,almeria,23,14,10,2,0,1,1,0,0,1,0,0,0,3
+827,Aleksandar Radovanović,aleksandar-radovanovic,D,Almería,almeria,13,14,12,0,0,1,2,0,0,3,0,0,0,2
+828,Djordjije Medenica,djordjije-medenica,G,Getafe,getafe,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+829,Etta Eyong,etta-eyong,M,Cádiz,cadiz,1,14,1,0,0,0,0,0,0,0,0,0,0,0
+830,Ricard Artero,ricard-artero,M,Girona FC,girona-fc,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+831,Lassina Sangare,lassina-sangare,M,Granada,granada,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+832,Pablo Sáenz,pablo-saenz,,Granada,granada,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+833,Cédric Bakambu,cedric-bakambu,F,Real Betis,real-betis,4,13,5,0,0,0,1,0,0,0,0,0,0,0
+834,Pablo Fornals,pablo-fornals,M,Real Betis,real-betis,49,13,23,2,2,3,2,0,0,4,0,0,0,9
+835,Xavier Pleguezuelo,xavier-pleguezuelo,D,Real Betis,real-betis,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+836,Miguel Crespo,miguel-crespo,M,Rayo Vallecano,rayo-vallecano,10,13,13,0,0,0,3,0,0,1,0,0,0,0
+837,Bertrand Traoré,bertrand-traore,M,Villarreal,villarreal,13,13,11,0,0,2,1,0,0,1,0,0,0,1
+838,Gonçalo Guedes,goncalo-guedes,F,Villarreal,villarreal,36,13,18,3,2,2,0,0,0,2,0,0,0,0
+839,Yerson Mosquera,yerson-mosquera,D,Villarreal,villarreal,33,13,21,1,0,2,3,0,0,2,0,0,0,3
+840,Tadeo Allende,tadeo-allende,M,Celta Vigo,celta-vigo,14,13,9,1,0,0,1,0,0,1,0,0,0,1
+841,Javier Dominguez Arribas,javier-dominguez-arribas,D,Celta Vigo,celta-vigo,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+842,Joel Lopez,joel-lopez,D,Celta Vigo,celta-vigo,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+843,Inaki Ruperez,ruperez-inaki,D,Real Sociedad,real-sociedad,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+844,Nemanja Radonjić,nemanja-radonjic,M,Mallorca,mallorca,16,13,11,0,0,2,0,0,0,0,0,0,0,3
+845,Alex Quevedo,quevedo-alex,G,Mallorca,mallorca,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+846,Peter González,peter-gonzalez,F,Valencia,valencia,12,13,13,0,0,1,1,0,0,2,0,0,0,0
+847,Alejo Véliz,alejo-veliz,F,Sevilla,sevilla,4,13,4,0,0,0,0,0,0,0,0,0,0,0
+848,Arthur Vermeeren,arthur-vermeeren,M,Atlético Madrid,atletico-madrid,2,13,3,0,0,0,1,0,0,0,0,0,0,0
+849,Horațiu Moldovan,horatiu-moldovan,G,Atlético Madrid,atletico-madrid,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+850,Bruno Langa,bruno-langa,D,Almería,almeria,11,13,14,0,0,1,1,1,0,3,0,0,0,0
+851,Jesus Santiago Perez,santiago-perez-jesus,M,Getafe,getafe,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+852,Diadié Samassékou,diadie-samassekou,M,Cádiz,cadiz,3,13,3,0,0,0,0,0,0,0,0,0,0,0
+853,Aiham Ousou,aiham-ousou,D,Cádiz,cadiz,12,13,11,0,0,1,0,0,0,3,0,0,0,0
+854,Eghosa Augustine Bello,bello-eghosa-augustine,F,Granada,granada,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+855,Facundo Pellistri,facundo-pellistri,M,Granada,granada,38,13,20,2,1,3,0,0,0,5,0,0,0,2
+856,Kamil Jóźwiak,kamil-jozwiak,M,Granada,granada,21,13,15,0,1,3,2,0,0,2,0,0,0,2
+857,Faitout Maouassa,faitout-maouassa,M,Granada,granada,9,13,6,0,1,0,0,0,0,1,0,0,0,0
+858,Theo Corbeanu,theo-corbeanu,M,Granada,granada,12,13,8,1,0,0,1,0,0,0,0,0,0,0
+859,Marc Martínez,marc-martinez,G,Granada,granada,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+860,Jon Aramburu,jon-aramburu,M,Real Sociedad B,real-sociedad-b,9,12,8,0,0,1,0,0,0,2,0,0,0,0
+861,Adama Boiro,adama-boiro,F,Athletic Club,athletic-club,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+862,Joaquin Panichelli,panichelli-joaquin,F,Deportivo Alavés,deportivo-alaves,6,12,6,0,0,0,0,0,0,1,0,0,0,0
+863,Iñaki González,inaki-gonzalez,M,Las Palmas,las-palmas,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+864,Alejandro Herranz,alejandro-herranz,D,Getafe,getafe,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+865,Álvaro Killane,alvaro-killane,G,Las Palmas,las-palmas,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+866,José Campaña,jose-campana,M,Las Palmas,las-palmas,5,10,5,0,0,0,0,0,0,0,0,0,0,0
+867,Iñigo Arguibide,inigo-arguibide,F,Osasuna,osasuna,1,9,1,0,0,0,0,0,0,0,0,0,0,0
+868,Hugo Rincón,hugo-rincon,D,Athletic Club,athletic-club,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+869,Daniel Budesca,daniel-budesca,D,Villarreal,villarreal,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+870,Javier Sola,sola-javier,F,Osasuna,osasuna,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+871,Hugo Álvarez,hugo-alvarez,M,Celta Vigo B,celta-vigo-b,16,8,13,0,0,1,1,0,0,2,0,0,0,3
+872,Jon Magunazelaia,jon-magunazelaia,M,Real Sociedad B,real-sociedad-b,2,8,2,0,0,0,0,0,0,0,0,0,0,0
+873,Sergio Gimeno,sergio-gimeno,D,Getafe,getafe,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+874,Mikayil Ngor Faye,mikayil-ngor-faye,D,Barcelona,barcelona,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+875,Daniel Budesca,budesca-daniel,D,Villarreal,villarreal,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+876,Asier Osambela,osambela-asier,M,Osasuna,osasuna,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+877,Alberto Risco,alberto-risco,M,Getafe,getafe,1,4,1,0,0,0,0,0,0,0,0,0,0,0
+878,Abde Raihani,abde-raihani,F,Atlético Madrid,atletico-madrid,1,3,1,0,0,0,0,0,0,0,0,0,0,0
+879,Carles Garrido,carles-garrido,F,Girona FC,girona-fc,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+880,Álex Forés,alex-fores,F,Villarreal,villarreal,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+881,Stefan Leković,stefan-lekovic,D,Villarreal,villarreal,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+882,Pedro Alemañ Serna,pedro-aleman-serna,M,Valencia,valencia,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+883,Stanis Idumbo Muzambo,stanis-idumbo-muzambo,M,Sevilla,sevilla,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+884,Yassin Tallal,tallal-yassin,F,Getafe,getafe,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+885,Diego Lopez de Haro Repullo,lopez-de-haro-repullo-diego,M,Getafe,getafe,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+886,Carles Garrido Biosca,garrido-biosca-carles,F,Girona FC,girona-fc,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+887,Xabi Huarte,xabi-huarte,M,Osasuna,osasuna,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+888,Vicent Abril,vicent-abril,G,Valencia,valencia,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+889,Jeremy Jorge,jeremy-jorge,M,Getafe,getafe,1,1,1,0,0,0,0,0,0,0,0,0,0,0
